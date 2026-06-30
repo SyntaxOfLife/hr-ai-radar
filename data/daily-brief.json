@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-06-30T04:44:43.752439Z",
+  "generated_at": "2026-06-30T08:29:47.960751Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6e98bdfa6975",
+      "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
+          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
+          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9646,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T06:00:00Z",
+      "latest_at": "2026-06-30T06:00:00Z",
+      "primary_item": {
+        "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
+        "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91d16542fa1f",
       "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8568,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8414,
+        "recency": 0.797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,147 +190,84 @@
       }
     },
     {
-      "story_id": "story_5b79476b1142",
-      "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "primary_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_fb28522465f5",
+      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+      "url": "https://www.ithome.com/0/970/583.htm",
+      "primary_url": "https://www.ithome.com/0/970/583.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
-          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T07:00:00Z"
-        },
-        {
-          "id": "1cec7bfb925ec6364fc9a4e80340eae94fdd38f8",
-          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
+          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+          "url": "https://www.ithome.com/0/970/583.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T07:00:00Z"
+          "published_at": "2026-06-30T07:56:46Z"
+        },
+        {
+          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
+          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
+          "url": "https://www.ithome.com/0/970/583.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T07:56:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
-          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T07:00:00Z"
-        },
-        {
-          "id": "1cec7bfb925ec6364fc9a4e80340eae94fdd38f8",
-          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
-          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
+          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+          "url": "https://www.ithome.com/0/970/583.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T07:00:00Z"
+          "published_at": "2026-06-30T07:56:46Z"
+        },
+        {
+          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
+          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
+          "url": "https://www.ithome.com/0/970/583.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T07:56:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
-      "importance_label": "官方更新",
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7305,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T07:00:00Z",
-      "latest_at": "2026-06-29T07:00:00Z",
+      "earliest_at": "2026-06-30T07:56:46Z",
+      "latest_at": "2026-06-30T07:56:46Z",
       "primary_item": {
-        "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
-        "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1de547afb62",
-      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8319,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T16:00:00Z",
-      "latest_at": "2026-06-29T16:00:00Z",
-      "primary_item": {
-        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "81cd8ae1da674afac36a2697129faa7f21958375",
+        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+        "url": "https://www.ithome.com/0/970/583.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -306,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -386,15 +385,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8336,
+        "recency": 0.7896,
         "story_heat": 0.0
       },
       "category": "official",
@@ -472,6 +471,68 @@
         "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
         "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f1de547afb62",
+      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.788,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T16:00:00Z",
+      "latest_at": "2026-06-29T16:00:00Z",
+      "primary_item": {
+        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -529,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8569,
+        "recency": 0.8117,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -557,83 +618,124 @@
       }
     },
     {
-      "story_id": "story_019c2801688e",
-      "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-      "url": "https://www.ithome.com/0/970/097.htm",
-      "primary_url": "https://www.ithome.com/0/970/097.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_7db822bcb482",
+      "title": "​真金白银的抉择！美国科技巨头为何悄然转向中国大模型？",
+      "url": "https://www.aibase.com/news/29266",
+      "primary_url": "https://www.aibase.com/news/29266",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
-          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-          "url": "https://www.ithome.com/0/970/097.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T09:27:36Z"
-        },
-        {
-          "id": "b98f2b4b17fe7289f2fc6b61429b8dfdf155be47",
-          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
-          "url": "https://www.ithome.com/0/970/097.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-29T09:27:36Z"
+          "id": "53e9f34a4058a3bf52804a87c2be4549a27c2c42",
+          "title": "​真金白银的抉择！美国科技巨头为何悄然转向中国大模型？",
+          "url": "https://www.aibase.com/news/29266",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T08:29:47.960751Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
-          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-          "url": "https://www.ithome.com/0/970/097.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T09:27:36Z"
-        },
-        {
-          "id": "b98f2b4b17fe7289f2fc6b61429b8dfdf155be47",
-          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
-          "url": "https://www.ithome.com/0/970/097.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-29T09:27:36Z"
+          "id": "53e9f34a4058a3bf52804a87c2be4549a27c2c42",
+          "title": "​真金白银的抉择！美国科技巨头为何悄然转向中国大模型？",
+          "url": "https://www.aibase.com/news/29266",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T08:29:47.960751Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7569,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T09:27:36Z",
-      "latest_at": "2026-06-29T09:27:36Z",
+      "earliest_at": "2026-06-30T08:29:47.960751Z",
+      "latest_at": "2026-06-30T08:29:47.960751Z",
       "primary_item": {
-        "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
-        "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
-        "url": "https://www.ithome.com/0/970/097.htm",
-        "source": "IT之家（RSS）",
+        "id": "53e9f34a4058a3bf52804a87c2be4549a27c2c42",
+        "title": "​真金白银的抉择！美国科技巨头为何悄然转向中国大模型？",
+        "url": "https://www.aibase.com/news/29266",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6caca3033900",
+      "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
+      "url": "https://x.com/op7418/status/2071816099986022650",
+      "primary_url": "https://x.com/op7418/status/2071816099986022650",
+      "source": "X：歸藏 (@op7418)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
+          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
+          "url": "https://x.com/op7418/status/2071816099986022650",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T04:40:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：歸藏 (@op7418)"
+      ],
+      "items": [
+        {
+          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
+          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
+          "url": "https://x.com/op7418/status/2071816099986022650",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T04:40:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9463,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T04:40:25Z",
+      "latest_at": "2026-06-30T04:40:25Z",
+      "primary_item": {
+        "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
+        "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
+        "url": "https://x.com/op7418/status/2071816099986022650",
+        "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
       }
     },
@@ -672,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8956,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,67 +798,6 @@
         "url": "https://x.com/EMostaque/status/2071701921241448574",
         "source": "X：Emad Mostaque (@EMostaque)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e9d9601be4a",
-      "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-      "url": "https://www.aibase.com/news/29255",
-      "primary_url": "https://www.aibase.com/news/29255",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-          "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-          "url": "https://www.aibase.com/news/29255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T04:44:43.752439Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-          "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-          "url": "https://www.aibase.com/news/29255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T04:44:43.752439Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T04:44:43.752439Z",
-      "latest_at": "2026-06-30T04:44:43.752439Z",
-      "primary_item": {
-        "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-        "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-        "url": "https://www.aibase.com/news/29255",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -813,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.791,
+        "recency": 0.7493,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -875,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,6 +939,67 @@
         "title": "Rubin Ultra取消，新版尺寸性能减半",
         "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
         "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ad08c85e40a8",
+      "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+      "url": "https://www.ithome.com/0/970/539.htm",
+      "primary_url": "https://www.ithome.com/0/970/539.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c00673edab6aaebad14df497125c8493d026f40",
+          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+          "url": "https://www.ithome.com/0/970/539.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T06:45:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2c00673edab6aaebad14df497125c8493d026f40",
+          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+          "url": "https://www.ithome.com/0/970/539.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T06:45:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T06:45:03Z",
+      "latest_at": "2026-06-30T06:45:03Z",
+      "primary_item": {
+        "id": "2c00673edab6aaebad14df497125c8493d026f40",
+        "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+        "url": "https://www.ithome.com/0/970/539.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -955,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7707,
+        "recency": 0.7301,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,6 +1081,66 @@
         "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
         "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c959d9eaf186",
+      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T05:42:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "items": [
+        {
+          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T05:42:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9606,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T05:42:42Z",
+      "latest_at": "2026-06-30T05:42:42Z",
+      "primary_item": {
+        "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
+        "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+        "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1017,21 +1179,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9076,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T01:47:00Z",
       "latest_at": "2026-06-30T01:47:00Z",
@@ -1040,67 +1201,6 @@
         "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
         "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eee9aecd1888",
-      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-      "url": "https://x.com/berryxia/status/2071610700213191075",
-      "primary_url": "https://x.com/berryxia/status/2071610700213191075",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8208,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T15:04:14Z",
-      "latest_at": "2026-06-29T15:04:14Z",
-      "primary_item": {
-        "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-        "url": "https://x.com/berryxia/status/2071610700213191075",
-        "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
       }
     },
@@ -1139,21 +1239,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7456,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T12:10:17Z",
       "latest_at": "2026-06-29T12:10:17Z",
@@ -1166,182 +1265,62 @@
       }
     },
     {
-      "story_id": "story_38c3853bacfb",
-      "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-      "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-      "primary_url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_eee9aecd1888",
+      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+      "url": "https://x.com/berryxia/status/2071610700213191075",
+      "primary_url": "https://x.com/berryxia/status/2071610700213191075",
+      "source": "X：Berry Xia (@berryxia)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e08e397f02568ea6148c3cc3c8642f9e2266a852",
-          "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-          "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-          "source": "公众号：数字生命卡兹克",
+          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+          "url": "https://x.com/berryxia/status/2071610700213191075",
+          "source": "X：Berry Xia (@berryxia)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T01:58:00Z"
+          "published_at": "2026-06-29T15:04:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Berry Xia (@berryxia)"
       ],
       "items": [
         {
-          "id": "e08e397f02568ea6148c3cc3c8642f9e2266a852",
-          "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-          "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-          "source": "公众号：数字生命卡兹克",
+          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+          "url": "https://x.com/berryxia/status/2071610700213191075",
+          "source": "X：Berry Xia (@berryxia)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T01:58:00Z"
+          "published_at": "2026-06-29T15:04:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-30T01:58:00Z",
-      "latest_at": "2026-06-30T01:58:00Z",
+      "earliest_at": "2026-06-29T15:04:14Z",
+      "latest_at": "2026-06-29T15:04:14Z",
       "primary_item": {
-        "id": "e08e397f02568ea6148c3cc3c8642f9e2266a852",
-        "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-        "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_39fb035cd2eb",
-      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-      "url": "https://x.com/openclaw/status/2071688039114342592",
-      "primary_url": "https://x.com/openclaw/status/2071688039114342592",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a87338fe69e971d2edc6c7fc9546f5ca75c3f5af",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://x.com/openclaw/status/2071688039114342592",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "a87338fe69e971d2edc6c7fc9546f5ca75c3f5af",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://x.com/openclaw/status/2071688039114342592",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8838,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T20:11:33Z",
-      "latest_at": "2026-06-29T20:11:33Z",
-      "primary_item": {
-        "id": "a87338fe69e971d2edc6c7fc9546f5ca75c3f5af",
-        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-        "url": "https://x.com/openclaw/status/2071688039114342592",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_519893dab662",
-      "title": "从任何地点构建--Cursor for iOS 公测版发布",
-      "url": "https://cursor.com/blog/ios-mobile-app",
-      "primary_url": "https://cursor.com/blog/ios-mobile-app",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
-          "title": "从任何地点构建--Cursor for iOS 公测版发布",
-          "url": "https://cursor.com/blog/ios-mobile-app",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
-          "title": "从任何地点构建--Cursor for iOS 公测版发布",
-          "url": "https://cursor.com/blog/ios-mobile-app",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7852,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T12:00:00Z",
-      "latest_at": "2026-06-29T12:00:00Z",
-      "primary_item": {
-        "id": "18c3b1ad9711a127f9bed29460b8b88f1d146430",
-        "title": "从任何地点构建--Cursor for iOS 公测版发布",
-        "url": "https://cursor.com/blog/ios-mobile-app",
-        "source": "Cursor Blog",
+        "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
+        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+        "url": "https://x.com/berryxia/status/2071610700213191075",
+        "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
       }
     }
