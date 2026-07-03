@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:06:28.389529Z",
+  "generated_at": "2026-07-03T22:33:01.165776Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9081,
+        "recency": 0.8893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.73,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8253,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7279,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -386,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +413,7 @@
       }
     },
     {
-      "story_id": "story_f7c5887183a4",
+      "story_id": "story_7c70aaf21743",
       "title": "面向 Web 开发者的 Safari MCP 服务器",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
       "primary_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
@@ -430,6 +430,15 @@
           "published_at": "2026-07-03T09:59:42.679000Z"
         },
         {
+          "id": "a894ae63ca5bf2feb07abbeff4ea5bc7b22e44df",
+          "title": "面向 Web 开发人员的 Safari MCP 服务器 / The Safari MCP server for web developers",
+          "url": "https://news.ycombinator.com/item?id=48769639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T06:36:08.294000Z"
+        },
+        {
           "id": "0db90331582c33bd36be403201c7ce6159bd428d",
           "title": "面向 Web 开发者的 Safari MCP 服务器 / The Safari MCP server for web developers",
           "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
@@ -437,22 +446,13 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-03T01:37:11Z"
-        },
-        {
-          "id": "a925cbc6fbd9c64c66e4eb8d8012003f299e3103",
-          "title": "为 Web 开发人员介绍 Safari MCP 服务器 / Introducing the Safari MCP Server for Web Developers",
-          "url": "https://daringfireball.net/linked/2026/07/02/safari-mcp",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-02T21:55:31Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Daring Fireball",
         "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
       ],
       "items": [
         {
@@ -465,6 +465,15 @@
           "published_at": "2026-07-03T09:59:42.679000Z"
         },
         {
+          "id": "a894ae63ca5bf2feb07abbeff4ea5bc7b22e44df",
+          "title": "面向 Web 开发人员的 Safari MCP 服务器 / The Safari MCP server for web developers",
+          "url": "https://news.ycombinator.com/item?id=48769639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T06:36:08.294000Z"
+        },
+        {
           "id": "0db90331582c33bd36be403201c7ce6159bd428d",
           "title": "面向 Web 开发者的 Safari MCP 服务器 / The Safari MCP server for web developers",
           "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
@@ -472,28 +481,19 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-03T01:37:11Z"
-        },
-        {
-          "id": "a925cbc6fbd9c64c66e4eb8d8012003f299e3103",
-          "title": "为 Web 开发人员介绍 Safari MCP 服务器 / Introducing the Safari MCP Server for Web Developers",
-          "url": "https://daringfireball.net/linked/2026/07/02/safari-mcp",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-02T21:55:31Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.8342,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -502,7 +502,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T21:55:31Z",
+      "earliest_at": "2026-07-03T01:37:11Z",
       "latest_at": "2026-07-03T09:59:42.679000Z",
       "primary_item": {
         "id": "5e016a859d9a3834d4d867b09af8411b78b20a2f",
@@ -566,15 +566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.813,
+        "recency": 0.7963,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -628,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8388,
+        "recency": 0.8215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.775,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7334,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8679,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,66 +993,6 @@
         "title": "Leanstral 1.5：人人可用的证明丰富性",
         "url": "https://mistral.ai/news/leanstral-1-5",
         "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dbb9e0804735",
-      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-      "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-      "primary_url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-      "source": "公众号：京东JoyAI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：京东JoyAI"
-      ],
-      "items": [
-        {
-          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8525,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:03:25Z",
-      "latest_at": "2026-07-03T10:03:25Z",
-      "primary_item": {
-        "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
-        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-        "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-        "source": "公众号：京东JoyAI",
         "source_name": "AI HOT"
       }
     },
@@ -1110,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.813,
+        "recency": 0.7963,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,6 +1075,66 @@
         "url": "https://www.aibase.com/news/29365",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dbb9e0804735",
+      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+      "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
+      "primary_url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
+      "source": "公众号：京东JoyAI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
+          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T10:03:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：京东JoyAI"
+      ],
+      "items": [
+        {
+          "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
+          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+          "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T10:03:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8349,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:03:25Z",
+      "latest_at": "2026-07-03T10:03:25Z",
+      "primary_item": {
+        "id": "0adc0d73c07f5ead9af7459ab72bdda0fa3ef9e9",
+        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+        "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
+        "source": "公众号：京东JoyAI",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1191,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.7754,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1253,15 +1253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.8581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1314,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,15 +1374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
