@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-07-04T19:13:19.598422Z",
+  "generated_at": "2026-07-04T20:28:57.205461Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 31,
+  "total_events": 28,
   "events": [
-    {
-      "story_id": "story_e0eeadda521b",
-      "item_id": "eb2063d23508061361a055ab2d7878de0656674b",
-      "merged_into": "story_e0eeadda521b",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_4892c1a23a3e",
-      "item_id": "2c01c9ff9ecb2a05270bf1dcf7a104db26aaaffe",
-      "merged_into": "story_4892c1a23a3e",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_b7e86ff92336",
       "item_id": "1bae42dd1741066c292419fab2e69b257a252ff5",
@@ -39,13 +25,6 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_551c2101be10",
-      "item_id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-      "merged_into": "story_551c2101be10",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_616f8e70b9f8",
       "item_id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
       "merged_into": "story_616f8e70b9f8",
@@ -63,13 +42,6 @@
       "story_id": "story_30ac56cabc02",
       "item_id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
       "merged_into": "story_30ac56cabc02",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_17fc9c6b8121",
-      "item_id": "69ce6334123f06d08a596817abda7f041e1fd040",
-      "merged_into": "story_17fc9c6b8121",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -218,6 +190,13 @@
       "item_id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
       "merged_into": "story_2df82173bb28",
       "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_944998d16f3d",
+      "item_id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+      "merged_into": "story_944998d16f3d",
+      "reason": "title_similarity",
       "similarity": 1.0
     }
   ]
