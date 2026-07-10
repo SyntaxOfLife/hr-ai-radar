@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-07-10T15:11:27.216600Z",
+  "generated_at": "2026-07-10T17:18:03.738241Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "title_zh": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
+          "title_en": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "title_zh": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
+          "title_en": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "summary": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9809,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "title_zh": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。",
+        "title_en": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "summary": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_fd60211f7949",
       "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
@@ -14,6 +88,10 @@
         {
           "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
           "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "title_zh": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序",
+          "title_en": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "title_original": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "summary": null,
           "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -29,6 +107,10 @@
         {
           "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
           "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "title_zh": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序",
+          "title_en": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "title_original": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "summary": null,
           "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9245,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "official",
@@ -60,6 +142,10 @@
       "primary_item": {
         "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
         "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "title_zh": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序",
+        "title_en": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "title_original": "GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "summary": null,
         "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
@@ -76,6 +162,10 @@
         {
           "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
           "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+          "title_zh": "德国电信如何利用人工智能重新布线电信",
+          "title_en": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "summary": null,
           "url": "https://openai.com/index/deutsche-telekom",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -91,6 +181,10 @@
         {
           "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
           "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+          "title_zh": "德国电信如何利用人工智能重新布线电信",
+          "title_en": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "summary": null,
           "url": "https://openai.com/index/deutsche-telekom",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -100,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8884,
+        "recency": 0.8618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -122,6 +216,10 @@
       "primary_item": {
         "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
         "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+        "title_zh": "德国电信如何利用人工智能重新布线电信",
+        "title_en": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "summary": null,
         "url": "https://openai.com/index/deutsche-telekom",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
@@ -138,6 +236,10 @@
         {
           "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
           "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+          "title_zh": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析",
+          "title_en": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "title_original": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "summary": null,
           "url": "https://huggingface.co/blog/torch-attention-profile",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
@@ -153,6 +255,10 @@
         {
           "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
           "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+          "title_zh": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析",
+          "title_en": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "title_original": "Profiling in PyTorch (Part 3): Attention is all you profile",
+          "summary": null,
           "url": "https://huggingface.co/blog/torch-attention-profile",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
@@ -162,15 +268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.803,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -184,189 +290,12 @@
       "primary_item": {
         "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
         "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+        "title_zh": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析",
+        "title_en": "Profiling in PyTorch (Part 3): Attention is all you profile",
+        "title_original": "Profiling in PyTorch (Part 3): Attention is all you profile",
+        "summary": null,
         "url": "https://huggingface.co/blog/torch-attention-profile",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85dcb3893dbd",
-      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:15:01.703000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.pangram.com"
-      ],
-      "items": [
-        {
-          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
-          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "www.pangram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T21:46:29.789000Z"
-        },
-        {
-          "id": "a45e5f56df548b7bcc13bd7d47a4c40bda1712cd",
-          "title": "社交媒体上人工智能内容无处不在，尤其是 LinkedIn / AI content is everywhere on social media, especially LinkedIn",
-          "url": "https://news.ycombinator.com/item?id=48847940",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-09T16:15:01.703000Z"
-        },
-        {
-          "id": "be50040874e3147f6f0b58b2d60cf5a7a12d358b",
-          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作 / AI Content Is Everywhere on Social Media, Especially LinkedIn",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-09T15:50:09Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7776,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T15:50:09Z",
-      "latest_at": "2026-07-09T21:46:29.789000Z",
-      "primary_item": {
-        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_281a7d3afe46",
-      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T16:41:29Z",
-      "latest_at": "2026-07-09T16:41:29Z",
-      "primary_item": {
-        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -381,6 +310,10 @@
         {
           "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
           "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "title_zh": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "title_en": null,
+          "title_original": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "summary": "Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认\"算力过剩\"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号\"Meta Compute\"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。",
           "url": "https://www.ithome.com/0/975/078.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
@@ -390,6 +323,10 @@
         {
           "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
           "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "title_zh": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "title_en": null,
+          "title_original": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "summary": null,
           "url": "https://www.ithome.com/0/975/078.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
@@ -406,6 +343,10 @@
         {
           "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
           "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "title_zh": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "title_en": null,
+          "title_original": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "summary": "Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认\"算力过剩\"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号\"Meta Compute\"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。",
           "url": "https://www.ithome.com/0/975/078.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
@@ -415,6 +356,10 @@
         {
           "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
           "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "title_zh": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "title_en": null,
+          "title_original": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "summary": null,
           "url": "https://www.ithome.com/0/975/078.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
@@ -424,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8672,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -446,9 +391,87 @@
       "primary_item": {
         "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
         "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+        "title_zh": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+        "title_en": null,
+        "title_original": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+        "summary": "Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认\"算力过剩\"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号\"Meta Compute\"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。",
         "url": "https://www.ithome.com/0/975/078.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fe91bd7e0d00",
+      "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+      "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+          "title_zh": "新的拉取请求仪表板现已普遍可用",
+          "title_en": "New pull requests dashboard is now generally available",
+          "title_original": "New pull requests dashboard is now generally available",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T20:48:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+          "title_zh": "新的拉取请求仪表板现已普遍可用",
+          "title_en": "New pull requests dashboard is now generally available",
+          "title_original": "New pull requests dashboard is now generally available",
+          "summary": null,
+          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T20:48:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7438,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T20:48:29Z",
+      "latest_at": "2026-07-09T20:48:29Z",
+      "primary_item": {
+        "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
+        "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
+        "title_zh": "新的拉取请求仪表板现已普遍可用",
+        "title_en": "New pull requests dashboard is now generally available",
+        "title_original": "New pull requests dashboard is now generally available",
+        "summary": null,
+        "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -462,6 +485,10 @@
         {
           "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
           "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "title_zh": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "title_en": null,
+          "title_original": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
           "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
           "source": "公众号：百度智能云（文心）",
           "source_name": "AI HOT",
@@ -477,6 +504,10 @@
         {
           "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
           "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "title_zh": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "title_en": null,
+          "title_original": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
           "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
           "source": "公众号：百度智能云（文心）",
           "source_name": "AI HOT",
@@ -486,15 +517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,6 +538,10 @@
       "primary_item": {
         "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
         "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "title_zh": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "title_en": null,
+        "title_original": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
         "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
         "source": "公众号：百度智能云（文心）",
         "source_name": "AI HOT"
@@ -514,7 +549,7 @@
     },
     {
       "story_id": "story_499734c731df",
-      "title": "马斯克承认Anthropic是当前AI领导者",
+      "title": "马斯克承认Anthropic是当前AI领导者 / This is Anthropic's strongest flex",
       "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
       "primary_url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
@@ -522,7 +557,11 @@
       "sources": [
         {
           "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
+          "title": "马斯克承认Anthropic是当前AI领导者 / This is Anthropic's strongest flex",
+          "title_zh": "马斯克承认Anthropic是当前AI领导者",
+          "title_en": "This is Anthropic's strongest flex",
+          "title_original": "This is Anthropic's strongest flex",
+          "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
           "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
@@ -537,7 +576,11 @@
       "items": [
         {
           "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-          "title": "马斯克承认Anthropic是当前AI领导者",
+          "title": "马斯克承认Anthropic是当前AI领导者 / This is Anthropic's strongest flex",
+          "title_zh": "马斯克承认Anthropic是当前AI领导者",
+          "title_en": "This is Anthropic's strongest flex",
+          "title_original": "This is Anthropic's strongest flex",
+          "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
           "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
@@ -547,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,7 +610,11 @@
       "latest_at": "2026-07-10T07:20:46Z",
       "primary_item": {
         "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
-        "title": "马斯克承认Anthropic是当前AI领导者",
+        "title": "马斯克承认Anthropic是当前AI领导者 / This is Anthropic's strongest flex",
+        "title_zh": "马斯克承认Anthropic是当前AI领导者",
+        "title_en": "This is Anthropic's strongest flex",
+        "title_original": "This is Anthropic's strongest flex",
+        "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
         "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
@@ -584,6 +631,10 @@
         {
           "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
           "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_zh": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_en": null,
+          "title_original": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "summary": "Elon Musk近日在X上承认此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"，盛赞Mythos/Fable模型\"目前最好\"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其\"不挤压竞争对手\"的风格，合同条款也提供了保障。",
           "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
@@ -593,6 +644,10 @@
         {
           "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
           "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "title_zh": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_en": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "title_original": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "summary": null,
           "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -609,6 +664,10 @@
         {
           "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
           "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_zh": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_en": null,
+          "title_original": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "summary": "Elon Musk近日在X上承认此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"，盛赞Mythos/Fable模型\"目前最好\"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其\"不挤压竞争对手\"的风格，合同条款也提供了保障。",
           "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
@@ -618,6 +677,10 @@
         {
           "id": "ac3a47d7484c95b8d0b827061d55f19d81ce177b",
           "title": "Elon Musk称赞Anthropic并承诺不切断其算力 / Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "title_zh": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "title_en": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "title_original": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "summary": null,
           "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -627,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7797,
+        "recency": 0.7563,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -649,6 +712,10 @@
       "primary_item": {
         "id": "695bd788ca11bc9c05fa87118c68872098de1f3b",
         "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+        "title_zh": "Elon Musk称赞Anthropic并承诺不切断其算力",
+        "title_en": null,
+        "title_original": "Elon Musk称赞Anthropic并承诺不切断其算力",
+        "summary": "Elon Musk近日在X上承认此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"，盛赞Mythos/Fable模型\"目前最好\"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其\"不挤压竞争对手\"的风格，合同条款也提供了保障。",
         "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
@@ -665,6 +732,10 @@
         {
           "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
           "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "title_zh": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "title_en": null,
+          "title_original": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "summary": null,
           "url": "https://www.aibase.com/news/29529",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -680,6 +751,10 @@
         {
           "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
           "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "title_zh": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "title_en": null,
+          "title_original": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "summary": null,
           "url": "https://www.aibase.com/news/29529",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -689,30 +764,133 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:35:00.128733Z",
       "latest_at": "2026-07-10T09:35:00.128733Z",
       "primary_item": {
         "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
         "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+        "title_zh": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+        "title_en": null,
+        "title_original": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+        "summary": null,
         "url": "https://www.aibase.com/news/29529",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_85dcb3893dbd",
+      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "primary_url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "title_zh": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "title_en": null,
+          "title_original": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        },
+        {
+          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
+          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "title_zh": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "title_en": null,
+          "title_original": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "summary": null,
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "www.pangram.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.pangram.com"
+      ],
+      "items": [
+        {
+          "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+          "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "title_zh": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "title_en": null,
+          "title_original": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+          "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        },
+        {
+          "id": "7c4224b2bf3d3481d8a9199883b1d125e5208293",
+          "title": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "title_zh": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "title_en": null,
+          "title_original": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+          "summary": null,
+          "url": "https://www.pangram.com/blog/ai-in-your-feed",
+          "source": "www.pangram.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:29.789000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7543,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-09T21:46:29.789000Z",
+      "latest_at": "2026-07-09T21:46:29.789000Z",
+      "primary_item": {
+        "id": "def3d15bc2e0372670e0a0a59f467878d6305648",
+        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "title_zh": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "title_en": null,
+        "title_original": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -726,6 +904,10 @@
         {
           "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
           "title": "小红书发布大模型新架构 PIPO",
+          "title_zh": "小红书发布大模型新架构 PIPO",
+          "title_en": null,
+          "title_original": "小红书发布大模型新架构 PIPO",
+          "summary": "小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。",
           "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
           "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
@@ -741,6 +923,10 @@
         {
           "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
           "title": "小红书发布大模型新架构 PIPO",
+          "title_zh": "小红书发布大模型新架构 PIPO",
+          "title_en": null,
+          "title_original": "小红书发布大模型新架构 PIPO",
+          "summary": "小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。",
           "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
           "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
@@ -750,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9276,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,8 +956,84 @@
       "primary_item": {
         "id": "84f8fe46c0182896d3bb94cb8b761db14b2e0a01",
         "title": "小红书发布大模型新架构 PIPO",
+        "title_zh": "小红书发布大模型新架构 PIPO",
+        "title_en": null,
+        "title_original": "小红书发布大模型新架构 PIPO",
+        "summary": "小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。",
         "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
         "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bd0e80076c59",
+      "title": "Perplexity 推出跨模型信用额度分析功能 / Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "primary_url": "https://x.com/perplexity_ai/status/2075599540640714863",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能 / Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "title_zh": "Perplexity 推出跨模型信用额度分析功能",
+          "title_en": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "title_original": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "9875efa23f5875c362188fa81001858ac4b75317",
+          "title": "Perplexity 推出跨模型信用额度分析功能 / Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "title_zh": "Perplexity 推出跨模型信用额度分析功能",
+          "title_en": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "title_original": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+          "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
+          "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T15:14:27Z",
+      "latest_at": "2026-07-10T15:14:27Z",
+      "primary_item": {
+        "id": "9875efa23f5875c362188fa81001858ac4b75317",
+        "title": "Perplexity 推出跨模型信用额度分析功能 / Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+        "title_zh": "Perplexity 推出跨模型信用额度分析功能",
+        "title_en": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+        "title_original": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
+        "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
+        "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+        "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -786,6 +1048,10 @@
         {
           "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
           "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_zh": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "summary": "OpenAI 正式推出 GPT-5.6 公开版本，并发布基于 GPT-5.6 和 Codex 技术的 ChatGPT Work 智能体。该智能体可自主处理数小时的复杂工作流，例如从客户研究到生成营销素材并适配多市场。它集成了 Unified Plugins Directory，支持 Google Drive、Slack、Salesforce 等第三方插件，并配备 Auto-Review 功能以防止数据泄露。桌面端所有用户即刻可用；Web 和移动端优先开放给 Pro、Enterprise、Edu 用户，Plus 和 Business 稍后跟进。ChatGPT Work 与 Codex 共享 agent 消费池，按任务复杂度和所选模型计费。",
           "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -795,6 +1061,10 @@
         {
           "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
           "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "title_zh": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_en": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "title_original": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "summary": null,
           "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
@@ -811,6 +1081,10 @@
         {
           "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
           "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_zh": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "summary": "OpenAI 正式推出 GPT-5.6 公开版本，并发布基于 GPT-5.6 和 Codex 技术的 ChatGPT Work 智能体。该智能体可自主处理数小时的复杂工作流，例如从客户研究到生成营销素材并适配多市场。它集成了 Unified Plugins Directory，支持 Google Drive、Slack、Salesforce 等第三方插件，并配备 Auto-Review 功能以防止数据泄露。桌面端所有用户即刻可用；Web 和移动端优先开放给 Pro、Enterprise、Edu 用户，Plus 和 Business 稍后跟进。ChatGPT Work 与 Codex 共享 agent 消费池，按任务复杂度和所选模型计费。",
           "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -820,6 +1094,10 @@
         {
           "id": "67f08e311d0e65f2d26aca2df8b878e565432f0d",
           "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体 / OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "title_zh": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+          "title_en": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "title_original": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+          "summary": null,
           "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
@@ -829,15 +1107,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7363,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,76 +1128,18 @@
       "primary_item": {
         "id": "7c56acda8ce1a3d68c17dc654a10211e8e9daacb",
         "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+        "title_zh": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+        "title_en": null,
+        "title_original": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+        "summary": "OpenAI 正式推出 GPT-5.6 公开版本，并发布基于 GPT-5.6 和 Codex 技术的 ChatGPT Work 智能体。该智能体可自主处理数小时的复杂工作流，例如从客户研究到生成营销素材并适配多市场。它集成了 Unified Plugins Directory，支持 Google Drive、Slack、Salesforce 等第三方插件，并配备 Auto-Review 功能以防止数据泄露。桌面端所有用户即刻可用；Web 和移动端优先开放给 Pro、Enterprise、Edu 用户，Plus 和 Business 稍后跟进。ChatGPT Work 与 Codex 共享 agent 消费池，按任务复杂度和所选模型计费。",
         "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fe91bd7e0d00",
-      "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
-      "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
-          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
-          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T20:48:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
-          "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
-          "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T20:48:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7669,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T20:48:29Z",
-      "latest_at": "2026-07-09T20:48:29Z",
-      "primary_item": {
-        "id": "20e9cf271e8a82d7dec1f3a350b01cc78d9a6fa8",
-        "title": "新的拉取请求仪表板现已普遍可用 / New pull requests dashboard is now generally available",
-        "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_46606c79e2c4",
-      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈 / Grok Build gets better every day and we love hearing user feedback for improvements",
       "url": "https://x.com/elonmusk/status/2075478792273842370",
       "primary_url": "https://x.com/elonmusk/status/2075478792273842370",
       "source": "X：Elon Musk (@elonmusk, xAI)",
@@ -927,7 +1147,11 @@
       "sources": [
         {
           "id": "f765b7f5dd2f5564d45c96336c273153549df809",
-          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈 / Grok Build gets better every day and we love hearing user feedback for improvements",
+          "title_zh": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+          "title_original": "Grok Build gets better every day and we love hearing user feedback for improvements",
+          "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
           "url": "https://x.com/elonmusk/status/2075478792273842370",
           "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
@@ -942,7 +1166,11 @@
       "items": [
         {
           "id": "f765b7f5dd2f5564d45c96336c273153549df809",
-          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈 / Grok Build gets better every day and we love hearing user feedback for improvements",
+          "title_zh": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+          "title_original": "Grok Build gets better every day and we love hearing user feedback for improvements",
+          "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
           "url": "https://x.com/elonmusk/status/2075478792273842370",
           "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
@@ -952,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,7 +1199,11 @@
       "latest_at": "2026-07-10T07:14:39Z",
       "primary_item": {
         "id": "f765b7f5dd2f5564d45c96336c273153549df809",
-        "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+        "title": "Elon Musk 转发用户称赞 Grok Build 的反馈 / Grok Build gets better every day and we love hearing user feedback for improvements",
+        "title_zh": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+        "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+        "title_original": "Grok Build gets better every day and we love hearing user feedback for improvements",
+        "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
         "url": "https://x.com/elonmusk/status/2075478792273842370",
         "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
@@ -988,6 +1220,10 @@
         {
           "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
           "title": "Claude Code v2.1.206 发布",
+          "title_zh": "Claude Code v2.1.206 发布",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.206 发布",
+          "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
           "source": "Claude Code：GitHub Releases（RSS）",
           "source_name": "AI HOT",
@@ -997,6 +1233,10 @@
         {
           "id": "2d5d7094649813447aa3f4cbf07f8c1f1549639a",
           "title": "v2.1.206",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.206",
+          "summary": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
           "source": "Claude Code Releases",
           "source_name": "Curated Media",
@@ -1013,6 +1253,10 @@
         {
           "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
           "title": "Claude Code v2.1.206 发布",
+          "title_zh": "Claude Code v2.1.206 发布",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.206 发布",
+          "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
           "source": "Claude Code：GitHub Releases（RSS）",
           "source_name": "AI HOT",
@@ -1022,6 +1266,10 @@
         {
           "id": "2d5d7094649813447aa3f4cbf07f8c1f1549639a",
           "title": "v2.1.206",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.206",
+          "summary": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
           "source": "Claude Code Releases",
           "source_name": "Curated Media",
@@ -1031,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1052,6 +1300,10 @@
       "primary_item": {
         "id": "82e754c3a75277b1ef0fae9872314e18ecaa111c",
         "title": "Claude Code v2.1.206 发布",
+        "title_zh": "Claude Code v2.1.206 发布",
+        "title_en": null,
+        "title_original": "Claude Code v2.1.206 发布",
+        "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
@@ -1059,7 +1311,7 @@
     },
     {
       "story_id": "story_ff9f8581ffa8",
-      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型 / SensorFM： Towards a general intelligence and interface for wearable health data",
       "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
       "primary_url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
       "source": "Google Research：Blog（网页）",
@@ -1067,7 +1319,11 @@
       "sources": [
         {
           "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型 / SensorFM： Towards a general intelligence and interface for wearable health data",
+          "title_zh": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "title_en": "SensorFM： Towards a general intelligence and interface for wearable health data",
+          "title_original": "SensorFM： Towards a general intelligence and interface for wearable health data",
+          "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
           "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
           "source": "Google Research：Blog（网页）",
           "source_name": "AI HOT",
@@ -1082,7 +1338,11 @@
       "items": [
         {
           "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型 / SensorFM： Towards a general intelligence and interface for wearable health data",
+          "title_zh": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "title_en": "SensorFM： Towards a general intelligence and interface for wearable health data",
+          "title_original": "SensorFM： Towards a general intelligence and interface for wearable health data",
+          "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
           "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
           "source": "Google Research：Blog（网页）",
           "source_name": "AI HOT",
@@ -1092,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.807,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,90 +1371,13 @@
       "latest_at": "2026-07-10T00:20:20.110000Z",
       "primary_item": {
         "id": "b36e620ca8e006a1ebf8069cf9c8c409586b02c0",
-        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型 / SensorFM： Towards a general intelligence and interface for wearable health data",
+        "title_zh": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "title_en": "SensorFM： Towards a general intelligence and interface for wearable health data",
+        "title_original": "SensorFM： Towards a general intelligence and interface for wearable health data",
+        "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
         "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
         "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f2a4085c264",
-      "title": "AI 能否回答 3 万亿美元的问题？",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-      "primary_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-          "title": "AI 能否回答 3 万亿美元的问题？",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:47:50Z"
-        },
-        {
-          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
-          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:47:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-          "title": "AI 能否回答 3 万亿美元的问题？",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:47:50Z"
-        },
-        {
-          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
-          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
-          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T21:47:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7779,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T21:47:50Z",
-      "latest_at": "2026-07-09T21:47:50Z",
-      "primary_item": {
-        "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
-        "title": "AI 能否回答 3 万亿美元的问题？",
-        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1209,6 +1392,10 @@
         {
           "id": "6070f572d009caf16de80c335c603a434c7a1309",
           "title": "OpenAI推出ChatGPT Work智能体",
+          "title_zh": "OpenAI推出ChatGPT Work智能体",
+          "title_en": null,
+          "title_original": "OpenAI推出ChatGPT Work智能体",
+          "summary": "推出ChatGPT Work，ChatGPT中由Codex和GPT-5.6驱动的新智能体。\n\n它可以在你的应用和文件中执行操作，能根据需要持续处理项目数小时，并将目标转化为完成的工作。\n\n这是一种完成工作的全新方式。",
           "url": "https://x.com/OpenAI/status/2075274271845404744",
           "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
@@ -1224,6 +1411,10 @@
         {
           "id": "6070f572d009caf16de80c335c603a434c7a1309",
           "title": "OpenAI推出ChatGPT Work智能体",
+          "title_zh": "OpenAI推出ChatGPT Work智能体",
+          "title_en": null,
+          "title_original": "OpenAI推出ChatGPT Work智能体",
+          "summary": "推出ChatGPT Work，ChatGPT中由Codex和GPT-5.6驱动的新智能体。\n\n它可以在你的应用和文件中执行操作，能根据需要持续处理项目数小时，并将目标转化为完成的工作。\n\n这是一种完成工作的全新方式。",
           "url": "https://x.com/OpenAI/status/2075274271845404744",
           "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
@@ -1233,15 +1424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7332,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1253,8 +1444,113 @@
       "primary_item": {
         "id": "6070f572d009caf16de80c335c603a434c7a1309",
         "title": "OpenAI推出ChatGPT Work智能体",
+        "title_zh": "OpenAI推出ChatGPT Work智能体",
+        "title_en": null,
+        "title_original": "OpenAI推出ChatGPT Work智能体",
+        "summary": "推出ChatGPT Work，ChatGPT中由Codex和GPT-5.6驱动的新智能体。\n\n它可以在你的应用和文件中执行操作，能根据需要持续处理项目数小时，并将目标转化为完成的工作。\n\n这是一种完成工作的全新方式。",
         "url": "https://x.com/OpenAI/status/2075274271845404744",
         "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f2a4085c264",
+      "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question？",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+      "primary_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question？",
+          "title_zh": "AI 能否回答 3 万亿美元的问题？",
+          "title_en": "Can AI answer the $3 trillion question？",
+          "title_original": "Can AI answer the $3 trillion question？",
+          "summary": "Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:47:50Z"
+        },
+        {
+          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
+          "title_zh": "AI 能否回答 3 万亿美元的问题？",
+          "title_en": "Can AI answer the $3 trillion question?",
+          "title_original": "Can AI answer the $3 trillion question?",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:47:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question？",
+          "title_zh": "AI 能否回答 3 万亿美元的问题？",
+          "title_en": "Can AI answer the $3 trillion question？",
+          "title_original": "Can AI answer the $3 trillion question？",
+          "summary": "Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:47:50Z"
+        },
+        {
+          "id": "ad35490b7879f7d1a52b975ba0b3714ea868b874",
+          "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question?",
+          "title_zh": "AI 能否回答 3 万亿美元的问题？",
+          "title_en": "Can AI answer the $3 trillion question?",
+          "title_original": "Can AI answer the $3 trillion question?",
+          "summary": null,
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T21:47:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7545,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T21:47:50Z",
+      "latest_at": "2026-07-09T21:47:50Z",
+      "primary_item": {
+        "id": "86fab2bdac4a166fbb86d4e6e8bcea4aa4ad4c49",
+        "title": "AI 能否回答 3 万亿美元的问题？ / Can AI answer the $3 trillion question？",
+        "title_zh": "AI 能否回答 3 万亿美元的问题？",
+        "title_en": "Can AI answer the $3 trillion question？",
+        "title_original": "Can AI answer the $3 trillion question？",
+        "summary": "Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。",
+        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1269,6 +1565,10 @@
         {
           "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
           "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "title_zh": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "title_en": null,
+          "title_original": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "summary": null,
           "url": "https://www.aibase.com/news/29526",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1284,6 +1584,10 @@
         {
           "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
           "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "title_zh": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "title_en": null,
+          "title_original": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "summary": null,
           "url": "https://www.aibase.com/news/29526",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1293,109 +1597,33 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:35:00.128733Z",
       "latest_at": "2026-07-10T09:35:00.128733Z",
       "primary_item": {
         "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
         "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+        "title_zh": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+        "title_en": null,
+        "title_original": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+        "summary": null,
         "url": "https://www.aibase.com/news/29526",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1c2e0b9ec777",
-      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "primary_url": "https://cognition.com/blog/swe-1-7",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        },
-        {
-          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        },
-        {
-          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7776,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T21:46:17.901000Z",
-      "latest_at": "2026-07-09T21:46:17.901000Z",
-      "primary_item": {
-        "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-        "url": "https://cognition.com/blog/swe-1-7",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     }
   ]
