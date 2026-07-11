@@ -2955,8 +2955,7 @@ function renderSourceStatusTable(status) {
       const ratio = ratioBase ? Math.round((aiCount / ratioBase) * 100) : 0;
       return { ...site, aiCount, rawCount: ratioBase, ratio };
     })
-    .sort((a, b) => b.aiCount - a.aiCount || b.rawCount - a.rawCount || String(a.site_name).localeCompare(String(b.site_name), "zh-CN"))
-    .slice(0, 12);
+    .sort((a, b) => b.aiCount - a.aiCount || b.rawCount - a.rawCount || String(a.site_name).localeCompare(String(b.site_name), "zh-CN"));
 
   const table = document.createElement("div");
   table.className = "source-table";
