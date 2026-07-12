@@ -5327,7 +5327,13 @@ def editorial_score(record: dict[str, Any]) -> float:
 def story_id_for_item(item: dict[str, Any]) -> str:
     url = canonical_story_url(str(item.get("url") or ""))
     title = normalized_story_title(item)
-    basis = url or title or str(item.get("id") or "")
+    # Include the title alongside the URL so that distinct notes published under
+    # a shared generic URL (e.g. a wiki hub page) get distinct story ids instead
+    # of colliding into a single group.
+    if url and title:
+        basis = f"{url}\x1f{title}"
+    else:
+        basis = url or title or str(item.get("id") or "")
     return "story_" + hashlib.sha1(basis.encode("utf-8")).hexdigest()[:12]
 
 
@@ -5484,7 +5490,8 @@ def merge_story_items(
     groups: dict[str, list[dict[str, Any]]] = {}
     group_titles: dict[str, str] = {}
     group_times: dict[str, datetime | None] = {}
-    canonical_to_story: dict[str, str] = {}
+    group_site_ids: dict[str, str] = {}
+    canonical_to_story: dict[str, list[str]] = {}
     events: list[dict[str, Any]] = []
 
     ordered = sorted(items, key=lambda item: event_time(item) or datetime.min.replace(tzinfo=UTC))
@@ -5492,16 +5499,32 @@ def merge_story_items(
         item_id = str(item.get("id") or "")
         canonical_url = canonical_story_url(str(item.get("url") or ""))
         title = normalized_story_title(item)
+        item_site_id = str(item.get("site_id") or "")
         item_time = event_time(item)
         story_id: str | None = None
         reason = ""
         similarity = 0.0
 
-        if canonical_url and canonical_url in canonical_to_story:
-            story_id = canonical_to_story[canonical_url]
-            reason = "canonical_url"
-            similarity = 1.0
-        elif title_is_mergeable(title):
+        if canonical_url:
+            for candidate_id in canonical_to_story.get(canonical_url, []):
+                candidate_title = group_titles.get(candidate_id, "")
+                candidate_site_id = group_site_ids.get(candidate_id, "")
+                if (
+                    item_site_id
+                    and candidate_site_id == item_site_id
+                    and title != candidate_title
+                    and title_similarity(title, candidate_title) < title_threshold
+                ):
+                    # Same-site items sharing a generic/shared URL (e.g. a wiki hub
+                    # page) but with clearly different titles are distinct notes,
+                    # not repeated reports of one event - don't cluster them.
+                    continue
+                story_id = candidate_id
+                reason = "canonical_url"
+                similarity = 1.0
+                break
+
+        if story_id is None and title_is_mergeable(title):
             for candidate_id, candidate_title in group_titles.items():
                 candidate_time = group_times.get(candidate_id)
                 if item_time and candidate_time:
@@ -5520,8 +5543,9 @@ def merge_story_items(
             groups[story_id] = []
             group_titles[story_id] = title
             group_times[story_id] = item_time
+            group_site_ids[story_id] = item_site_id
             if canonical_url:
-                canonical_to_story[canonical_url] = story_id
+                canonical_to_story.setdefault(canonical_url, []).append(story_id)
         else:
             events.append(
                 {
@@ -5533,7 +5557,9 @@ def merge_story_items(
                 }
             )
             if canonical_url:
-                canonical_to_story[canonical_url] = story_id
+                bucket = canonical_to_story.setdefault(canonical_url, [])
+                if story_id not in bucket:
+                    bucket.append(story_id)
 
         groups.setdefault(story_id, []).append(item)
 
