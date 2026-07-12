@@ -1963,3 +1963,110 @@ summary:focus-visible {
   display: none;
 }
 
+/* 同一事件展开：时间线卡片内联子列表 + 热点行内联子列表，共用同一套行样式。
+   红线：单强调色 var(--accent)、0 圆角、1px 边框，不新增色彩。 */
+.event-expand-toggle {
+  justify-self: start;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.event-expand-toggle:hover {
+  text-decoration: underline;
+}
+
+.event-expand-list {
+  display: grid;
+  gap: 6px;
+  margin-top: 2px;
+  padding-top: 8px;
+  border-top: 1px solid var(--line-soft);
+}
+
+.event-source-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px;
+  padding-left: 10px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.event-source-title {
+  min-width: 0;
+  flex: 1 1 auto;
+  color: var(--ink);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.event-source-title:hover {
+  color: var(--accent);
+}
+
+.event-source-name {
+  flex: 0 0 auto;
+  color: var(--muted);
+}
+
+.event-source-time {
+  flex: 0 0 auto;
+  color: var(--muted-soft);
+  white-space: nowrap;
+}
+
+/* 热点行的信源数变成按钮：子列表插在 .hot-row 正下方，作为独立一行，靠标题列缩进对齐 */
+.hot-row-source-toggle {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+}
+
+.hot-row-source-toggle:hover {
+  color: var(--accent);
+}
+
+.hot-row-source-list.event-expand-list {
+  margin: 0 0 0 34px;
+  padding: 8px 12px 10px;
+  border-top: 1px solid rgba(23, 23, 23, 0.06);
+}
+
+/* DATA_BASE_URL 数据同源开关：非空时展示一行提示 + 恢复本地按钮 */
+.data-source-indicator {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+
+.data-source-reset-btn {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 2px 8px;
+  color: var(--muted);
+  background: var(--surface-soft);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.data-source-reset-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+

@@ -34,6 +34,40 @@ const state = {
   xAuthorsExpanded: false,
 };
 
+// DATA_BASE_URL 数据同源开关：优先级 ?data= 查询参数 > localStorage("dataBaseUrl") > "" (相对路径，原行为)
+// ?data= 命中时持久化到 localStorage，方便刷新/后续访问保持同一数据源。
+function resolveDataBaseUrl() {
+  let fromQuery = "";
+  try {
+    fromQuery = new URLSearchParams(window.location.search).get("data") || "";
+  } catch {
+    fromQuery = "";
+  }
+  if (fromQuery) {
+    const normalized = fromQuery.trim().replace(/\/+$/, "");
+    try { localStorage.setItem("dataBaseUrl", normalized); } catch {}
+    return normalized;
+  }
+  try {
+    const stored = localStorage.getItem("dataBaseUrl") || "";
+    return stored.trim().replace(/\/+$/, "");
+  } catch {
+    return "";
+  }
+}
+
+state.dataBaseUrl = resolveDataBaseUrl();
+
+// 所有 data/*.json 抓取都必须经过这个 helper，才能让 ?data= / localStorage 覆盖生效。
+// 传入的 path 可能是 "data/xxx.json"（本地默认）或后端下发的同款相对路径；
+// 一旦切换到远端 base，只拼文件名，避免拼出 base/data/xxx.json 这种双重 data/ 路径。
+function dataUrl(path) {
+  const base = state.dataBaseUrl;
+  if (!base) return path;
+  const file = String(path || "").split("/").pop();
+  return `${base}/${file}`;
+}
+
 const siteSelectEl = document.getElementById("siteSelect");
 const newsListEl = document.getElementById("newsList");
 const updatedAtEl = document.getElementById("updatedAt");
@@ -56,6 +90,9 @@ const sourceHealthEl = document.getElementById("sourceHealth");
 const sourceHealthDetailsEl = document.getElementById("sourceHealthDetails");
 const sourceStatusTableEl = document.getElementById("sourceStatusTable");
 const clearFiltersBtnEl = document.getElementById("clearFiltersBtn");
+const dataSourceIndicatorEl = document.getElementById("dataSourceIndicator");
+const dataSourceIndicatorTextEl = document.getElementById("dataSourceIndicatorText");
+const dataSourceResetBtnEl = document.getElementById("dataSourceResetBtn");
 
 const waytoagiWrapEl = document.querySelector(".waytoagi-wrap");
 const waytoagiUpdatedAtEl = document.getElementById("waytoagiUpdatedAt");
@@ -304,6 +341,16 @@ function renderClearFiltersButton() {
   clearFiltersBtnEl.textContent = count ? `清除 ${fmtNumber(count)} 项调整` : "清除筛选";
 }
 
+// 数据同源指示：非空 dataBaseUrl 生效时提示当前数据源 + 提供一键恢复本地相对路径的入口。
+function renderDataSourceIndicator() {
+  if (!dataSourceIndicatorEl) return;
+  const base = state.dataBaseUrl;
+  dataSourceIndicatorEl.hidden = !base;
+  if (base && dataSourceIndicatorTextEl) {
+    dataSourceIndicatorTextEl.textContent = `数据源:${base}`;
+  }
+}
+
 function clearAllFilters() {
   state.query = "";
   state.activeSection = "all";
@@ -467,9 +514,10 @@ function isMostlyEnglishTitle(text) {
 }
 
 function itemTitleText(item) {
-  const preferred = (item.title_zh || item.title || item.title_en || "未命名更新").trim();
+  const zhTitle = item.title_enhanced_zh || item.title_zh || "";
+  const preferred = (zhTitle || item.title || item.title_en || "未命名更新").trim();
   const titleParts = preferred.includes(" / ") ? preferred.split(" / ") : [];
-  const display = !item.title_zh && titleParts.length ? titleParts[0].trim() : preferred;
+  const display = !zhTitle && titleParts.length ? titleParts[0].trim() : preferred;
   const original = item.title_en || item.title_original || (titleParts.length > 1 ? titleParts.slice(1).join(" / ") : "");
   return repairDisplayedTitle(original, display);
 }
@@ -942,7 +990,7 @@ function storyScore(story) {
 
 function storyPrimaryTitleText(story) {
   const primary = (story && story.primary_item) || {};
-  const explicit = String(primary.title_zh || "").trim();
+  const explicit = String(primary.title_enhanced_zh || primary.title_zh || "").trim();
   const explicitOriginal = String(primary.title_en || primary.title_original || "").trim();
   if (explicit) return repairDisplayedTitle(explicitOriginal, explicit);
   const bilingual = String(primary.title || (story && story.title) || "").trim();
@@ -971,6 +1019,50 @@ function storySourceCount(story) {
   const explicit = Number(story && story.duplicate_count);
   if (Number.isFinite(explicit) && explicit > 0) return explicit;
   return Math.max(1, sources.length);
+}
+
+// 同一事件展开：source_count>=2 的故事可以展开看每家独立报道（标题+来源+相对时间）。
+// 去重：跳过 url 与主条目重复的信源（已经在卡片主体展示过），除非去重后一条不剩——
+// 那种情况说明所有信源 url 都和主条目一致，只能保留原始 sources 列表兜底展示。
+function dedupedStorySources(row) {
+  const story = row && row.story;
+  if (!story) return [];
+  const sources = Array.isArray(story.sources) ? story.sources : [];
+  const primaryUrl = (row.item && row.item.url) || story.primary_url || story.url || "";
+  const filtered = primaryUrl ? sources.filter((src) => src && src.url !== primaryUrl) : sources;
+  return filtered.length ? filtered : sources;
+}
+
+function buildEventSourceRow(source) {
+  const row = document.createElement("div");
+  row.className = "event-source-row";
+
+  const titleLink = document.createElement("a");
+  titleLink.className = "event-source-title";
+  titleLink.href = source.url || "#";
+  titleLink.target = "_blank";
+  titleLink.rel = "noopener noreferrer";
+  titleLink.textContent = itemTitleText(source);
+
+  const nameEl = document.createElement("span");
+  nameEl.className = "event-source-name";
+  nameEl.textContent = source.source_name || source.site_name || source.source || "来源";
+
+  const timeEl = document.createElement("span");
+  timeEl.className = "event-source-time";
+  timeEl.textContent = fmtRelativeTime(timelineMs(source));
+
+  row.append(titleLink, nameEl, timeEl);
+  return row;
+}
+
+function buildEventSourceList(row) {
+  const sources = dedupedStorySources(row);
+  if (!sources.length) return null;
+  const list = document.createElement("div");
+  list.className = "event-expand-list";
+  sources.forEach((source) => list.appendChild(buildEventSourceRow(source)));
+  return list;
 }
 
 const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "论文警察" };
@@ -1344,6 +1436,39 @@ function renderItemNode(row) {
     tagRow.appendChild(itemTagChip(label));
   });
 
+  // 同一事件展开：只在 source_count>=2 的故事行上出现，紧跟 tag-row；
+  // 子列表本身挂在 news-card-body 末尾（why-box/persona-slot 之后），首次点击才建 DOM，之后本地 toggle。
+  if (row.story && storySourceCount(row.story) >= 2) {
+    const bodyEl = node.querySelector(".news-card-body") || node;
+    const eventCount = storySourceCount(row.story);
+    const collapsedLabel = `同一事件 · ${fmtNumber(eventCount)} 家报道 ▸`;
+    const expandedLabel = `同一事件 · ${fmtNumber(eventCount)} 家报道 ▾`;
+    const eventToggle = document.createElement("button");
+    eventToggle.type = "button";
+    eventToggle.className = "event-expand-toggle";
+    eventToggle.textContent = collapsedLabel;
+    eventToggle.setAttribute("aria-expanded", "false");
+    let eventList = null;
+    eventToggle.addEventListener("click", () => {
+      const expanded = eventToggle.getAttribute("aria-expanded") === "true";
+      if (expanded) {
+        if (eventList) eventList.hidden = true;
+        eventToggle.setAttribute("aria-expanded", "false");
+        eventToggle.textContent = collapsedLabel;
+        return;
+      }
+      if (!eventList) {
+        eventList = buildEventSourceList(row);
+        if (eventList) bodyEl.appendChild(eventList);
+      }
+      if (!eventList) return;
+      eventList.hidden = false;
+      eventToggle.setAttribute("aria-expanded", "true");
+      eventToggle.textContent = expandedLabel;
+    });
+    tagRow.insertAdjacentElement("afterend", eventToggle);
+  }
+
   const titleEl = node.querySelector(".title");
   const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
   const originalTitle = row.story ? storyPrimaryEnText(row.story) : itemOriginalTitleText(item);
@@ -1417,7 +1542,39 @@ function buildHotRow(row, rank) {
   metaEl.className = "hot-row-meta";
   const sourceCount = rowSourceCount(row);
   const relTime = fmtRelativeTime(timelineMs(item) || storyTimeMs(row.story, "latest_at"));
-  metaEl.textContent = `${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
+
+  // 同一事件展开：热点行的"N 个信源"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
+  const expandable = row.story && storySourceCount(row.story) >= 2;
+  if (expandable) {
+    const sourceToggle = document.createElement("button");
+    sourceToggle.type = "button";
+    sourceToggle.className = "hot-row-source-toggle";
+    sourceToggle.textContent = `${fmtNumber(sourceCount)} 个信源`;
+    sourceToggle.setAttribute("aria-expanded", "false");
+    let sourceList = null;
+    sourceToggle.addEventListener("click", (evt) => {
+      evt.preventDefault();
+      evt.stopPropagation();
+      if (sourceList) {
+        sourceList.remove();
+        sourceList = null;
+        sourceToggle.setAttribute("aria-expanded", "false");
+        return;
+      }
+      sourceList = buildEventSourceList(row);
+      if (!sourceList) return;
+      sourceList.classList.add("hot-row-source-list");
+      sourceToggle.setAttribute("aria-expanded", "true");
+      el.insertAdjacentElement("afterend", sourceList);
+    });
+    const sep = document.createElement("span");
+    sep.textContent = " · ";
+    const timeEl = document.createElement("span");
+    timeEl.textContent = relTime;
+    metaEl.append(sourceToggle, sep, timeEl);
+  } else {
+    metaEl.textContent = `${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
+  }
 
   el.append(rankEl, titleEl, metaEl);
   return el;
@@ -1926,7 +2083,7 @@ function renderSourceHealth(errorMessage = "") {
 }
 
 async function loadNewsData() {
-  const res = await fetch(`./data/latest-24h.json?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl("data/latest-24h.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 latest-24h.json 失败: ${res.status}`);
   return res.json();
 }
@@ -1934,7 +2091,7 @@ async function loadNewsData() {
 async function loadAllModeData() {
   if (state.allDataLoaded) return;
   if (!state.allDataPromise) {
-    state.allDataPromise = fetch(`./${state.allDataUrl}?t=${Date.now()}`)
+    state.allDataPromise = fetch(`${dataUrl(state.allDataUrl)}?t=${Date.now()}`)
       .then((res) => {
         if (!res.ok) throw new Error(`加载 latest-24h-all.json 失败: ${res.status}`);
         return res.json();
@@ -1955,31 +2112,31 @@ async function loadAllModeData() {
 }
 
 async function loadWaytoagiData() {
-  const res = await fetch(`./data/waytoagi-7d.json?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl("data/waytoagi-7d.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadSourceStatusData() {
-  const res = await fetch(`./data/source-status.json?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl("data/source-status.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadDailyBriefData() {
-  const res = await fetch(`./data/daily-brief.json?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl("data/daily-brief.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadTop3PersonasData() {
-  const res = await fetch(`./data/top3-personas.json?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl("data/top3-personas.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 top3-personas.json 失败: ${res.status}`);
   return res.json();
 }
 
 async function loadStoriesData() {
-  const res = await fetch(`./${state.storiesDataUrl}?t=${Date.now()}`);
+  const res = await fetch(`${dataUrl(state.storiesDataUrl)}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
   return res.json();
 }
@@ -2152,4 +2309,12 @@ if (waytoagi7dBtnEl) {
   });
 }
 
+if (dataSourceResetBtnEl) {
+  dataSourceResetBtnEl.addEventListener("click", () => {
+    try { localStorage.removeItem("dataBaseUrl"); } catch {}
+    window.location.href = window.location.pathname;
+  });
+}
+
+renderDataSourceIndicator();
 init();
