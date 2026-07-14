@@ -11,6 +11,7 @@ from unittest.mock import MagicMock, patch
 from scripts.update_news import (
     ZH_CACHE_DS_PREFIX,
     add_bilingual_fields,
+    is_valid_zh_translation,
     load_translation_glossary,
     translate_to_zh_deepseek,
 )
@@ -288,6 +289,164 @@ class TestDeepSeekPromptGlossary(unittest.TestCase):
         system_prompt = mock_post.call_args.kwargs["json"]["messages"][0]["content"]
         self.assertIn("Claude", system_prompt)
         self.assertIn("Hugging Face", system_prompt)
+
+
+# A refusal sentence DeepSeek returns when the "title" it's asked to translate
+# is really just a bare t.co link left over after compact_public_snippet
+# truncation of a SocialData X tweet.
+REFUSAL_ZH = "抱歉，我无法处理链接内容。请直接提供英文标题文本。"
+
+# A degenerate single-word "translation" of a full headline.
+DEGENERATE_ZH = "前体"
+
+
+def failing_google_session() -> MagicMock:
+    """A session whose .get() blows up, so translate_to_zh_cn() returns None
+    (mirrors its except-Exception-return-None behavior) and the fallback
+    chain bottoms out instead of masking the DeepSeek-side rejection."""
+    session = MagicMock()
+    session.get.side_effect = Exception("network down")
+    return session
+
+
+class TestIsValidZhTranslation(unittest.TestCase):
+    def test_rejects_refusal_message(self):
+        self.assertFalse(is_valid_zh_translation(EN_TITLE, REFUSAL_ZH))
+
+    def test_rejects_refusal_message_case_insensitive_english_marker(self):
+        self.assertFalse(is_valid_zh_translation(EN_TITLE, "Sorry, I cannot translate 这个链接"))
+
+    def test_rejects_degenerate_single_word(self):
+        self.assertFalse(is_valid_zh_translation(EN_TITLE, DEGENERATE_ZH))
+
+    def test_rejects_empty_or_non_cjk(self):
+        self.assertFalse(is_valid_zh_translation(EN_TITLE, ""))
+        self.assertFalse(is_valid_zh_translation(EN_TITLE, "Precursor"))
+
+    def test_accepts_normal_translation(self):
+        self.assertTrue(is_valid_zh_translation(EN_TITLE, DS_ZH))
+        self.assertTrue(is_valid_zh_translation(EN_TITLE, GOOGLE_ZH))
+
+    def test_accepts_real_translation_that_contains_refusal_vocabulary(self):
+        # Found in the live cache: real, correct translations that legitimately
+        # contain "抱歉"/"我无法" as ordinary vocabulary (someone apologizing,
+        # something being impossible) mid-sentence, not as a refusal opener.
+        # A naive "marker anywhere in text" check false-flagged 22 good cached
+        # entries; only a *leading* refusal phrase should be rejected.
+        self.assertTrue(
+            is_valid_zh_translation(
+                "Sam Altman deeply sorry OpenAI didnt report mass shooting suspect",
+                "Sam Altman 对 OpenAI 没有报告大规模枪击嫌疑人深感抱歉",
+            )
+        )
+        self.assertTrue(
+            is_valid_zh_translation(
+                "I've been dating an AI companion for 3 years. I can't imagine life without him.",
+                "我和一位人工智能伴侣已经约会三年了。我无法想象没有他的生活。",
+            )
+        )
+
+    def test_accepts_translation_that_leads_with_i_cannot_as_real_content(self):
+        # "I cannot stop doodling..." is the actual headline subject, not a
+        # refusal — its translation legitimately starts with "我无法停止",
+        # which must not be confused with a refusal opener like "我无法处理".
+        self.assertTrue(
+            is_valid_zh_translation(
+                "I cannot stop doodling on the reMarkable Paper Pure, a new tablet",
+                "我无法停止在 reMarkable Paper Pure 上涂鸦，这是一款新平板电脑",
+            )
+        )
+
+
+class TestTranslationValidationGating(unittest.TestCase):
+    """End-to-end: bad DeepSeek output must not leak into title_zh or the cache."""
+
+    def test_refusal_response_is_not_cached_or_shown(self):
+        session = failing_google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response(REFUSAL_ZH)
+        ) as mock_post:
+            items, cache = run_enrich(session, {})
+        mock_post.assert_called_once()
+        session.get.assert_called_once()  # falls through to Google, which also fails
+        self.assertIsNone(items[0]["title_zh"])
+        self.assertNotIn(ZH_CACHE_DS_PREFIX + EN_TITLE, cache)
+        self.assertNotIn(REFUSAL_ZH, cache.values())
+
+    def test_degenerate_response_is_not_cached_or_shown(self):
+        session = failing_google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response(DEGENERATE_ZH)
+        ) as mock_post:
+            items, cache = run_enrich(session, {})
+        mock_post.assert_called_once()
+        self.assertIsNone(items[0]["title_zh"])
+        self.assertNotIn(ZH_CACHE_DS_PREFIX + EN_TITLE, cache)
+        self.assertNotIn(DEGENERATE_ZH, cache.values())
+
+    def test_deepseek_refusal_falls_back_to_valid_google_translation(self):
+        session = google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response(REFUSAL_ZH)
+        ) as mock_post:
+            items, cache = run_enrich(session, {})
+        mock_post.assert_called_once()
+        session.get.assert_called_once()
+        self.assertEqual(items[0]["title_zh"], GOOGLE_ZH)
+        self.assertEqual(cache.get(EN_TITLE), GOOGLE_ZH)
+        self.assertNotIn(ZH_CACHE_DS_PREFIX + EN_TITLE, cache)
+
+    def test_normal_translation_still_passes_happy_path(self):
+        session = google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response()
+        ) as mock_post:
+            items, cache = run_enrich(session, {})
+        mock_post.assert_called_once()
+        session.get.assert_not_called()
+        self.assertEqual(items[0]["title_zh"], DS_ZH)
+        self.assertEqual(cache.get(ZH_CACHE_DS_PREFIX + EN_TITLE), DS_ZH)
+
+
+class TestBroadPoolTranslationBudget(unittest.TestCase):
+    """Part 2: latest_items_all gets its own small live-translation budget
+    independent from items_ai's, instead of always being cache-only."""
+
+    def test_broad_pool_stays_cache_only_when_budget_is_zero_by_default(self):
+        session = google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post"
+        ) as mock_post:
+            _, items_all, cache = add_bilingual_fields(
+                [], [make_item()], session, {}, max_new_translations=0
+            )
+        mock_post.assert_not_called()
+        session.get.assert_not_called()
+        self.assertIsNone(items_all[0]["title_zh"])
+
+    def test_broad_pool_live_translates_when_given_its_own_budget(self):
+        session = google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response()
+        ) as mock_post:
+            _, items_all, cache = add_bilingual_fields(
+                [], [make_item()], session, {}, max_new_translations=0, max_new_translations_all=10
+            )
+        mock_post.assert_called_once()
+        self.assertEqual(items_all[0]["title_zh"], DS_ZH)
+        self.assertEqual(cache.get(ZH_CACHE_DS_PREFIX + EN_TITLE), DS_ZH)
+
+    def test_items_ai_budget_is_independent_and_unaffected(self):
+        # items_ai keeps getting its full budget regardless of the broad pool's.
+        session = google_session()
+        with patch.dict("os.environ", DS_ENV, clear=True), patch(
+            "scripts.update_news.requests.post", return_value=deepseek_ok_response()
+        ) as mock_post:
+            items_ai, _, cache = add_bilingual_fields(
+                [make_item()], [], session, {}, max_new_translations=10, max_new_translations_all=0
+            )
+        mock_post.assert_called_once()
+        self.assertEqual(items_ai[0]["title_zh"], DS_ZH)
 
 
 if __name__ == "__main__":
