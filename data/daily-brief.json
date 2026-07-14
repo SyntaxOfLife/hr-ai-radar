@@ -1,10 +1,1109 @@
 {
-  "generated_at": "2026-07-13T23:57:44.309726Z",
+  "generated_at": "2026-07-14T13:29:19.974893Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ee8739307658",
+      "story_id": "story_ed0356b75e5a",
+      "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
+          "title_zh": "数据科学团队如何使用ChatGPT Work",
+          "title_en": "How data science teams use ChatGPT Work",
+          "title_original": "How data science teams use ChatGPT Work",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nJuly 14,",
+          "recommend_reason_zh": "数据科学团队能用ChatGPT Work从仪表板、指标定义和实验笔记等实际输入，自动生成根因简报、KPI备忘录和仪表板规范等五类可交付初稿，包含图表与源链接，大幅提升审核效率。",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
+          "title_zh": "数据科学团队如何使用ChatGPT Work",
+          "title_en": "How data science teams use ChatGPT Work",
+          "title_original": "How data science teams use ChatGPT Work",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nJuly 14,",
+          "recommend_reason_zh": "数据科学团队能用ChatGPT Work从仪表板、指标定义和实验笔记等实际输入，自动生成根因简报、KPI备忘录和仪表板规范等五类可交付初稿，包含图表与源链接，大幅提升审核效率。",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+        "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
+        "title_zh": "数据科学团队如何使用ChatGPT Work",
+        "title_en": "How data science teams use ChatGPT Work",
+        "title_original": "How data science teams use ChatGPT Work",
+        "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nSee how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.\nJuly 14,",
+        "recommend_reason_zh": "数据科学团队能用ChatGPT Work从仪表板、指标定义和实验笔记等实际输入，自动生成根因简报、KPI备忘录和仪表板规范等五类可交付初稿，包含图表与源链接，大幅提升审核效率。",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "一篇介绍文章，没有新工具或接口，扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_8ec6a1a77a23",
+      "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
+          "title_zh": "GitHub 代码质量许可证估算现已公开预览",
+          "title_en": "GitHub Code Quality license estimate in public preview",
+          "title_original": "GitHub Code Quality license estimate in public preview",
+          "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it…\nYou can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it becomes a paid product on July 20, 2026.\nCode Quality is free during the public preview, so this usage isn’t billed today. The estimate h",
+          "recommend_reason_zh": "GitHub Code Quality公开预览版新增许可证成本估算功能，可查看企业内活跃提交者数量，该产品将于2026年7月20日以每位活跃提交者每月10美元的价格收费。",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
+          "title_zh": "GitHub 代码质量许可证估算现已公开预览",
+          "title_en": "GitHub Code Quality license estimate in public preview",
+          "title_original": "GitHub Code Quality license estimate in public preview",
+          "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it…\nYou can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it becomes a paid product on July 20, 2026.\nCode Quality is free during the public preview, so this usage isn’t billed today. The estimate h",
+          "recommend_reason_zh": "GitHub Code Quality公开预览版新增许可证成本估算功能，可查看企业内活跃提交者数量，该产品将于2026年7月20日以每位活跃提交者每月10美元的价格收费。",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8189,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
+        "title_zh": "GitHub 代码质量许可证估算现已公开预览",
+        "title_en": "GitHub Code Quality license estimate in public preview",
+        "title_original": "GitHub Code Quality license estimate in public preview",
+        "summary": "You can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it…\nYou can now see the number of active committers on repositories using GitHub Code Quality across your enterprise, giving you an estimate of your Code Quality license cost before it becomes a paid product on July 20, 2026.\nCode Quality is free during the public preview, so this usage isn’t billed today. The estimate h",
+        "recommend_reason_zh": "GitHub Code Quality公开预览版新增许可证成本估算功能，可查看企业内活跃提交者数量，该产品将于2026年7月20日以每位活跃提交者每月10美元的价格收费。",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "公开预览，可以试；对团队代码质量管理有用，但非标配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_459a6aaf961d",
+      "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
+          "title_zh": "销售团队如何使用ChatGPT Work",
+          "title_en": "How sales teams use ChatGPT Work",
+          "title_original": "How sales teams use ChatGPT Work",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from",
+          "recommend_reason_zh": "这篇文章演示销售团队如何用ChatGPT Work从CRM、通话记录、Slack等工具中整合数据，自动生成pipeline briefs、meeting prep packets和stalled-deal diagnoses等文档，帮团队更快产出初稿。",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
+          "title_zh": "销售团队如何使用ChatGPT Work",
+          "title_en": "How sales teams use ChatGPT Work",
+          "title_original": "How sales teams use ChatGPT Work",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from",
+          "recommend_reason_zh": "这篇文章演示销售团队如何用ChatGPT Work从CRM、通话记录、Slack等工具中整合数据，自动生成pipeline briefs、meeting prep packets和stalled-deal diagnoses等文档，帮团队更快产出初稿。",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+        "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
+        "title_zh": "销售团队如何使用ChatGPT Work",
+        "title_en": "How sales teams use ChatGPT Work",
+        "title_original": "How sales teams use ChatGPT Work",
+        "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.\nSee how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from",
+        "recommend_reason_zh": "这篇文章演示销售团队如何用ChatGPT Work从CRM、通话记录、Slack等工具中整合数据，自动生成pipeline briefs、meeting prep packets和stalled-deal diagnoses等文档，帮团队更快产出初稿。",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "销售场景教程，非技术更新，开发团队可参考但不必立即行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_542c66aa9068",
+      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "primary_url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": null,
+          "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+          "recommend_reason_zh": "普林斯顿教授Narayanan在ICML 2026主旨演讲中提出三个论点，包括\"AI as Normal Technology\"框架和人类与AI的\"co-superintelligence\"愿景，强调主动适应而非躺平，避免加剧社会对AI的反弹。",
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "2983edb5657957aac635151bf899b03b88821541",
+          "title": "ICML 2026 主题演讲：AI能力提升后人类还能做什么",
+          "title_zh": "ICML 2026 主题演讲：AI能力提升后人类还能做什么",
+          "title_en": null,
+          "title_original": "那我们还能做些什么呢？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "www.normaltech.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "4d182d4efd2595125dfa2858396fa17a9b974b04",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": "What will be left for us to work on?",
+          "title_original": "What will be left for us to work on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T01:44:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.normaltech.ai"
+      ],
+      "items": [
+        {
+          "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": null,
+          "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+          "recommend_reason_zh": "普林斯顿教授Narayanan在ICML 2026主旨演讲中提出三个论点，包括\"AI as Normal Technology\"框架和人类与AI的\"co-superintelligence\"愿景，强调主动适应而非躺平，避免加剧社会对AI的反弹。",
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "2983edb5657957aac635151bf899b03b88821541",
+          "title": "ICML 2026 主题演讲：AI能力提升后人类还能做什么",
+          "title_zh": "ICML 2026 主题演讲：AI能力提升后人类还能做什么",
+          "title_en": null,
+          "title_original": "那我们还能做些什么呢？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "www.normaltech.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "4d182d4efd2595125dfa2858396fa17a9b974b04",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": "What will be left for us to work on?",
+          "title_original": "What will be left for us to work on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T01:44:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9122,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T01:44:40Z",
+      "latest_at": "2026-07-14T07:07:34.621000Z",
+      "primary_item": {
+        "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+        "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "title_en": null,
+        "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+        "recommend_reason_zh": "普林斯顿教授Narayanan在ICML 2026主旨演讲中提出三个论点，包括\"AI as Normal Technology\"框架和人类与AI的\"co-superintelligence\"愿景，强调主动适应而非躺平，避免加剧社会对AI的反弹。",
+        "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "观点讨论，没有可用的代码或工具，等有产品再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_2df8960e2c46",
+      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+      "url": "https://www.aibase.com/news/29575",
+      "primary_url": "https://www.aibase.com/news/29575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_en": null,
+          "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "summary": "&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\nExplore AI Fronti",
+          "recommend_reason_zh": "Verasight对1690名美国成年人调查显示，69%受访者支持强制AI巨头转让50%股权，Sanders法案拟建7万亿美元基金；同时166,000人已被裁，Goldman Sachs预测1500万工人面临失业威胁。",
+          "url": "https://www.aibase.com/news/29575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T13:29:19.974893Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_en": null,
+          "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "summary": "&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\nExplore AI Fronti",
+          "recommend_reason_zh": "Verasight对1690名美国成年人调查显示，69%受访者支持强制AI巨头转让50%股权，Sanders法案拟建7万亿美元基金；同时166,000人已被裁，Goldman Sachs预测1500万工人面临失业威胁。",
+          "url": "https://www.aibase.com/news/29575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T13:29:19.974893Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T13:29:19.974893Z",
+      "latest_at": "2026-07-14T13:29:19.974893Z",
+      "primary_item": {
+        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+        "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+        "title_en": null,
+        "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+        "summary": "&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\n&nbsp;A nationwide survey conducted by market research firm Verasight, which covered 1,690 U.S. adults, found that as many as 69% of respondents support requiri\nExplore AI Fronti",
+        "recommend_reason_zh": "Verasight对1690名美国成年人调查显示，69%受访者支持强制AI巨头转让50%股权，Sanders法案拟建7万亿美元基金；同时166,000人已被裁，Goldman Sachs预测1500万工人面临失业威胁。",
+        "url": "https://www.aibase.com/news/29575",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "民意调查非政策，跟你今天写代码没关系。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_84bf65e3c0dc",
+      "title": "Separate SSO and Organizations pages in Settings",
+      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "Separate SSO and Organizations pages in Settings",
+          "title_zh": null,
+          "title_en": "Separate SSO and Organizations pages in Settings",
+          "title_original": "Separate SSO and Organizations pages in Settings",
+          "summary": "We’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations. This update makes it easier to find and manage these settings…\nWe’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations .\nThis update makes it easier to find and manage these settings independently, with a clearer experience in your account settings.\nIf you use SSO or belong to organizations on GitHub, you’ll",
+          "recommend_reason_zh": "GitHub将用户设置中原先合并的SSO和Organizations页面拆分为两个独立页面，让你能更清晰地独立管理这些设置，提升账户体验。",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "Separate SSO and Organizations pages in Settings",
+          "title_zh": null,
+          "title_en": "Separate SSO and Organizations pages in Settings",
+          "title_original": "Separate SSO and Organizations pages in Settings",
+          "summary": "We’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations. This update makes it easier to find and manage these settings…\nWe’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations .\nThis update makes it easier to find and manage these settings independently, with a clearer experience in your account settings.\nIf you use SSO or belong to organizations on GitHub, you’ll",
+          "recommend_reason_zh": "GitHub将用户设置中原先合并的SSO和Organizations页面拆分为两个独立页面，让你能更清晰地独立管理这些设置，提升账户体验。",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7329,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T15:57:56Z",
+      "latest_at": "2026-07-13T15:57:56Z",
+      "primary_item": {
+        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+        "title": "Separate SSO and Organizations pages in Settings",
+        "title_zh": null,
+        "title_en": "Separate SSO and Organizations pages in Settings",
+        "title_original": "Separate SSO and Organizations pages in Settings",
+        "summary": "We’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations. This update makes it easier to find and manage these settings…\nWe’ve separated the combined SSO & Organizations page in your user settings into two distinct pages: SSO and Organizations .\nThis update makes it easier to find and manage these settings independently, with a clearer experience in your account settings.\nIf you use SSO or belong to organizations on GitHub, you’ll",
+        "recommend_reason_zh": "GitHub将用户设置中原先合并的SSO和Organizations页面拆分为两个独立页面，让你能更清晰地独立管理这些设置，提升账户体验。",
+        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "组织管理员设置更方便，普通开发者无影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_cd95092ecd2f",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "title_en": null,
+          "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+          "recommend_reason_zh": "实测LibTV Agent将100个AI视频工作流重组为单个Skill，作者还手搓了一个做视频的提示语，实现创意自由。",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "title_en": null,
+          "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+          "recommend_reason_zh": "实测LibTV Agent将100个AI视频工作流重组为单个Skill，作者还手搓了一个做视频的提示语，实现创意自由。",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9381,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:04:00Z",
+      "latest_at": "2026-07-14T09:04:00Z",
+      "primary_item": {
+        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "title_en": null,
+        "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+        "recommend_reason_zh": "实测LibTV Agent将100个AI视频工作流重组为单个Skill，作者还手搓了一个做视频的提示语，实现创意自由。",
+        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "没有开源或API，纯介绍软文，等能上手再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_de135bbc6d10",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "primary_url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "title_en": null,
+          "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
+          "recommend_reason_zh": "腾讯混元Hy3量化版发布，1bit版本可单卡部署，4bit版本接近满血性能，大幅降低大模型部署门槛。",
+          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T08:56:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "title_en": null,
+          "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
+          "recommend_reason_zh": "腾讯混元Hy3量化版发布，1bit版本可单卡部署，4bit版本接近满血性能，大幅降低大模型部署门槛。",
+          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T08:56:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9364,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T08:56:07Z",
+      "latest_at": "2026-07-14T08:56:07Z",
+      "primary_item": {
+        "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+        "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+        "title_zh": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+        "title_en": null,
+        "title_original": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+        "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
+        "recommend_reason_zh": "腾讯混元Hy3量化版发布，1bit版本可单卡部署，4bit版本接近满血性能，大幅降低大模型部署门槛。",
+        "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "1bit 单卡可跑，4bit 接近满血，部署成本大降，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_8006d907a238",
+      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+      "url": "https://www.ithome.com/0/976/453.htm",
+      "primary_url": "https://www.ithome.com/0/976/453.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_en": null,
+          "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_en": null,
+          "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8939,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T05:43:25Z",
+      "latest_at": "2026-07-14T05:43:25Z",
+      "primary_item": {
+        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "title_en": null,
+        "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/976/453.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "若在Grok上跑敏感代码需谨慎，数据删除承诺需观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_84051698aa24",
+      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video generation startup PixVerse raises $439M， valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+      "primary_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
+          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "title_zh": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+          "title_en": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "title_original": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:00:00Z"
+        },
+        {
+          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
+          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "title_zh": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+          "title_en": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "title_original": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
+          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "title_zh": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+          "title_en": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "title_original": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+          "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:00:00Z"
+        },
+        {
+          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
+          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "title_zh": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+          "title_en": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "title_original": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.823,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
+        "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video generation startup PixVerse raises $439M， valuation soars past $2B",
+        "title_zh": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
+        "title_en": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+        "title_original": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
+        "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "融资消息，等有产品开放再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_f81c4bc04acd",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "primary_url": "https://x.com/demishassabis/status/2076957440109625718",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "title_en": "http://x.com/i/article/2076946210397552640",
+          "title_original": "http://x.com/i/article/2076946210397552640",
+          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+          "recommend_reason_zh": "无法访问提供的链接，请提供文章完整内容以生成推荐语。",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "title_en": "http://x.com/i/article/2076946210397552640",
+          "title_original": "http://x.com/i/article/2076946210397552640",
+          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+          "recommend_reason_zh": "无法访问提供的链接，请提供文章完整内容以生成推荐语。",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T09:10:16Z",
+      "latest_at": "2026-07-14T09:10:16Z",
+      "primary_item": {
+        "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+        "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+        "title_en": "http://x.com/i/article/2076946210397552640",
+        "title_original": "http://x.com/i/article/2076946210397552640",
+        "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+        "recommend_reason_zh": "无法访问提供的链接，请提供文章完整内容以生成推荐语。",
+        "url": "https://x.com/demishassabis/status/2076957440109625718",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "没有产品可用的预言，等真能抢饭碗时再急。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_9c53ab3f5247",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：商汤 SenseTime (@SenseTime_AI)"
+      ],
+      "items": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+          "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8307,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T00:38:32Z",
+      "latest_at": "2026-07-14T00:38:32Z",
+      "primary_item": {
+        "id": "b5851a195823881985167c1306ffc765d134db35",
+        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+        "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+        "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+        "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+        "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "开源即用，7B多任务视觉模型，直接下载跑推理，省去训练成本。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
+      }
+    },
+    {
+      "story_id": "story_4446131f5468",
       "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
       "url": "https://playcode.io/blog/real-price-of-frontier-models",
       "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
@@ -18,37 +1117,12 @@
           "title_en": null,
           "title_original": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
           "summary": "同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。",
+          "recommend_reason_zh": null,
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
-          "title_zh": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "title_en": "The real prices of frontier models",
-          "title_original": "The real prices of frontier models",
-          "summary": null,
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "title_zh": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "title_en": "The real prices of frontier models. Tokens * Price, right?",
-          "title_original": "The real prices of frontier models. Tokens * Price, right?",
-          "summary": null,
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
         },
         {
           "id": "3b7d3067e2446ee83da8088c3073c70a91da89fb",
@@ -57,6 +1131,7 @@
           "title_en": "The same TypeScript costs more on Claude than on GPT",
           "title_original": "The same TypeScript costs more on Claude than on GPT",
           "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -64,7 +1139,7 @@
           "published_at": "2026-07-13T18:32:27Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
@@ -77,37 +1152,12 @@
           "title_en": null,
           "title_original": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
           "summary": "同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。",
+          "recommend_reason_zh": null,
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
-          "title_zh": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "title_en": "The real prices of frontier models",
-          "title_original": "The real prices of frontier models",
-          "summary": null,
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "title_zh": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "title_en": "The real prices of frontier models. Tokens * Price, right?",
-          "title_original": "The real prices of frontier models. Tokens * Price, right?",
-          "summary": null,
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
         },
         {
           "id": "3b7d3067e2446ee83da8088c3073c70a91da89fb",
@@ -116,6 +1166,7 @@
           "title_en": "The same TypeScript costs more on Claude than on GPT",
           "title_original": "The same TypeScript costs more on Claude than on GPT",
           "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -123,20 +1174,20 @@
           "published_at": "2026-07-13T18:32:27Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
-        "story_heat": 0.75
+        "recency": 0.7978,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
@@ -151,262 +1202,22 @@
         "title_en": null,
         "title_original": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
         "summary": "同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。",
+        "recommend_reason_zh": null,
         "url": "https://playcode.io/blog/real-price-of-frontier-models",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "title_zh": "公共预览版中的 GitHub 代码质量许可证估算",
-          "title_en": "GitHub Code Quality license estimate in public preview",
-          "title_original": "GitHub Code Quality license estimate in public preview",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "title_zh": "公共预览版中的 GitHub 代码质量许可证估算",
-          "title_en": "GitHub Code Quality license estimate in public preview",
-          "title_original": "GitHub Code Quality license estimate in public preview",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9956,
-        "story_heat": 0.0
       },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "title_zh": "公共预览版中的 GitHub 代码质量许可证估算",
-        "title_en": "GitHub Code Quality license estimate in public preview",
-        "title_original": "GitHub Code Quality license estimate in public preview",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "选模型前查tokenizer计费规则，否则账单可能比预期高30%.",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-          "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
-          "title_zh": "Codex CLI 0.144.2",
-          "title_en": "Codex CLI 0.144.2",
-          "title_original": "Codex CLI 0.144.2",
-          "summary": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        },
-        {
-          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
-          "title": "Codex CLI 0.144.3 / Codex CLI 0.144.3",
-          "title_zh": "Codex CLI 0.144.3",
-          "title_en": "Codex CLI 0.144.3",
-          "title_original": "Codex CLI 0.144.3",
-          "summary": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-          "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
-          "title_zh": "Codex CLI 0.144.2",
-          "title_en": "Codex CLI 0.144.2",
-          "title_original": "Codex CLI 0.144.2",
-          "summary": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        },
-        {
-          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
-          "title": "Codex CLI 0.144.3 / Codex CLI 0.144.3",
-          "title_zh": "Codex CLI 0.144.3",
-          "title_en": "Codex CLI 0.144.3",
-          "title_original": "Codex CLI 0.144.3",
-          "summary": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7075,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T00:00:00Z",
-      "latest_at": "2026-07-13T00:00:00Z",
-      "primary_item": {
-        "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
-        "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
-        "title_zh": "Codex CLI 0.144.2",
-        "title_en": "Codex CLI 0.144.2",
-        "title_original": "Codex CLI 0.144.2",
-        "summary": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_416032e0a850",
-      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "title_zh": "设置中单独的 SSO 和组织页面",
-          "title_en": "Separate SSO and Organizations pages in Settings",
-          "title_original": "Separate SSO and Organizations pages in Settings",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "title_zh": "设置中单独的 SSO 和组织页面",
-          "title_en": "Separate SSO and Organizations pages in Settings",
-          "title_original": "Separate SSO and Organizations pages in Settings",
-          "summary": null,
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T15:57:56Z",
-      "latest_at": "2026-07-13T15:57:56Z",
-      "primary_item": {
-        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-        "title_zh": "设置中单独的 SSO 和组织页面",
-        "title_en": "Separate SSO and Organizations pages in Settings",
-        "title_original": "Separate SSO and Organizations pages in Settings",
-        "summary": null,
-        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f8d858f9e2c8",
+      "story_id": "story_6f26add24234",
       "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
       "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
       "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
@@ -420,6 +1231,7 @@
           "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
           "title_original": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
           "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -439,6 +1251,7 @@
           "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
           "title_original": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
           "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -448,21 +1261,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.7525,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T17:47:39Z",
       "latest_at": "2026-07-13T17:47:39Z",
@@ -473,164 +1285,74 @@
         "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
         "title_original": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
         "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
+        "recommend_reason_zh": null,
         "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "对新手有用，老手早已实践，不新不奇。扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_0bd34d8ebc49",
-      "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-      "url": "https://www.aibase.com/news/29553",
-      "primary_url": "https://www.aibase.com/news/29553",
+      "story_id": "story_439a66100c19",
+      "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+      "url": "https://www.aibase.com/news/29584",
+      "primary_url": "https://www.aibase.com/news/29584",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
+          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+          "title_zh": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
           "title_en": null,
-          "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29553",
+          "title_original": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+          "summary": "Bloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nExplore AI Fronti",
+          "recommend_reason_zh": "DeepSeek完成74亿美元融资后估值达500亿美元，梁文锋身家飙升至360亿美元，超越Anthropic和OpenAI联合创始人，成全球AI领域首富。",
+          "url": "https://www.aibase.com/news/29584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        },
-        {
-          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
-          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "title_zh": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "title_en": null,
-          "title_original": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29553",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
+          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+          "title_zh": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
           "title_en": null,
-          "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29553",
+          "title_original": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+          "summary": "Bloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nExplore AI Fronti",
+          "recommend_reason_zh": "DeepSeek完成74亿美元融资后估值达500亿美元，梁文锋身家飙升至360亿美元，超越Anthropic和OpenAI联合创始人，成全球AI领域首富。",
+          "url": "https://www.aibase.com/news/29584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        },
-        {
-          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
-          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "title_zh": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "title_en": null,
-          "title_original": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29553",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T09:53:28.295439Z",
-      "latest_at": "2026-07-13T09:53:28.295439Z",
-      "primary_item": {
-        "id": "4e33eb43aa48079fde1096428514561723a95a0c",
-        "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-        "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-        "title_en": null,
-        "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29553",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b2dce9b6b707",
-      "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-      "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-      "primary_url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "title_zh": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "title_en": null,
-          "title_original": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
-          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "title_zh": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "title_en": null,
-          "title_original": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-          "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
-          "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,487 +1360,133 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T00:05:00Z",
-      "latest_at": "2026-07-13T00:05:00Z",
+      "earliest_at": "2026-07-14T13:29:19.974893Z",
+      "latest_at": "2026-07-14T13:29:19.974893Z",
       "primary_item": {
-        "id": "1ac1eb50d5db3f31f6cb5d265b540fec2992a8cf",
-        "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-        "title_zh": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+        "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
+        "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+        "title_zh": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
         "title_en": null,
-        "title_original": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-        "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
-        "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b3e627b2977f",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "url": "https://www.ithome.com/0/975/865.htm",
-      "primary_url": "https://www.ithome.com/0/975/865.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        },
-        {
-          "id": "cd197e74e0d33b4478a0ca5538315e5523afe942",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": null,
-          "url": "https://stock.jrj.com.cn/2026/07/13134057778647.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        },
-        {
-          "id": "cd197e74e0d33b4478a0ca5538315e5523afe942",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": null,
-          "url": "https://stock.jrj.com.cn/2026/07/13134057778647.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.717,
-        "story_heat": 0.25
+        "title_original": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
+        "summary": "Bloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nBloomberg Billionaires Index shows that Liang Wenfeng, founder of DeepSeek, saw his net worth increase from about 16.7 billion USD to 36 billion USD (approximat\nExplore AI Fronti",
+        "recommend_reason_zh": "DeepSeek完成74亿美元融资后估值达500亿美元，梁文锋身家飙升至360亿美元，超越Anthropic和OpenAI联合创始人，成全球AI领域首富。",
+        "url": "https://www.aibase.com/news/29584",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T00:55:29Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
-      "primary_item": {
-        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "title_en": null,
-        "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-        "url": "https://www.ithome.com/0/975/865.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "融资数字大，但跟今天写代码没关系，等模型开源再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_c88804a1a15e",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "source": "公众号：腾讯混元",
+      "story_id": "story_91a0164e4fa0",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析 / How Canada uses Claude： Findings from the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "primary_url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "title_en": null,
-          "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
+          "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析 / How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "title_zh": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "title_original": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+          "recommend_reason_zh": "根据Anthropic经济指数，加拿大占全球Claude对话的2.6%，人均使用量（AUI 4.4）是预期的4倍多；安大略省贡献43.9%的对话，而BC省人均使用量达预期的1.4倍，且个人使用占44%-51%。",
+          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
+          "published_at": "2026-07-14T13:06:56.913000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：腾讯混元"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "title_en": null,
-          "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
+          "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析 / How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "title_zh": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "title_original": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+          "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+          "recommend_reason_zh": "根据Anthropic经济指数，加拿大占全球Claude对话的2.6%，人均使用量（AUI 4.4）是预期的4倍多；安大略省贡献43.9%的对话，而BC省人均使用量达预期的1.4倍，且个人使用占44%-51%。",
+          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
+          "published_at": "2026-07-14T13:06:56.913000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.9946,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T11:12:59Z",
-      "latest_at": "2026-07-13T11:12:59Z",
+      "earliest_at": "2026-07-14T13:06:56.913000Z",
+      "latest_at": "2026-07-14T13:06:56.913000Z",
       "primary_item": {
-        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "title_en": null,
-        "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
-        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-        "source": "公众号：腾讯混元",
+        "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析 / How Canada uses Claude： Findings from the Anthropic Economic Index",
+        "title_zh": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+        "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+        "title_original": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+        "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+        "recommend_reason_zh": "根据Anthropic经济指数，加拿大占全球Claude对话的2.6%，人均使用量（AUI 4.4）是预期的4倍多；安大略省贡献43.9%的对话，而BC省人均使用量达预期的1.4倍，且个人使用占44%-51%。",
+        "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a28bfbd1227",
-      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
-      "url": "https://x.com/op7418/status/2076604797202161800",
-      "primary_url": "https://x.com/op7418/status/2076604797202161800",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
-          "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "title_en": "http://x.com/i/article/2076599995600621568",
-          "title_original": "http://x.com/i/article/2076599995600621568",
-          "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
-          "url": "https://x.com/op7418/status/2076604797202161800",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
-          "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "title_en": "http://x.com/i/article/2076599995600621568",
-          "title_original": "http://x.com/i/article/2076599995600621568",
-          "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
-          "url": "https://x.com/op7418/status/2076604797202161800",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8152,
-        "story_heat": 0.0
       },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:48:59Z",
-      "latest_at": "2026-07-13T09:48:59Z",
-      "primary_item": {
-        "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-        "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
-        "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-        "title_en": "http://x.com/i/article/2076599995600621568",
-        "title_original": "http://x.com/i/article/2076599995600621568",
-        "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
-        "url": "https://x.com/op7418/status/2076604797202161800",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "地区使用数据报告，无直接工具或API更新，看看就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_dc1c34a70469",
-      "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-      "url": "https://www.aibase.com/news/29549",
-      "primary_url": "https://www.aibase.com/news/29549",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "title_en": null,
-          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        },
-        {
-          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "title_en": null,
-          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "summary": null,
-          "url": "https://www.ithome.com/0/976/012.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T07:14:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "title_en": null,
-          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        },
-        {
-          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
-          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "title_en": null,
-          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
-          "summary": null,
-          "url": "https://www.ithome.com/0/976/012.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T07:14:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8161,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T07:14:40Z",
-      "latest_at": "2026-07-13T09:53:28.295439Z",
-      "primary_item": {
-        "id": "351f409b8c43c884be9dede43e04e787aec8793a",
-        "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-        "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-        "title_en": null,
-        "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29549",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9d6f1edd7517",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "title_en": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "title_original": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "summary": null,
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-          "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "title_en": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "title_original": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "summary": null,
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8375,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T11:41:01Z",
-      "latest_at": "2026-07-13T11:41:01Z",
-      "primary_item": {
-        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-        "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-        "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-        "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-        "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
-        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_163a2ee8955d",
-      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-      "url": "https://www.ithome.com/0/976/149.htm",
-      "primary_url": "https://www.ithome.com/0/976/149.htm",
+      "story_id": "story_336c78801132",
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "primary_url": "https://www.ithome.com/0/976/538.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
           "title_en": null,
-          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-          "url": "https://www.ithome.com/0/976/149.htm",
+          "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
+          "recommend_reason_zh": "高德发布通用世界模型工坊ABot-WorldStudio，用户输入文字或图片即可生成可实时交互AI世界，支持单张消费级GPU本地部署，推理时长无上限，已稳定运行超1小时，远超同类通常的1分钟上限。",
+          "url": "https://www.ithome.com/0/976/538.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-14T07:46:46Z"
         }
       ],
       "source_count": 1,
@@ -1127,447 +1495,82 @@
       ],
       "items": [
         {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
           "title_en": null,
-          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-          "url": "https://www.ithome.com/0/976/149.htm",
+          "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
+          "recommend_reason_zh": "高德发布通用世界模型工坊ABot-WorldStudio，用户输入文字或图片即可生成可实时交互AI世界，支持单张消费级GPU本地部署，推理时长无上限，已稳定运行超1小时，远超同类通常的1分钟上限。",
+          "url": "https://www.ithome.com/0/976/538.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-14T07:46:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8172,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:58:56Z",
-      "latest_at": "2026-07-13T09:58:56Z",
-      "primary_item": {
-        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "title_en": null,
-        "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-        "url": "https://www.ithome.com/0/976/149.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_181aad88bf9c",
-      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-      "url": "https://www.aibase.com/news/29541",
-      "primary_url": "https://www.aibase.com/news/29541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_en": null,
-          "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_zh": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_en": null,
-          "title_original": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "summary": null,
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_en": null,
-          "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_zh": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "title_en": null,
-          "title_original": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "summary": null,
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7751,
-        "story_heat": 0.25
+        "recency": 0.9209,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:32:13Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "earliest_at": "2026-07-14T07:46:46Z",
+      "latest_at": "2026-07-14T07:46:46Z",
       "primary_item": {
-        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-        "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "id": "d175968ce830a107641f2faabd1b491517898122",
+        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+        "title_zh": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
         "title_en": null,
-        "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29541",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+        "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
+        "recommend_reason_zh": "高德发布通用世界模型工坊ABot-WorldStudio，用户输入文字或图片即可生成可实时交互AI世界，支持单张消费级GPU本地部署，推理时长无上限，已稳定运行超1小时，远超同类通常的1分钟上限。",
+        "url": "https://www.ithome.com/0/976/538.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "测试开放但用途泛，等具体案例再考虑是否接入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_2849b2dfcc73",
-      "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-      "url": "https://www.aibase.com/news/29537",
-      "primary_url": "https://www.aibase.com/news/29537",
+      "story_id": "story_f0f4e9694444",
+      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+      "url": "https://www.aibase.com/news/29585",
+      "primary_url": "https://www.aibase.com/news/29585",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "title_zh": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
           "title_en": null,
-          "title_original": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29537",
+          "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "summary": "According to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nExplore AI Fronti",
+          "recommend_reason_zh": "DeepSeek创始人梁文锋身价飙升至360亿美元，凭借193亿美元年度增幅超越Anthropic的Dario Amodei和OpenAI的Greg Brockman，成为AI公司新首富。文中还披露DeepSeek今年完成400亿估值首轮外部融资。",
+          "url": "https://www.aibase.com/news/29585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        },
-        {
-          "id": "5f1a120dbc3df1a9be67bf31024281820bf7ea24",
-          "title": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "title_zh": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "title_en": null,
-          "title_original": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-          "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "title_zh": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "title_en": null,
-          "title_original": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29537",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        },
-        {
-          "id": "5f1a120dbc3df1a9be67bf31024281820bf7ea24",
-          "title": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "title_zh": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "title_en": null,
-          "title_original": "别人敲钟，我们归零：智谱披露「摸高」计划，押注全自动化智能体生态",
-          "summary": null,
-          "url": "https://www.aibase.com/zh/news/29537",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7367,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
-      "primary_item": {
-        "id": "18022608f3c5c8bcf224ae54797a20ec3a6e8c7e",
-        "title": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-        "title_zh": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-        "title_en": null,
-        "title_original": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29537",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-13",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-          "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_en": null,
-          "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T17:54:21.367156Z"
-        },
-        {
-          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
-          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_zh": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_en": null,
-          "title_original": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "summary": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
-          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_zh": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_en": null,
-          "title_original": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "summary": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_en": null,
-          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_en": null,
-          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-13"
-      ],
-      "items": [
-        {
-          "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-          "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_en": null,
-          "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T17:54:21.367156Z"
-        },
-        {
-          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
-          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_zh": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_en": null,
-          "title_original": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "summary": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
-          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_zh": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_en": null,
-          "title_original": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "summary": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_en": null,
-          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_en": null,
-          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6541,
-      "importance": 0.6541,
-      "importance_score": 0.6541,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9163,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T17:54:21.367156Z",
-      "primary_item": {
-        "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-        "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "title_en": null,
-        "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-13",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_05bb3eadde15",
-      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-      "url": "https://www.aibase.com/news/29552",
-      "primary_url": "https://www.aibase.com/news/29552",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "title_en": null,
-          "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
       "source_count": 1,
@@ -1576,168 +1579,82 @@
       ],
       "items": [
         {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
           "title_en": null,
-          "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29552",
+          "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "summary": "According to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nExplore AI Fronti",
+          "recommend_reason_zh": "DeepSeek创始人梁文锋身价飙升至360亿美元，凭借193亿美元年度增幅超越Anthropic的Dario Amodei和OpenAI的Greg Brockman，成为AI公司新首富。文中还披露DeepSeek今年完成400亿估值首轮外部融资。",
+          "url": "https://www.aibase.com/news/29585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T09:53:28.295439Z",
-      "latest_at": "2026-07-13T09:53:28.295439Z",
+      "earliest_at": "2026-07-14T13:29:19.974893Z",
+      "latest_at": "2026-07-14T13:29:19.974893Z",
       "primary_item": {
-        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-        "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
         "title_en": null,
-        "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29552",
+        "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "summary": "According to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nAccording to the latest Bloomberg Billionaires Index, Liang Wenfeng, founder of DeepSeek, has seen his wealth surge by $19.3 billion, reaching $36 billion (appr\nExplore AI Fronti",
+        "recommend_reason_zh": "DeepSeek创始人梁文锋身价飙升至360亿美元，凭借193亿美元年度增幅超越Anthropic的Dario Amodei和OpenAI的Greg Brockman，成为AI公司新首富。文中还披露DeepSeek今年完成400亿估值首轮外部融资。",
+        "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6358ddebecad",
-      "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "primary_url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:00:00Z"
-        },
-        {
-          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:00:00Z"
-        },
-        {
-          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6107,
-      "importance": 0.6107,
-      "importance_score": 0.6107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.9043,
-        "story_heat": 0.25
       },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T17:00:00Z",
-      "latest_at": "2026-07-13T17:00:00Z",
-      "primary_item": {
-        "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-        "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-        "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "summary": null,
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "身价新闻不写代码，对开发者零影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_0758182240a0",
-      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-      "url": "https://www.aibase.com/news/29548",
-      "primary_url": "https://www.aibase.com/news/29548",
+      "story_id": "story_878dc099a137",
+      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+      "url": "https://www.aibase.com/news/29588",
+      "primary_url": "https://www.aibase.com/news/29588",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "id": "20b47ca922512701538e04e726795bee5e9813d9",
+          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "title_zh": "LibTV Agent 打造工作流生态，重塑创作者生产力",
           "title_en": null,
-          "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29548",
+          "title_original": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "summary": "Recently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nExplore AI Fronti",
+          "recommend_reason_zh": "LibTV推出Agent和Skill Hub，将超100个专业AI视频工作流转化为可调用技能，通过智能问答自动构建工作流，降低技术门槛，提升创作者内容生产效率。",
+          "url": "https://www.aibase.com/news/29588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
       "source_count": 1,
@@ -1746,174 +1663,143 @@
       ],
       "items": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "id": "20b47ca922512701538e04e726795bee5e9813d9",
+          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "title_zh": "LibTV Agent 打造工作流生态，重塑创作者生产力",
           "title_en": null,
-          "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29548",
+          "title_original": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "summary": "Recently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nExplore AI Fronti",
+          "recommend_reason_zh": "LibTV推出Agent和Skill Hub，将超100个专业AI视频工作流转化为可调用技能，通过智能问答自动构建工作流，降低技术门槛，提升创作者内容生产效率。",
+          "url": "https://www.aibase.com/news/29588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T09:53:28.295439Z",
-      "latest_at": "2026-07-13T09:53:28.295439Z",
+      "earliest_at": "2026-07-14T13:29:19.974893Z",
+      "latest_at": "2026-07-14T13:29:19.974893Z",
       "primary_item": {
-        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+        "id": "20b47ca922512701538e04e726795bee5e9813d9",
+        "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+        "title_zh": "LibTV Agent 打造工作流生态，重塑创作者生产力",
         "title_en": null,
-        "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29548",
+        "title_original": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+        "summary": "Recently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nRecently, LibTV's new Agent and Skill Hub features have provided a mature solution to this pain point. By converting more than 100 professional AI video workflo\nExplore AI Fronti",
+        "recommend_reason_zh": "LibTV推出Agent和Skill Hub，将超100个专业AI视频工作流转化为可调用技能，通过智能问答自动构建工作流，降低技术门槛，提升创作者内容生产效率。",
+        "url": "https://www.aibase.com/news/29588",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "生态还没开放接口，今天用不上，等等看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     },
     {
-      "story_id": "story_a1fa564a6b63",
-      "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-      "url": "https://neow.in/cWsyMTV3",
-      "primary_url": "https://neow.in/cWsyMTV3",
-      "source": "neow.in",
-      "source_name": "Buzzing",
+      "story_id": "story_2cfa9257c1ec",
+      "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+      "url": "https://www.aibase.com/news/29573",
+      "primary_url": "https://www.aibase.com/news/29573",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
           "title_en": null,
-          "title_original": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "neow.in",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T21:50:30.967000Z"
-        },
-        {
-          "id": "86c079d51682f3a7544c9ab44a03de4bf121a974",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung Health app threatens data deletion if users opt out AI training",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_en": "Samsung Health app threatens data deletion if users opt out AI training",
-          "title_original": "Samsung Health app threatens data deletion if users opt out AI training",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T20:01:43Z"
-        },
-        {
-          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_en": "Samsung will delete your health data if you don't let them use it to train AI",
-          "title_original": "Samsung will delete your health data if you don't let them use it to train AI",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T20:01:43Z"
+          "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "summary": "According to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI向法官请求裁定xAI的窃密诉讼“不应被提起”，并寻求xAI承担超100万美元法律费，称其“先起诉后找证据”，诉讼已两次被驳回。",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "neow.in"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
           "title_en": null,
-          "title_original": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "neow.in",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T21:50:30.967000Z"
-        },
-        {
-          "id": "86c079d51682f3a7544c9ab44a03de4bf121a974",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung Health app threatens data deletion if users opt out AI training",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_en": "Samsung Health app threatens data deletion if users opt out AI training",
-          "title_original": "Samsung Health app threatens data deletion if users opt out AI training",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T20:01:43Z"
-        },
-        {
-          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
-          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
-          "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-          "title_en": "Samsung will delete your health data if you don't let them use it to train AI",
-          "title_original": "Samsung will delete your health data if you don't let them use it to train AI",
-          "summary": null,
-          "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T20:01:43Z"
+          "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "summary": "According to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI向法官请求裁定xAI的窃密诉讼“不应被提起”，并寻求xAI承担超100万美元法律费，称其“先起诉后找证据”，诉讼已两次被驳回。",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T13:29:19.974893Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9698,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T20:01:43Z",
-      "latest_at": "2026-07-13T21:50:30.967000Z",
+      "earliest_at": "2026-07-14T13:29:19.974893Z",
+      "latest_at": "2026-07-14T13:29:19.974893Z",
       "primary_item": {
-        "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
-        "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-        "title_zh": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+        "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+        "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
         "title_en": null,
-        "title_original": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-        "summary": null,
-        "url": "https://neow.in/cWsyMTV3",
-        "source": "neow.in",
-        "source_name": "Buzzing"
+        "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "summary": "According to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nAccording to Bloomberg, OpenAI has formally requested a judge to rule that xAI's lawsuit alleging trade secret theft \"should never have been filed,\" and is seek\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI向法官请求裁定xAI的窃密诉讼“不应被提起”，并寻求xAI承担超100万美元法律费，称其“先起诉后找证据”，诉讼已两次被驳回。",
+        "url": "https://www.aibase.com/news/29573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "法律口水战，不影响API或模型，开发者无需关心。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-14T13:43:21.385176Z"
       }
     }
   ]

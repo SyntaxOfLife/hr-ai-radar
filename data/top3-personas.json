@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-07-14T13:44:42.112102Z",
+  "model": "deepseek-v4-flash",
+  "personas": [
+    {
+      "id": "cynic",
+      "name": "毒舌评论员"
+    },
+    {
+      "id": "paper-police",
+      "name": "论文警察"
+    },
+    {
+      "id": "pragmatic",
+      "name": "实用派"
+    }
+  ],
+  "items": [
+    {
+      "story_id": "story_de135bbc6d10",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1bit 是个噱头，4bit 接近满血——满血是谁定的？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "公众号宣称性能，无论文无代码无评测，等独立验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "1bit 单卡可跑，4bit 接近满血，部署成本大降，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_9c53ab3f5247",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "又开一个7B模型，但性能对比呢？别只堆参数不报分数。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只说了开源，无论文无代码链接，无法验证真伪。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "开源即用，7B多任务视觉模型，直接下载跑推理，省去训练成本。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8ec6a1a77a23",
+      "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "许可证估算挺贴心，但代码质量还得靠人，别指望数字说了算。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣布预览，无论文无代码无基准，缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "公开预览，可以试；对团队代码质量管理有用，但非标配。"
+        }
+      }
+    }
+  ]
+}
