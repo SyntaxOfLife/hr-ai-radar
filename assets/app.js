@@ -876,6 +876,8 @@ function reasonText(item) {
     if (Number(item.creator_freshness_bonus || 0) > 0) parts.push("24h 加分");
     return `一周互动：${parts.join(" · ")}`;
   }
+  const recommendReason = String(item?.recommend_reason_zh || "").trim();
+  if (recommendReason) return recommendReason;
   const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 3) : [];
   if (signals.length) return `命中方向：${signals.join(" / ")}`;
   if (item.ai_relevance_reason) return String(item.ai_relevance_reason).replaceAll("_", " ");
@@ -1332,27 +1334,16 @@ function signalSummaryText(row) {
   return "";
 }
 
+// 只返回真实的、条目级别的推荐理由（item.recommend_reason_zh 或 story.primary_item.recommend_reason_zh）。
+// 这类数据是预算受限的窄池，多数条目没有——没有真实理由时必须返回空字符串，
+// 不再用分区/来源信号拼出通用模板句子（那类句子读起来像针对该条目的判断，实际是套话，参见调用方 renderItemNode 的隐藏逻辑）。
 function whyImportantText(row) {
   const item = row.item || {};
   const story = row.story || {};
-  const section = itemSection(item);
-  const reasons = Array.isArray(story.reasons) ? story.reasons : [];
-  if (reasons.includes("official_source") && reasons.includes("multi_source")) {
-    return "一手来源和聚合来源同时出现，说明它既有事实起点，也正在被外部信息流放大。";
-  }
-  if (section === "models") {
-    return "模型能力或训练/推理方式变化会影响后续产品路线、开发者选型和评测基准。";
-  }
-  if (section === "devtools") {
-    return "开发者工具和基础设施变化通常会很快传导到团队工作流、成本和可实现能力。";
-  }
-  if (section === "industry") {
-    return "公司、监管、芯片或资本动态会改变 AI 生态的资源分配和落地节奏。";
-  }
-  if (section === "research") {
-    return "研究信号可能还没产品化，但会提示下一轮模型、数据或方法的技术方向。";
-  }
-  return "它在当前 24 小时窗口里同时具备相关度、新鲜度和来源权重，值得先读原文确认。";
+  const recommendReason = String(
+    item.recommend_reason_zh || story.primary_item?.recommend_reason_zh || ""
+  ).trim();
+  return recommendReason;
 }
 
 function feedSummaryText(item) {
@@ -1473,10 +1464,10 @@ function renderItemNode(row) {
   }
 
   const whyBox = node.querySelector(".why-box");
-  const reasons = Array.isArray(row.story?.reasons) ? row.story.reasons : [];
-  if (row.story && reasons.length) {
+  const whyText = row.story ? whyImportantText(row) : "";
+  if (whyText) {
     whyBox.hidden = false;
-    node.querySelector(".why-text").textContent = whyImportantText(row);
+    node.querySelector(".why-text").textContent = whyText;
   } else {
     whyBox.hidden = true;
   }
