@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:37:09.584063Z",
+  "generated_at": "2026-07-15T21:15:30.440155Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9698,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8703,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9692,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7535,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8958,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7492,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -671,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7261,
+        "recency": 0.7091,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -708,7 +708,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -756,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7427,
+        "recency": 0.7253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -792,7 +792,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -840,15 +840,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -876,7 +876,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -924,15 +924,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -960,7 +960,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1037,15 +1037,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7301,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1074,7 +1074,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1122,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7533,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,7 +1159,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1207,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,7 +1242,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1290,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7796,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,7 +1325,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1373,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9218,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,7 +1409,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1457,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1492,7 +1492,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1509,7 +1509,7 @@
           "title_zh": "欢迎Thinking Machines推出Inkling",
           "title_en": "Welcome Inkling by Thinking Machines",
           "title_original": "Welcome Inkling by Thinking Machines",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+          "summary": null,
           "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
           "url": "https://huggingface.co/blog/thinkingmachines-inkling",
           "source": "Hugging Face Blog",
@@ -1529,7 +1529,7 @@
           "title_zh": "欢迎Thinking Machines推出Inkling",
           "title_en": "Welcome Inkling by Thinking Machines",
           "title_original": "Welcome Inkling by Thinking Machines",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+          "summary": null,
           "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
           "url": "https://huggingface.co/blog/thinkingmachines-inkling",
           "source": "Hugging Face Blog",
@@ -1540,15 +1540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7533,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1565,7 +1565,7 @@
         "title_zh": "欢迎Thinking Machines推出Inkling",
         "title_en": "Welcome Inkling by Thinking Machines",
         "title_original": "Welcome Inkling by Thinking Machines",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhat makes Inkling special? Overall Capabilities and Architecture Inference Support Transformers SGLang vLLM Remote Inference with Hugging Face Inference Providers Local Inference with llama.cpp and Unsloth Use Cases Agentic coding with Pi Multi Token Prediction Drafters Multimodal V",
+        "summary": null,
         "recommend_reason_zh": "Inkling是Thinking Machines开源的约1万亿参数多模态模型，原生支持图像、文本和音频输入，拥有1M上下文窗口，训练于45万亿tokens，采用MoE架构与混合注意力机制，值得关注。",
         "url": "https://huggingface.co/blog/thinkingmachines-inkling",
         "source": "Hugging Face Blog",
@@ -1577,7 +1577,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1625,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7739,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1660,7 +1660,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     },
     {
@@ -1708,15 +1708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1743,7 +1743,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T19:45:35.149117Z"
+        "scored_at": "2026-07-15T21:23:33.275191Z"
       }
     }
   ]
