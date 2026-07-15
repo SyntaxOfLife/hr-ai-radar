@@ -312,6 +312,30 @@
       "review": "个人经验分享，无新工具或API，看看就好。",
       "title_hash": "b459e788",
       "scored_at": "2026-07-15T03:43:55.674810Z"
+    },
+    "story_375a7d7d0131|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "API调用可能受影响，建议启用备用模型或关注官方状态页。",
+      "title_hash": "00b1fb3c",
+      "scored_at": "2026-07-15T06:37:19.962409Z"
+    },
+    "story_c42bd18aafd2|pragmatic|0a5c5b24": {
+      "score": 92,
+      "review": "新模型API已开放，用量飙升说明市场需求旺，抓紧集成测试。",
+      "title_hash": "93bba0d2",
+      "scored_at": "2026-07-15T06:37:21.798868Z"
+    },
+    "story_c42bd18aafd2|cynic|f4237a62": {
+      "score": 30,
+      "review": "GPT-5.6？版本号先编对再吹增长吧。",
+      "title_hash": "93bba0d2",
+      "scored_at": "2026-07-15T06:37:24.072932Z"
+    },
+    "story_c42bd18aafd2|paper-police|966065bf": {
+      "score": 20,
+      "review": "只有CEO说法，无论文代码评测，无法验证真伪。",
+      "title_hash": "93bba0d2",
+      "scored_at": "2026-07-15T06:37:25.830300Z"
     }
   }
 }
