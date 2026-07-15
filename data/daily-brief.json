@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:49:09.104414Z",
+  "generated_at": "2026-07-15T14:10:44.473952Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7854,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
+      }
+    },
+    {
+      "story_id": "story_e87a72b3d6ec",
+      "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nA broader benchmark for voice AI Key findings from Real World VoiceEQ Progress in voice AI is becoming increasingly specialized. Voice models have become better at speaking than actually listening. Traditional benchmarks increasingly overestimate real-world performance. Human evaluat",
+          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nA broader benchmark for voice AI Key findings from Real World VoiceEQ Progress in voice AI is becoming increasingly specialized. Voice models have become better at speaking than actually listening. Traditional benchmarks increasingly overestimate real-world performance. Human evaluat",
+          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8148,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:00:00Z",
+      "latest_at": "2026-07-15T00:00:00Z",
+      "primary_item": {
+        "id": "80a3de57206305e274a186a394d0d50502b735a3",
+        "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+        "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nA broader benchmark for voice AI Key findings from Real World VoiceEQ Progress in voice AI is becoming increasingly specialized. Voice models have become better at speaking than actually listening. Traditional benchmarks increasingly overestimate real-world performance. Human evaluat",
+        "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "量化语音AI拟人度，今天就能用来评估和优化模型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -220,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -305,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -341,7 +426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -389,15 +474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7511,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,7 +511,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -474,15 +559,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8385,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,7 +596,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -559,15 +644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.8034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +680,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -643,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9558,
+        "recency": 0.9238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,7 +764,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -727,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -840,15 +925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8172,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,7 +962,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -894,7 +979,7 @@
           "title_zh": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
           "title_en": null,
           "title_original": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-          "summary": "Recently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "努比亚总裁倪飞宣布公司率先完成AI智能体大模型备案，全球首款AI智能体手机将搭载Doubao，并于2026 WAIC（7月17-20日上海）首次公开亮相。",
           "url": "https://www.aibase.com/news/29625",
           "source": "AIbase",
@@ -914,7 +999,7 @@
           "title_zh": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
           "title_en": null,
           "title_original": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-          "summary": "Recently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "努比亚总裁倪飞宣布公司率先完成AI智能体大模型备案，全球首款AI智能体手机将搭载Doubao，并于2026 WAIC（7月17-20日上海）首次公开亮相。",
           "url": "https://www.aibase.com/news/29625",
           "source": "AIbase",
@@ -925,15 +1010,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,7 +1034,7 @@
         "title_zh": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
         "title_en": null,
         "title_original": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-        "summary": "Recently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nRecently, Ni Fei, President of Nubia Technology Co., Ltd., announced at a press conference that the company has become the first to complete the filing of an AI\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "努比亚总裁倪飞宣布公司率先完成AI智能体大模型备案，全球首款AI智能体手机将搭载Doubao，并于2026 WAIC（7月17-20日上海）首次公开亮相。",
         "url": "https://www.aibase.com/news/29625",
         "source": "AIbase",
@@ -961,91 +1046,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
-      }
-    },
-    {
-      "story_id": "story_63bab2e3f8e6",
-      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "primary_url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_en": null,
-          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "title_en": null,
-          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T02:22:50Z",
-      "latest_at": "2026-07-15T02:22:50Z",
-      "primary_item": {
-        "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-        "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "title_en": null,
-        "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-        "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
-        "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "发短信即可调用手机操作，实用，但需确认是否开放API。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1151,15 +1152,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.7675,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1188,7 +1189,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
+      }
+    },
+    {
+      "story_id": "story_63bab2e3f8e6",
+      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+      "primary_url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_en": null,
+          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:22:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_en": null,
+          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:22:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T02:22:50Z",
+      "latest_at": "2026-07-15T02:22:50Z",
+      "primary_item": {
+        "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+        "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "title_en": null,
+        "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+        "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+        "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "发短信即可调用手机操作，实用，但需确认是否开放API。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1236,21 +1321,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7423,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:11:11.440000Z",
       "latest_at": "2026-07-14T15:11:11.440000Z",
@@ -1272,7 +1356,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1320,15 +1404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1439,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1403,15 +1487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7868,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1440,7 +1524,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1488,15 +1572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1523,7 +1607,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1540,7 +1624,7 @@
           "title_zh": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
           "title_en": null,
           "title_original": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-          "summary": "The \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "我国首部AI拟人化互动服务新规由Cyberspace Administration of China等六部委联合施行，明确六大红线，包括不得向未成年人提供虚拟伴侣，标志着AI情感陪伴产品进入有法可依时代。",
           "url": "https://www.aibase.com/news/29624",
           "source": "AIbase",
@@ -1560,7 +1644,7 @@
           "title_zh": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
           "title_en": null,
           "title_original": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-          "summary": "The \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "我国首部AI拟人化互动服务新规由Cyberspace Administration of China等六部委联合施行，明确六大红线，包括不得向未成年人提供虚拟伴侣，标志着AI情感陪伴产品进入有法可依时代。",
           "url": "https://www.aibase.com/news/29624",
           "source": "AIbase",
@@ -1571,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1595,7 +1679,7 @@
         "title_zh": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
         "title_en": null,
         "title_original": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-        "summary": "The \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nThe \"Interim Measures for the Management of Human-like Interactive Services in Artificial Intelligence,\" jointly issued by the Cyberspace Administration of Chin\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "我国首部AI拟人化互动服务新规由Cyberspace Administration of China等六部委联合施行，明确六大红线，包括不得向未成年人提供虚拟伴侣，标志着AI情感陪伴产品进入有法可依时代。",
         "url": "https://www.aibase.com/news/29624",
         "source": "AIbase",
@@ -1607,7 +1691,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
@@ -1655,21 +1739,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T08:39:58Z",
       "latest_at": "2026-07-15T08:39:58Z",
@@ -1691,30 +1774,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     },
     {
-      "story_id": "story_a37b7492af9e",
-      "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "story_id": "story_f795a259360f",
+      "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用现已支持安全审查",
-          "title_en": "Security reviews now available in the GitHub Copilot app",
-          "title_original": "Security reviews now available in the GitHub Copilot app",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "title_zh": "Dependabot版本更新引入默认包冷却期",
+          "title_en": "Dependabot version updates introduce default package cooldown",
+          "title_original": "Dependabot version updates introduce default package cooldown",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
       "source_count": 1,
@@ -1723,31 +1806,31 @@
       ],
       "items": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用现已支持安全审查",
-          "title_en": "Security reviews now available in the GitHub Copilot app",
-          "title_original": "Security reviews now available in the GitHub Copilot app",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "title_zh": "Dependabot版本更新引入默认包冷却期",
+          "title_en": "Dependabot version updates introduce default package cooldown",
+          "title_original": "Dependabot version updates introduce default package cooldown",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7183,
+        "ai_relevance": 0.87,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1756,111 +1839,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
       "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用现已支持安全审查",
-        "title_en": "Security reviews now available in the GitHub Copilot app",
-        "title_original": "Security reviews now available in the GitHub Copilot app",
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+        "title_zh": "Dependabot版本更新引入默认包冷却期",
+        "title_en": "Dependabot version updates introduce default package cooldown",
+        "title_original": "Dependabot version updates introduce default package cooldown",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "写代码时直接查安全漏洞，省去单独跑工具的时间，今天就能用。",
+      "persona_score": 72,
+      "persona_review": "Dependabot自动更新会延迟，需要检查冷却期配置，避免错过关键补丁。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
-      }
-    },
-    {
-      "story_id": "story_64f3c9bc3658",
-      "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-      "url": "https://www.aibase.com/news/29622",
-      "primary_url": "https://www.aibase.com/news/29622",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_en": null,
-          "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:22:34.280850Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_en": null,
-          "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:22:34.280850Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9653,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T09:22:34.280850Z",
-      "latest_at": "2026-07-15T09:22:34.280850Z",
-      "primary_item": {
-        "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-        "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "title_en": null,
-        "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "summary": null,
-        "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-        "url": "https://www.aibase.com/news/29622",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全事件需留意，但无直接工具可换，等官方修复或补偿方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T11:56:48.838266Z"
+        "scored_at": "2026-07-15T14:20:22.230466Z"
       }
     }
   ]
