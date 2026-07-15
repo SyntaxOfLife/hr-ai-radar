@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-07-15T21:15:30.440155Z",
+  "generated_at": "2026-07-15T22:16:06.025348Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 22,
+  "total_events": 21,
   "events": [
-    {
-      "story_id": "story_dce0062539c4",
-      "item_id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-      "merged_into": "story_dce0062539c4",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_a583c8549146",
-      "item_id": "f9625a0d0960866a08717676fff7dee35c7c16c5",
-      "merged_into": "story_a583c8549146",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_a5593fbabf4a",
-      "item_id": "965530283804bb08a4e2b5edd90caf1276bad31c",
-      "merged_into": "story_a5593fbabf4a",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_a5593fbabf4a",
-      "item_id": "97415c2307f50bf5349431ebdd2b30badc73b1f8",
-      "merged_into": "story_a5593fbabf4a",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_478930404a9f",
       "item_id": "f64b80a3da53d96b0d9bbb6a5f2f55eb21831076",
@@ -154,6 +126,27 @@
       "story_id": "story_8872dc280a40",
       "item_id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
       "merged_into": "story_8872dc280a40",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_eb45f0757b5b",
+      "item_id": "cd4f4c0e9365a8d45af519e01a500a501e681ae5",
+      "merged_into": "story_eb45f0757b5b",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_a7510daf315b",
+      "item_id": "470c050dfc2f447ebfd7da6b7e6694491f370f63",
+      "merged_into": "story_a7510daf315b",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_8724732824b4",
+      "item_id": "f01368e8d2455acf2117a13b234eb7eb4cc86f19",
+      "merged_into": "story_8724732824b4",
       "reason": "title_similarity",
       "similarity": 1.0
     }

@@ -468,6 +468,12 @@
       "review": "官方文档有架构描述，但无论文、代码和benchmark，无法独立验证。",
       "title_hash": "6c43ef5d",
       "scored_at": "2026-07-15T19:46:08.058242Z"
+    },
+    "story_c44773c93215|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "电费涨了云成本可能跟涨，但今天没变化，先记着。",
+      "title_hash": "eecf62f4",
+      "scored_at": "2026-07-15T22:23:20.958242Z"
     }
   }
 }
