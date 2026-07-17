@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T14:04:09.522582Z",
+  "generated_at": "2026-07-17T15:41:00.973226Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
           "title_en": "A scorecard for the AI age",
           "title_original": "A scorecard for the AI age",
-          "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nJuly ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CFO Sarah Friar提出AI ROI衡量标准：Useful Intelligence per Dollar，通过有用工作量、单位任务成本、可靠性及计算回报四个维度评估AI价值。",
           "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
           "source": "OpenAI News",
@@ -37,7 +37,7 @@
           "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
           "title_en": "A scorecard for the AI age",
           "title_original": "A scorecard for the AI age",
-          "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nJuly ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CFO Sarah Friar提出AI ROI衡量标准：Useful Intelligence per Dollar，通过有用工作量、单位任务成本、可靠性及计算回报四个维度评估AI价值。",
           "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
           "source": "OpenAI News",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9429,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
         "title_en": "A scorecard for the AI age",
         "title_original": "A scorecard for the AI age",
-        "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nSarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.\nJuly ",
+        "summary": null,
         "recommend_reason_zh": "OpenAI CFO Sarah Friar提出AI ROI衡量标准：Useful Intelligence per Dollar，通过有用工作量、单位任务成本、可靠性及计算回报四个维度评估AI价值。",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7271,
+        "recency": 0.7103,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7273,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -333,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7606,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -447,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.7574,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,7 +484,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
+      }
+    },
+    {
+      "story_id": "story_9a831943d0df",
+      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "primary_url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+          "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
+          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+          "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
+          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T14:08:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.978,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T14:08:29Z",
+      "latest_at": "2026-07-17T14:08:29Z",
+      "primary_item": {
+        "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
+        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+        "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+        "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+        "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+        "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+        "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
+        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "新基准发布，等开放评测接口再动，现有方案不用急改。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -532,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7271,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,7 +653,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -617,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9254,
+        "recency": 0.904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,7 +737,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -701,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7595,
+        "recency": 0.742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -738,7 +822,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -786,15 +870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.789,
+        "recency": 0.7709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,7 +906,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -870,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7271,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -907,7 +991,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -955,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.959,
+        "recency": 0.9369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +1075,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1039,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1159,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1123,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7565,
+        "recency": 0.7391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,7 +1243,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1207,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,7 +1327,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1291,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9343,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1411,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1375,15 +1459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9146,
+        "recency": 0.8935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,7 +1494,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1487,15 +1571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.7174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1523,7 +1607,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1571,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7496,
+        "recency": 0.7324,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1608,7 +1692,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     },
     {
@@ -1685,15 +1769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8241,
+        "recency": 0.8051,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1722,91 +1806,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
-      }
-    },
-    {
-      "story_id": "story_d959f7b562f8",
-      "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-      "url": "https://www.aibase.com/news/29689",
-      "primary_url": "https://www.aibase.com/news/29689",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_en": null,
-          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "summary": null,
-          "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
-          "url": "https://www.aibase.com/news/29689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:21:51.096110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_en": null,
-          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "summary": null,
-          "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
-          "url": "https://www.aibase.com/news/29689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T09:21:51.096110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9343,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T09:21:51.096110Z",
-      "latest_at": "2026-07-17T09:21:51.096110Z",
-      "primary_item": {
-        "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-        "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-        "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-        "title_en": null,
-        "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-        "summary": null,
-        "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
-        "url": "https://www.aibase.com/news/29689",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "卖课新闻而已，对写代码没帮助。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T14:12:40.288974Z"
+        "scored_at": "2026-07-17T15:48:33.512789Z"
       }
     }
   ]
