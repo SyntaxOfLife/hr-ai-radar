@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T18:10:19.277380Z",
+  "generated_at": "2026-07-18T19:32:27.515438Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_56c5b0ab76c7",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7692,
+        "recency": 0.7541,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7239,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7482,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7482,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8243,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,7 +423,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -471,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7381,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,7 +508,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -643,15 +643,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5808,
-      "importance": 0.5808,
-      "importance_score": 0.5808,
+      "score": 0.5776,
+      "importance": 0.5776,
+      "importance_score": 0.5776,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9169,
+        "recency": 0.899,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -678,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -784,15 +784,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9565,
+        "recency": 0.9377,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -819,7 +819,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -925,15 +925,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9456,
+        "recency": 0.9271,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -960,7 +960,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -1066,15 +1066,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.9163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1101,119 +1101,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
-      "story_id": "story_dad2bbf2a5ce",
-      "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://news.ycombinator.com/item?id=48959392",
-      "primary_url": "https://news.ycombinator.com/item?id=48959392",
+      "story_id": "story_e2c93b777179",
+      "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://news.ycombinator.com/item?id=48961157",
+      "primary_url": "https://news.ycombinator.com/item?id=48961157",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
-          "url": "https://news.ycombinator.com/item?id=48959392",
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近AI代理频频随机重置每周配额，怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
+          "summary": "reply",
+          "recommend_reason_zh": "原文未提供具体事实细节，无法生成符合要求的推荐语，请补充正文内容。",
+          "url": "https://news.ycombinator.com/item?id=48961157",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T16:51:18.013000Z"
+          "published_at": "2026-07-18T19:21:37.366000Z"
         },
         {
-          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T16:12:08Z"
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近AI代理频频随机重置每周配额，怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
+          "summary": "Title: What's the deal with all the random weekly quota resets for agents lately?\nPublished Time: 2026-07-18T12:00:00-07:00\nThe image that makes me say “yay” less often than “god damn it”.\nSubscription-based coding agents such as [Claude Code](https://claude.com/product/claude-code) and [Codex](https://openai.com/codex/) famously have 5-hour and weekly quotas on their LLM usage. Both of these are understandable: 5-hour quotas help stagger usage so the servers don’t get overloaded, and weekly res",
+          "recommend_reason_zh": "OpenAI在过去两周内六次重置Codex每周配额，作者抱怨频繁的随机重置导致计划混乱，并揭露了银行重置系统与30天过期规则。",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
-          "url": "https://news.ycombinator.com/item?id=48959392",
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近AI代理频频随机重置每周配额，怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
+          "summary": "reply",
+          "recommend_reason_zh": "原文未提供具体事实细节，无法生成符合要求的推荐语，请补充正文内容。",
+          "url": "https://news.ycombinator.com/item?id=48961157",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T16:51:18.013000Z"
+          "published_at": "2026-07-18T19:21:37.366000Z"
         },
         {
-          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T16:12:08Z"
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近AI代理频频随机重置每周配额，怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
+          "summary": "Title: What's the deal with all the random weekly quota resets for agents lately?\nPublished Time: 2026-07-18T12:00:00-07:00\nThe image that makes me say “yay” less often than “god damn it”.\nSubscription-based coding agents such as [Claude Code](https://claude.com/product/claude-code) and [Codex](https://openai.com/codex/) famously have 5-hour and weekly quotas on their LLM usage. Both of these are understandable: 5-hour quotas help stagger usage so the servers don’t get overloaded, and weekly res",
+          "recommend_reason_zh": "OpenAI在过去两周内六次重置Codex每周配额，作者抱怨频繁的随机重置导致计划混乱，并揭露了银行重置系统与30天过期规则。",
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9812,
+        "recency": 0.9974,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T16:51:18.013000Z",
+      "earliest_at": "2026-07-18T19:06:23Z",
+      "latest_at": "2026-07-18T19:21:37.366000Z",
       "primary_item": {
-        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-        "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-        "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "summary": null,
-        "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
-        "url": "https://news.ycombinator.com/item?id=48959392",
+        "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+        "title": "最近AI代理频频随机重置每周配额，怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+        "title_zh": "最近AI代理频频随机重置每周配额，怎么回事？",
+        "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+        "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
+        "summary": "reply",
+        "recommend_reason_zh": "原文未提供具体事实细节，无法生成符合要求的推荐语，请补充正文内容。",
+        "url": "https://news.ycombinator.com/item?id=48961157",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "有闲置Mac可实操，跟着步骤就能远程控制，今天能上手试。",
+      "persona_score": 20,
+      "persona_review": "bug讨论贴，不是新工具或API变化，等官方修复再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -1319,15 +1319,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7651,
+        "recency": 0.7502,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1354,7 +1354,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
+      }
+    },
+    {
+      "story_id": "story_dad2bbf2a5ce",
+      "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://news.ycombinator.com/item?id=48959392",
+      "primary_url": "https://news.ycombinator.com/item?id=48959392",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "summary": null,
+          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:51:18.013000Z"
+        },
+        {
+          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "summary": null,
+          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "summary": null,
+          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:51:18.013000Z"
+        },
+        {
+          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "summary": null,
+          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T16:51:18.013000Z",
+      "primary_item": {
+        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+        "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
+        "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "summary": null,
+        "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
+        "url": "https://news.ycombinator.com/item?id=48959392",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 76,
+      "persona_review": "有闲置Mac可实操，跟着步骤就能远程控制，今天能上手试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     },
     {
@@ -1431,15 +1543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7486,
+        "recency": 0.734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1466,7 +1578,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T18:15:24.500835Z"
+        "scored_at": "2026-07-18T19:36:53.780561Z"
       }
     }
   ]
