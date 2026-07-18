@@ -1260,6 +1260,18 @@
       "review": "博客对比有说法，但无论文无代码无第三方评测，证据不足。",
       "title_hash": "2ebe3a00",
       "scored_at": "2026-07-18T22:11:40.346275Z"
+    },
+    "story_5bd68d1f03fc|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "没开放链接或试用入口，先观望实际功能再说。",
+      "title_hash": "10befb92",
+      "scored_at": "2026-07-18T23:15:09.732622Z"
+    },
+    "story_c668670e64ca|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "地方性监管规定，做房产广告的AI工具需注意合规，多数开发者暂时不受影响。",
+      "title_hash": "7c0f0bf8",
+      "scored_at": "2026-07-18T23:15:12.121940Z"
     }
   }
 }
