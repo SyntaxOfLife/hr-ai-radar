@@ -1202,16 +1202,28 @@
       "scored_at": "2026-07-18T15:20:46.530265Z"
     },
     "story_dad2bbf2a5ce|pragmatic|0a5c5b24": {
-      "score": 76,
-      "review": "有闲置Mac可实操，跟着步骤就能远程控制，今天能上手试。",
-      "title_hash": "35f5f497",
-      "scored_at": "2026-07-18T17:21:10.060176Z"
+      "score": 70,
+      "review": "能抄的配置教程，有备用Mac的今天就能动手。",
+      "title_hash": "20e7a8b1",
+      "scored_at": "2026-07-18T21:10:45.921061Z"
     },
     "story_e2c93b777179|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "bug讨论贴，不是新工具或API变化，等官方修复再看。",
       "title_hash": "69f0b48e",
       "scored_at": "2026-07-18T19:36:56.109616Z"
+    },
+    "story_41dc3e242cb7|cynic|f4237a62": {
+      "score": 75,
+      "review": "API 加了个字段就打公告，还以为 Copilot 修了代码补全不准的老毛病。",
+      "title_hash": "6585e6c8",
+      "scored_at": "2026-07-18T21:10:49.867094Z"
+    },
+    "story_41dc3e242cb7|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方改日志，无性能数据，无独立验证，仅功能说明。",
+      "title_hash": "6585e6c8",
+      "scored_at": "2026-07-18T21:10:52.934265Z"
     }
   }
 }

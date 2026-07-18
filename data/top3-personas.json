@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:36:56.109794Z",
+  "generated_at": "2026-07-18T21:10:52.934314Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_5142a2d0cb41",
-      "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "手机上修PR评论？怕是只改了几个空格，还得回桌面重写。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方博客介绍功能，无独立验证，证据不足。"
-        },
-        "pragmatic": {
-          "score": 95,
-          "review": "移动端直接修PR评论，省去开电脑，今天就能省时间。"
-        }
-      }
-    },
-    {
       "story_id": "story_39f96da3c40c",
       "title": "仓库级GitHub Copilot使用指标正式推出 / Repository-level GitHub Copilot usage metrics generally available",
       "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -60,7 +40,7 @@
       "story_id": "story_c13975dae097",
       "title": "Copilot代码审查：定制化与可配置性改进 / Copilot code review: Customization and configurability improvements",
       "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "今天就能配置审查规则，适配自己团队风格，省去手动 review 重复劳动。"
+        }
+      }
+    },
+    {
+      "story_id": "story_41dc3e242cb7",
+      "title": "GitHub Copilot 应用现已可在使用量指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "API 加了个字段就打公告，还以为 Copilot 修了代码补全不准的老毛病。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方改日志，无性能数据，无独立验证，仅功能说明。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "直接接入API监控Copilot用量，方便团队管理额度。"
         }
       }
     }
