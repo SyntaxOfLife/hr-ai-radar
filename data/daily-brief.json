@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T17:15:55.627814Z",
+  "generated_at": "2026-07-18T18:10:19.277380Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_56c5b0ab76c7",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7793,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7334,
+        "recency": 0.7239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7581,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,120 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
-      }
-    },
-    {
-      "story_id": "story_90e9f1d2b782",
-      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "primary_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple's plot to crush OpenAI",
-          "title_original": "Apple's plot to crush OpenAI",
-          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-          "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:41:32Z"
-        },
-        {
-          "id": "29df03a4226bc5016b882921fce99b406e25110a",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple’s plot to crush OpenAI",
-          "title_original": "Apple’s plot to crush OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-17T17:41:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple's plot to crush OpenAI",
-          "title_original": "Apple's plot to crush OpenAI",
-          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-          "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:41:32Z"
-        },
-        {
-          "id": "29df03a4226bc5016b882921fce99b406e25110a",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple’s plot to crush OpenAI",
-          "title_original": "Apple’s plot to crush OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-17T17:41:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7115,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T17:41:32Z",
-      "latest_at": "2026-07-17T17:41:32Z",
-      "primary_item": {
-        "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-        "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-        "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-        "title_en": "Apple's plot to crush OpenAI",
-        "title_original": "Apple's plot to crush OpenAI",
-        "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-        "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "诉讼不关工具的事，等有实际影响再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -416,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7581,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,90 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
-      }
-    },
-    {
-      "story_id": "story_98056171f5d0",
-      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-      "url": "https://x.com/dotey/status/2078172517085085951",
-      "primary_url": "https://x.com/dotey/status/2078172517085085951",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_en": null,
-          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-          "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
-          "url": "https://x.com/dotey/status/2078172517085085951",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:38:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_en": null,
-          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-          "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
-          "url": "https://x.com/dotey/status/2078172517085085951",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:38:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T17:38:33Z",
-      "latest_at": "2026-07-17T17:38:33Z",
-      "primary_item": {
-        "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-        "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "title_en": null,
-        "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-        "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
-        "url": "https://x.com/dotey/status/2078172517085085951",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "技术路线展示，无可用产品，等开放API或开源再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -584,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -619,7 +423,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -667,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7478,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -704,7 +508,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -839,15 +643,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.5808,
+      "importance": 0.5808,
+      "importance_score": 0.5808,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.929,
+        "recency": 0.9169,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -874,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -914,7 +718,7 @@
           "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
           "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
           "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
@@ -922,15 +726,15 @@
           "summary": null,
           "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
           "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "charlesazam.com",
         "hackernews"
       ],
@@ -964,7 +768,7 @@
           "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
           "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
           "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
@@ -972,23 +776,23 @@
           "summary": null,
           "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
           "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9691,
+        "recency": 0.9565,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1015,7 +819,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -1121,15 +925,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.958,
+        "recency": 0.9456,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1156,7 +960,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -1196,7 +1000,7 @@
           "published_at": "2026-07-18T11:55:45.415000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
           "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
           "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": "What AI did to stackoverflow in a graph",
@@ -1204,15 +1008,15 @@
           "summary": null,
           "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
           "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T11:12:46Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "data.stackexchange.com",
         "hackernews"
       ],
@@ -1246,7 +1050,7 @@
           "published_at": "2026-07-18T11:55:45.415000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
           "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
           "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": "What AI did to stackoverflow in a graph",
@@ -1254,23 +1058,23 @@
           "summary": null,
           "recommend_reason_zh": "Stackoverflow上的问题数量被按月统计（共217行数据），返回不到1毫秒——这篇文章用数据直观展示了AI对编程问答社区的冲击。",
           "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T11:12:46Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9469,
+        "recency": 0.9346,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1297,7 +1101,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -1314,7 +1118,7 @@
           "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": "MacBook m1/m2 also are cheap enough now vs an Mac mini which I was surprised about, not too surprised but yeah..\nreply\nreply\nreply\nreply\nreply\nreply\nNever really get good answers. There is no killer app. Just bikeshedding.\nreply\nThere's lots of news about the billions AI companies spend on data center construction, but it feels like it's not even a fraction of the money they're spending on endless nonstop blogs about how great their app is at doing... things. Things that will never be defined.\nr",
+          "summary": null,
           "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
           "url": "https://news.ycombinator.com/item?id=48959392",
           "source": "hackernews",
@@ -1328,7 +1132,7 @@
           "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": "Step-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.\nStep-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.\nHere’s a full step-by-step guide on how to turn your spare Mac into an always-on\nmachine Claude Code can fully control, with compu",
+          "summary": null,
           "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
           "url": "https://ykdojo.github.io/claude-controls-mac",
           "source": "Hacker News",
@@ -1349,7 +1153,7 @@
           "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": "MacBook m1/m2 also are cheap enough now vs an Mac mini which I was surprised about, not too surprised but yeah..\nreply\nreply\nreply\nreply\nreply\nreply\nNever really get good answers. There is no killer app. Just bikeshedding.\nreply\nThere's lots of news about the billions AI companies spend on data center construction, but it feels like it's not even a fraction of the money they're spending on endless nonstop blogs about how great their app is at doing... things. Things that will never be defined.\nr",
+          "summary": null,
           "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
           "url": "https://news.ycombinator.com/item?id=48959392",
           "source": "hackernews",
@@ -1363,7 +1167,7 @@
           "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
           "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": "Step-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.\nStep-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.\nHere’s a full step-by-step guide on how to turn your spare Mac into an always-on\nmachine Claude Code can fully control, with compu",
+          "summary": null,
           "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
           "url": "https://ykdojo.github.io/claude-controls-mac",
           "source": "Hacker News",
@@ -1374,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9941,
+        "recency": 0.9812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,7 +1201,7 @@
         "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
         "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "summary": "MacBook m1/m2 also are cheap enough now vs an Mac mini which I was surprised about, not too surprised but yeah..\nreply\nreply\nreply\nreply\nreply\nreply\nNever really get good answers. There is no killer app. Just bikeshedding.\nreply\nThere's lots of news about the billions AI companies spend on data center construction, but it feels like it's not even a fraction of the money they're spending on endless nonstop blogs about how great their app is at doing... things. Things that will never be defined.\nr",
+        "summary": null,
         "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
         "url": "https://news.ycombinator.com/item?id=48959392",
         "source": "hackernews",
@@ -1409,7 +1213,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -1515,15 +1319,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7752,
+        "recency": 0.7651,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1550,7 +1354,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     },
     {
@@ -1627,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7585,
+        "recency": 0.7486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1662,7 +1466,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T17:21:04.393790Z"
+        "scored_at": "2026-07-18T18:15:24.500835Z"
       }
     }
   ]
