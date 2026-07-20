@@ -16,5 +16,46 @@
     "上海",
     "北京"
   ],
-  "sources": []
+  "sources": [
+    {
+      "id": "hr_dive",
+      "name": "HR Dive",
+      "type": "rss",
+      "url": "https://www.hrdive.com/feeds/news/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "组织与人才管理",
+      "enabled": true
+    },
+    {
+      "id": "josh_bersin",
+      "name": "Josh Bersin",
+      "type": "rss",
+      "url": "https://joshbersin.com/category/hr-technology/feed/",
+      "region": "全球",
+      "level": "权威媒体",
+      "default_category": "案例、报告与趋势",
+      "enabled": true
+    },
+    {
+      "id": "aihr",
+      "name": "AIHR",
+      "type": "rss",
+      "url": "https://aihr.com/feed",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "AI 招聘与招聘工具",
+      "enabled": true
+    },
+    {
+      "id": "aihot",
+      "name": "AIHOT",
+      "type": "rss",
+      "url": "https://aihot.virxact.com/feed/daily.xml",
+      "region": "全球",
+      "level": "AI垂直源",
+      "default_category": "案例、报告与趋势",
+      "enabled": true
+    }
+  ]
 }
