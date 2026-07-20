@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T12:12:22.716915+08:00",
+  "generated_at": "2026-07-20T17:42:58.474245+08:00",
   "name": "HR × AI 资讯台",
-  "total_count": 7,
+  "total_count": 9,
   "categories": [
     "政策与劳动合规",
     "AI 招聘与招聘工具",
@@ -11,7 +11,20 @@
     "案例、报告与趋势"
   ],
   "items_by_category": {
-    "政策与劳动合规": [],
+    "政策与劳动合规": [
+      {
+        "title": "One of the best uses of AI in benefits may be helping employees make more informed decisions",
+        "url": "https://www.hrdive.com/spons/one-of-the-best-uses-of-ai-in-benefits-may-be-helping-employees-make-more-i/824720/",
+        "published_at": "2026-07-20T09:00:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "0017178120d6"
+      }
+    ],
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
@@ -39,22 +52,33 @@
         "id": "61c5e5abb7a9"
       }
     ],
-    "学习发展与技能转型": [
+    "学习发展与技能转型": [],
+    "HR 产品与数字化": [],
+    "案例、报告与趋势": [
       {
-        "title": "AI may conceal growing ‘learning debt’ for fast-changing roles",
-        "url": "https://www.hrdive.com/news/ai-may-conceal-growing-learning-debt-for-fast-changing-roles/825396/",
-        "published_at": "2026-07-16T14:46:00+00:00",
+        "title": "The human capabilities separating AI leaders from AI followers",
+        "url": "https://www.hrdive.com/spons/the-human-capabilities-separating-ai-leaders-from-ai-followers/825324/",
+        "published_at": "2026-07-20T09:00:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "94cfcdff3a70"
-      }
-    ],
-    "HR 产品与数字化": [],
-    "案例、报告与趋势": [
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "e0c17312d402"
+      },
+      {
+        "title": "AI is changing HR. Accountability matters more than ever.",
+        "url": "https://www.hrdive.com/spons/ai-is-changing-hr-accountability-matters-more-than-ever/824662/",
+        "published_at": "2026-07-20T09:00:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "00ae5c62b66f"
+      },
       {
         "title": "Nespresso must face African American’s race discrimination claim, court rules",
         "url": "https://www.hrdive.com/news/nespresso-must-face-african-americans-race-discrimination-claim-court-rul/825536/",
@@ -106,6 +130,42 @@
     ]
   },
   "all_items": [
+    {
+      "title": "The human capabilities separating AI leaders from AI followers",
+      "url": "https://www.hrdive.com/spons/the-human-capabilities-separating-ai-leaders-from-ai-followers/825324/",
+      "published_at": "2026-07-20T09:00:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "e0c17312d402"
+    },
+    {
+      "title": "AI is changing HR. Accountability matters more than ever.",
+      "url": "https://www.hrdive.com/spons/ai-is-changing-hr-accountability-matters-more-than-ever/824662/",
+      "published_at": "2026-07-20T09:00:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "00ae5c62b66f"
+    },
+    {
+      "title": "One of the best uses of AI in benefits may be helping employees make more informed decisions",
+      "url": "https://www.hrdive.com/spons/one-of-the-best-uses-of-ai-in-benefits-may-be-helping-employees-make-more-i/824720/",
+      "published_at": "2026-07-20T09:00:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "0017178120d6"
+    },
     {
       "title": "Remote work isn’t always a ‘reasonable’ accommodation: 4 tips for employers",
       "url": "https://www.hrdive.com/news/remote-work-isnt-always-a-reasonable-accommodation-4-tips-for-employers/825542/",
@@ -177,18 +237,6 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "6ad54dae4cba"
-    },
-    {
-      "title": "AI may conceal growing ‘learning debt’ for fast-changing roles",
-      "url": "https://www.hrdive.com/news/ai-may-conceal-growing-learning-debt-for-fast-changing-roles/825396/",
-      "published_at": "2026-07-16T14:46:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "94cfcdff3a70"
     }
   ]
 }
