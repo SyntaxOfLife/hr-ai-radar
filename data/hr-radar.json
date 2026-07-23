@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:55:15.047480+08:00",
+  "generated_at": "2026-07-23T11:51:50.016960+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 12,
   "categories": [
@@ -13,48 +13,122 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
-        "title": "How L&D and workforce readiness are connected",
-        "url": "https://www.hrdive.com/news/shrm-learning-development-workforce-readiness/825723/",
-        "published_at": "2026-07-21T14:58:00+00:00",
+        "title": "Federal HR office lost more than a third of its workforce during Trump’s second term, GAO reports",
+        "url": "https://www.hrdive.com/news/federal-hr-office-lost-more-than-a-third-of-its-workforce-during-trumps-second-term-gao/825907/",
+        "published_at": "2026-07-22T20:13:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "5131e2c25c8c"
-      }
-    ],
-    "AI 招聘与招聘工具": [],
-    "组织与人才管理": [
+        "id": "4e828a8580b2"
+      },
       {
-        "title": "Judge recommends trimming EEOC lawsuit, leaving one failure-to-accommodate claim",
-        "url": "https://www.hrdive.com/news/judge-recommends-trimming-eeoc-lawsuit-osmose-utilities-services/825678/",
-        "published_at": "2026-07-20T19:43:00+00:00",
+        "title": "Retirement benefits suffer from lack of engagement, not trust, NFP says",
+        "url": "https://www.hrdive.com/news/retirement-benefits-suffer-lack-of-engagement-not-trust-nfp/825884/",
+        "published_at": "2026-07-22T15:04:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "79a860777ae5"
-      },
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "16c676dcc6d3"
+      }
+    ],
+    "AI 招聘与招聘工具": [
       {
-        "title": "AI HOT 日报 · 2026-07-19 — Claude Code v2.1.214 发布：修复权限绕过、添加 EndConversation 工具与多项 Bash 权限检查改进",
-        "url": "https://aihot.virxact.com/daily/2026-07-19",
-        "published_at": "2026-07-19T00:00:00+00:00",
+        "title": "Talent Acquisition Innovation: Strategies, Technologies, and Trends Reshaping Hiring",
+        "url": "https://www.aihr.com/blog/talent-acquisition-innovation/",
+        "published_at": "2026-07-22T09:55:51+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "AI 招聘与招聘工具",
+        "id": "30870a92963a"
+      }
+    ],
+    "组织与人才管理": [
+      {
+        "title": "The ‘average’ mind doesn’t exist: How work experts are thinking about neurodiversity",
+        "url": "https://www.hrdive.com/news/neurodiversity-at-work-office/825903/",
+        "published_at": "2026-07-22T15:52:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "1f925f3ff24b"
+      }
+    ],
+    "学习发展与技能转型": [
+      {
+        "title": "11 Best Learning and Development Certifications To Boost Your L&D Expertise",
+        "url": "https://www.aihr.com/blog/learning-and-development-certifications/",
+        "published_at": "2026-07-22T12:07:03+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "e52fd9fed279"
+      }
+    ],
+    "HR 产品与数字化": [],
+    "案例、报告与趋势": [
+      {
+        "title": "AI HOT 日报 · 2026-07-23 — 腾讯设计Agent平台Miora全面开放",
+        "url": "https://aihot.virxact.com/daily/2026-07-23",
+        "published_at": "2026-07-23T00:00:00+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "29afc41e3863"
-      }
-    ],
-    "学习发展与技能转型": [],
-    "HR 产品与数字化": [],
-    "案例、报告与趋势": [
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "79a733e473a6"
+      },
+      {
+        "title": "Men use outside job offers to negotiate pay while women do not, per Swedish study",
+        "url": "https://www.hrdive.com/news/men-use-outside-job-offers-negotiate-pay-women-do-not/825939/",
+        "published_at": "2026-07-22T20:13:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "02a203475b10"
+      },
+      {
+        "title": "AI skills gap persists despite widening personal use",
+        "url": "https://www.hrdive.com/news/AI-skills-gap-training-comptia/825866/",
+        "published_at": "2026-07-22T15:04:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "08007ce1a026"
+      },
+      {
+        "title": "New grads have to compete with AI for entry-level roles, hiring managers say",
+        "url": "https://www.hrdive.com/news/new-grads-have-to-compete-with-ai-for-entry-level-roles-hiring/825810/",
+        "published_at": "2026-07-22T15:04:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "afbbe97e0c03"
+      },
       {
         "title": "AI HOT 日报 · 2026-07-22 — 小红书 dots 模型获 IMO 2026 满分金牌",
         "url": "https://aihot.virxact.com/daily/2026-07-22",
@@ -66,18 +140,6 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "f8fbb527606b"
-      },
-      {
-        "title": "Front-line workers say they don’t mind AI but want transparency",
-        "url": "https://www.hrdive.com/news/front-line-workers-say-they-dont-mind-ai-want-transparency/825766/",
-        "published_at": "2026-07-21T14:57:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "bc2d50c2b965"
       },
       {
         "title": "AI HOT 日报 · 2026-07-21 — 面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
@@ -92,30 +154,6 @@
         "id": "be24e71b8a6c"
       },
       {
-        "title": "Amazon FMLA snafu led to firing of employee who took leave to care for wife, lawsuit claims",
-        "url": "https://www.hrdive.com/news/amazon-fmla-snafu-firing-employee-leave-to-care-for-wife/825690/",
-        "published_at": "2026-07-20T19:43:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "bbd394703a8c"
-      },
-      {
-        "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs",
-        "url": "https://www.hrdive.com/news/week-in-review-metas-ai-systems-workers-layoffs-leave/825639/",
-        "published_at": "2026-07-20T15:01:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "de9f0c3600b7"
-      },
-      {
         "title": "AI HOT 日报 · 2026-07-20 — Qwen3.8 开源发布，2.4T 参数模型上线",
         "url": "https://aihot.virxact.com/daily/2026-07-20",
         "published_at": "2026-07-20T00:00:00+00:00",
@@ -126,46 +164,118 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "932ba96bde62"
-      },
-      {
-        "title": "AI HOT 日报 · 2026-07-18 — Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-        "url": "https://aihot.virxact.com/daily/2026-07-18",
-        "published_at": "2026-07-18T20:18:27+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "25cff85a0ceb"
-      },
-      {
-        "title": "What Is an AI HR Assistant? 6 Use Cases & How To Implement One",
-        "url": "https://www.aihr.com/blog/ai-hr-assistant/",
-        "published_at": "2026-07-17T09:33:18+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "1cd63ce4bf3e"
-      },
-      {
-        "title": "AI HOT 日报 · 2026-07-17 — Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
-        "url": "https://aihot.virxact.com/daily/2026-07-17",
-        "published_at": "2026-07-17T03:32:49+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "66374e1b2299"
       }
     ]
   },
   "all_items": [
+    {
+      "title": "AI HOT 日报 · 2026-07-23 — 腾讯设计Agent平台Miora全面开放",
+      "url": "https://aihot.virxact.com/daily/2026-07-23",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "79a733e473a6"
+    },
+    {
+      "title": "Men use outside job offers to negotiate pay while women do not, per Swedish study",
+      "url": "https://www.hrdive.com/news/men-use-outside-job-offers-negotiate-pay-women-do-not/825939/",
+      "published_at": "2026-07-22T20:13:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "02a203475b10"
+    },
+    {
+      "title": "Federal HR office lost more than a third of its workforce during Trump’s second term, GAO reports",
+      "url": "https://www.hrdive.com/news/federal-hr-office-lost-more-than-a-third-of-its-workforce-during-trumps-second-term-gao/825907/",
+      "published_at": "2026-07-22T20:13:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "4e828a8580b2"
+    },
+    {
+      "title": "The ‘average’ mind doesn’t exist: How work experts are thinking about neurodiversity",
+      "url": "https://www.hrdive.com/news/neurodiversity-at-work-office/825903/",
+      "published_at": "2026-07-22T15:52:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "1f925f3ff24b"
+    },
+    {
+      "title": "AI skills gap persists despite widening personal use",
+      "url": "https://www.hrdive.com/news/AI-skills-gap-training-comptia/825866/",
+      "published_at": "2026-07-22T15:04:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "08007ce1a026"
+    },
+    {
+      "title": "New grads have to compete with AI for entry-level roles, hiring managers say",
+      "url": "https://www.hrdive.com/news/new-grads-have-to-compete-with-ai-for-entry-level-roles-hiring/825810/",
+      "published_at": "2026-07-22T15:04:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "afbbe97e0c03"
+    },
+    {
+      "title": "Retirement benefits suffer from lack of engagement, not trust, NFP says",
+      "url": "https://www.hrdive.com/news/retirement-benefits-suffer-lack-of-engagement-not-trust-nfp/825884/",
+      "published_at": "2026-07-22T15:04:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "16c676dcc6d3"
+    },
+    {
+      "title": "11 Best Learning and Development Certifications To Boost Your L&D Expertise",
+      "url": "https://www.aihr.com/blog/learning-and-development-certifications/",
+      "published_at": "2026-07-22T12:07:03+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "e52fd9fed279"
+    },
+    {
+      "title": "Talent Acquisition Innovation: Strategies, Technologies, and Trends Reshaping Hiring",
+      "url": "https://www.aihr.com/blog/talent-acquisition-innovation/",
+      "published_at": "2026-07-22T09:55:51+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "AI 招聘与招聘工具",
+      "id": "30870a92963a"
+    },
     {
       "title": "AI HOT 日报 · 2026-07-22 — 小红书 dots 模型获 IMO 2026 满分金牌",
       "url": "https://aihot.virxact.com/daily/2026-07-22",
@@ -177,30 +287,6 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "f8fbb527606b"
-    },
-    {
-      "title": "How L&D and workforce readiness are connected",
-      "url": "https://www.hrdive.com/news/shrm-learning-development-workforce-readiness/825723/",
-      "published_at": "2026-07-21T14:58:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "5131e2c25c8c"
-    },
-    {
-      "title": "Front-line workers say they don’t mind AI but want transparency",
-      "url": "https://www.hrdive.com/news/front-line-workers-say-they-dont-mind-ai-want-transparency/825766/",
-      "published_at": "2026-07-21T14:57:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "bc2d50c2b965"
     },
     {
       "title": "AI HOT 日报 · 2026-07-21 — 面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
@@ -215,42 +301,6 @@
       "id": "be24e71b8a6c"
     },
     {
-      "title": "Judge recommends trimming EEOC lawsuit, leaving one failure-to-accommodate claim",
-      "url": "https://www.hrdive.com/news/judge-recommends-trimming-eeoc-lawsuit-osmose-utilities-services/825678/",
-      "published_at": "2026-07-20T19:43:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "79a860777ae5"
-    },
-    {
-      "title": "Amazon FMLA snafu led to firing of employee who took leave to care for wife, lawsuit claims",
-      "url": "https://www.hrdive.com/news/amazon-fmla-snafu-firing-employee-leave-to-care-for-wife/825690/",
-      "published_at": "2026-07-20T19:43:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "bbd394703a8c"
-    },
-    {
-      "title": "Week in review: Meta’s AI systems ‘disproportionately’ selected certain workers for layoffs",
-      "url": "https://www.hrdive.com/news/week-in-review-metas-ai-systems-workers-layoffs-leave/825639/",
-      "published_at": "2026-07-20T15:01:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "de9f0c3600b7"
-    },
-    {
       "title": "AI HOT 日报 · 2026-07-20 — Qwen3.8 开源发布，2.4T 参数模型上线",
       "url": "https://aihot.virxact.com/daily/2026-07-20",
       "published_at": "2026-07-20T00:00:00+00:00",
@@ -261,54 +311,6 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "932ba96bde62"
-    },
-    {
-      "title": "AI HOT 日报 · 2026-07-19 — Claude Code v2.1.214 发布：修复权限绕过、添加 EndConversation 工具与多项 Bash 权限检查改进",
-      "url": "https://aihot.virxact.com/daily/2026-07-19",
-      "published_at": "2026-07-19T00:00:00+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "29afc41e3863"
-    },
-    {
-      "title": "AI HOT 日报 · 2026-07-18 — Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-      "url": "https://aihot.virxact.com/daily/2026-07-18",
-      "published_at": "2026-07-18T20:18:27+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "25cff85a0ceb"
-    },
-    {
-      "title": "What Is an AI HR Assistant? 6 Use Cases & How To Implement One",
-      "url": "https://www.aihr.com/blog/ai-hr-assistant/",
-      "published_at": "2026-07-17T09:33:18+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "1cd63ce4bf3e"
-    },
-    {
-      "title": "AI HOT 日报 · 2026-07-17 — Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
-      "url": "https://aihot.virxact.com/daily/2026-07-17",
-      "published_at": "2026-07-17T03:32:49+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "66374e1b2299"
     }
   ]
 }
