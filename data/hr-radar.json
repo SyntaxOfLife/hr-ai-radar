@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:51:50.016960+08:00",
+  "generated_at": "2026-07-24T11:51:42.337045+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 12,
   "categories": [
@@ -23,18 +23,6 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "4e828a8580b2"
-      },
-      {
-        "title": "Retirement benefits suffer from lack of engagement, not trust, NFP says",
-        "url": "https://www.hrdive.com/news/retirement-benefits-suffer-lack-of-engagement-not-trust-nfp/825884/",
-        "published_at": "2026-07-22T15:04:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "16c676dcc6d3"
       }
     ],
     "AI 招聘与招聘工具": [
@@ -82,9 +70,45 @@
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
+        "title": "AI HOT 日报 · 2026-07-24 — Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+        "url": "https://aihot.virxact.com/daily/2026-07-24",
+        "published_at": "2026-07-24T00:00:05+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "152a70165917"
+      },
+      {
+        "title": "Electrician files harassment lawsuit against former employer, supervisor",
+        "url": "https://www.hrdive.com/news/electrician-files-harassment-lawsuit-bechtel-hanford-vit/825991/",
+        "published_at": "2026-07-23T19:04:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "27cffe416e16"
+      },
+      {
+        "title": "Workers who direct AI agents outperform peers who simply delegate to them",
+        "url": "https://www.hrdive.com/news/workers-who-refine-and-direct-ai-outperform-peers-who-delegate-to-it/826000/",
+        "published_at": "2026-07-23T14:30:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "15497bbad354"
+      },
+      {
         "title": "AI HOT 日报 · 2026-07-23 — 腾讯设计Agent平台Miora全面开放",
         "url": "https://aihot.virxact.com/daily/2026-07-23",
-        "published_at": "2026-07-23T00:00:00+00:00",
+        "published_at": "2026-07-23T06:05:10+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
@@ -104,30 +128,6 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "02a203475b10"
-      },
-      {
-        "title": "AI skills gap persists despite widening personal use",
-        "url": "https://www.hrdive.com/news/AI-skills-gap-training-comptia/825866/",
-        "published_at": "2026-07-22T15:04:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "08007ce1a026"
-      },
-      {
-        "title": "New grads have to compete with AI for entry-level roles, hiring managers say",
-        "url": "https://www.hrdive.com/news/new-grads-have-to-compete-with-ai-for-entry-level-roles-hiring/825810/",
-        "published_at": "2026-07-22T15:04:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "afbbe97e0c03"
       },
       {
         "title": "AI HOT 日报 · 2026-07-22 — 小红书 dots 模型获 IMO 2026 满分金牌",
@@ -169,9 +169,45 @@
   },
   "all_items": [
     {
+      "title": "AI HOT 日报 · 2026-07-24 — Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+      "url": "https://aihot.virxact.com/daily/2026-07-24",
+      "published_at": "2026-07-24T00:00:05+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "152a70165917"
+    },
+    {
+      "title": "Electrician files harassment lawsuit against former employer, supervisor",
+      "url": "https://www.hrdive.com/news/electrician-files-harassment-lawsuit-bechtel-hanford-vit/825991/",
+      "published_at": "2026-07-23T19:04:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "27cffe416e16"
+    },
+    {
+      "title": "Workers who direct AI agents outperform peers who simply delegate to them",
+      "url": "https://www.hrdive.com/news/workers-who-refine-and-direct-ai-outperform-peers-who-delegate-to-it/826000/",
+      "published_at": "2026-07-23T14:30:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "15497bbad354"
+    },
+    {
       "title": "AI HOT 日报 · 2026-07-23 — 腾讯设计Agent平台Miora全面开放",
       "url": "https://aihot.virxact.com/daily/2026-07-23",
-      "published_at": "2026-07-23T00:00:00+00:00",
+      "published_at": "2026-07-23T06:05:10+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
@@ -215,42 +251,6 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "1f925f3ff24b"
-    },
-    {
-      "title": "AI skills gap persists despite widening personal use",
-      "url": "https://www.hrdive.com/news/AI-skills-gap-training-comptia/825866/",
-      "published_at": "2026-07-22T15:04:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "08007ce1a026"
-    },
-    {
-      "title": "New grads have to compete with AI for entry-level roles, hiring managers say",
-      "url": "https://www.hrdive.com/news/new-grads-have-to-compete-with-ai-for-entry-level-roles-hiring/825810/",
-      "published_at": "2026-07-22T15:04:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "afbbe97e0c03"
-    },
-    {
-      "title": "Retirement benefits suffer from lack of engagement, not trust, NFP says",
-      "url": "https://www.hrdive.com/news/retirement-benefits-suffer-lack-of-engagement-not-trust-nfp/825884/",
-      "published_at": "2026-07-22T15:04:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "16c676dcc6d3"
     },
     {
       "title": "11 Best Learning and Development Certifications To Boost Your L&D Expertise",
