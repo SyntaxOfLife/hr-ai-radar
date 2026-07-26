@@ -297,7 +297,7 @@ def score_item(item):
     hr_hits = sum(1 for kw in all_hr if kw.lower() in combined)
     ai_hits = sum(1 for kw in AI_KEYWORDS if kw.lower() in combined)
 
-    low = ["harassment", "lawsuit", "sexist", "discrimination", "slur", "bias claim", "骚扰", "歧视"]
+    low = ["harassment", "lawsuit", "sexist", "discrimination", "slur", "bias claim", "骚扰", "歧视", "disability", "tribunal", "court case", "sued", "breach"]
 
     hr_score = min(hr_hits / 3.0, 1.0) * prior
     ai_score = min(ai_hits / 1.0, 1.0) * prior
