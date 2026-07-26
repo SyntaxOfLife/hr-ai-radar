@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HR × AI 资讯台</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><text x='50' y='68' font-size='48' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>HR</text></svg>">
+  <style>
+    :root { --bg:#f9fafb; --card:#fff; --text:#111827; --muted:#6b7280; --border:#e5e7eb; --accent:#2563eb; --accent-light:#eff6ff }
+    * { margin:0;padding:0;box-sizing:border-box }
+    body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); line-height:1.6; -webkit-font-smoothing:antialiased }
+
+    .header { background:#fff; border-bottom:1px solid var(--border); padding:20px 24px 16px }
+    .header h1 { font-size:20px; font-weight:700; color:var(--text) }
+    .header .sub { font-size:13px; color:var(--muted); margin-top:2px }
+    .header .time { font-size:12px; color:#9ca3af; margin-top:6px }
+
+    .container { max-width:960px; margin:0 auto; padding:16px 20px 48px }
+
+    .stats { display:flex; gap:8px; margin-bottom:12px }
+    .stats .s { flex:1; background:var(--card); border-radius:8px; padding:12px; text-align:center; border:1px solid var(--border) }
+    .stats .n { font-size:20px; font-weight:700; color:var(--accent) }
+    .stats .l { font-size:11px; color:var(--muted); margin-top:2px }
+
+    .tabs-wrap { margin-bottom:14px; position:relative }
+    .tabs { display:flex; gap:0; overflow-x:auto; scrollbar-width:none; border-bottom:2px solid var(--border) }
+    .tabs::-webkit-scrollbar { display:none }
+    .tab { flex-shrink:0; padding:8px 14px; font-size:13px; font-weight:500; color:var(--muted); cursor:pointer; border-bottom:2px solid transparent; margin-bottom:-2px; transition:all .15s; white-space:nowrap; background:none; border-top:none; border-left:none; border-right:none }
+    .tab:hover { color:var(--text) }
+    .tab.on { color:var(--accent); border-bottom-color:var(--accent); font-weight:600 }
+    .tab .c { font-size:10px; opacity:.5; margin-left:3px; font-weight:400 }
+
+    .mode-bar { display:flex; gap:6px; margin-bottom:14px; background:var(--card); border-radius:8px; padding:3px; border:1px solid var(--border) }
+    .mode-btn { flex:1; padding:7px 0; border:none; border-radius:6px; background:transparent; color:var(--muted); font-size:13px; font-weight:500; cursor:pointer; transition:all .15s }
+    .mode-btn.on { background:var(--accent); color:#fff }
+
+    .list { }
+    .card { background:var(--card); padding:16px 20px; margin-bottom:6px; border-radius:8px; border:1px solid var(--border); transition:box-shadow .15s }
+    .card:hover { box-shadow:0 2px 8px rgba(0,0,0,.04) }
+
+    .card-title { font-size:14.5px; font-weight:600; line-height:1.5 }
+    .card-title a { color:var(--text); text-decoration:none }
+    .card-title a:hover { color:var(--accent) }
+    .card-eng { font-size:12px; color:#9ca3af; margin-top:2px; line-height:1.4 }
+    .card-desc { font-size:13px; color:var(--muted); margin-top:6px; line-height:1.6 }
+
+    .card-foot { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-top:8px }
+    .foot-src { font-size:11px; color:var(--muted); font-weight:500 }
+    .foot-tag { font-size:10px; padding:2px 7px; border-radius:8px; font-weight:500 }
+    .foot-tag.hi { background:#ecfdf5; color:#059669 }
+    .foot-tag.lo { background:#fffbeb; color:#d97706 }
+    .foot-tag.ai { background:var(--accent-light); color:var(--accent) }
+    .foot-time { font-size:11px; color:#9ca3af; margin-left:auto }
+
+    .empty { text-align:center; padding:80px 20px; color:var(--muted) }
+    .empty .icon { font-size:36px; margin-bottom:10px }
+    .empty .msg { font-size:15px; margin-bottom:4px }
+    .empty .hint { font-size:13px; color:#9ca3af; margin-bottom:16px }
+    .retry { display:inline-block; padding:8px 24px; background:var(--accent); color:#fff; border:none; border-radius:8px; font-size:13px; cursor:pointer; font-weight:500 }
+
+    .disclaimer { background:#fef3c7; border:1px solid #fcd34d; padding:10px 14px; margin-bottom:14px; border-radius:8px; font-size:12px; color:#92400e }
+    .footer { text-align:center; padding:20px; font-size:11px; color:#9ca3af }
+
+    @media(max-width:600px){ .container { padding:12px 12px 32px } .header { padding:16px 16px 14px } .header h1 { font-size:18px } .card { padding:14px 14px } }
+  </style>
+</head>
+<body>
+<div class="header">
+  <h1>HR × AI 资讯台</h1>
+  <div class="sub">聚焦人力资源与人工智能交叉领域</div>
+  <div class="time" id="time"></div>
+</div>
+
+<div class="container">
+  <div class="disclaimer">本页面仅汇总公开资讯，不构成劳动法律意见。政策类内容请以官方原文及法务意见为准。</div>
+
+  <div class="stats" id="stats" style="display:none">
+    <div class="s"><div class="n" id="st1">-</div><div class="l">资讯</div></div>
+    <div class="s"><div class="n" id="st2">-</div><div class="l">来源</div></div>
+    <div class="s"><div class="n" id="st3">-</div><div class="l">高相关</div></div>
+  </div>
+
+  <div class="tabs-wrap" id="tabsWrap" style="display:none">
+    <div class="tabs" id="tabs"><div class="tab on" data-cat="">全部</div></div>
+  </div>
+
+  <div class="mode-bar" id="modes" style="display:none">
+    <button class="mode-btn on" id="btnSig">精选信号</button>
+    <button class="mode-btn" id="btnAll">全部资讯</button>
+  </div>
+
+  <div class="list" id="list"></div>
+</div>
+
+<div class="footer">HR × AI 资讯台 · 内部试运行</div>
+
+<script>
+var mode='signal', cat='', store;
+
+fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(d){
+  document.getElementById('time').textContent='更新于 '+(d.generated_at||'').substring(0,19).replace('T',' ');
+  var all=d.all_items||[], cats=d.categories||[];
+  if(!all.length){ document.getElementById('list').innerHTML='<div class="empty"><div class="icon">📭</div><div class="msg">暂无资讯</div></div>';return }
+  store=d;
+  document.getElementById('stats').style.display='flex';
+  document.getElementById('tabsWrap').style.display='block';
+  document.getElementById('modes').style.display='flex';
+  document.getElementById('st1').textContent=all.length;
+  var srcs=new Set();all.forEach(function(x){srcs.add(x.source_name)});
+  document.getElementById('st2').textContent=srcs.size;
+  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.3}).length;
+  buildTabs(cats);
+  render();
+}).catch(function(e){ document.getElementById('list').innerHTML='<div class="empty"><div class="icon">⚠️</div><div class="msg">加载失败</div><div class="hint">'+esc(e.message)+'</div><button class="retry" onclick="location.reload()">重试</button></div>' });
+
+function buildTabs(cats){
+  var h='<div class="tab on" data-cat="">全部</div>';
+  for(var i=0;i<cats.length;i++){
+    var n=((store.items_by_category||{})[cats[i]]||[]).length;
+    h+='<div class="tab" data-cat="'+esc(cats[i])+'">'+esc(cats[i])+(n?' <span class="c">'+n+'</span>':'')+'</div>';
+  }
+  document.getElementById('tabs').innerHTML=h;
+  document.getElementById('tabs').addEventListener('click',function(e){
+    var t=e.target.closest('.tab'); if(!t)return;
+    cat=t.dataset.cat||'';
+    var tabs=document.querySelectorAll('.tab'); tabs.forEach(function(x){x.classList.toggle('on',x===t)});
+    render();
+  });
+}
+
+function render(){
+  var el=document.getElementById('list'), h='', byCat=store.items_by_category||{};
+  var all=store.all_items||[], cats=store.categories||[];
+  var items = cat ? (byCat[cat]||[]) : all;
+  if(mode==='signal') items=items.filter(function(x){return(x.relevance||0)>=0.3});
+  if(!items.length){ el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return }
+  for(var i=0;i<items.length;i++){
+    var it=items[i], t=it.title_zh||it.title, sc=it.relevance||0, cl=sc>=0.3?'hi':'lo';
+    h+='<div class="card">';
+    h+='<div class="card-title"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(t)+'</a></div>';
+    if(it.title_zh&&it.title_zh!==it.title) h+='<div class="card-eng">'+esc(it.title)+'</div>';
+    if(it.summary_zh) h+='<div class="card-desc">'+esc(it.summary_zh)+'</div>';
+    h+='<div class="card-foot">';
+    h+='<span class="foot-src">'+esc(it.source_name||'')+'</span>';
+    h+='<span class="foot-tag '+cl+'">'+sc.toFixed(2)+'</span>';
+    if(it.is_ai_hr) h+='<span class="foot-tag ai">AI&times;HR</span>';
+    h+='<span class="foot-time">'+fmt(it.published_at)+'</span>';
+    h+='</div></div>';
+  }
+  el.innerHTML=h;
+}
+
+document.getElementById('btnSig').onclick=function(){mode='signal';updateMode();render()};
+document.getElementById('btnAll').onclick=function(){mode='all';updateMode();render()};
+function updateMode(){
+  document.getElementById('btnSig').className='mode-btn'+(mode==='signal'?' on':'');
+  document.getElementById('btnAll').className='mode-btn'+(mode==='all'?' on':'');
+}
+function esc(t){if(!t)return'';var d=document.createElement('div');d.textContent=t;return d.innerHTML}
+function fmt(s){if(!s)return'';try{var d=new Date(s);return d.toLocaleString('zh-CN',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'})}catch(e){return''}}
+</script>
+</body>
+</html>

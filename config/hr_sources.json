@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "name": "HR × AI 资讯台",
+  "timezone": "Asia/Shanghai",
+  "daily_pick_limit": 20,
+  "lookback_days": 7,
+  "categories": [
+    "政策与劳动合规",
+    "AI 招聘与招聘工具",
+    "组织与人才管理",
+    "学习发展与技能转型",
+    "HR 产品与数字化",
+    "案例、报告与趋势"
+  ],
+  "sources": [
+    {
+      "id": "hr_dive",
+      "name": "HR Dive",
+      "type": "rss",
+      "url": "https://www.hrdive.com/feeds/news/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "组织与人才管理",
+      "enabled": true
+    },
+    {
+      "id": "aihr",
+      "name": "AIHR",
+      "type": "rss",
+      "url": "https://aihr.com/feed",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "AI 招聘与招聘工具",
+      "enabled": true
+    },
+    {
+      "id": "aihot",
+      "name": "AIHOT",
+      "type": "rss",
+      "url": "https://aihot.virxact.com/feed/daily.xml",
+      "region": "全球",
+      "level": "AI垂直源",
+      "default_category": "案例、报告与趋势",
+      "enabled": true
+    },
+    {
+      "id": "hrzone",
+      "name": "HRZone",
+      "type": "rss",
+      "url": "https://www.hrzone.com/feed/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "组织与人才管理",
+      "enabled": true
+    },
+    {
+      "id": "hrexecutive",
+      "name": "HRExecutive",
+      "type": "rss",
+      "url": "https://hrexecutive.com/feed/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "案例、报告与趋势",
+      "enabled": true
+    },
+    {
+      "id": "clo",
+      "name": "Chief Learning Officer",
+      "type": "rss",
+      "url": "https://www.chieflearningofficer.com/feed/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "学习发展与技能转型",
+      "enabled": true
+    },
+    {
+      "id": "worklife",
+      "name": "WorkLife",
+      "type": "rss",
+      "url": "https://worklife.news/feed/",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "组织与人才管理",
+      "enabled": true
+    }
+  ]
+}
