@@ -325,26 +325,24 @@ def translate_title(title, api_key):
             json={
                 "model": "deepseek-v4-flash",
                 "messages": [{"role": "user", "content": (
-                    "直接输出中文标题和摘要。格式：中文标题||摘要\n\n英文标题：" + title
+                    "翻译以下HR资讯标题为中文，并写一句摘要。只输出一行：中文标题||摘要。不要解释。\n\n" + title
                 )}],
-                "max_tokens": 500,
-                "temperature": 0.3
+                "max_tokens": 300,
+                "temperature": 0.1
             },
             timeout=60
         )
         msg = resp.json()["choices"][0]["message"]
         text = msg.get("content", "") or msg.get("reasoning_content", "")
-        for line in text.split("\n"):
-            line = line.strip()
-            if "||" in line:
-                parts = line.split("||", 1)
-                p0 = parts[0].strip()
-                p1 = parts[1].strip() if len(parts) > 1 else ""
-                if not p0 or p0.startswith("中文标题") or p0 == title:
-                    return (title, "")
-                return (p0, p1) if p0 else (title, "")
-        last = text.strip().split("\n")[-1].strip()
-        return (last[:25], last[26:110]) if len(last) > 25 else (title, "")
+        # 取最后一行非空内容
+        lines = [l.strip() for l in text.split("\n") if l.strip()]
+        last = lines[-1] if lines else ""
+        if "||" in last:
+            parts = last.split("||", 1)
+            p0, p1 = parts[0].strip(), parts[1].strip() if len(parts) > 1 else ""
+            if p0 and not p0.startswith("中文标题"):
+                return (p0[:25], p1[:80])
+        return (title, "")
     except Exception as e:
         print("  翻译异常: " + str(type(e).__name__))
         return title, ""
@@ -446,7 +444,8 @@ def main():
         item["category"] = category
         uid = hashlib.md5("{}{}".format(item["url"], item["title"]).encode()).hexdigest()[:12]
         item["id"] = uid
-        item["title_zh"], item["summary_zh"] = translate_title(title, api_key)
+        if sid != "manual":
+            item["title_zh"], item["summary_zh"] = translate_title(title, api_key)
         if sid != "manual":
             item["relevance"] = score_item(item)
         processed.append(item)
