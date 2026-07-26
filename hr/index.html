@@ -128,7 +128,8 @@ function buildTabs(cats){
   var h='<div class="tab on" data-cat="">全部</div>';
   for(var i=0;i<cats.length;i++){
     var n=((store.items_by_category||{})[cats[i]]||[]).length;
-    h+='<div class="tab" data-cat="'+esc(cats[i])+'">'+esc(cats[i])+(n?' <span class="c">'+n+'</span>':'')+'</div>';
+    if(!n) continue;
+    h+='<div class="tab" data-cat="'+esc(cats[i])+'">'+esc(cats[i])+' <span class="c">'+n+'</span></div>';
   }
   document.getElementById('tabs').innerHTML=h;
   document.getElementById('tabs').addEventListener('click',function(e){
@@ -157,6 +158,7 @@ function render(){
   if(!items.length){ el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return }
   for(var i=0;i<items.length;i++){
     var it=items[i], t=it.title_zh||it.title, sc=it.relevance||0, cl=sc>=0.55?'hi':'lo';
+    if(it.source_id==='aihot' && t.indexOf('AI HOT')===0){ var m=t.match(/— (.+)/); t=m?m[1]:t }
     h+='<div class="card '+catClass(it.category)+'">';
     h+='<div class="card-title"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(t)+'</a></div>';
     if(it.title_zh&&it.title_zh!==it.title) h+='<div class="card-eng">'+esc(it.title)+'</div>';

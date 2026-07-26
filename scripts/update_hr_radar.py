@@ -128,7 +128,7 @@ def fetch_rss(source):
         return []
     items = []
     try:
-        parsed = feedparser.parse(url)
+        parsed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; HR-Radar/1.0)")
         for entry in parsed.entries:
             title = entry.get("title", "")
             link = entry.get("link", "")
