@@ -325,7 +325,8 @@ def translate_title(title, api_key):
             json={
                 "model": "deepseek-v4-flash",
                 "messages": [{"role": "user", "content": (
-                    "翻译以下HR资讯标题为中文，并写一句摘要。只输出一行：中文标题||摘要。不要解释。\n\n" + title
+                    "翻译以下HR资讯标题为中文。然后提取2-3条核心要点（每点不超过30字，用 · 分隔）。"
+                    "只输出一行：中文标题||要点1 · 要点2 · 要点3。不要解释。\n\n" + title
                 )}],
                 "max_tokens": 300,
                 "temperature": 0.1
