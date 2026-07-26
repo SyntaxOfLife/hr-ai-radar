@@ -340,6 +340,8 @@ def translate_title(title, api_key):
                 parts = line.split("||", 1)
                 p0 = parts[0].strip()
                 p1 = parts[1].strip() if len(parts) > 1 else ""
+                if not p0 or p0.startswith("中文标题") or p0 == title:
+                    return (title, "")
                 return (p0, p1) if p0 else (title, "")
         last = text.strip().split("\n")[-1].strip()
         return (last[:25], last[26:110]) if len(last) > 25 else (title, "")

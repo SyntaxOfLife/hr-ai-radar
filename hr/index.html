@@ -132,7 +132,7 @@ function render(){
   var el=document.getElementById('list'), h='', byCat=store.items_by_category||{};
   var all=store.all_items||[], cats=store.categories||[];
   var items = cat ? (byCat[cat]||[]) : all;
-  if(mode==='signal') items=items.filter(function(x){return(x.relevance||0)>=0.3});
+  if(mode==='signal') items=items.filter(function(x){return(x.relevance||0)>=0.5});
   if(!items.length){ el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return }
   for(var i=0;i<items.length;i++){
     var it=items[i], t=it.title_zh||it.title, sc=it.relevance||0, cl=sc>=0.3?'hi':'lo';
