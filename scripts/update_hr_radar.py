@@ -260,7 +260,7 @@ def classify_item(title):
 
 
 def is_hr_relevant(title, source_id=""):
-    if source_id in ("hr_dive", "aihr", "hrzone", "hrexecutive", "talentculture", "aihot"):
+    if source_id in ("hr_dive", "aihr", "hrzone", "hrexecutive", "clo", "worklife", "manual"):
         return True
     t = title.lower()
     for noise in NOISE_KEYWORDS:
@@ -374,6 +374,29 @@ def main():
     api_key = os.environ.get("DEEPSEEK_API_KEY", "")
     categories = config.get("categories", [])
     sources = config.get("sources", [])
+    manual_items = []
+    manual_path = OUTPUT_DIR / "manual_items.json"
+    if manual_path.exists():
+        try:
+            with open(manual_path, "r", encoding="utf-8") as f:
+                for item in json.load(f).get("items", []):
+                    manual_items.append({
+                        "title": item["title"],
+                        "url": item["url"],
+                        "published_at": datetime.now(timezone.utc).isoformat(),
+                        "source_id": "manual",
+                        "source_name": item.get("source_name", "人工精选"),
+                        "source_region": item.get("region", "中国"),
+                        "source_level": "人工精选",
+                        "category": item.get("category", "案例、报告与趋势"),
+                        "is_ai_hr": False,
+                        "relevance": 0.75,
+                        "title_zh": item["title"],
+                        "summary_zh": item.get("summary", ""),
+                        "id": hashlib.md5(item["url"].encode()).hexdigest()[:12]
+                    })
+        except Exception as e:
+            print("  加载手动资讯失败: {}".format(e))
     all_items = []
     for source in sources:
         if not source.get("enabled", True):
@@ -386,6 +409,8 @@ def main():
             items = fetch_rss(source)
         print("  获取 {} 条".format(len(items)))
         all_items.extend(items)
+    all_items.extend(manual_items)
+
     print("\n总计抓取: {} 条原始资讯".format(len(all_items)))
 
     lookback = config.get("lookback_days", 7)
@@ -420,7 +445,8 @@ def main():
         uid = hashlib.md5("{}{}".format(item["url"], item["title"]).encode()).hexdigest()[:12]
         item["id"] = uid
         item["title_zh"], item["summary_zh"] = translate_title(title, api_key)
-        item["relevance"] = score_item(item)
+        if sid != "manual":
+            item["relevance"] = score_item(item)
         processed.append(item)
 
     print("HR 相关筛选后: {} 条".format(len(processed)))
@@ -431,7 +457,7 @@ def main():
     print("去重后: {} 条".format(len(processed)))
     processed.sort(key=lambda x: x.get("relevance", 0), reverse=True)
 
-    limit = config.get("daily_pick_limit", 12)
+    limit = config.get("daily_pick_limit", 20)
     final_items = processed[:limit]
 
     categorized = {cat: [] for cat in categories}
