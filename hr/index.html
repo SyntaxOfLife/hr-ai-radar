@@ -6,7 +6,7 @@
   <title>HR × AI 资讯台</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><text x='50' y='68' font-size='48' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>HR</text></svg>">
   <style>
-    :root { --bg:#f9fafb; --card:#fff; --text:#111827; --muted:#6b7280; --border:#e5e7eb; --accent:#2563eb; --accent-light:#eff6ff }
+    :root { --bg:#f9fafb; --card:#fff; --text:#111827; --muted:#6b7280; --border:#e5e7eb; --accent:#2563eb; --c-policy:#dc2626; --c-recruit:#2563eb; --c-org:#7c3aed; --c-learn:#059669; --c-product:#d97706; --c-case:#0891b2; }
     * { margin:0;padding:0;box-sizing:border-box }
     body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); line-height:1.6; -webkit-font-smoothing:antialiased }
 
@@ -34,9 +34,14 @@
     .mode-btn { flex:1; padding:7px 0; border:none; border-radius:6px; background:transparent; color:var(--muted); font-size:13px; font-weight:500; cursor:pointer; transition:all .15s }
     .mode-btn.on { background:var(--accent); color:#fff }
 
-    .list { }
-    .card { background:var(--card); padding:16px 20px; margin-bottom:6px; border-radius:8px; border:1px solid var(--border); transition:box-shadow .15s }
+    .card { background:var(--card); padding:14px 18px; margin-bottom:6px; border-radius:8px; border:1px solid var(--border); border-left:3px solid transparent; transition:box-shadow .15s }
     .card:hover { box-shadow:0 2px 8px rgba(0,0,0,.04) }
+    .card.cat-policy { border-left-color:var(--c-policy) }
+    .card.cat-recruit { border-left-color:var(--c-recruit) }
+    .card.cat-org { border-left-color:var(--c-org) }
+    .card.cat-learn { border-left-color:var(--c-learn) }
+    .card.cat-product { border-left-color:var(--c-product) }
+    .card.cat-case { border-left-color:var(--c-case) }
 
     .card-title { font-size:14.5px; font-weight:600; line-height:1.5 }
     .card-title a { color:var(--text); text-decoration:none }
@@ -45,7 +50,7 @@
     .card-desc { font-size:13px; color:var(--muted); margin-top:6px; line-height:1.6 }
 
     .card-foot { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-top:8px }
-    .foot-src { font-size:11px; color:var(--muted); font-weight:500 }
+    .foot-src { font-size:11px; font-weight:600; color:var(--text); background:#f3f4f6; padding:2px 8px; border-radius:4px }
     .foot-tag { font-size:10px; padding:2px 7px; border-radius:8px; font-weight:500 }
     .foot-tag.hi { background:#ecfdf5; color:#059669 }
     .foot-tag.lo { background:#fffbeb; color:#d97706 }
@@ -61,7 +66,7 @@
     .disclaimer { background:#fef3c7; border:1px solid #fcd34d; padding:10px 14px; margin-bottom:14px; border-radius:8px; font-size:12px; color:#92400e }
     .footer { text-align:center; padding:20px; font-size:11px; color:#9ca3af }
 
-    @media(max-width:600px){ .container { padding:12px 12px 32px } .header { padding:16px 16px 14px } .header h1 { font-size:18px } .card { padding:14px 14px } }
+    @media(max-width:600px){ .container { padding:12px 12px 32px } .header { padding:16px 16px 14px } .header h1 { font-size:18px } .card { padding:12px 12px } }
   </style>
 </head>
 <body>
@@ -85,8 +90,8 @@
   </div>
 
   <div class="mode-bar" id="modes" style="display:none">
-    <button class="mode-btn on" id="btnSig">精选信号</button>
-    <button class="mode-btn" id="btnAll">全部资讯</button>
+    <button class="mode-btn on" id="btnSig">高相关度</button>
+    <button class="mode-btn" id="btnAll">全部</button>
   </div>
 
   <div class="list" id="list"></div>
@@ -98,9 +103,13 @@
 var mode='signal', cat='', store;
 
 fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(d){
-  document.getElementById('time').textContent='更新于 '+(d.generated_at||'').substring(0,19).replace('T',' ');
+  var t = (d.generated_at||'').substring(0,19).replace('T',' ');
+  document.getElementById('time').textContent='更新于 '+t;
   var all=d.all_items||[], cats=d.categories||[];
-  if(!all.length){ document.getElementById('list').innerHTML='<div class="empty"><div class="icon">📭</div><div class="msg">暂无资讯</div></div>';return }
+  if(!all.length){
+    document.getElementById('list').innerHTML='<div class="empty"><div class="icon">📭</div><div class="msg">暂无资讯</div><div class="hint">上次更新：'+(t||'未知')+'</div></div>';
+    return
+  }
   store=d;
   document.getElementById('stats').style.display='flex';
   document.getElementById('tabsWrap').style.display='block';
@@ -108,10 +117,12 @@ fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(
   document.getElementById('st1').textContent=all.length;
   var srcs=new Set();all.forEach(function(x){srcs.add(x.source_name)});
   document.getElementById('st2').textContent=srcs.size;
-  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.3}).length;
+  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.55}).length;
   buildTabs(cats);
   render();
-}).catch(function(e){ document.getElementById('list').innerHTML='<div class="empty"><div class="icon">⚠️</div><div class="msg">加载失败</div><div class="hint">'+esc(e.message)+'</div><button class="retry" onclick="location.reload()">重试</button></div>' });
+}).catch(function(e){
+  document.getElementById('list').innerHTML='<div class="empty"><div class="icon">⚠️</div><div class="msg">加载失败</div><div class="hint">'+esc(e.message)+'</div><button class="retry" onclick="location.reload()">重试</button></div>';
+});
 
 function buildTabs(cats){
   var h='<div class="tab on" data-cat="">全部</div>';
@@ -128,15 +139,25 @@ function buildTabs(cats){
   });
 }
 
+function catClass(c){
+  if(!c)return''
+  if(c.indexOf('政策')>=0)return'cat-policy'
+  if(c.indexOf('招聘')>=0)return'cat-recruit'
+  if(c.indexOf('组织')>=0||c.indexOf('人才')>=0)return'cat-org'
+  if(c.indexOf('学习')>=0||c.indexOf('技能')>=0)return'cat-learn'
+  if(c.indexOf('产品')>=0||c.indexOf('数字化')>=0)return'cat-product'
+  return'cat-case'
+}
+
 function render(){
   var el=document.getElementById('list'), h='', byCat=store.items_by_category||{};
   var all=store.all_items||[], cats=store.categories||[];
   var items = cat ? (byCat[cat]||[]) : all;
-  if(mode==='signal') items=items.filter(function(x){return(x.relevance||0)>=0.5});
+  if(mode==='signal') items=items.filter(function(x){return(x.relevance||0)>=0.55});
   if(!items.length){ el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return }
   for(var i=0;i<items.length;i++){
-    var it=items[i], t=it.title_zh||it.title, sc=it.relevance||0, cl=sc>=0.3?'hi':'lo';
-    h+='<div class="card">';
+    var it=items[i], t=it.title_zh||it.title, sc=it.relevance||0, cl=sc>=0.55?'hi':'lo';
+    h+='<div class="card '+catClass(it.category)+'">';
     h+='<div class="card-title"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(t)+'</a></div>';
     if(it.title_zh&&it.title_zh!==it.title) h+='<div class="card-eng">'+esc(it.title)+'</div>';
     if(it.summary_zh) h+='<div class="card-desc">'+esc(it.summary_zh)+'</div>';
