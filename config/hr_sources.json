@@ -82,6 +82,16 @@
       "level": "行业媒体",
       "default_category": "组织与人才管理",
       "enabled": true
+    },
+    {
+      "id": "hrgrapevine",
+      "name": "HRGrapevine",
+      "type": "rss",
+      "url": "https://www.hrgrapevine.com/rss",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "案例、报告与趋势",
+      "enabled": true
     }
   ]
 }

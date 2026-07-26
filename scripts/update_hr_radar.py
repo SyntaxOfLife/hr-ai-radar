@@ -113,7 +113,7 @@ AI_KEYWORDS = [
 
 SOURCE_PRIORS = {
     "hr_dive": 0.5, "aihr": 0.5, "hrexecutive": 0.5,
-    "hrzone": 0.5, "clo": 0.5, "worklife": 0.5, "aihot": 0.2
+    "hrzone": 0.5, "clo": 0.5, "worklife": 0.5, "hrgrapevine": 0.5, "aihot": 0.2
 }
 
 
@@ -260,7 +260,7 @@ def classify_item(title):
 
 
 def is_hr_relevant(title, source_id=""):
-    if source_id in ("hr_dive", "aihr", "hrzone", "hrexecutive", "clo", "worklife", "manual"):
+    if source_id in ("hr_dive", "aihr", "hrzone", "hrexecutive", "clo", "worklife", "manual", "hrgrapevine"):
         return True
     t = title.lower()
     for noise in NOISE_KEYWORDS:
