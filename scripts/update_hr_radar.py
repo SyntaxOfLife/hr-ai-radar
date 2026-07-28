@@ -384,7 +384,7 @@ def main():
                     manual_items.append({
                         "title": item["title"],
                         "url": item["url"],
-                        "published_at": datetime.now(timezone.utc).isoformat(),
+                        "published_at": item.get("date", (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%d")) + "T00:00:00+00:00",
                         "source_id": "manual",
                         "source_name": item.get("source_name", "人工精选"),
                         "source_region": item.get("region", "中国"),
