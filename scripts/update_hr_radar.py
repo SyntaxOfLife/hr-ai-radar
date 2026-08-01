@@ -65,7 +65,8 @@ HR_KEYWORDS = {
         "hybrid work", "remote work", "return to office", "RTO",
         "employee survey", "employee satisfaction",
         "DEI", "diversity", "inclusion", "belonging",
-        "chief people officer", "CHRO", "VP of people"
+        "chief people officer", "CHRO", "VP of people",
+        "leader", "leaders", "future leader"
     ],
     "learning": [
         "AI培训", "学习发展", "技能转型", "企业培训", "岗位技能",
@@ -76,7 +77,7 @@ HR_KEYWORDS = {
         "coaching", "mentoring", "onboarding",
         "professional development", "credential",
         "AI skills", "AI literacy", "digital skills",
-        "leadership development", "manager training"
+        "leadership development", "manager training", "training"
     ],
     "hr_product": [
         "HR SaaS", "飞书 People", "北森", "Moka", "Workday",
