@@ -324,10 +324,10 @@ def translate_title(title, api_key):
         return title, ""
     try:
         resp = requests.post(
-            "https://api.deepseek.com/v1/chat/completions",
+            "https://api.siliconflow.cn/v1/chat/completions",
             headers={"Authorization": "Bearer " + api_key},
             json={
-                "model": "deepseek-v4-flash",
+                "model": "THUDM/GLM-4-9B-0414",
                 "messages": [{"role": "user", "content": (
                     "翻译以下HR资讯标题为中文。然后提取2-3条核心要点（每点不超过30字，用 · 分隔）。"
                     "只输出一行：中文标题||要点1 · 要点2 · 要点3。不要解释。\n\n" + title
@@ -335,7 +335,7 @@ def translate_title(title, api_key):
                 "max_tokens": 300,
                 "temperature": 0.1
             },
-            timeout=60
+            timeout=30
         )
         msg = resp.json()["choices"][0]["message"]
         text = msg.get("content", "") or msg.get("reasoning_content", "")
@@ -376,7 +376,7 @@ def main():
     print("HR x AI 资讯台 - 更新脚本")
     print("=" * 40)
     config = load_config()
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+    api_key = os.environ.get("SILICONFLOW_API_KEY", "")
     categories = config.get("categories", [])
     sources = config.get("sources", [])
     manual_items = []

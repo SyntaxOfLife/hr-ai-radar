@@ -26,6 +26,8 @@ jobs:
           pip install feedparser requests beautifulsoup4 python-dateutil
 
       - name: Update HR radar data
+        env:
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: python scripts/update_hr_radar.py
 
       - name: Commit and push
