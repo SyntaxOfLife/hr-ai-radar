@@ -82,6 +82,26 @@
       "level": "行业媒体",
       "default_category": "组织与人才管理",
       "enabled": true
+    },
+    {
+      "id": "littler",
+      "name": "Littler",
+      "type": "rss",
+      "url": "https://www.littler.com/rss.xml",
+      "region": "全球",
+      "level": "行业媒体",
+      "default_category": "政策与劳动合规",
+      "enabled": true
+    },
+    {
+      "id": "ela",
+      "name": "ELA",
+      "type": "rss",
+      "url": "https://www.ela.europa.eu/en/rss.xml",
+      "region": "欧洲",
+      "level": "官方政策",
+      "default_category": "政策与劳动合规",
+      "enabled": true
     }
   ]
 }
