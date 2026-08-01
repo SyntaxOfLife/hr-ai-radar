@@ -36,7 +36,11 @@ HR_KEYWORDS = {
         "paid leave", "sick leave", "family leave",
         "commute", "commuting", "expense reimbursement",
         "worker misclassification", "independent contractor",
-        "joint employer", "union", "collective bargaining"
+        "joint employer", "union", "collective bargaining",
+        "dismissal", "termination", "labor court", "exempt status",
+        "ordinance", "fair chance", "medical certificate",
+        "posted worker", "temporary agency", "platform work",
+        "occupational pension", "workplace monitoring"
     ],
     "ai_recruiting": [
         "AI招聘", "智能招聘", "AI面试", "简历筛选", "人才画像",

@@ -121,7 +121,7 @@ fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(
   document.getElementById('st1').textContent=all.length;
   var srcs=new Set();all.forEach(function(x){srcs.add(x.source_name)});
   document.getElementById('st2').textContent=srcs.size;
-  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.55}).length;
+  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.58}).length;
   buildTabs(cats);
   render();
 }).catch(function(e){document.getElementById('list').innerHTML='<div class="empty"><div class="icon">⚠️</div><div class="msg">数据加载失败</div><div class="hint">'+esc(e.message)+'</div><button class="retry" onclick="location.reload()">重新加载</button></div>'});
@@ -144,13 +144,13 @@ function buildTabs(cats){
 
 function catClass(c){if(!c)return'';if(c.indexOf('政策')>=0)return'policy';if(c.indexOf('招聘')>=0)return'recruit';if(c.indexOf('组织')>=0||c.indexOf('人才')>=0)return'org';if(c.indexOf('学习')>=0||c.indexOf('技能')>=0)return'learn';if(c.indexOf('产品')>=0||c.indexOf('数字化')>=0)return'product';return'case'}
 
-function scoreLabel(s){if(s>=0.55)return'hi';if(s>=0.3)return'mid';return'lo'}
-function scoreText(s){if(s>=0.55)return'高相关';if(s>=0.3)return'中相关';return''}
+function scoreLabel(s){if(s>=0.58)return'hi';if(s>=0.3)return'mid';return'lo'}
+function scoreText(s){if(s>=0.58)return'高相关';if(s>=0.3)return'中相关';return''}
 
 function render(){
   var el=document.getElementById('list'),h='',all=store.all_items||[],byCat=store.items_by_category||{};
   var items=cat?(byCat[cat]||[]):all.slice();
-  if(mode==='signal')items=items.filter(function(x){return(x.relevance||0)>=0.55});
+  if(mode==='signal')items=items.filter(function(x){return(x.relevance||0)>=0.58});
   if(!items.length){el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return}
   for(var i=0;i<items.length;i++){
     var it=items[i],t=it.title_zh||it.title,sc=it.relevance||0,sl=scoreLabel(sc),st=scoreText(sc);
