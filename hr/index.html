@@ -41,6 +41,7 @@
 
     .card-row1 { display:flex;align-items:center;gap:8px;margin-bottom:4px;font-size:12px;flex-wrap:wrap }
     .card-cat { font-weight:600;letter-spacing:.3px;white-space:nowrap;color:var(--accent) }
+    .card-top { font-size:10px;font-weight:700;color:#fff;background:var(--accent);padding:1px 6px;border-radius:3px;letter-spacing:1px }
     .card-src { font-weight:600;color:var(--muted) }
     .card-date { color:var(--light) }
     .card-score { font-size:11px;font-weight:600;padding:1px 6px;border-radius:3px }
@@ -150,7 +151,10 @@
   </aside>
 </div>
 
-<div class="footer">HR x AI 资讯台 · 内部试运行</div>
+<div class="footer">
+  <div>HR x AI 资讯台 · 内部试运行</div>
+  <div style="margin-top:6px">本页面仅汇总公开资讯，不构成劳动法律意见。政策类内容请以官方原文及法务意见为准。</div>
+</div>
 
 <script>
 var mode='all', cat='', q='', store;
@@ -220,6 +224,7 @@ function render(){
     var isRead=readSet[it.id];
     h+='<div class="card'+fea+(isRead?' read':'')+'" data-id="'+esc(it.id)+'">';
     h+='<div class="card-row1">';
+    if(fea)h+='<span class="card-top">要闻</span>';
     h+='<span class="card-cat">'+esc(it.category||'')+'</span>';
     h+='<span class="card-src">'+esc(it.source_name||'')+'</span>';
     if(st)h+='<span class="card-score '+sl+'" title="相关度 '+sc.toFixed(2)+'">'+st+'</span>';
