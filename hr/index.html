@@ -31,10 +31,13 @@
     .search input:focus { border-color:var(--accent) }
     .search input::placeholder { color:var(--light) }
 
-    .card { padding:16px 0;border-bottom:1px solid var(--border);transition:background .15s }
+    .card { padding:16px 0;border-bottom:1px solid var(--border);transition:background .15s,opacity .15s }
     .card:last-child { border-bottom:none }
     .card:hover { background:rgba(0,0,0,.012); margin:0 -8px;padding-left:8px;padding-right:8px;border-radius:4px }
     .card.featured { border-left:3px solid var(--accent); padding-left:14px; margin-left:-3px }
+    .card.read { opacity:.45 }
+    .mark-read { font-size:11px;color:var(--light);cursor:pointer;border:none;background:none;padding:2px 6px;font-family:inherit;border-radius:3px;transition:all .15s }
+    .mark-read:hover { color:var(--accent);background:var(--accent-light) }
 
     .card-row1 { display:flex;align-items:center;gap:8px;margin-bottom:4px;font-size:12px;flex-wrap:wrap }
     .card-cat { font-weight:600;letter-spacing:.3px;white-space:nowrap;color:var(--accent) }
@@ -151,6 +154,8 @@
 
 <script>
 var mode='all', cat='', q='', store;
+var readSet={};
+try{readSet=JSON.parse(localStorage.getItem('hr_read')||'{}')}catch(e){readSet={}}
 
 fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(d){
   var t=(d.generated_at||'').substring(0,19).replace('T',' ');
@@ -212,12 +217,14 @@ function render(){
     var it=items[i],t=it.title_zh||it.title,sc=it.relevance||0,sl=scoreLabel(sc),st=scoreText(sc);
     if(it.source_id==='aihot'&&t.indexOf('AI HOT')===0){var m=t.match(/— (.+)/);t=m?m[1]:t}
     var fea=(mode==='all'&&!cat&&i<2)?' featured':'';
-    h+='<div class="card'+fea+'">';
+    var isRead=readSet[it.id];
+    h+='<div class="card'+fea+(isRead?' read':'')+'" data-id="'+esc(it.id)+'">';
     h+='<div class="card-row1">';
     h+='<span class="card-cat">'+esc(it.category||'')+'</span>';
     h+='<span class="card-src">'+esc(it.source_name||'')+'</span>';
     if(st)h+='<span class="card-score '+sl+'" title="相关度 '+sc.toFixed(2)+'">'+st+'</span>';
     h+='<span class="card-date">'+fmt(it.published_at)+'</span>';
+    h+='<button class="mark-read" data-act="read">'+(isRead?'已读':'标已读')+'</button>';
     h+='</div>';
     h+='<div class="card-title"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(t)+'</a></div>';
     if(it.title_zh&&it.title_zh!==it.title)h+='<div class="card-eng">'+esc(it.title)+'</div>';
@@ -233,6 +240,16 @@ document.getElementById('searchInput').oninput=function(){q=this.value.trim();re
 function u(){document.getElementById('btnSig').className='mode-btn'+(mode==='signal'?' on':'');document.getElementById('btnAll').className='mode-btn'+(mode==='all'?' on':'');render()}
 function esc(t){if(!t)return'';var d=document.createElement('div');d.textContent=t;return d.innerHTML}
 function fmt(s){if(!s)return'';try{var d=new Date(s),now=new Date(),diff=(now-d)/1000;if(diff<3600)return Math.max(1,Math.floor(diff/60))+'分钟前';if(diff<86400)return Math.floor(diff/3600)+'小时前';if(diff<172800)return'昨天';if(diff<604800)return Math.floor(diff/86400)+'天前';return d.toLocaleString('zh-CN',{month:'short',day:'numeric'})}catch(e){return''}}
+
+document.getElementById('list').addEventListener('click',function(e){
+  var b=e.target.closest('[data-act="read"]');if(!b)return;
+  var card=b.closest('.card');if(!card)return;
+  var id=card.dataset.id;
+  readSet[id]=!readSet[id];
+  try{localStorage.setItem('hr_read',JSON.stringify(readSet))}catch(err){}
+  card.classList.toggle('read',readSet[id]);
+  b.textContent=readSet[id]?'已读':'标已读';
+});
 </script>
 </body>
 </html>
