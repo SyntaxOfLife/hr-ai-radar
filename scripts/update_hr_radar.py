@@ -40,7 +40,8 @@ HR_KEYWORDS = {
         "dismissal", "termination", "labor court", "exempt status",
         "ordinance", "fair chance", "medical certificate",
         "posted worker", "temporary agency", "platform work",
-        "occupational pension", "workplace monitoring"
+        "occupational pension", "workplace monitoring",
+        "legal risk", "legal", "federal law", "state law", "ai law", "law"
     ],
     "ai_recruiting": [
         "AI招聘", "智能招聘", "AI面试", "简历筛选", "人才画像",
@@ -53,7 +54,7 @@ HR_KEYWORDS = {
         "recruitment automation", "predictive hiring"
     ],
     "org_talent": [
-        "组织设计", "人才盘点", "组织发展", "OD", "HRBP",
+        "组织设计", "人才盘点", "组织发展", "HRBP",
         "员工体验", "人才梯队", "绩效管理",
         "organization design", "talent review", "employee experience",
         "people analytics", "succession planning",
@@ -66,7 +67,8 @@ HR_KEYWORDS = {
         "employee survey", "employee satisfaction",
         "DEI", "diversity", "inclusion", "belonging",
         "chief people officer", "CHRO", "VP of people",
-        "leader", "leaders", "future leader"
+        "leader", "leaders", "future leader",
+        "layoff", "layoffs", "internal mobility", "talent growth"
     ],
     "learning": [
         "AI培训", "学习发展", "技能转型", "企业培训", "岗位技能",
@@ -77,7 +79,8 @@ HR_KEYWORDS = {
         "coaching", "mentoring", "onboarding",
         "professional development", "credential",
         "AI skills", "AI literacy", "digital skills",
-        "leadership development", "manager training", "training"
+        "leadership development", "manager training", "training",
+        "skills"
     ],
     "hr_product": [
         "HR SaaS", "飞书 People", "北森", "Moka", "Workday",
@@ -253,10 +256,10 @@ def classify_item(title):
         return "政策与劳动合规"
     if any(kw.lower() in t for kw in HR_KEYWORDS["ai_recruiting"]):
         return "AI 招聘与招聘工具"
-    if any(kw.lower() in t for kw in HR_KEYWORDS["org_talent"]):
-        return "组织与人才管理"
     if any(kw.lower() in t for kw in HR_KEYWORDS["learning"]):
         return "学习发展与技能转型"
+    if any(kw.lower() in t for kw in HR_KEYWORDS["org_talent"]):
+        return "组织与人才管理"
     if any(kw.lower() in t for kw in HR_KEYWORDS["hr_product"]):
         return "HR 产品与数字化"
     if any(kw.lower() in t for kw in HR_KEYWORDS["cases"]):
@@ -443,7 +446,7 @@ def main():
             continue
         if sid == "aihot":
             aihot_kept += 1
-        category = classify_item(title)
+        category = item.get("category") or classify_item(title)
         if not category:
             category = item.get("default_category", "案例、报告与趋势")
         item["is_ai_hr"] = is_ai_hr_crossover(title)
