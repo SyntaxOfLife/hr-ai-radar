@@ -22,9 +22,14 @@
 
     .main { min-width:0 }
 
-    .mode-bar { display:flex;gap:14px;margin-bottom:14px;border-bottom:1px solid var(--border);padding-bottom:10px }
+    .mode-bar { display:flex;gap:14px;margin-bottom:10px;border-bottom:1px solid var(--border);padding-bottom:10px }
     .mode-btn { font-size:13px;padding:4px 0;border:none;background:none;color:var(--light);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;font-weight:500;font-family:inherit;transition:all .15s }
     .mode-btn.on { color:var(--accent);border-bottom-color:var(--accent);font-weight:600 }
+
+    .search { margin-bottom:14px }
+    .search input { width:100%; padding:8px 14px; font-size:13px; border:1px solid var(--border); border-radius:6px; background:#fff; color:var(--text); font-family:inherit; outline:none; transition:border-color .15s }
+    .search input:focus { border-color:var(--accent) }
+    .search input::placeholder { color:var(--light) }
 
     .card { padding:16px 0;border-bottom:1px solid var(--border);transition:background .15s }
     .card:last-child { border-bottom:none }
@@ -112,6 +117,9 @@
       <button class="mode-btn on" id="btnAll">全部</button>
       <button class="mode-btn" id="btnSig">高相关度</button>
     </div>
+    <div class="search" id="searchBox" style="display:none">
+      <input type="search" id="searchInput" placeholder="搜索标题、摘要、来源…">
+    </div>
     <div class="list" id="list">
       <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
       <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
@@ -142,7 +150,7 @@
 <div class="footer">HR x AI 资讯台 · 内部试运行</div>
 
 <script>
-var mode='all', cat='', store;
+var mode='all', cat='', q='', store;
 
 fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(d){
   var t=(d.generated_at||'').substring(0,19).replace('T',' ');
@@ -151,6 +159,7 @@ fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(
   if(!all.length){document.getElementById('list').innerHTML='<div class="empty"><div class="icon">\u{1F4ED}</div><div class="msg">暂无资讯</div><div class="hint">上次更新：'+(t||'未知')+'</div></div>';return}
   store=d;
   document.getElementById('modes').style.display='flex';
+  document.getElementById('searchBox').style.display='block';
   document.getElementById('side').style.display='block';
   buildNav(cats);
   buildStats(all);
@@ -197,6 +206,7 @@ function render(){
   var el=document.getElementById('list'),h='',all=store.all_items||[],byCat=store.items_by_category||{};
   var items=cat?(byCat[cat]||[]):all.slice();
   if(mode==='signal')items=items.filter(function(x){return(x.relevance||0)>=0.58});
+  if(q){var ql=q.toLowerCase();items=items.filter(function(x){var hay=(x.title+' '+(x.title_zh||'')+' '+(x.summary_zh||'')+' '+(x.source_name||'')).toLowerCase();return hay.indexOf(ql)>=0})}
   if(!items.length){el.innerHTML='<div class="empty"><div class="msg">无匹配内容</div></div>';return}
   for(var i=0;i<items.length;i++){
     var it=items[i],t=it.title_zh||it.title,sc=it.relevance||0,sl=scoreLabel(sc),st=scoreText(sc);
@@ -219,6 +229,7 @@ function render(){
 
 document.getElementById('btnSig').onclick=function(){mode='signal';u()};
 document.getElementById('btnAll').onclick=function(){mode='all';u()};
+document.getElementById('searchInput').oninput=function(){q=this.value.trim();render()};
 function u(){document.getElementById('btnSig').className='mode-btn'+(mode==='signal'?' on':'');document.getElementById('btnAll').className='mode-btn'+(mode==='all'?' on':'');render()}
 function esc(t){if(!t)return'';var d=document.createElement('div');d.textContent=t;return d.innerHTML}
 function fmt(s){if(!s)return'';try{var d=new Date(s),now=new Date(),diff=(now-d)/1000;if(diff<3600)return Math.max(1,Math.floor(diff/60))+'分钟前';if(diff<86400)return Math.floor(diff/3600)+'小时前';if(diff<172800)return'昨天';if(diff<604800)return Math.floor(diff/86400)+'天前';return d.toLocaleString('zh-CN',{month:'short',day:'numeric'})}catch(e){return''}}
