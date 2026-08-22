@@ -13,38 +13,26 @@
     body { font-family:'Inter',-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); line-height:1.7; -webkit-font-smoothing:antialiased }
 
     .head-bar { height:3px; background:var(--accent) }
-    .header { max-width:960px; margin:0 auto; padding:32px 20px 18px; border-bottom:1px solid var(--border) }
+    .header { max-width:1160px; margin:0 auto; padding:32px 24px 18px; border-bottom:1px solid var(--border) }
     .header h1 { font-family:'Noto Serif SC',serif; font-size:28px; font-weight:700; color:var(--text); letter-spacing:-0.5px }
     .header .sub { font-size:13px; color:var(--muted); margin-top:4px; font-family:'Noto Serif SC',serif }
     .header .time { font-size:12px; color:var(--light); margin-top:6px }
 
-    .container { max-width:960px; margin:0 auto; padding:16px 20px 48px }
+    .container { max-width:1160px; margin:0 auto; padding:20px 24px 48px; display:grid; grid-template-columns:1fr 280px; gap:36px; align-items:start }
 
-    .stats { display:flex; margin-bottom:16px; border-bottom:1px solid var(--border); padding-bottom:14px }
-    .stats .s { flex:1; text-align:center }
-    .stats .s+.s { border-left:1px solid var(--border) }
-    .stats .n { font-size:30px; font-weight:700; color:var(--accent) }
-    .stats .l { font-size:11px; color:var(--light); margin-top:2px }
+    .main { min-width:0 }
 
-    .tabs { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px }
-    .tab { font-size:13px; padding:5px 12px; border-radius:16px; cursor:pointer; white-space:nowrap; background:none; border:1px solid var(--border); color:var(--muted); font-family:inherit; transition:all .15s }
-    .tab:hover { color:var(--text);border-color:var(--light) }
-    .tab.on { background:var(--accent);color:#fff;border-color:var(--accent);font-weight:600 }
-    .tab .c { font-size:10px;opacity:.6;margin-left:2px;font-weight:400 }
-
-    .mode-bar { display:flex;gap:12px;margin-bottom:14px }
-    .mode-btn { font-size:13px;padding:4px 0;border:none;background:none;color:var(--light);cursor:pointer;border-bottom:2px solid transparent;font-weight:500;font-family:inherit;transition:all .15s }
+    .mode-bar { display:flex;gap:14px;margin-bottom:14px;border-bottom:1px solid var(--border);padding-bottom:10px }
+    .mode-btn { font-size:13px;padding:4px 0;border:none;background:none;color:var(--light);cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;font-weight:500;font-family:inherit;transition:all .15s }
     .mode-btn.on { color:var(--accent);border-bottom-color:var(--accent);font-weight:600 }
-    .mode-hint { font-size:11px;color:var(--light);margin-left:2px;cursor:help;line-height:2.2 }
 
-    .card { padding:18px 0;border-bottom:1px solid var(--border);transition:background .15s }
+    .card { padding:16px 0;border-bottom:1px solid var(--border);transition:background .15s }
     .card:last-child { border-bottom:none }
     .card:hover { background:rgba(0,0,0,.012); margin:0 -8px;padding-left:8px;padding-right:8px;border-radius:4px }
 
     .card-row1 { display:flex;align-items:center;gap:8px;margin-bottom:4px;font-size:12px;flex-wrap:wrap }
-    .card-cat { font-weight:600;letter-spacing:.3px;white-space:nowrap }
-    .card-cat.policy { color:#b91c1c } .card-cat.recruit { color:#1e40af } .card-cat.org { color:#6d28d9 } .card-cat.learn { color:#047857 } .card-cat.product { color:#b45309 } .card-cat.case { color:#0e7490 }
-    .card-src { font-weight:600;color:var(--accent) }
+    .card-cat { font-weight:600;letter-spacing:.3px;white-space:nowrap;color:var(--accent) }
+    .card-src { font-weight:600;color:var(--muted) }
     .card-date { color:var(--light) }
     .card-score { font-size:11px;font-weight:600;padding:1px 6px;border-radius:3px }
     .card-score.hi { background:var(--accent-light);color:var(--accent) }
@@ -58,6 +46,28 @@
     .card-eng { font-size:12px;color:var(--light);margin-bottom:4px }
     .card-desc { font-size:14px;color:var(--muted);line-height:1.7 }
 
+    .side { position:sticky; top:20px; }
+    .side-box { margin-bottom:24px }
+    .side-title { font-size:11px;font-weight:700;letter-spacing:.5px;color:var(--light);text-transform:uppercase;margin-bottom:10px;font-family:'Inter',sans-serif }
+
+    .cat-nav { display:flex;flex-direction:column }
+    .cat-nav .cn { display:flex;justify-content:space-between;align-items:center;padding:8px 0;border:none;background:none;cursor:pointer;font-size:13px;color:var(--muted);font-family:inherit;border-bottom:1px solid var(--border);transition:color .15s;text-align:left }
+    .cat-nav .cn:hover { color:var(--text) }
+    .cat-nav .cn.on { color:var(--accent);font-weight:600 }
+    .cat-nav .cn:last-child { border-bottom:none }
+    .cat-nav .cn .n { font-size:11px;color:var(--light);font-weight:400 }
+    .cat-nav .cn.on .n { color:var(--accent) }
+
+    .src-list { display:flex;flex-direction:column }
+    .src-list .sr { display:flex;justify-content:space-between;align-items:center;padding:5px 0;font-size:12px;color:var(--muted) }
+    .src-list .sr .n { color:var(--light);font-size:11px }
+
+    .side-stats { display:flex;gap:0;border:1px solid var(--border);border-radius:6px;overflow:hidden }
+    .side-stats .ss { flex:1;text-align:center;padding:12px 6px;background:#fff }
+    .side-stats .ss+.ss { border-left:1px solid var(--border) }
+    .side-stats .n { font-size:24px;font-weight:700;color:var(--accent) }
+    .side-stats .l { font-size:10px;color:var(--light);margin-top:2px }
+
     .skeleton .sk-line { height:12px;background:#e5e7eb;border-radius:3px;margin-bottom:8px;animation:shimmer 1.5s infinite }
     .sk-line.w60 { width:60% } .sk-line.w80 { width:80% } .sk-line.w100 { width:100% }
     @keyframes shimmer { 0%{opacity:.5} 50%{opacity:1} 100%{opacity:.5} }
@@ -68,10 +78,23 @@
     .empty .hint { font-size:13px;color:var(--light) }
     .retry { display:inline-block;margin-top:12px;padding:6px 20px;background:var(--accent);color:#fff;border:none;border-radius:4px;font-size:12px;cursor:pointer;font-family:inherit }
 
-    .disclaimer { padding:10px 0 14px;margin-bottom:14px;border-bottom:1px solid var(--border);font-family:'Noto Serif SC',serif;font-size:12px;color:var(--muted);font-style:italic }
-    .footer { text-align:center;padding:20px;font-size:11px;color:var(--light);border-top:1px solid var(--border) }
+    .disclaimer { padding:12px 0;margin-bottom:14px;border-bottom:1px solid var(--border);font-family:'Noto Serif SC',serif;font-size:12px;color:var(--muted);font-style:italic }
+    .footer { text-align:center;padding:20px;font-size:11px;color:var(--light);border-top:1px solid var(--border);max-width:1160px;margin:0 auto }
 
-    @media(max-width:600px){ .container { padding:12px 12px 32px } .header { padding:24px 12px 16px } .header h1 { font-size:22px } .card-title { font-size:16px } .stats .n { font-size:24px } .card:hover { margin:0 -4px;padding-left:4px;padding-right:4px } }
+    @media(max-width:860px){
+      .container { grid-template-columns:1fr; padding:12px 16px 32px }
+      .side { position:static; order:-1; margin-bottom:8px }
+      .cat-nav { flex-direction:row;flex-wrap:wrap;gap:6px }
+      .cat-nav .cn { border:1px solid var(--border);border-radius:14px;padding:4px 10px;font-size:12px }
+      .cat-nav .cn.on { background:var(--accent);color:#fff;border-color:var(--accent) }
+      .cat-nav .cn .n { display:none }
+      .cat-nav .cn.on .n { display:none }
+      .src-list { display:none }
+      .side-stats { display:none }
+      .header { padding:24px 16px 16px }
+      .header h1 { font-size:22px }
+      .card-title { font-size:16px }
+    }
   </style>
 </head>
 <body>
@@ -83,26 +106,36 @@
 </div>
 
 <div class="container">
-  <div class="disclaimer">本页面仅汇总公开资讯，不构成劳动法律意见。政策类内容请以官方原文及法务意见为准。</div>
-
-  <div class="stats" id="stats" style="display:none">
-    <div class="s"><div class="n" id="st1">-</div><div class="l">今日资讯</div></div>
-    <div class="s"><div class="n" id="st2">-</div><div class="l">信息源</div></div>
-    <div class="s"><div class="n" id="st3">-</div><div class="l">高相关度</div></div>
+  <div class="main">
+    <div class="mode-bar" id="modes" style="display:none">
+      <button class="mode-btn on" id="btnAll">全部</button>
+      <button class="mode-btn" id="btnSig">高相关度</button>
+    </div>
+    <div class="list" id="list">
+      <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
+      <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
+      <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
+    </div>
   </div>
 
-  <div class="tabs" id="tabs"><button class="tab on" data-cat="">全部</button></div>
-
-  <div class="mode-bar" id="modes" style="display:none">
-    <button class="mode-btn on" id="btnAll">全部</button>
-    <button class="mode-btn" id="btnSig">高相关度</button>
-  </div>
-
-  <div class="list" id="list">
-    <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
-    <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
-    <div class="skeleton"><div class="sk-line w80"></div><div class="sk-line w100"></div><div class="sk-line w60"></div></div>
-  </div>
+  <aside class="side" id="side" style="display:none">
+    <div class="side-box">
+      <div class="side-title">分类</div>
+      <div class="cat-nav" id="catNav"></div>
+    </div>
+    <div class="side-box">
+      <div class="side-title">概览</div>
+      <div class="side-stats">
+        <div class="ss"><div class="n" id="st1">-</div><div class="l">资讯</div></div>
+        <div class="ss"><div class="n" id="st2">-</div><div class="l">来源</div></div>
+        <div class="ss"><div class="n" id="st3">-</div><div class="l">高相关</div></div>
+      </div>
+    </div>
+    <div class="side-box">
+      <div class="side-title">来源分布</div>
+      <div class="src-list" id="srcList"></div>
+    </div>
+  </aside>
 </div>
 
 <div class="footer">HR x AI 资讯台 · 内部试运行</div>
@@ -116,33 +149,45 @@ fetch('../data/hr-radar.json').then(function(r){return r.json()}).then(function(
   var all=d.all_items||[],cats=d.categories||[];
   if(!all.length){document.getElementById('list').innerHTML='<div class="empty"><div class="icon">\u{1F4ED}</div><div class="msg">暂无资讯</div><div class="hint">上次更新：'+(t||'未知')+'</div></div>';return}
   store=d;
-  document.getElementById('stats').style.display='flex';
   document.getElementById('modes').style.display='flex';
-  document.getElementById('st1').textContent=all.length;
-  var srcs=new Set();all.forEach(function(x){srcs.add(x.source_name)});
-  document.getElementById('st2').textContent=srcs.size;
-  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.58}).length;
-  buildTabs(cats);
+  document.getElementById('side').style.display='block';
+  buildNav(cats);
+  buildStats(all);
+  buildSrc(all);
   render();
 }).catch(function(e){document.getElementById('list').innerHTML='<div class="empty"><div class="icon">⚠️</div><div class="msg">数据加载失败</div><div class="hint">'+esc(e.message)+'</div><button class="retry" onclick="location.reload()">重新加载</button></div>'});
 
-function buildTabs(cats){
-  var h='<button class="tab on" data-cat="">全部</button>';
+function buildNav(cats){
+  var h='<button class="cn on" data-cat="">全部<span class="n">'+store.all_items.length+'</span></button>';
   for(var i=0;i<cats.length;i++){
     var n=((store.items_by_category||{})[cats[i]]||[]).length;
     if(!n)continue;
-    h+='<button class="tab" data-cat="'+esc(cats[i])+'">'+esc(cats[i])+'<span class="c"> '+n+'</span></button>';
+    h+='<button class="cn" data-cat="'+esc(cats[i])+'">'+esc(cats[i])+'<span class="n">'+n+'</span></button>';
   }
-  document.getElementById('tabs').innerHTML=h;
-  document.getElementById('tabs').onclick=function(e){
-    var t=e.target.closest('.tab');if(!t)return;
+  document.getElementById('catNav').innerHTML=h;
+  document.getElementById('catNav').onclick=function(e){
+    var t=e.target.closest('.cn');if(!t)return;
     cat=t.dataset.cat||'';
-    document.querySelectorAll('.tab').forEach(function(x){x.classList.toggle('on',x===t)});
+    document.querySelectorAll('.cn').forEach(function(x){x.classList.toggle('on',x===t)});
     render();
   };
 }
 
-function catClass(c){if(!c)return'';if(c.indexOf('政策')>=0)return'policy';if(c.indexOf('招聘')>=0)return'recruit';if(c.indexOf('组织')>=0||c.indexOf('人才')>=0)return'org';if(c.indexOf('学习')>=0||c.indexOf('技能')>=0)return'learn';if(c.indexOf('产品')>=0||c.indexOf('数字化')>=0)return'product';return'case'}
+function buildStats(all){
+  document.getElementById('st1').textContent=all.length;
+  var srcs=new Set();all.forEach(function(x){srcs.add(x.source_name)});
+  document.getElementById('st2').textContent=srcs.size;
+  document.getElementById('st3').textContent=all.filter(function(x){return(x.relevance||0)>=0.58}).length;
+}
+
+function buildSrc(all){
+  var m={};
+  all.forEach(function(x){m[x.source_name]=(m[x.source_name]||0)+1});
+  var arr=Object.keys(m).sort(function(a,b){return m[b]-m[a]});
+  var h='';
+  arr.forEach(function(k){h+='<div class="sr"><span>'+esc(k)+'</span><span class="n">'+m[k]+'</span></div>'});
+  document.getElementById('srcList').innerHTML=h;
+}
 
 function scoreLabel(s){if(s>=0.58)return'hi';if(s>=0.3)return'mid';return'lo'}
 function scoreText(s){if(s>=0.58)return'高相关';if(s>=0.3)return'中相关';return''}
@@ -157,7 +202,7 @@ function render(){
     if(it.source_id==='aihot'&&t.indexOf('AI HOT')===0){var m=t.match(/— (.+)/);t=m?m[1]:t}
     h+='<div class="card">';
     h+='<div class="card-row1">';
-    h+='<span class="card-cat '+catClass(it.category)+'">'+esc(it.category||'')+'</span>';
+    h+='<span class="card-cat">'+esc(it.category||'')+'</span>';
     h+='<span class="card-src">'+esc(it.source_name||'')+'</span>';
     if(st)h+='<span class="card-score '+sl+'" title="相关度 '+sc.toFixed(2)+'">'+st+'</span>';
     h+='<span class="card-date">'+fmt(it.published_at)+'</span>';
