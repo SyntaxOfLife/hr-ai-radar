@@ -229,7 +229,7 @@ function render(){
     h+='<span class="card-src">'+esc(it.source_name||'')+'</span>';
     if(st)h+='<span class="card-score '+sl+'" title="相关度 '+sc.toFixed(2)+'">'+st+'</span>';
     h+='<span class="card-date">'+fmt(it.published_at)+'</span>';
-    h+='<button class="mark-read" data-act="read">'+(isRead?'已读':'标已读')+'</button>';
+    h+='<button class="mark-read" data-act="read" title="'+(isRead?'取消已读':'标记为已读')+'">'+(isRead?'✓ 已读':'○')+'</button>';
     h+='</div>';
     h+='<div class="card-title"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(t)+'</a></div>';
     if(it.title_zh&&it.title_zh!==it.title)h+='<div class="card-eng">'+esc(it.title)+'</div>';
@@ -253,7 +253,8 @@ document.getElementById('list').addEventListener('click',function(e){
   readSet[id]=!readSet[id];
   try{localStorage.setItem('hr_read',JSON.stringify(readSet))}catch(err){}
   card.classList.toggle('read',readSet[id]);
-  b.textContent=readSet[id]?'已读':'标已读';
+  b.textContent=readSet[id]?'✓ 已读':'○';
+  b.title=readSet[id]?'取消已读':'标记为已读';
 });
 </script>
 </body>
