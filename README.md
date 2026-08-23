@@ -4,7 +4,7 @@
 
 ## 聚焦人力资源与人工智能交叉领域
 
-**工作日每天早上 8 点，自动汇总海外 HR 资讯 + 中国劳动政策，翻译成中文，按相关度精选。**
+**每天早上 8 点，自动汇总海外 HR 资讯 + 中国劳动政策，翻译成中文，按相关度精选。**
 
 [![Live](https://img.shields.io/badge/Live-SyntaxOfLife.github.io%2Fhr--ai--radar-blue?style=flat-square)](https://SyntaxOfLife.github.io/hr-ai-radar/hr/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
@@ -27,8 +27,12 @@
 
 - **9 个自动信息源** + 微信公众号人工精选
 - **AI 中文翻译**（硅基流动 GLM-4）
-- **相关度打分**，区分"高相关度"和"全部"两档
+- **相关度打分**，区分"高相关度"和"全部"两档，最高分置顶为"要闻"
 - **6 个栏目分类**，政策合规 / AI招聘 / 组织人才 / 学习发展 / HR产品 / 案例趋势
+- **两栏布局**，桌面端侧栏分类导航 + 来源分布
+- **搜索**，实时过滤标题、摘要、来源
+- **已读标记**，本地保存阅读进度
+- **PWA 支持**，可添加到手机主屏，像 App 一样打开
 - **GitHub Actions 每天自动更新**（北京时间 8:00）
 
 ## 信息源
@@ -60,6 +64,9 @@ config/hr_sources.json   # 信息源配置
 scripts/update_hr_radar.py  # 抓取 + 分类 + 打分 + 翻译
 data/manual_items.json   # 公众号人工精选
 hr/index.html            # 前端页面
+hr/manifest.json         # PWA 配置
+hr/sw.js                 # Service Worker（离线缓存）
+hr/icon.svg              # 应用图标
 .github/workflows/update-hr-radar.yml  # 自动更新
 ```
 
