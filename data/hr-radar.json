@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:44:29.679341+08:00",
+  "generated_at": "2026-08-25T09:39:47.363379+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -12,21 +12,6 @@
   ],
   "items_by_category": {
     "政策与劳动合规": [
-      {
-        "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
-        "url": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
-        "published_at": "2026-08-20T12:15:40+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "89c68a50d70a",
-        "title_zh": "州与联邦AI法律：HR高管今日需研究的地图（及要点",
-        "summary_zh": "州法与联邦法并存 · 关注合规风险 · 制定应对策略",
-        "relevance": 0.77
-      },
       {
         "title": "EU Platform Work Directive: Uncertainty Ahead of the Implementation Deadline",
         "url": "https://www.littler.com/news-analysis/asap/eu-platform-work-directive-uncertainty-ahead-implementation-deadline",
@@ -45,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-08-19T00:00:00+00:00",
+        "published_at": "2026-08-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -56,6 +41,21 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
+      },
+      {
+        "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
+        "url": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
+        "published_at": "2026-08-24T16:54:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "6330975558be",
+        "title_zh": "EFAA涵盖仲裁程序中产生的索赔，第九巡回法院裁定",
+        "summary_zh": "涵盖仲裁索赔 · 第九巡回法院裁定 · EFAA适用",
+        "relevance": 0.73
       },
       {
         "title": "Amazon worker fired shortly after disclosing pregnancy has discrimination claim, court rules",
@@ -69,32 +69,16 @@
         "category": "政策与劳动合规",
         "id": "6d704eb95a58",
         "title_zh": "亚马逊员工披露怀孕后不久被解雇，法院裁定存在歧视，",
-        "summary_zh": "披露怀孕被解雇 · 法院裁定歧视 · 员工胜诉",
+        "summary_zh": "怀孕被解雇 · 法院裁决歧视 · 员工胜诉",
         "relevance": 0.29
       }
     ],
-    "AI 招聘与招聘工具": [
-      {
-        "title": "Only 1 in 5 organizations are prepared to move toward autonomous AI agents, Deloitte finds",
-        "url": "https://www.hrdive.com/news/only-1-in-5-organizations-are-prepared-to-move-toward-autonomous-ai-agents/828324/",
-        "published_at": "2026-08-20T13:48:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "AI 招聘与招聘工具",
-        "id": "2a46de0bfc86",
-        "title_zh": "只有五分之一的企业准备转向自主AI代理，德勤发现",
-        "summary_zh": "准备转向 · 自主AI · 五分之一",
-        "relevance": 0.77
-      }
-    ],
+    "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-08-19T00:00:00+00:00",
+        "published_at": "2026-08-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -107,18 +91,18 @@
         "id": "3c2c2dfc96b7"
       },
       {
-        "title": "HR leaders already have the tools to make organizational change stick",
-        "url": "https://hrexecutive.com/hr-leaders-already-have-the-tools-to-make-organizational-change-stick/",
-        "published_at": "2026-08-20T12:30:40+00:00",
+        "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
+        "url": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
+        "published_at": "2026-08-24T22:13:37+00:00",
         "source_id": "hrexecutive",
         "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "组织与人才管理",
-        "id": "ea5388d52070",
-        "title_zh": "人力资源领导者已具备使组织变革持久的工具",
-        "summary_zh": "变革持久 · 工具完备 · 领导力关键",
+        "id": "34a3a881e2e9",
+        "title_zh": "员工留任策略：领导者如何打造让员工感到被重视的工作",
+        "summary_zh": "提升员工价值感 · 营造积极工作环境 · 实施有效留任措施",
         "relevance": 0.5
       },
       {
@@ -139,6 +123,36 @@
     ],
     "学习发展与技能转型": [
       {
+        "title": "Layoff headlines aside, companies claim they’re reskilling their way through talent gaps",
+        "url": "https://hrexecutive.com/layoff-headlines-aside-companies-claim-theyre-reskilling-their-way-through-talent-gaps/",
+        "published_at": "2026-08-24T11:30:14+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "a061f626c510",
+        "title_zh": "裁员新闻暂且不论，企业声称通过再培训填补人才缺口",
+        "summary_zh": "再培训解决人才缺口 · 企业积极行动 · 提升员工技能",
+        "relevance": 0.8
+      },
+      {
+        "title": "Leadership sustainability: Rethinking the intended outcome of leadership development",
+        "url": "https://www.chieflearningofficer.com/2026/08/24/leadership-sustainability-rethinking-the-intended-outcome-of-leadership-development/",
+        "published_at": "2026-08-24T06:00:00+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "f4a06ff317bc",
+        "title_zh": "领导力可持续发展：重新思考领导力发展的预期成果",
+        "summary_zh": "重塑领导力目标 · 关注长期发展 · 优化培养方式",
+        "relevance": 0.8
+      },
+      {
         "title": "Skills, AI and the future of work: A look inside Workforce Solutions 2026",
         "url": "https://hrzone.com/skills-ai-and-the-future-of-work-a-look-inside-workforce-solutions-2026/",
         "published_at": "2026-08-20T07:00:00+00:00",
@@ -149,13 +163,28 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "fbda20c9a97f",
-        "title_zh": "技能、人工智能与工作的未来：洞察2026年劳动力解",
-        "summary_zh": "技能重要性提升 · AI改变工作方式 · 未来工作形态变革",
+        "title_zh": "技能、人工智能与未来工作：洞察2026年劳动力解决",
+        "summary_zh": "技能提升 · AI赋能 · 适应变革",
         "relevance": 0.77
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+        "url": "https://www.littler.com/press/news/mailbag-do-we-need-form-i-9s-employees-hired-long-ago",
+        "published_at": "2026-08-24T15:01:39+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "76570cf291ed",
+        "title_zh": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+        "summary_zh": "",
+        "relevance": 0.6
+      },
       {
         "title": "Update on Temporary Protected Status for El Salvador and Ukraine",
         "url": "https://www.littler.com/news-analysis/asap/update-temporary-protected-status-el-salvador-and-ukraine",
@@ -183,7 +212,7 @@
         "category": "案例、报告与趋势",
         "id": "b2effbcb9a09",
         "title_zh": "加拿大：安大略省上诉法院判决提高RSU和股权激励计",
-        "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律责任加重",
+        "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律后果更严重",
         "relevance": 0.6
       },
       {
@@ -197,7 +226,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "402b3533befe",
-        "title_zh": "技能劳动力需求激增。AI或为原因亦为解决方案",
+        "title_zh": "技能劳动力需求激增。AI或为原因也为解决方案",
         "summary_zh": "需求激增 · AI是原因 · AI是解决方案",
         "relevance": 0.5
       },
@@ -213,22 +242,7 @@
         "category": "案例、报告与趋势",
         "id": "eb4660589a94",
         "title_zh": "女性在AI workforce中显著代表性不足",
-        "summary_zh": "代表性不足 · 男性主导 · 需要更多女性",
-        "relevance": 0.5
-      },
-      {
-        "title": "Managers say they are using public AI tools to prepare for hard conversations",
-        "url": "https://www.hrdive.com/news/managers-using-public-ai-tools-hard-conversations/828497/",
-        "published_at": "2026-08-21T15:21:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "642b69d6c4ad",
-        "title_zh": "管理者称使用公共AI工具为艰难对话做准备",
-        "summary_zh": "使用AI工具 · 预备艰难对话 · 提升效率",
+        "summary_zh": "代表性不足 · 人才短缺 · 性别失衡",
         "relevance": 0.5
       },
       {
@@ -243,22 +257,22 @@
         "category": "案例、报告与趋势",
         "id": "08bed1b5e14b",
         "title_zh": "五步：人力资源指南，重塑AI时代生产力",
-        "summary_zh": "重新定义生产力 · 关注员工发展 · 利用AI技术",
+        "summary_zh": "重新定义工作方式 · 关注员工福祉 · 利用AI技术",
         "relevance": 0.5
       },
       {
-        "title": "The four-day week myth: Why AI won’t reduce workloads",
-        "url": "https://hrzone.com/the-four-day-week-myth-why-ai-productivity-gains-wont-reduce-workloads/",
-        "published_at": "2026-08-17T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
+        "title": "Who’s accountable when AI blurs HR and IT?",
+        "url": "https://hrexecutive.com/whos-accountable-when-ai-blurs-hr-and-it/",
+        "published_at": "2026-08-24T12:00:52+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "bc06c700e101",
-        "title_zh": "四天工作制神话：为何AI不会减轻工作负担",
-        "summary_zh": "AI不能减轻负担 · 提高效率 · 需要适应",
+        "id": "d282e9025ccc",
+        "title_zh": "人工智能模糊HR与IT界限时，谁负责？",
+        "summary_zh": "责任归属待定 · AI影响决策 · 需跨部门协作",
         "relevance": 0.5
       },
       {
@@ -277,6 +291,21 @@
         "relevance": 0.5
       },
       {
+        "title": "AIHOT 日报 · 2026-08-25 — GPT-5.6 登陆 Kiro，为开发者提升性价比",
+        "url": "https://aihot.virxact.com/daily/2026-08-25",
+        "published_at": "2026-08-25T00:00:00+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "d4f7ebaa25f8",
+        "title_zh": "AIHOT 日报 · 2026-08-25 — G",
+        "summary_zh": "GPT-5.6登陆Kiro · 提升开发者性价比 · 新功能助力开发",
+        "relevance": 0.2
+      },
+      {
         "title": "AIHOT 日报 · 2026-08-24 — 德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
         "url": "https://aihot.virxact.com/daily/2026-08-24",
         "published_at": "2026-08-24T00:00:01+00:00",
@@ -288,56 +317,41 @@
         "category": "案例、报告与趋势",
         "id": "6c9b19edbb01",
         "title_zh": "AIHOT 日报 · 2026-08-24 — 德",
-        "summary_zh": "学生揭发攻击 · AI黑客企图 · 德州事件",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-23 — 第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
-        "url": "https://aihot.virxact.com/daily/2026-08-23",
-        "published_at": "2026-08-23T00:00:18+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "9697b3da8f6e",
-        "title_zh": "AIHOT 日报 · 2026-08-23 — 第",
-        "summary_zh": "开幕竞技 · 机器人齐聚 · 赛项丰富",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-22 — 面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
-        "url": "https://aihot.virxact.com/daily/2026-08-22",
-        "published_at": "2026-08-22T00:01:08+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "f4e3ac7ecaec",
-        "title_zh": "AIHOT 日报 · 2026-08-22 — 面",
-        "summary_zh": "MathForm开源框架 · 支持Lean 4 · 包含数据集与模型",
+        "summary_zh": "学生揭发攻击 · 恶意AI攻击 · 德州事件",
         "relevance": 0.2
       }
     ]
   },
   "all_items": [
     {
-      "title": "Only 1 in 5 organizations are prepared to move toward autonomous AI agents, Deloitte finds",
-      "url": "https://www.hrdive.com/news/only-1-in-5-organizations-are-prepared-to-move-toward-autonomous-ai-agents/828324/",
-      "published_at": "2026-08-20T13:48:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "Layoff headlines aside, companies claim they’re reskilling their way through talent gaps",
+      "url": "https://hrexecutive.com/layoff-headlines-aside-companies-claim-theyre-reskilling-their-way-through-talent-gaps/",
+      "published_at": "2026-08-24T11:30:14+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "AI 招聘与招聘工具",
-      "id": "2a46de0bfc86",
-      "title_zh": "只有五分之一的企业准备转向自主AI代理，德勤发现",
-      "summary_zh": "准备转向 · 自主AI · 五分之一",
-      "relevance": 0.77
+      "category": "学习发展与技能转型",
+      "id": "a061f626c510",
+      "title_zh": "裁员新闻暂且不论，企业声称通过再培训填补人才缺口",
+      "summary_zh": "再培训解决人才缺口 · 企业积极行动 · 提升员工技能",
+      "relevance": 0.8
+    },
+    {
+      "title": "Leadership sustainability: Rethinking the intended outcome of leadership development",
+      "url": "https://www.chieflearningofficer.com/2026/08/24/leadership-sustainability-rethinking-the-intended-outcome-of-leadership-development/",
+      "published_at": "2026-08-24T06:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "f4a06ff317bc",
+      "title_zh": "领导力可持续发展：重新思考领导力发展的预期成果",
+      "summary_zh": "重塑领导力目标 · 关注长期发展 · 优化培养方式",
+      "relevance": 0.8
     },
     {
       "title": "Skills, AI and the future of work: A look inside Workforce Solutions 2026",
@@ -350,23 +364,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "fbda20c9a97f",
-      "title_zh": "技能、人工智能与工作的未来：洞察2026年劳动力解",
-      "summary_zh": "技能重要性提升 · AI改变工作方式 · 未来工作形态变革",
-      "relevance": 0.77
-    },
-    {
-      "title": "State vs. federal AI law: The map (and takeaways) every HR executive needs to study today",
-      "url": "https://hrexecutive.com/state-vs-federal-ai-law-the-map-and-takeaways-every-hr-executive-needs-to-study-today/",
-      "published_at": "2026-08-20T12:15:40+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "89c68a50d70a",
-      "title_zh": "州与联邦AI法律：HR高管今日需研究的地图（及要点",
-      "summary_zh": "州法与联邦法并存 · 关注合规风险 · 制定应对策略",
+      "title_zh": "技能、人工智能与未来工作：洞察2026年劳动力解决",
+      "summary_zh": "技能提升 · AI赋能 · 适应变革",
       "relevance": 0.77
     },
     {
@@ -387,7 +386,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-08-19T00:00:00+00:00",
+      "published_at": "2026-08-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -402,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-08-19T00:00:00+00:00",
+      "published_at": "2026-08-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -413,6 +412,36 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
+      "url": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
+      "published_at": "2026-08-24T16:54:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "6330975558be",
+      "title_zh": "EFAA涵盖仲裁程序中产生的索赔，第九巡回法院裁定",
+      "summary_zh": "涵盖仲裁索赔 · 第九巡回法院裁定 · EFAA适用",
+      "relevance": 0.73
+    },
+    {
+      "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+      "url": "https://www.littler.com/press/news/mailbag-do-we-need-form-i-9s-employees-hired-long-ago",
+      "published_at": "2026-08-24T15:01:39+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "76570cf291ed",
+      "title_zh": "Mailbag: Do we need Form I-9s for employees hired long ago?",
+      "summary_zh": "",
+      "relevance": 0.6
     },
     {
       "title": "Update on Temporary Protected Status for El Salvador and Ukraine",
@@ -441,7 +470,7 @@
       "category": "案例、报告与趋势",
       "id": "b2effbcb9a09",
       "title_zh": "加拿大：安大略省上诉法院判决提高RSU和股权激励计",
-      "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律责任加重",
+      "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律后果更严重",
       "relevance": 0.6
     },
     {
@@ -455,7 +484,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "402b3533befe",
-      "title_zh": "技能劳动力需求激增。AI或为原因亦为解决方案",
+      "title_zh": "技能劳动力需求激增。AI或为原因也为解决方案",
       "summary_zh": "需求激增 · AI是原因 · AI是解决方案",
       "relevance": 0.5
     },
@@ -471,22 +500,7 @@
       "category": "案例、报告与趋势",
       "id": "eb4660589a94",
       "title_zh": "女性在AI workforce中显著代表性不足",
-      "summary_zh": "代表性不足 · 男性主导 · 需要更多女性",
-      "relevance": 0.5
-    },
-    {
-      "title": "Managers say they are using public AI tools to prepare for hard conversations",
-      "url": "https://www.hrdive.com/news/managers-using-public-ai-tools-hard-conversations/828497/",
-      "published_at": "2026-08-21T15:21:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "642b69d6c4ad",
-      "title_zh": "管理者称使用公共AI工具为艰难对话做准备",
-      "summary_zh": "使用AI工具 · 预备艰难对话 · 提升效率",
+      "summary_zh": "代表性不足 · 人才短缺 · 性别失衡",
       "relevance": 0.5
     },
     {
@@ -501,22 +515,37 @@
       "category": "案例、报告与趋势",
       "id": "08bed1b5e14b",
       "title_zh": "五步：人力资源指南，重塑AI时代生产力",
-      "summary_zh": "重新定义生产力 · 关注员工发展 · 利用AI技术",
+      "summary_zh": "重新定义工作方式 · 关注员工福祉 · 利用AI技术",
       "relevance": 0.5
     },
     {
-      "title": "The four-day week myth: Why AI won’t reduce workloads",
-      "url": "https://hrzone.com/the-four-day-week-myth-why-ai-productivity-gains-wont-reduce-workloads/",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
+      "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
+      "url": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
+      "published_at": "2026-08-24T22:13:37+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "34a3a881e2e9",
+      "title_zh": "员工留任策略：领导者如何打造让员工感到被重视的工作",
+      "summary_zh": "提升员工价值感 · 营造积极工作环境 · 实施有效留任措施",
+      "relevance": 0.5
+    },
+    {
+      "title": "Who’s accountable when AI blurs HR and IT?",
+      "url": "https://hrexecutive.com/whos-accountable-when-ai-blurs-hr-and-it/",
+      "published_at": "2026-08-24T12:00:52+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "bc06c700e101",
-      "title_zh": "四天工作制神话：为何AI不会减轻工作负担",
-      "summary_zh": "AI不能减轻负担 · 提高效率 · 需要适应",
+      "id": "d282e9025ccc",
+      "title_zh": "人工智能模糊HR与IT界限时，谁负责？",
+      "summary_zh": "责任归属待定 · AI影响决策 · 需跨部门协作",
       "relevance": 0.5
     },
     {
@@ -532,21 +561,6 @@
       "id": "d72b673235a2",
       "title_zh": "Otter.ai ruling puts AI meeting assistants on the hook for consent",
       "summary_zh": "",
-      "relevance": 0.5
-    },
-    {
-      "title": "HR leaders already have the tools to make organizational change stick",
-      "url": "https://hrexecutive.com/hr-leaders-already-have-the-tools-to-make-organizational-change-stick/",
-      "published_at": "2026-08-20T12:30:40+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "ea5388d52070",
-      "title_zh": "人力资源领导者已具备使组织变革持久的工具",
-      "summary_zh": "变革持久 · 工具完备 · 领导力关键",
       "relevance": 0.5
     },
     {
@@ -576,8 +590,23 @@
       "category": "政策与劳动合规",
       "id": "6d704eb95a58",
       "title_zh": "亚马逊员工披露怀孕后不久被解雇，法院裁定存在歧视，",
-      "summary_zh": "披露怀孕被解雇 · 法院裁定歧视 · 员工胜诉",
+      "summary_zh": "怀孕被解雇 · 法院裁决歧视 · 员工胜诉",
       "relevance": 0.29
+    },
+    {
+      "title": "AIHOT 日报 · 2026-08-25 — GPT-5.6 登陆 Kiro，为开发者提升性价比",
+      "url": "https://aihot.virxact.com/daily/2026-08-25",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "d4f7ebaa25f8",
+      "title_zh": "AIHOT 日报 · 2026-08-25 — G",
+      "summary_zh": "GPT-5.6登陆Kiro · 提升开发者性价比 · 新功能助力开发",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-08-24 — 德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
@@ -591,37 +620,7 @@
       "category": "案例、报告与趋势",
       "id": "6c9b19edbb01",
       "title_zh": "AIHOT 日报 · 2026-08-24 — 德",
-      "summary_zh": "学生揭发攻击 · AI黑客企图 · 德州事件",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-23 — 第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
-      "url": "https://aihot.virxact.com/daily/2026-08-23",
-      "published_at": "2026-08-23T00:00:18+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "9697b3da8f6e",
-      "title_zh": "AIHOT 日报 · 2026-08-23 — 第",
-      "summary_zh": "开幕竞技 · 机器人齐聚 · 赛项丰富",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-22 — 面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
-      "url": "https://aihot.virxact.com/daily/2026-08-22",
-      "published_at": "2026-08-22T00:01:08+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "f4e3ac7ecaec",
-      "title_zh": "AIHOT 日报 · 2026-08-22 — 面",
-      "summary_zh": "MathForm开源框架 · 支持Lean 4 · 包含数据集与模型",
+      "summary_zh": "学生揭发攻击 · 恶意AI攻击 · 德州事件",
       "relevance": 0.2
     }
   ]
