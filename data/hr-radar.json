@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:44:43.467719+08:00",
+  "generated_at": "2026-08-27T16:42:48.901653+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -13,6 +13,21 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
+        "title": "Deloitte to pay $21.5M to settle claims its DEI programs violated federal civil rights law",
+        "url": "https://www.hrdive.com/news/deloitte-to-pay-215m-to-settle-claims-its-dei-programs-violated-federal-c/828843/",
+        "published_at": "2026-08-26T20:11:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "cf638e0bac74",
+        "title_zh": "德勤将支付2150万美元解决其DEI项目违反联邦民",
+        "summary_zh": "支付罚款 · 解决指控 · 违反联邦民权法",
+        "relevance": 0.77
+      },
+      {
         "title": "EU Platform Work Directive: Uncertainty Ahead of the Implementation Deadline",
         "url": "https://www.littler.com/news-analysis/asap/eu-platform-work-directive-uncertainty-ahead-implementation-deadline",
         "published_at": "2026-08-20T15:17:50+00:00",
@@ -24,13 +39,13 @@
         "category": "政策与劳动合规",
         "id": "d0d11023f28c",
         "title_zh": "欧盟平台工作指令：实施截止日期前的不确定性",
-        "summary_zh": "实施截止日期临近 · 影响平台用工 · 企业需准备调整",
+        "summary_zh": "实施截止日期临近 · 影响平台用工 · 法律合规待定",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-08-21T00:00:00+00:00",
+        "published_at": "2026-08-22T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -41,21 +56,6 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
-      },
-      {
-        "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
-        "url": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
-        "published_at": "2026-08-24T16:54:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "6330975558be",
-        "title_zh": "EFAA涵盖仲裁程序中产生的索赔，第九巡回法院裁定",
-        "summary_zh": "涵盖仲裁索赔 · 第九巡回法院裁定 · 仲裁程序中产生",
-        "relevance": 0.73
       },
       {
         "title": "New York Times presses EEOC for White bias records in FOIA lawsuit",
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "afa6abfe99e8",
         "title_zh": "纽约时报就白人偏见记录向EEOC提起FOIA诉讼",
-        "summary_zh": "要求EEOC提供记录 · 涉及白人偏见案件 · 法案诉讼",
+        "summary_zh": "要求提供记录 · 涉及白人偏见 · EEOC应诉",
         "relevance": 0.2
       }
     ],
@@ -78,7 +78,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-08-21T00:00:00+00:00",
+        "published_at": "2026-08-22T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -89,36 +89,6 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
-        "url": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
-        "published_at": "2026-08-24T22:13:37+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "34a3a881e2e9",
-        "title_zh": "员工保留策略：领导者如何打造让员工感到被重视的工作",
-        "summary_zh": "提升员工价值感 · 优化工作环境 · 实施有效激励",
-        "relevance": 0.5
-      },
-      {
-        "title": "Littler Announces Leadership Appointments in Long Island and San Jose to Drive Growth and Client Service",
-        "url": "https://www.littler.com/press/press-release/littler-announces-leadership-appointments-long-island-and-san-jose-drive-growth",
-        "published_at": "2026-08-19T16:20:11+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "b0189fc1def3",
-        "title_zh": "利特尔宣布在长岛和圣何塞任命领导层以推动增长和客户",
-        "summary_zh": "任命领导层 · 推动增长 · 提升客户服务",
-        "relevance": 0.4
       },
       {
         "title": "Belonging begins with wellbeing: Five steps to build it",
@@ -134,6 +104,21 @@
         "title_zh": "归属感始于福祉：五个步骤建立它",
         "summary_zh": "关注福祉 · 建立归属 · 五个步骤",
         "relevance": 0.33
+      },
+      {
+        "title": "Layoff trackers are a ‘rearview mirror,’ says Jason Averbook",
+        "url": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
+        "published_at": "2026-08-26T12:00:06+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "e43e27307b75",
+        "title_zh": "裁员追踪器是“后视镜”，Jason Averboo",
+        "summary_zh": "关注历史数据 · 忽视未来趋势 · 缺乏前瞻性",
+        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
@@ -148,7 +133,7 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "79120c556b54",
-        "title_zh": "什么是最佳HRBP团队培训？HR领导指南",
+        "title_zh": "什么是最佳HRBP团队培训？HR领导的指南",
         "summary_zh": "提升HRBP技能 · 优化团队效能 · 指导实践应用",
         "relevance": 0.8
       },
@@ -166,25 +151,25 @@
         "title_zh": "领导力可持续发展：重新思考领导力发展的预期成果",
         "summary_zh": "重塑领导力目标 · 关注长期发展 · 提升组织效能",
         "relevance": 0.8
-      },
-      {
-        "title": "Skills, AI and the future of work: A look inside Workforce Solutions 2026",
-        "url": "https://hrzone.com/skills-ai-and-the-future-of-work-a-look-inside-workforce-solutions-2026/",
-        "published_at": "2026-08-20T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "fbda20c9a97f",
-        "title_zh": "技能、人工智能与工作未来：洞察2026年劳动力解决",
-        "summary_zh": "技能提升 · AI赋能 · 重塑工作",
-        "relevance": 0.77
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "AI-related growth edges out job cut fears in finance execs’ tech outlook",
+        "url": "https://www.hrdive.com/news/ai-related-growth-edge-job-cut-fears-finance-execs-tech-outlook/828764/",
+        "published_at": "2026-08-26T13:46:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "案例、报告与趋势",
+        "id": "9b7e47538dc8",
+        "title_zh": "人工智能相关增长盖过金融高管对科技前景的裁员担忧",
+        "summary_zh": "增长超预期 · 裁员担忧减弱 · 关注AI发展",
+        "relevance": 0.77
+      },
       {
         "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
         "url": "https://www.littler.com/press/news/mailbag-do-we-need-form-i-9s-employees-hired-long-ago",
@@ -212,23 +197,23 @@
         "category": "案例、报告与趋势",
         "id": "536257a3061c",
         "title_zh": "萨尔瓦多和乌克兰临时保护身份更新",
-        "summary_zh": "更新TPS身份 · 影响移民 · 需关注政策",
+        "summary_zh": "临时保护身份更新 · 影响两国公民 · 法律状态调整",
         "relevance": 0.6
       },
       {
-        "title": "Canada: Ontario Court of Appeal Decision Raises the Stakes for RSU and Equity Compensation Plans",
-        "url": "https://www.littler.com/news-analysis/asap/canada-ontario-court-appeal-decision-raises-stakes-rsu-and-equity-compensation",
-        "published_at": "2026-08-19T15:11:49+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "AI is evolving faster than humans can assess how best to use it",
+        "url": "https://www.hrdive.com/news/ai-is-evolving-faster-than-humans-can-assess-how-best-to-use-it/828761/",
+        "published_at": "2026-08-26T13:46:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "b2effbcb9a09",
-        "title_zh": "加拿大：安大略省上诉法院判决提高RSU和股权激励计",
-        "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律责任加重",
-        "relevance": 0.6
+        "id": "445aea2074a1",
+        "title_zh": "人工智能发展速度远超人类评估其最佳应用方式的速度",
+        "summary_zh": "发展迅速 · 评估滞后 · 应用挑战",
+        "relevance": 0.5
       },
       {
         "title": "4th Circuit dismisses some charges against Wells Fargo after jury’s $22.1M fee",
@@ -246,18 +231,18 @@
         "relevance": 0.5
       },
       {
-        "title": "Five steps: HR’s guide to rethinking productivity in the age of AI",
-        "url": "https://hrzone.com/five-steps-hrs-guide-to-rethinking-productivity-in-the-age-of-ai/",
-        "published_at": "2026-08-19T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
+        "title": "AI didn’t invent hiring fraud. It made it harder to see",
+        "url": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
+        "published_at": "2026-08-26T11:45:25+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "08bed1b5e14b",
-        "title_zh": "五步：人力资源指南，重塑AI时代生产力",
-        "summary_zh": "重新定义生产力 · 关注员工发展 · 利用AI技术",
+        "id": "6e7c9a0d692c",
+        "title_zh": "人工智能并未发明招聘欺诈，但它让识别欺诈更加困难",
+        "summary_zh": "识别更难 · 欺诈风险 · 技术挑战",
         "relevance": 0.5
       },
       {
@@ -276,19 +261,49 @@
         "relevance": 0.5
       },
       {
-        "title": "Who’s accountable when AI blurs HR and IT?",
-        "url": "https://hrexecutive.com/whos-accountable-when-ai-blurs-hr-and-it/",
-        "published_at": "2026-08-24T12:00:52+00:00",
+        "title": "Abstinence is not an AI strategy",
+        "url": "https://www.chieflearningofficer.com/2026/08/26/abstinence-is-not-an-ai-strategy/",
+        "published_at": "2026-08-27T02:03:09+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "cb00f65673fc",
+        "title_zh": "禁欲不是AI策略",
+        "summary_zh": "要点1 · 要点2 · 要点3",
+        "relevance": 0.5
+      },
+      {
+        "title": "Privacy risk? Employee-monitoring apps sharing worker data with Big Tech",
+        "url": "https://hrexecutive.com/employee-monitoring-apps-send-worker-data-to-facebook-google-and-microsoft-report-finds/",
+        "published_at": "2026-08-26T11:30:58+00:00",
         "source_id": "hrexecutive",
         "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "d282e9025ccc",
-        "title_zh": "人工智能模糊HR与IT职责时，谁负责？",
-        "summary_zh": "职责不清 · AI影响 · 需要界定",
-        "relevance": 0.5
+        "id": "6dbfd6b50c8a",
+        "title_zh": "隐私风险？员工监控应用与科技巨头共享员工数据",
+        "summary_zh": "数据共享 · 监控应用 · 隐私问题",
+        "relevance": 0.33
+      },
+      {
+        "title": "AIHOT 日报 · 2026-08-27 — GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "url": "https://aihot.virxact.com/daily/2026-08-27",
+        "published_at": "2026-08-27T00:00:30+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "ac9b46400890",
+        "title_zh": "AIHOT 日报 · 2026-08-27 — G",
+        "summary_zh": "开源 · 320B参数 · AA57分",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-08-26 — WeatherNext 预测气旋：提前五天预警五级飓风",
@@ -303,21 +318,6 @@
         "id": "d3bea75e398c",
         "title_zh": "AIHOT 日报 · 2026-08-26 — W",
         "summary_zh": "提前五天预警 · 预测五级飓风 · 气旋预测",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-25 — GPT-5.6 登陆 Kiro，为开发者提升性价比",
-        "url": "https://aihot.virxact.com/daily/2026-08-25",
-        "published_at": "2026-08-25T00:00:00+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "d4f7ebaa25f8",
-        "title_zh": "AIHOT 日报 · 2026-08-25 — G",
-        "summary_zh": "GPT-5.6登陆Kiro · 提升开发者性价比 · 新功能助力开发",
         "relevance": 0.2
       }
     ]
@@ -334,7 +334,7 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "79120c556b54",
-      "title_zh": "什么是最佳HRBP团队培训？HR领导指南",
+      "title_zh": "什么是最佳HRBP团队培训？HR领导的指南",
       "summary_zh": "提升HRBP技能 · 优化团队效能 · 指导实践应用",
       "relevance": 0.8
     },
@@ -354,18 +354,33 @@
       "relevance": 0.8
     },
     {
-      "title": "Skills, AI and the future of work: A look inside Workforce Solutions 2026",
-      "url": "https://hrzone.com/skills-ai-and-the-future-of-work-a-look-inside-workforce-solutions-2026/",
-      "published_at": "2026-08-20T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
+      "title": "Deloitte to pay $21.5M to settle claims its DEI programs violated federal civil rights law",
+      "url": "https://www.hrdive.com/news/deloitte-to-pay-215m-to-settle-claims-its-dei-programs-violated-federal-c/828843/",
+      "published_at": "2026-08-26T20:11:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "fbda20c9a97f",
-      "title_zh": "技能、人工智能与工作未来：洞察2026年劳动力解决",
-      "summary_zh": "技能提升 · AI赋能 · 重塑工作",
+      "category": "政策与劳动合规",
+      "id": "cf638e0bac74",
+      "title_zh": "德勤将支付2150万美元解决其DEI项目违反联邦民",
+      "summary_zh": "支付罚款 · 解决指控 · 违反联邦民权法",
+      "relevance": 0.77
+    },
+    {
+      "title": "AI-related growth edges out job cut fears in finance execs’ tech outlook",
+      "url": "https://www.hrdive.com/news/ai-related-growth-edge-job-cut-fears-finance-execs-tech-outlook/828764/",
+      "published_at": "2026-08-26T13:46:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "案例、报告与趋势",
+      "id": "9b7e47538dc8",
+      "title_zh": "人工智能相关增长盖过金融高管对科技前景的裁员担忧",
+      "summary_zh": "增长超预期 · 裁员担忧减弱 · 关注AI发展",
       "relevance": 0.77
     },
     {
@@ -380,13 +395,13 @@
       "category": "政策与劳动合规",
       "id": "d0d11023f28c",
       "title_zh": "欧盟平台工作指令：实施截止日期前的不确定性",
-      "summary_zh": "实施截止日期临近 · 影响平台用工 · 企业需准备调整",
+      "summary_zh": "实施截止日期临近 · 影响平台用工 · 法律合规待定",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-08-21T00:00:00+00:00",
+      "published_at": "2026-08-22T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -401,7 +416,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-08-21T00:00:00+00:00",
+      "published_at": "2026-08-22T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -412,21 +427,6 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
-    },
-    {
-      "title": "EFAA covers claims that emerge during an arbitration proceeding, 9th Circuit says",
-      "url": "https://www.hrdive.com/news/efaa-covers-bias-claims-emerge-during-arbitration/828608/",
-      "published_at": "2026-08-24T16:54:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "6330975558be",
-      "title_zh": "EFAA涵盖仲裁程序中产生的索赔，第九巡回法院裁定",
-      "summary_zh": "涵盖仲裁索赔 · 第九巡回法院裁定 · 仲裁程序中产生",
-      "relevance": 0.73
     },
     {
       "title": "Mailbag: Do we need Form I-9s for employees hired long ago?",
@@ -455,23 +455,23 @@
       "category": "案例、报告与趋势",
       "id": "536257a3061c",
       "title_zh": "萨尔瓦多和乌克兰临时保护身份更新",
-      "summary_zh": "更新TPS身份 · 影响移民 · 需关注政策",
+      "summary_zh": "临时保护身份更新 · 影响两国公民 · 法律状态调整",
       "relevance": 0.6
     },
     {
-      "title": "Canada: Ontario Court of Appeal Decision Raises the Stakes for RSU and Equity Compensation Plans",
-      "url": "https://www.littler.com/news-analysis/asap/canada-ontario-court-appeal-decision-raises-stakes-rsu-and-equity-compensation",
-      "published_at": "2026-08-19T15:11:49+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "AI is evolving faster than humans can assess how best to use it",
+      "url": "https://www.hrdive.com/news/ai-is-evolving-faster-than-humans-can-assess-how-best-to-use-it/828761/",
+      "published_at": "2026-08-26T13:46:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "b2effbcb9a09",
-      "title_zh": "加拿大：安大略省上诉法院判决提高RSU和股权激励计",
-      "summary_zh": "RSU风险增加 · 激励计划受影响 · 法律责任加重",
-      "relevance": 0.6
+      "id": "445aea2074a1",
+      "title_zh": "人工智能发展速度远超人类评估其最佳应用方式的速度",
+      "summary_zh": "发展迅速 · 评估滞后 · 应用挑战",
+      "relevance": 0.5
     },
     {
       "title": "4th Circuit dismisses some charges against Wells Fargo after jury’s $22.1M fee",
@@ -489,18 +489,18 @@
       "relevance": 0.5
     },
     {
-      "title": "Five steps: HR’s guide to rethinking productivity in the age of AI",
-      "url": "https://hrzone.com/five-steps-hrs-guide-to-rethinking-productivity-in-the-age-of-ai/",
-      "published_at": "2026-08-19T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
+      "title": "AI didn’t invent hiring fraud. It made it harder to see",
+      "url": "https://hrexecutive.com/ai-didnt-invent-hiring-fraud-it-made-it-harder-to-see/",
+      "published_at": "2026-08-26T11:45:25+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "08bed1b5e14b",
-      "title_zh": "五步：人力资源指南，重塑AI时代生产力",
-      "summary_zh": "重新定义生产力 · 关注员工发展 · 利用AI技术",
+      "id": "6e7c9a0d692c",
+      "title_zh": "人工智能并未发明招聘欺诈，但它让识别欺诈更加困难",
+      "summary_zh": "识别更难 · 欺诈风险 · 技术挑战",
       "relevance": 0.5
     },
     {
@@ -519,49 +519,19 @@
       "relevance": 0.5
     },
     {
-      "title": "Employee Retention Strategies: How Leaders Create Workplaces Where Employees Feel Valued",
-      "url": "https://hrexecutive.com/employee-retention-strategies-valued-workplace/",
-      "published_at": "2026-08-24T22:13:37+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "34a3a881e2e9",
-      "title_zh": "员工保留策略：领导者如何打造让员工感到被重视的工作",
-      "summary_zh": "提升员工价值感 · 优化工作环境 · 实施有效激励",
-      "relevance": 0.5
-    },
-    {
-      "title": "Who’s accountable when AI blurs HR and IT?",
-      "url": "https://hrexecutive.com/whos-accountable-when-ai-blurs-hr-and-it/",
-      "published_at": "2026-08-24T12:00:52+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
+      "title": "Abstinence is not an AI strategy",
+      "url": "https://www.chieflearningofficer.com/2026/08/26/abstinence-is-not-an-ai-strategy/",
+      "published_at": "2026-08-27T02:03:09+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "d282e9025ccc",
-      "title_zh": "人工智能模糊HR与IT职责时，谁负责？",
-      "summary_zh": "职责不清 · AI影响 · 需要界定",
+      "id": "cb00f65673fc",
+      "title_zh": "禁欲不是AI策略",
+      "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.5
-    },
-    {
-      "title": "Littler Announces Leadership Appointments in Long Island and San Jose to Drive Growth and Client Service",
-      "url": "https://www.littler.com/press/press-release/littler-announces-leadership-appointments-long-island-and-san-jose-drive-growth",
-      "published_at": "2026-08-19T16:20:11+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "b0189fc1def3",
-      "title_zh": "利特尔宣布在长岛和圣何塞任命领导层以推动增长和客户",
-      "summary_zh": "任命领导层 · 推动增长 · 提升客户服务",
-      "relevance": 0.4
     },
     {
       "title": "Belonging begins with wellbeing: Five steps to build it",
@@ -579,6 +549,36 @@
       "relevance": 0.33
     },
     {
+      "title": "Layoff trackers are a ‘rearview mirror,’ says Jason Averbook",
+      "url": "https://hrexecutive.com/layoff-trackers-are-a-rearview-mirror-says-jason-averbook/",
+      "published_at": "2026-08-26T12:00:06+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "e43e27307b75",
+      "title_zh": "裁员追踪器是“后视镜”，Jason Averboo",
+      "summary_zh": "关注历史数据 · 忽视未来趋势 · 缺乏前瞻性",
+      "relevance": 0.33
+    },
+    {
+      "title": "Privacy risk? Employee-monitoring apps sharing worker data with Big Tech",
+      "url": "https://hrexecutive.com/employee-monitoring-apps-send-worker-data-to-facebook-google-and-microsoft-report-finds/",
+      "published_at": "2026-08-26T11:30:58+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "6dbfd6b50c8a",
+      "title_zh": "隐私风险？员工监控应用与科技巨头共享员工数据",
+      "summary_zh": "数据共享 · 监控应用 · 隐私问题",
+      "relevance": 0.33
+    },
+    {
       "title": "New York Times presses EEOC for White bias records in FOIA lawsuit",
       "url": "https://www.hrdive.com/news/new-york-times-eeoc-white-bias-records-foia-lawsuit/828735/",
       "published_at": "2026-08-25T19:28:00+00:00",
@@ -590,7 +590,22 @@
       "category": "政策与劳动合规",
       "id": "afa6abfe99e8",
       "title_zh": "纽约时报就白人偏见记录向EEOC提起FOIA诉讼",
-      "summary_zh": "要求EEOC提供记录 · 涉及白人偏见案件 · 法案诉讼",
+      "summary_zh": "要求提供记录 · 涉及白人偏见 · EEOC应诉",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-08-27 — GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://aihot.virxact.com/daily/2026-08-27",
+      "published_at": "2026-08-27T00:00:30+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "ac9b46400890",
+      "title_zh": "AIHOT 日报 · 2026-08-27 — G",
+      "summary_zh": "开源 · 320B参数 · AA57分",
       "relevance": 0.2
     },
     {
@@ -606,21 +621,6 @@
       "id": "d3bea75e398c",
       "title_zh": "AIHOT 日报 · 2026-08-26 — W",
       "summary_zh": "提前五天预警 · 预测五级飓风 · 气旋预测",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-25 — GPT-5.6 登陆 Kiro，为开发者提升性价比",
-      "url": "https://aihot.virxact.com/daily/2026-08-25",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "d4f7ebaa25f8",
-      "title_zh": "AIHOT 日报 · 2026-08-25 — G",
-      "summary_zh": "GPT-5.6登陆Kiro · 提升开发者性价比 · 新功能助力开发",
       "relevance": 0.2
     }
   ]
