@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:37:55.538440+08:00",
+  "generated_at": "2026-09-02T12:00:14.403366+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -15,7 +15,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-08-27T00:00:00+00:00",
+        "published_at": "2026-08-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -28,42 +28,57 @@
         "id": "c79ea307e6b8"
       },
       {
-        "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
-        "url": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
-        "published_at": "2026-08-28T15:32:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "Tariff layoffs don't ease employers' health and safety duties: lawyer",
+        "url": "https://www.littler.com/press/news/tariff-layoffs-dont-ease-employers-health-and-safety-duties-lawyer",
+        "published_at": "2026-09-01T20:06:12+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
+        "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "bf9a23dcbad7",
-        "title_zh": "白人HR员工对民调公司反歧视诉讼获部分胜诉",
-        "summary_zh": "胜诉 · 反歧视 · 部分成功",
-        "relevance": 0.31
+        "id": "61fd785b578a",
+        "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
+        "summary_zh": "责任未减 · 健康安全 · 律师观点",
+        "relevance": 0.6
+      },
+      {
+        "title": "Reported EEOC Procedural Changes May Shorten Employer Response Times",
+        "url": "https://www.littler.com/news-analysis/asap/reported-eeoc-procedural-changes-may-shorten-employer-response-times",
+        "published_at": "2026-09-01T14:14:40+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "765288d73924",
+        "title_zh": "美国平等就业机会委员会程序变更报告或缩短雇主响应时",
+        "summary_zh": "程序变更 · 响应时间缩短 · 影响雇主",
+        "relevance": 0.2
       }
     ],
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
-        "title": "Health leaders scale AI faster than they measure it, survey finds",
-        "url": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
-        "published_at": "2026-08-28T10:15:01+00:00",
+        "title": "Workers are turning more critical of AI, and leadership is part of the problem",
+        "url": "https://hrexecutive.com/workers-are-turning-more-critical-of-ai-and-leadership-is-part-of-the-problem/",
+        "published_at": "2026-09-01T11:30:32+00:00",
         "source_id": "hrexecutive",
         "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": true,
         "category": "组织与人才管理",
-        "id": "34e106e9943e",
-        "title_zh": "健康领导者加速部署AI却忽视衡量，调查发现",
-        "summary_zh": "加速部署AI · 忽视衡量 · 效果未知",
-        "relevance": 0.8
+        "id": "a7447c713efc",
+        "title_zh": "员工对AI的批评加剧，领导力是部分问题所在",
+        "summary_zh": "员工更批判AI · 领导力是问题 · 需改进领导方式",
+        "relevance": 0.77
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-08-27T00:00:00+00:00",
+        "published_at": "2026-08-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -86,72 +101,27 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "9ce287315fa5",
-        "title_zh": "80%的员工怀疑领导动机，新调查发现",
-        "summary_zh": "怀疑领导动机 · 调查显示 · 员工不信任",
+        "title_zh": "员工八成怀疑领导动机，新调查发现",
+        "summary_zh": "领导动机受质疑 · 调查显示 · 八成员工不信任",
         "relevance": 0.5
       },
       {
-        "title": "Belonging begins with wellbeing: Five steps to build it",
-        "url": "https://hrzone.com/belonging-begins-with-wellbeing-five-steps-to-build-it/",
-        "published_at": "2026-08-25T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "e57289ddcb23",
-        "title_zh": "归属感始于福祉：五个步骤建立它",
-        "summary_zh": "提升福祉 · 建立归属感 · 五个步骤",
-        "relevance": 0.33
-      }
-    ],
-    "学习发展与技能转型": [
-      {
-        "title": "What Is the Best HRBP Training for Teams? A Guide for HR Leaders",
-        "url": "https://www.aihr.com/blog/what-is-the-best-hrbp-training-for-teams/",
-        "published_at": "2026-08-25T11:59:04+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "79120c556b54",
-        "title_zh": "什么是最佳HRBP团队培训？HR领导指南",
-        "summary_zh": "提升HRBP技能 · 优化团队效能 · 指导实践",
-        "relevance": 0.8
-      },
-      {
-        "title": "Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers",
-        "url": "https://hrexecutive.com/workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their-co-workers/",
-        "published_at": "2026-08-31T12:00:41+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "4c8dfa85d59d",
-        "title_zh": "职场竞争？近40%担心同事存在AI技能差距",
-        "summary_zh": "担心AI技能差距 · 近40%人 · 职场竞争",
-        "relevance": 0.8
-      },
-      {
-        "title": "Your employees completed compliance training. Can they apply it when it matters?",
-        "url": "https://www.hrdive.com/spons/your-employees-completed-compliance-training-can-they-apply-it-when-it-mat/828672/",
-        "published_at": "2026-08-31T09:00:00+00:00",
+        "title": "As costs mount, employees say they want financial, not wellness benefits",
+        "url": "https://www.hrdive.com/news/employees-want-financial-not-wellness-benefits/829253/",
+        "published_at": "2026-09-01T15:05:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "fb90fac7f0d2",
-        "title_zh": "员工已完成合规培训。关键时刻能应用吗？",
-        "summary_zh": "培训完成 · 关键时刻 · 应用能力",
-        "relevance": 0.73
-      },
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "2753af61c54d",
+        "title_zh": "员工要求增加财务福利而非健康福利",
+        "summary_zh": "要求财务支持 · 反对健康福利 · 成本上升",
+        "relevance": 0.33
+      }
+    ],
+    "学习发展与技能转型": [
       {
         "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2",
         "url": "https://hrexecutive.com/ready-or-not-what-workforce-readiness-really-requires/",
@@ -163,13 +133,28 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "c4577b102d2c",
-        "title_zh": "人工智能工作队伍的技能策略与风险系列：第2集",
-        "summary_zh": "技能更新 · 适应变化 · 企业风险",
+        "title_zh": "人工智能工作技能策略与风险系列：第二集",
+        "summary_zh": "技能转型 · 适应挑战 · 企业风险",
         "relevance": 0.73
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "What awaits Harris on AI and labor",
+        "url": "https://www.littler.com/press/news/what-awaits-harris-ai-and-labor",
+        "published_at": "2026-09-01T15:00:13+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "74b421300b63",
+        "title_zh": "哈里斯在人工智能与劳动力方面将面临什么挑战",
+        "summary_zh": "AI影响就业 · 劳动力转型 · 政策应对",
+        "relevance": 0.6
+      },
       {
         "title": "California ban on workplace AI emotion surveillance heads to Newsom’s desk",
         "url": "https://www.hrdive.com/news/california-ban-on-workplace-ai-emotion-surveillance-heads-to-newsom/829207/",
@@ -186,18 +171,18 @@
         "relevance": 0.5
       },
       {
-        "title": "The Washington Post-Karen Attiah saga raises questions about worker social media policies",
-        "url": "https://www.hrdive.com/news/the-washington-post-karen-attiah-saga-raises-questions-about-worker-social/829172/",
-        "published_at": "2026-08-31T15:09:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "How AI can help workers move between job opportunities",
+        "url": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
+        "published_at": "2026-09-01T11:45:48+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "fcd7d3be0ddd",
-        "title_zh": "华盛顿邮报-凯伦·阿蒂亚事件引发对员工社交媒体政策",
-        "summary_zh": "员工隐私 · 工作影响 · 政策界限",
+        "id": "4cc8f4f89e60",
+        "title_zh": "人工智能如何助力职场人士转换工作机会",
+        "summary_zh": "提升求职效率 · 优化职业规划 · 增强竞争力",
         "relevance": 0.5
       },
       {
@@ -216,21 +201,6 @@
         "relevance": 0.5
       },
       {
-        "title": "Bill Gates’ new AI plan: tax robots, protect some jobs for people",
-        "url": "https://hrexecutive.com/bill-gates-new-ai-plan-tax-robots-protect-some-jobs-for-people/",
-        "published_at": "2026-08-28T10:00:07+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "4de349da96b7",
-        "title_zh": "比尔·盖茨新AI计划：对机器人征税，保护部分人类工",
-        "summary_zh": "对机器人征税 · 保护人类工作 · 关注就业市场",
-        "relevance": 0.5
-      },
-      {
         "title": "Abstinence is not an AI strategy",
         "url": "https://www.chieflearningofficer.com/2026/08/26/abstinence-is-not-an-ai-strategy/",
         "published_at": "2026-08-27T02:03:09+00:00",
@@ -246,6 +216,21 @@
         "relevance": 0.5
       },
       {
+        "title": "AIHOT 日报 · 2026-09-02 — OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+        "url": "https://aihot.virxact.com/daily/2026-09-02",
+        "published_at": "2026-09-02T00:00:31+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "f9de9c26d9a9",
+        "title_zh": "AIHOT 日报 · 2026-09-02 — O",
+        "summary_zh": "达到网络安全 Critical 能力阈值 · 将受限发布 · OpenAI 评定",
+        "relevance": 0.2
+      },
+      {
         "title": "AIHOT 日报 · 2026-09-01 — DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
         "url": "https://aihot.virxact.com/daily/2026-09-01",
         "published_at": "2026-09-01T00:01:42+00:00",
@@ -257,7 +242,7 @@
         "category": "案例、报告与趋势",
         "id": "1f6bdf26bdab",
         "title_zh": "AIHOT 日报 · 2026-09-01 — D",
-        "summary_zh": "模型开源 · 能力接近 Opus-4.8 · 多模态 Agent",
+        "summary_zh": "模型开源 · 能力接近Opus-4.8 · 多模态Agent",
         "relevance": 0.2
       },
       {
@@ -272,7 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "886e5818fb69",
         "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用",
-        "summary_zh": "盗用版权音乐 · 训练Claude · 被起诉",
+        "summary_zh": "指控大规模盗用版权音乐 · 训练AI模型Claude · 索尼与华纳提起诉讼",
         "relevance": 0.2
       },
       {
@@ -287,7 +272,7 @@
         "category": "案例、报告与趋势",
         "id": "170d2aeb006b",
         "title_zh": "AIHOT 日报 · 2026-08-30 — 智",
-        "summary_zh": "开源GLM-5.3模型权重 · 支持智能体编程 · 增强网络防御功能",
+        "summary_zh": "开源GLM-5.3模型权重 · 主打智能体编程 · 增强网络防御",
         "relevance": 0.2
       },
       {
@@ -319,59 +304,44 @@
         "title_zh": "AIHOT 日报 · 2026-08-28 — G",
         "summary_zh": "发布新版本 · 增强视频控制 · 适合开发者",
         "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-08-27 — GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "url": "https://aihot.virxact.com/daily/2026-08-27",
+        "published_at": "2026-08-27T00:00:30+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "ac9b46400890",
+        "title_zh": "AIHOT 日报 · 2026-08-27 — G",
+        "summary_zh": "开源 · 320B参数 · 1/40定价",
+        "relevance": 0.2
       }
     ]
   },
   "all_items": [
     {
-      "title": "What Is the Best HRBP Training for Teams? A Guide for HR Leaders",
-      "url": "https://www.aihr.com/blog/what-is-the-best-hrbp-training-for-teams/",
-      "published_at": "2026-08-25T11:59:04+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "79120c556b54",
-      "title_zh": "什么是最佳HRBP团队培训？HR领导指南",
-      "summary_zh": "提升HRBP技能 · 优化团队效能 · 指导实践",
-      "relevance": 0.8
-    },
-    {
-      "title": "Workplace rivals? Nearly 40% fear an AI skills gap with their co-workers",
-      "url": "https://hrexecutive.com/workplace-rivals-nearly-40-fear-an-ai-skills-gap-with-their-co-workers/",
-      "published_at": "2026-08-31T12:00:41+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "4c8dfa85d59d",
-      "title_zh": "职场竞争？近40%担心同事存在AI技能差距",
-      "summary_zh": "担心AI技能差距 · 近40%人 · 职场竞争",
-      "relevance": 0.8
-    },
-    {
-      "title": "Health leaders scale AI faster than they measure it, survey finds",
-      "url": "https://hrexecutive.com/health-leaders-scale-ai-faster-than-they-measure-it-survey-finds/",
-      "published_at": "2026-08-28T10:15:01+00:00",
+      "title": "Workers are turning more critical of AI, and leadership is part of the problem",
+      "url": "https://hrexecutive.com/workers-are-turning-more-critical-of-ai-and-leadership-is-part-of-the-problem/",
+      "published_at": "2026-09-01T11:30:32+00:00",
       "source_id": "hrexecutive",
       "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
       "category": "组织与人才管理",
-      "id": "34e106e9943e",
-      "title_zh": "健康领导者加速部署AI却忽视衡量，调查发现",
-      "summary_zh": "加速部署AI · 忽视衡量 · 效果未知",
-      "relevance": 0.8
+      "id": "a7447c713efc",
+      "title_zh": "员工对AI的批评加剧，领导力是部分问题所在",
+      "summary_zh": "员工更批判AI · 领导力是问题 · 需改进领导方式",
+      "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-08-27T00:00:00+00:00",
+      "published_at": "2026-08-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +356,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-08-27T00:00:00+00:00",
+      "published_at": "2026-08-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -399,21 +369,6 @@
       "id": "c79ea307e6b8"
     },
     {
-      "title": "Your employees completed compliance training. Can they apply it when it matters?",
-      "url": "https://www.hrdive.com/spons/your-employees-completed-compliance-training-can-they-apply-it-when-it-mat/828672/",
-      "published_at": "2026-08-31T09:00:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "fb90fac7f0d2",
-      "title_zh": "员工已完成合规培训。关键时刻能应用吗？",
-      "summary_zh": "培训完成 · 关键时刻 · 应用能力",
-      "relevance": 0.73
-    },
-    {
       "title": "Ready or Not: The Skills Strategies and Stakes of the AI Workforce series: Episode #2",
       "url": "https://hrexecutive.com/ready-or-not-what-workforce-readiness-really-requires/",
       "published_at": "2026-08-31T21:11:37+00:00",
@@ -424,9 +379,39 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "c4577b102d2c",
-      "title_zh": "人工智能工作队伍的技能策略与风险系列：第2集",
-      "summary_zh": "技能更新 · 适应变化 · 企业风险",
+      "title_zh": "人工智能工作技能策略与风险系列：第二集",
+      "summary_zh": "技能转型 · 适应挑战 · 企业风险",
       "relevance": 0.73
+    },
+    {
+      "title": "Tariff layoffs don't ease employers' health and safety duties: lawyer",
+      "url": "https://www.littler.com/press/news/tariff-layoffs-dont-ease-employers-health-and-safety-duties-lawyer",
+      "published_at": "2026-09-01T20:06:12+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "61fd785b578a",
+      "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
+      "summary_zh": "责任未减 · 健康安全 · 律师观点",
+      "relevance": 0.6
+    },
+    {
+      "title": "What awaits Harris on AI and labor",
+      "url": "https://www.littler.com/press/news/what-awaits-harris-ai-and-labor",
+      "published_at": "2026-09-01T15:00:13+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "74b421300b63",
+      "title_zh": "哈里斯在人工智能与劳动力方面将面临什么挑战",
+      "summary_zh": "AI影响就业 · 劳动力转型 · 政策应对",
+      "relevance": 0.6
     },
     {
       "title": "California ban on workplace AI emotion surveillance heads to Newsom’s desk",
@@ -444,18 +429,18 @@
       "relevance": 0.5
     },
     {
-      "title": "The Washington Post-Karen Attiah saga raises questions about worker social media policies",
-      "url": "https://www.hrdive.com/news/the-washington-post-karen-attiah-saga-raises-questions-about-worker-social/829172/",
-      "published_at": "2026-08-31T15:09:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "How AI can help workers move between job opportunities",
+      "url": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
+      "published_at": "2026-09-01T11:45:48+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "fcd7d3be0ddd",
-      "title_zh": "华盛顿邮报-凯伦·阿蒂亚事件引发对员工社交媒体政策",
-      "summary_zh": "员工隐私 · 工作影响 · 政策界限",
+      "id": "4cc8f4f89e60",
+      "title_zh": "人工智能如何助力职场人士转换工作机会",
+      "summary_zh": "提升求职效率 · 优化职业规划 · 增强竞争力",
       "relevance": 0.5
     },
     {
@@ -469,8 +454,8 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "9ce287315fa5",
-      "title_zh": "80%的员工怀疑领导动机，新调查发现",
-      "summary_zh": "怀疑领导动机 · 调查显示 · 员工不信任",
+      "title_zh": "员工八成怀疑领导动机，新调查发现",
+      "summary_zh": "领导动机受质疑 · 调查显示 · 八成员工不信任",
       "relevance": 0.5
     },
     {
@@ -489,21 +474,6 @@
       "relevance": 0.5
     },
     {
-      "title": "Bill Gates’ new AI plan: tax robots, protect some jobs for people",
-      "url": "https://hrexecutive.com/bill-gates-new-ai-plan-tax-robots-protect-some-jobs-for-people/",
-      "published_at": "2026-08-28T10:00:07+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "4de349da96b7",
-      "title_zh": "比尔·盖茨新AI计划：对机器人征税，保护部分人类工",
-      "summary_zh": "对机器人征税 · 保护人类工作 · 关注就业市场",
-      "relevance": 0.5
-    },
-    {
       "title": "Abstinence is not an AI strategy",
       "url": "https://www.chieflearningofficer.com/2026/08/26/abstinence-is-not-an-ai-strategy/",
       "published_at": "2026-08-27T02:03:09+00:00",
@@ -519,34 +489,34 @@
       "relevance": 0.5
     },
     {
-      "title": "Belonging begins with wellbeing: Five steps to build it",
-      "url": "https://hrzone.com/belonging-begins-with-wellbeing-five-steps-to-build-it/",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "e57289ddcb23",
-      "title_zh": "归属感始于福祉：五个步骤建立它",
-      "summary_zh": "提升福祉 · 建立归属感 · 五个步骤",
-      "relevance": 0.33
-    },
-    {
-      "title": "White HR worker gets partial win in reverse bias lawsuit against polling firm",
-      "url": "https://www.hrdive.com/news/white-hr-worker-gets-partial-win-in-reverse-bias-lawsuit-polling-firm/829078/",
-      "published_at": "2026-08-28T15:32:00+00:00",
+      "title": "As costs mount, employees say they want financial, not wellness benefits",
+      "url": "https://www.hrdive.com/news/employees-want-financial-not-wellness-benefits/829253/",
+      "published_at": "2026-09-01T15:05:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "bf9a23dcbad7",
-      "title_zh": "白人HR员工对民调公司反歧视诉讼获部分胜诉",
-      "summary_zh": "胜诉 · 反歧视 · 部分成功",
-      "relevance": 0.31
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "2753af61c54d",
+      "title_zh": "员工要求增加财务福利而非健康福利",
+      "summary_zh": "要求财务支持 · 反对健康福利 · 成本上升",
+      "relevance": 0.33
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-02 — OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "url": "https://aihot.virxact.com/daily/2026-09-02",
+      "published_at": "2026-09-02T00:00:31+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "f9de9c26d9a9",
+      "title_zh": "AIHOT 日报 · 2026-09-02 — O",
+      "summary_zh": "达到网络安全 Critical 能力阈值 · 将受限发布 · OpenAI 评定",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-09-01 — DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
@@ -560,7 +530,7 @@
       "category": "案例、报告与趋势",
       "id": "1f6bdf26bdab",
       "title_zh": "AIHOT 日报 · 2026-09-01 — D",
-      "summary_zh": "模型开源 · 能力接近 Opus-4.8 · 多模态 Agent",
+      "summary_zh": "模型开源 · 能力接近Opus-4.8 · 多模态Agent",
       "relevance": 0.2
     },
     {
@@ -575,7 +545,7 @@
       "category": "案例、报告与趋势",
       "id": "886e5818fb69",
       "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用",
-      "summary_zh": "盗用版权音乐 · 训练Claude · 被起诉",
+      "summary_zh": "指控大规模盗用版权音乐 · 训练AI模型Claude · 索尼与华纳提起诉讼",
       "relevance": 0.2
     },
     {
@@ -590,7 +560,7 @@
       "category": "案例、报告与趋势",
       "id": "170d2aeb006b",
       "title_zh": "AIHOT 日报 · 2026-08-30 — 智",
-      "summary_zh": "开源GLM-5.3模型权重 · 支持智能体编程 · 增强网络防御功能",
+      "summary_zh": "开源GLM-5.3模型权重 · 主打智能体编程 · 增强网络防御",
       "relevance": 0.2
     },
     {
@@ -621,6 +591,36 @@
       "id": "f048b9ff1db0",
       "title_zh": "AIHOT 日报 · 2026-08-28 — G",
       "summary_zh": "发布新版本 · 增强视频控制 · 适合开发者",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-08-27 — GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://aihot.virxact.com/daily/2026-08-27",
+      "published_at": "2026-08-27T00:00:30+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "ac9b46400890",
+      "title_zh": "AIHOT 日报 · 2026-08-27 — G",
+      "summary_zh": "开源 · 320B参数 · 1/40定价",
+      "relevance": 0.2
+    },
+    {
+      "title": "Reported EEOC Procedural Changes May Shorten Employer Response Times",
+      "url": "https://www.littler.com/news-analysis/asap/reported-eeoc-procedural-changes-may-shorten-employer-response-times",
+      "published_at": "2026-09-01T14:14:40+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "765288d73924",
+      "title_zh": "美国平等就业机会委员会程序变更报告或缩短雇主响应时",
+      "summary_zh": "程序变更 · 响应时间缩短 · 影响雇主",
       "relevance": 0.2
     }
   ]
