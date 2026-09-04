@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:59:15.606522+08:00",
+  "generated_at": "2026-09-04T12:00:34.765337+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -15,7 +15,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-08-29T00:00:00+00:00",
+        "published_at": "2026-08-30T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -26,6 +26,21 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
+      },
+      {
+        "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
+        "url": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
+        "published_at": "2026-09-03T19:33:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "d1dd6cd7f79f",
+        "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
+        "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 公司面临法律挑战",
+        "relevance": 0.73
       },
       {
         "title": "Tariff layoffs don't ease employers' health and safety duties: lawyer",
@@ -39,8 +54,23 @@
         "category": "政策与劳动合规",
         "id": "61fd785b578a",
         "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-        "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
+        "summary_zh": "责任未减 · 健康安全 · 律师观点",
         "relevance": 0.6
+      },
+      {
+        "title": "DOL warns employers of tobacco wellness program rule conflict",
+        "url": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
+        "published_at": "2026-09-03T12:15:36+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "3eee48e52a5c",
+        "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
+        "summary_zh": "规则冲突 · 影响雇主 · 需注意",
+        "relevance": 0.33
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -48,7 +78,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-08-29T00:00:00+00:00",
+        "published_at": "2026-08-30T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -63,6 +93,21 @@
     ],
     "学习发展与技能转型": [
       {
+        "title": "5 FREE HR AI Skills Templates: What They’re for & How To Use Them",
+        "url": "https://www.aihr.com/blog/hr-ai-skills-templates/",
+        "published_at": "2026-09-03T10:58:01+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "870ac6a1e6fe",
+        "title_zh": "5免费HR AI技能模板：用途与使用方法",
+        "summary_zh": "提升效率 · 优化流程 · 降低成本",
+        "relevance": 0.77
+      },
+      {
         "title": "What happens when people stop thinking: The case for behavioral AI literacy",
         "url": "https://hrexecutive.com/what-happens-when-people-stop-thinking-the-case-for-behavioral-ai-literacy/",
         "published_at": "2026-09-02T12:15:57+00:00",
@@ -76,6 +121,36 @@
         "title_zh": "当人们停止思考：行为人工智能素养的必要性",
         "summary_zh": "停止思考影响决策 · 行为AI提升效率 · 提升AI素养",
         "relevance": 0.73
+      },
+      {
+        "title": "This week in 5 numbers: The right personality could make up for a skills gap",
+        "url": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
+        "published_at": "2026-09-03T19:33:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "a268fa760758",
+        "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
+        "summary_zh": "性格重要 · 技能可补 · 性格影响",
+        "relevance": 0.33
+      },
+      {
+        "title": "Employees say only 60% of onboarding materials are necessary",
+        "url": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
+        "published_at": "2026-09-03T14:20:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "5a8cced97d2c",
+        "title_zh": "员工称只有60%的入职材料是必要的",
+        "summary_zh": "材料不必要 · 满意度低 · 需改进",
+        "relevance": 0.33
       }
     ],
     "HR 产品与数字化": [],
@@ -96,21 +171,6 @@
         "relevance": 0.6
       },
       {
-        "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
-        "url": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
-        "published_at": "2026-09-02T19:12:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "7ff9d23cd84d",
-        "title_zh": "第四巡回法院支持引用圣经拒绝接种新冠疫苗的员工",
-        "summary_zh": "引用圣经获支持 · 拒绝疫苗政策 · 法院裁决",
-        "relevance": 0.5
-      },
-      {
         "title": "Cotopaxi repays workers at Taiwan mills for predatory recruitment fees",
         "url": "https://www.hrdive.com/news/cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recruitment-fees/829417/",
         "published_at": "2026-09-02T19:12:00+00:00",
@@ -121,23 +181,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "2d6926b3cc3f",
-        "title_zh": "科托帕克西偿还台湾工厂工人掠夺性招募费用",
-        "summary_zh": "偿还招募费 · 维护权益 · 提高待遇",
+        "title_zh": "科托帕克西偿还台湾工厂工人掠夺性招聘费用",
+        "summary_zh": "偿还招聘费 · 回补工人损失 · 提高行业标准",
         "relevance": 0.5
       },
       {
-        "title": "Almost half the time spent on AI is on fixing its output, BambooHR says",
-        "url": "https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/",
-        "published_at": "2026-09-02T14:30:00+00:00",
+        "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
+        "url": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
+        "published_at": "2026-09-02T19:12:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "1b98f2cd457e",
-        "title_zh": "近半时间用于修复AI输出，BambooHR称",
-        "summary_zh": "修复输出 · 时间占比高 · 效率受影响",
+        "id": "7ff9d23cd84d",
+        "title_zh": "第四巡回法院支持引用圣经拒绝接种新冠政策的员工",
+        "summary_zh": "引用圣经获支持 · 接种政策争议 · 法院裁决",
         "relevance": 0.5
       },
       {
@@ -166,8 +226,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "7232447451ea",
-        "title_zh": "借鉴国家首个AI原生医疗系统的并购经验",
-        "summary_zh": "AI医疗创新 · 并购策略 · 经验借鉴",
+        "title_zh": "人工智能原生医疗系统带来的启示",
+        "summary_zh": "AI驱动 · 改善健康 · 创新模式",
         "relevance": 0.5
       },
       {
@@ -186,21 +246,6 @@
         "relevance": 0.5
       },
       {
-        "title": "How AI can help workers move between job opportunities",
-        "url": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
-        "published_at": "2026-09-01T11:45:48+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "4cc8f4f89e60",
-        "title_zh": "人工智能如何助力职场人士转换工作机会",
-        "summary_zh": "提升技能 · 优化匹配 · 增加效率",
-        "relevance": 0.5
-      },
-      {
         "title": "The rise of AI shadow culture",
         "url": "https://www.chieflearningofficer.com/2026/09/02/the-rise-of-ai-shadow-culture/",
         "published_at": "2026-09-02T06:00:00+00:00",
@@ -214,6 +259,21 @@
         "title_zh": "人工智能阴影文化的兴起",
         "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
         "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-09-04 — OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+        "url": "https://aihot.virxact.com/daily/2026-09-04",
+        "published_at": "2026-09-04T00:01:53+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "191869baff6b",
+        "title_zh": "AIHOT 日报 · 2026-09-04 — O",
+        "summary_zh": "1.05M上下文计算机操作模型 · 触及网络安全阈值 · 限制访问",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-09-03 — Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
@@ -242,7 +302,7 @@
         "category": "案例、报告与趋势",
         "id": "f9de9c26d9a9",
         "title_zh": "AIHOT 日报 · 2026-09-02 — O",
-        "summary_zh": "达到网络安全 Critical 能力阈值 · 将受限发布 · OpenAI 评定",
+        "summary_zh": "OpenAI评定Astra达网络安全临界值 · Astra将受限发布 · 事件发生于2026年9月2日",
         "relevance": 0.2
       },
       {
@@ -257,76 +317,31 @@
         "category": "案例、报告与趋势",
         "id": "1f6bdf26bdab",
         "title_zh": "AIHOT 日报 · 2026-09-01 — D",
-        "summary_zh": "模型开源 · 能力接近Opus-4.8 · 多模态Agent",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-31 — 索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-        "url": "https://aihot.virxact.com/daily/2026-08-31",
-        "published_at": "2026-08-31T00:00:01+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "886e5818fb69",
-        "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用",
-        "summary_zh": "指控大规模盗用版权音乐 · 训练AI模型Claude · 索尼与华纳提起诉讼",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-30 — 智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-        "url": "https://aihot.virxact.com/daily/2026-08-30",
-        "published_at": "2026-08-30T00:01:38+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "170d2aeb006b",
-        "title_zh": "AIHOT 日报 · 2026-08-30 — 智",
-        "summary_zh": "开源GLM-5.3模型权重 · 主打智能体编程 · 增强网络防御",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-29 — 腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "url": "https://aihot.virxact.com/daily/2026-08-29",
-        "published_at": "2026-08-29T00:01:36+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "9b8deddaffc3",
-        "title_zh": "AIHOT 日报 · 2026-08-29 — 腾",
-        "summary_zh": "770B参数 · 1M上下文 · 开源上线",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-08-28 — Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-        "url": "https://aihot.virxact.com/daily/2026-08-28",
-        "published_at": "2026-08-28T00:01:55+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "f048b9ff1db0",
-        "title_zh": "AIHOT 日报 · 2026-08-28 — G",
-        "summary_zh": "发布新版本 · 增强视频控制 · 适合开发者",
+        "summary_zh": "开源DeepSeek-V4-Flash-Vision-Exp模型 · 多模态Agent能力接近Opus-4.8 · 模型发布于2026年9月1日",
         "relevance": 0.2
       }
     ]
   },
   "all_items": [
     {
+      "title": "5 FREE HR AI Skills Templates: What They’re for & How To Use Them",
+      "url": "https://www.aihr.com/blog/hr-ai-skills-templates/",
+      "published_at": "2026-09-03T10:58:01+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "870ac6a1e6fe",
+      "title_zh": "5免费HR AI技能模板：用途与使用方法",
+      "summary_zh": "提升效率 · 优化流程 · 降低成本",
+      "relevance": 0.77
+    },
+    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-08-29T00:00:00+00:00",
+      "published_at": "2026-08-30T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -341,7 +356,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-08-29T00:00:00+00:00",
+      "published_at": "2026-08-30T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -352,6 +367,21 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
+      "url": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
+      "published_at": "2026-09-03T19:33:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "d1dd6cd7f79f",
+      "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
+      "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 公司面临法律挑战",
+      "relevance": 0.73
     },
     {
       "title": "What happens when people stop thinking: The case for behavioral AI literacy",
@@ -380,7 +410,7 @@
       "category": "政策与劳动合规",
       "id": "61fd785b578a",
       "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-      "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
+      "summary_zh": "责任未减 · 健康安全 · 律师观点",
       "relevance": 0.6
     },
     {
@@ -399,21 +429,6 @@
       "relevance": 0.6
     },
     {
-      "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
-      "url": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
-      "published_at": "2026-09-02T19:12:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "7ff9d23cd84d",
-      "title_zh": "第四巡回法院支持引用圣经拒绝接种新冠疫苗的员工",
-      "summary_zh": "引用圣经获支持 · 拒绝疫苗政策 · 法院裁决",
-      "relevance": 0.5
-    },
-    {
       "title": "Cotopaxi repays workers at Taiwan mills for predatory recruitment fees",
       "url": "https://www.hrdive.com/news/cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recruitment-fees/829417/",
       "published_at": "2026-09-02T19:12:00+00:00",
@@ -424,23 +439,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "2d6926b3cc3f",
-      "title_zh": "科托帕克西偿还台湾工厂工人掠夺性招募费用",
-      "summary_zh": "偿还招募费 · 维护权益 · 提高待遇",
+      "title_zh": "科托帕克西偿还台湾工厂工人掠夺性招聘费用",
+      "summary_zh": "偿还招聘费 · 回补工人损失 · 提高行业标准",
       "relevance": 0.5
     },
     {
-      "title": "Almost half the time spent on AI is on fixing its output, BambooHR says",
-      "url": "https://www.hrdive.com/news/almost-half-the-time-workers-spend-on-ai-is-spent-fixing-its-output/829404/",
-      "published_at": "2026-09-02T14:30:00+00:00",
+      "title": "4th Circuit backs worker who cited the Bible in abstaining from COVID vaccine policy",
+      "url": "https://www.hrdive.com/news/4th-circuit-backs-worker-who-cited-bible-covid-vaccine/829471/",
+      "published_at": "2026-09-02T19:12:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "1b98f2cd457e",
-      "title_zh": "近半时间用于修复AI输出，BambooHR称",
-      "summary_zh": "修复输出 · 时间占比高 · 效率受影响",
+      "id": "7ff9d23cd84d",
+      "title_zh": "第四巡回法院支持引用圣经拒绝接种新冠政策的员工",
+      "summary_zh": "引用圣经获支持 · 接种政策争议 · 法院裁决",
       "relevance": 0.5
     },
     {
@@ -469,8 +484,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "7232447451ea",
-      "title_zh": "借鉴国家首个AI原生医疗系统的并购经验",
-      "summary_zh": "AI医疗创新 · 并购策略 · 经验借鉴",
+      "title_zh": "人工智能原生医疗系统带来的启示",
+      "summary_zh": "AI驱动 · 改善健康 · 创新模式",
       "relevance": 0.5
     },
     {
@@ -489,21 +504,6 @@
       "relevance": 0.5
     },
     {
-      "title": "How AI can help workers move between job opportunities",
-      "url": "https://hrexecutive.com/the-challenge-ai-may-help-most-with-helping-workers-move-between-job-opportunities/",
-      "published_at": "2026-09-01T11:45:48+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "4cc8f4f89e60",
-      "title_zh": "人工智能如何助力职场人士转换工作机会",
-      "summary_zh": "提升技能 · 优化匹配 · 增加效率",
-      "relevance": 0.5
-    },
-    {
       "title": "The rise of AI shadow culture",
       "url": "https://www.chieflearningofficer.com/2026/09/02/the-rise-of-ai-shadow-culture/",
       "published_at": "2026-09-02T06:00:00+00:00",
@@ -517,6 +517,66 @@
       "title_zh": "人工智能阴影文化的兴起",
       "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
       "relevance": 0.5
+    },
+    {
+      "title": "This week in 5 numbers: The right personality could make up for a skills gap",
+      "url": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
+      "published_at": "2026-09-03T19:33:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "a268fa760758",
+      "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
+      "summary_zh": "性格重要 · 技能可补 · 性格影响",
+      "relevance": 0.33
+    },
+    {
+      "title": "Employees say only 60% of onboarding materials are necessary",
+      "url": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
+      "published_at": "2026-09-03T14:20:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "5a8cced97d2c",
+      "title_zh": "员工称只有60%的入职材料是必要的",
+      "summary_zh": "材料不必要 · 满意度低 · 需改进",
+      "relevance": 0.33
+    },
+    {
+      "title": "DOL warns employers of tobacco wellness program rule conflict",
+      "url": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
+      "published_at": "2026-09-03T12:15:36+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "3eee48e52a5c",
+      "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
+      "summary_zh": "规则冲突 · 影响雇主 · 需注意",
+      "relevance": 0.33
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-04 — OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+      "url": "https://aihot.virxact.com/daily/2026-09-04",
+      "published_at": "2026-09-04T00:01:53+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "191869baff6b",
+      "title_zh": "AIHOT 日报 · 2026-09-04 — O",
+      "summary_zh": "1.05M上下文计算机操作模型 · 触及网络安全阈值 · 限制访问",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-09-03 — Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
@@ -545,7 +605,7 @@
       "category": "案例、报告与趋势",
       "id": "f9de9c26d9a9",
       "title_zh": "AIHOT 日报 · 2026-09-02 — O",
-      "summary_zh": "达到网络安全 Critical 能力阈值 · 将受限发布 · OpenAI 评定",
+      "summary_zh": "OpenAI评定Astra达网络安全临界值 · Astra将受限发布 · 事件发生于2026年9月2日",
       "relevance": 0.2
     },
     {
@@ -560,67 +620,7 @@
       "category": "案例、报告与趋势",
       "id": "1f6bdf26bdab",
       "title_zh": "AIHOT 日报 · 2026-09-01 — D",
-      "summary_zh": "模型开源 · 能力接近Opus-4.8 · 多模态Agent",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-31 — 索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-      "url": "https://aihot.virxact.com/daily/2026-08-31",
-      "published_at": "2026-08-31T00:00:01+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "886e5818fb69",
-      "title_zh": "索尼与华纳起诉Anthropic，指控其大规模盗用",
-      "summary_zh": "指控大规模盗用版权音乐 · 训练AI模型Claude · 索尼与华纳提起诉讼",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-30 — 智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-      "url": "https://aihot.virxact.com/daily/2026-08-30",
-      "published_at": "2026-08-30T00:01:38+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "170d2aeb006b",
-      "title_zh": "AIHOT 日报 · 2026-08-30 — 智",
-      "summary_zh": "开源GLM-5.3模型权重 · 主打智能体编程 · 增强网络防御",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-29 — 腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://aihot.virxact.com/daily/2026-08-29",
-      "published_at": "2026-08-29T00:01:36+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "9b8deddaffc3",
-      "title_zh": "AIHOT 日报 · 2026-08-29 — 腾",
-      "summary_zh": "770B参数 · 1M上下文 · 开源上线",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-08-28 — Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-      "url": "https://aihot.virxact.com/daily/2026-08-28",
-      "published_at": "2026-08-28T00:01:55+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "f048b9ff1db0",
-      "title_zh": "AIHOT 日报 · 2026-08-28 — G",
-      "summary_zh": "发布新版本 · 增强视频控制 · 适合开发者",
+      "summary_zh": "开源DeepSeek-V4-Flash-Vision-Exp模型 · 多模态Agent能力接近Opus-4.8 · 模型发布于2026年9月1日",
       "relevance": 0.2
     }
   ]
