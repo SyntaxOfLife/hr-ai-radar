@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:58:14.780065+08:00",
+  "generated_at": "2026-09-06T12:03:38.096570+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,13 +24,13 @@
         "category": "政策与劳动合规",
         "id": "74ab4ebf24d6",
         "title_zh": "英国培训费用追回条款：可能因限制贸易而无法执行",
-        "summary_zh": "追回条款存争议 · 限制贸易风险 · 合规性需关注",
+        "summary_zh": "追回条款受限 · 约束贸易 · 法律风险",
         "relevance": 0.81
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-08-31T00:00:00+00:00",
+        "published_at": "2026-09-01T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -54,7 +54,7 @@
         "category": "政策与劳动合规",
         "id": "729b27f9e7c4",
         "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
-        "summary_zh": "未涵盖不明缺勤 · 法官裁定 · 政策宽松",
+        "summary_zh": "未涵盖不明缺勤 · 政策宽松 · 法官裁定",
         "relevance": 0.73
       },
       {
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "d1dd6cd7f79f",
         "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-        "summary_zh": "解雇理由不统一 · FMLA申诉维持 · 管理层争议",
+        "summary_zh": "无法解释解雇差异 · FMLA申诉继续 · 案件悬而未决",
         "relevance": 0.73
       },
       {
@@ -99,7 +99,7 @@
         "category": "政策与劳动合规",
         "id": "3eee48e52a5c",
         "title_zh": "劳工部警告雇主烟草健康计划规则冲突",
-        "summary_zh": "规则冲突 · 影响雇主 · 需注意",
+        "summary_zh": "规则冲突 · 影响雇主 · 需注意合规",
         "relevance": 0.33
       }
     ],
@@ -108,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-08-31T00:00:00+00:00",
+        "published_at": "2026-09-01T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -133,7 +133,7 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "870ac6a1e6fe",
-        "title_zh": "5免费HR AI技能模板：用途及使用方法",
+        "title_zh": "5免费HR AI技能模板：用途与使用方法",
         "summary_zh": "提升效率 · 优化招聘 · 简化管理",
         "relevance": 0.77
       },
@@ -149,7 +149,7 @@
         "category": "学习发展与技能转型",
         "id": "a268fa760758",
         "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-        "summary_zh": "性格重要 · 技能差距 · 潜力互补",
+        "summary_zh": "性格重要 · 技能差距 · 影响就业",
         "relevance": 0.33
       },
       {
@@ -182,7 +182,7 @@
         "category": "案例、报告与趋势",
         "id": "2e7e35d0cdbc",
         "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-        "summary_zh": "塑造调查项目 · 控制药品成本 · 提升管理效率",
+        "summary_zh": "塑造项目 · 降低成本 · 提高透明度",
         "relevance": 0.73
       },
       {
@@ -257,7 +257,22 @@
         "category": "案例、报告与趋势",
         "id": "e6e18f256c31",
         "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-        "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
+        "summary_zh": "可提交陪审团 · 涉及药物测试 · 种族歧视指控",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-09-06 — 奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "url": "https://aihot.virxact.com/daily/2026-09-06",
+        "published_at": "2026-09-06T00:01:35+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "7f77ea14f236",
+        "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
+        "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推广至Plus/Pro用户",
         "relevance": 0.2
       },
       {
@@ -302,22 +317,7 @@
         "category": "案例、报告与趋势",
         "id": "b63acab2e3d4",
         "title_zh": "AIHOT 日报 · 2026-09-03 — G",
-        "summary_zh": "发布新模型 · 性能提升 · 应用于网络安全",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-02 — OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-        "url": "https://aihot.virxact.com/daily/2026-09-02",
-        "published_at": "2026-09-02T00:00:31+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "f9de9c26d9a9",
-        "title_zh": "AIHOT 日报 · 2026-09-02 — O",
-        "summary_zh": "OpenAI评定Astra达网络安全临界值 · Astra将受限发布 · 事件发生于2026年9月2日",
+        "summary_zh": "发布新模型 · 性能优化 · 应用于网络安全",
         "relevance": 0.2
       }
     ]
@@ -335,7 +335,7 @@
       "category": "政策与劳动合规",
       "id": "74ab4ebf24d6",
       "title_zh": "英国培训费用追回条款：可能因限制贸易而无法执行",
-      "summary_zh": "追回条款存争议 · 限制贸易风险 · 合规性需关注",
+      "summary_zh": "追回条款受限 · 约束贸易 · 法律风险",
       "relevance": 0.81
     },
     {
@@ -349,14 +349,14 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "870ac6a1e6fe",
-      "title_zh": "5免费HR AI技能模板：用途及使用方法",
+      "title_zh": "5免费HR AI技能模板：用途与使用方法",
       "summary_zh": "提升效率 · 优化招聘 · 简化管理",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-08-31T00:00:00+00:00",
+      "published_at": "2026-09-01T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +371,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-08-31T00:00:00+00:00",
+      "published_at": "2026-09-01T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -395,7 +395,7 @@
       "category": "政策与劳动合规",
       "id": "729b27f9e7c4",
       "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
-      "summary_zh": "未涵盖不明缺勤 · 法官裁定 · 政策宽松",
+      "summary_zh": "未涵盖不明缺勤 · 政策宽松 · 法官裁定",
       "relevance": 0.73
     },
     {
@@ -410,7 +410,7 @@
       "category": "政策与劳动合规",
       "id": "d1dd6cd7f79f",
       "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-      "summary_zh": "解雇理由不统一 · FMLA申诉维持 · 管理层争议",
+      "summary_zh": "无法解释解雇差异 · FMLA申诉继续 · 案件悬而未决",
       "relevance": 0.73
     },
     {
@@ -425,7 +425,7 @@
       "category": "案例、报告与趋势",
       "id": "2e7e35d0cdbc",
       "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-      "summary_zh": "塑造调查项目 · 控制药品成本 · 提升管理效率",
+      "summary_zh": "塑造项目 · 降低成本 · 提高透明度",
       "relevance": 0.73
     },
     {
@@ -515,7 +515,7 @@
       "category": "学习发展与技能转型",
       "id": "a268fa760758",
       "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-      "summary_zh": "性格重要 · 技能差距 · 潜力互补",
+      "summary_zh": "性格重要 · 技能差距 · 影响就业",
       "relevance": 0.33
     },
     {
@@ -545,7 +545,7 @@
       "category": "政策与劳动合规",
       "id": "3eee48e52a5c",
       "title_zh": "劳工部警告雇主烟草健康计划规则冲突",
-      "summary_zh": "规则冲突 · 影响雇主 · 需注意",
+      "summary_zh": "规则冲突 · 影响雇主 · 需注意合规",
       "relevance": 0.33
     },
     {
@@ -560,7 +560,22 @@
       "category": "案例、报告与趋势",
       "id": "e6e18f256c31",
       "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-      "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
+      "summary_zh": "可提交陪审团 · 涉及药物测试 · 种族歧视指控",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-06 — 奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://aihot.virxact.com/daily/2026-09-06",
+      "published_at": "2026-09-06T00:01:35+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "7f77ea14f236",
+      "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
+      "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推广至Plus/Pro用户",
       "relevance": 0.2
     },
     {
@@ -605,22 +620,7 @@
       "category": "案例、报告与趋势",
       "id": "b63acab2e3d4",
       "title_zh": "AIHOT 日报 · 2026-09-03 — G",
-      "summary_zh": "发布新模型 · 性能提升 · 应用于网络安全",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-02 — OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-      "url": "https://aihot.virxact.com/daily/2026-09-02",
-      "published_at": "2026-09-02T00:00:31+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "f9de9c26d9a9",
-      "title_zh": "AIHOT 日报 · 2026-09-02 — O",
-      "summary_zh": "OpenAI评定Astra达网络安全临界值 · Astra将受限发布 · 事件发生于2026年9月2日",
+      "summary_zh": "发布新模型 · 性能优化 · 应用于网络安全",
       "relevance": 0.2
     }
   ]
