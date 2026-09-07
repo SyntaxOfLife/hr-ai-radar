@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:03:38.096570+08:00",
+  "generated_at": "2026-09-07T12:03:35.648154+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-01T00:00:00+00:00",
+        "published_at": "2026-09-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -53,8 +53,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "729b27f9e7c4",
-        "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
-        "summary_zh": "未涵盖不明缺勤 · 政策宽松 · 法官裁定",
+        "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
+        "summary_zh": "未涵盖不明缺勤 · 疫情政策 · 法官裁定",
         "relevance": 0.73
       },
       {
@@ -84,7 +84,7 @@
         "category": "政策与劳动合规",
         "id": "61fd785b578a",
         "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-        "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
+        "summary_zh": "关税裁员 · 责任未减 · 律师观点",
         "relevance": 0.6
       },
       {
@@ -108,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-01T00:00:00+00:00",
+        "published_at": "2026-09-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -119,6 +119,21 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
+      },
+      {
+        "title": "How Match Group’s CPO rebuilt talent growth after flattening the org",
+        "url": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
+        "published_at": "2026-09-03T12:00:05+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "828829c24d52",
+        "title_zh": "马奇集团首席产品官如何重塑组织扁平化后的人才培养",
+        "summary_zh": "重塑人才发展 · 优化组织结构 · 提升员工绩效",
+        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
@@ -133,7 +148,7 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "870ac6a1e6fe",
-        "title_zh": "5免费HR AI技能模板：用途与使用方法",
+        "title_zh": "5免费HR AI技能模板：用途及使用方法",
         "summary_zh": "提升效率 · 优化招聘 · 简化管理",
         "relevance": 0.77
       },
@@ -149,7 +164,7 @@
         "category": "学习发展与技能转型",
         "id": "a268fa760758",
         "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-        "summary_zh": "性格重要 · 技能差距 · 影响就业",
+        "summary_zh": "性格重要 · 技能差距 · 潜力互补",
         "relevance": 0.33
       },
       {
@@ -182,7 +197,7 @@
         "category": "案例、报告与趋势",
         "id": "2e7e35d0cdbc",
         "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-        "summary_zh": "塑造项目 · 降低成本 · 提高透明度",
+        "summary_zh": "塑造项目方向 · 控制成本 · 提高效率",
         "relevance": 0.73
       },
       {
@@ -242,7 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "01a859dc4658",
         "title_zh": "人工智能阴影文化的兴起",
-        "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
+        "summary_zh": "企业忽视AI伦理 · 员工技能被替代 · 监管挑战加剧",
         "relevance": 0.5
       },
       {
@@ -257,7 +272,22 @@
         "category": "案例、报告与趋势",
         "id": "e6e18f256c31",
         "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-        "summary_zh": "可提交陪审团 · 涉及药物测试 · 种族歧视指控",
+        "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-09-07 — OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+        "url": "https://aihot.virxact.com/daily/2026-09-07",
+        "published_at": "2026-09-07T00:00:08+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "52165533506c",
+        "title_zh": "AIHOT 日报 · 2026-09-07 — O",
+        "summary_zh": "达成自动化研究实习生目标 · 推进 2028 年 3 月自动化 AI 研究员 · 发布内部研究加速报告",
         "relevance": 0.2
       },
       {
@@ -272,7 +302,7 @@
         "category": "案例、报告与趋势",
         "id": "7f77ea14f236",
         "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
-        "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推广至Plus/Pro用户",
+        "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推向所有Plus/Pro用户",
         "relevance": 0.2
       },
       {
@@ -288,36 +318,6 @@
         "id": "a3f996567657",
         "title_zh": "AIHOT 日报 · 2026-09-05 — O",
         "summary_zh": "GPT-6 Astra发布 · 面向特定用户群体 · 功能升级",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-04 — OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-        "url": "https://aihot.virxact.com/daily/2026-09-04",
-        "published_at": "2026-09-04T00:01:53+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "191869baff6b",
-        "title_zh": "AIHOT 日报 · 2026-09-04 — O",
-        "summary_zh": "1.05M上下文计算机操作模型 · 触及网络安全阈值 · 限制访问",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-03 — Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-        "url": "https://aihot.virxact.com/daily/2026-09-03",
-        "published_at": "2026-09-03T00:00:00+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "b63acab2e3d4",
-        "title_zh": "AIHOT 日报 · 2026-09-03 — G",
-        "summary_zh": "发布新模型 · 性能优化 · 应用于网络安全",
         "relevance": 0.2
       }
     ]
@@ -349,14 +349,14 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "870ac6a1e6fe",
-      "title_zh": "5免费HR AI技能模板：用途与使用方法",
+      "title_zh": "5免费HR AI技能模板：用途及使用方法",
       "summary_zh": "提升效率 · 优化招聘 · 简化管理",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-01T00:00:00+00:00",
+      "published_at": "2026-09-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +371,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-01T00:00:00+00:00",
+      "published_at": "2026-09-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -394,8 +394,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "729b27f9e7c4",
-      "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
-      "summary_zh": "未涵盖不明缺勤 · 政策宽松 · 法官裁定",
+      "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
+      "summary_zh": "未涵盖不明缺勤 · 疫情政策 · 法官裁定",
       "relevance": 0.73
     },
     {
@@ -425,7 +425,7 @@
       "category": "案例、报告与趋势",
       "id": "2e7e35d0cdbc",
       "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-      "summary_zh": "塑造项目 · 降低成本 · 提高透明度",
+      "summary_zh": "塑造项目方向 · 控制成本 · 提高效率",
       "relevance": 0.73
     },
     {
@@ -440,7 +440,7 @@
       "category": "政策与劳动合规",
       "id": "61fd785b578a",
       "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-      "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
+      "summary_zh": "关税裁员 · 责任未减 · 律师观点",
       "relevance": 0.6
     },
     {
@@ -500,7 +500,7 @@
       "category": "案例、报告与趋势",
       "id": "01a859dc4658",
       "title_zh": "人工智能阴影文化的兴起",
-      "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
+      "summary_zh": "企业忽视AI伦理 · 员工技能被替代 · 监管挑战加剧",
       "relevance": 0.5
     },
     {
@@ -515,7 +515,7 @@
       "category": "学习发展与技能转型",
       "id": "a268fa760758",
       "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-      "summary_zh": "性格重要 · 技能差距 · 影响就业",
+      "summary_zh": "性格重要 · 技能差距 · 潜力互补",
       "relevance": 0.33
     },
     {
@@ -549,6 +549,21 @@
       "relevance": 0.33
     },
     {
+      "title": "How Match Group’s CPO rebuilt talent growth after flattening the org",
+      "url": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
+      "published_at": "2026-09-03T12:00:05+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "828829c24d52",
+      "title_zh": "马奇集团首席产品官如何重塑组织扁平化后的人才培养",
+      "summary_zh": "重塑人才发展 · 优化组织结构 · 提升员工绩效",
+      "relevance": 0.33
+    },
+    {
       "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
       "url": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
       "published_at": "2026-09-04T19:55:00+00:00",
@@ -560,7 +575,22 @@
       "category": "案例、报告与趋势",
       "id": "e6e18f256c31",
       "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-      "summary_zh": "可提交陪审团 · 涉及药物测试 · 种族歧视指控",
+      "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-07 — OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+      "url": "https://aihot.virxact.com/daily/2026-09-07",
+      "published_at": "2026-09-07T00:00:08+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "52165533506c",
+      "title_zh": "AIHOT 日报 · 2026-09-07 — O",
+      "summary_zh": "达成自动化研究实习生目标 · 推进 2028 年 3 月自动化 AI 研究员 · 发布内部研究加速报告",
       "relevance": 0.2
     },
     {
@@ -575,7 +605,7 @@
       "category": "案例、报告与趋势",
       "id": "7f77ea14f236",
       "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
-      "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推广至Plus/Pro用户",
+      "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推向所有Plus/Pro用户",
       "relevance": 0.2
     },
     {
@@ -591,36 +621,6 @@
       "id": "a3f996567657",
       "title_zh": "AIHOT 日报 · 2026-09-05 — O",
       "summary_zh": "GPT-6 Astra发布 · 面向特定用户群体 · 功能升级",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-04 — OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-      "url": "https://aihot.virxact.com/daily/2026-09-04",
-      "published_at": "2026-09-04T00:01:53+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "191869baff6b",
-      "title_zh": "AIHOT 日报 · 2026-09-04 — O",
-      "summary_zh": "1.05M上下文计算机操作模型 · 触及网络安全阈值 · 限制访问",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-03 — Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-      "url": "https://aihot.virxact.com/daily/2026-09-03",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "b63acab2e3d4",
-      "title_zh": "AIHOT 日报 · 2026-09-03 — G",
-      "summary_zh": "发布新模型 · 性能优化 · 应用于网络安全",
       "relevance": 0.2
     }
   ]
