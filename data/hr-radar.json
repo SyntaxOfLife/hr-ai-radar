@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:03:35.648154+08:00",
+  "generated_at": "2026-09-08T12:05:32.243941+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-02T00:00:00+00:00",
+        "published_at": "2026-09-03T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -54,7 +54,7 @@
         "category": "政策与劳动合规",
         "id": "729b27f9e7c4",
         "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
-        "summary_zh": "未涵盖不明缺勤 · 疫情政策 · 法官裁定",
+        "summary_zh": "未涵盖无解释缺勤 · 疫情政策 · 法官裁定",
         "relevance": 0.73
       },
       {
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "d1dd6cd7f79f",
         "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-        "summary_zh": "无法解释解雇差异 · FMLA申诉继续 · 案件悬而未决",
+        "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 案件悬而未决",
         "relevance": 0.73
       },
       {
@@ -84,7 +84,7 @@
         "category": "政策与劳动合规",
         "id": "61fd785b578a",
         "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-        "summary_zh": "关税裁员 · 责任未减 · 律师观点",
+        "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
         "relevance": 0.6
       },
       {
@@ -98,17 +98,32 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "3eee48e52a5c",
-        "title_zh": "劳工部警告雇主烟草健康计划规则冲突",
-        "summary_zh": "规则冲突 · 影响雇主 · 需注意合规",
+        "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
+        "summary_zh": "规则冲突 · 影响雇主 · 需注意",
         "relevance": 0.33
       }
     ],
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
+        "title": "From the Editor: Leadership, resilience and the problem(s) with AI",
+        "url": "https://hrzone.com/from-the-editor-leadership-resilience-and-the-problems-with-ai/",
+        "published_at": "2026-09-07T06:50:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "组织与人才管理",
+        "id": "d7fc6005a506",
+        "title_zh": "从编辑处：领导力、韧性及人工智能的问题",
+        "summary_zh": "领导力关键 · 韧性重要 · AI挑战",
+        "relevance": 0.77
+      },
+      {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-02T00:00:00+00:00",
+        "published_at": "2026-09-03T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -119,21 +134,6 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "How Match Group’s CPO rebuilt talent growth after flattening the org",
-        "url": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
-        "published_at": "2026-09-03T12:00:05+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "828829c24d52",
-        "title_zh": "马奇集团首席产品官如何重塑组织扁平化后的人才培养",
-        "summary_zh": "重塑人才发展 · 优化组织结构 · 提升员工绩效",
-        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
@@ -148,8 +148,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "870ac6a1e6fe",
-        "title_zh": "5免费HR AI技能模板：用途及使用方法",
-        "summary_zh": "提升效率 · 优化招聘 · 简化管理",
+        "title_zh": "5免费HR AI技能模板：用途与使用方法",
+        "summary_zh": "提升效率 · 优化流程 · 降低成本",
         "relevance": 0.77
       },
       {
@@ -164,7 +164,7 @@
         "category": "学习发展与技能转型",
         "id": "a268fa760758",
         "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-        "summary_zh": "性格重要 · 技能差距 · 潜力互补",
+        "summary_zh": "性格重要 · 技能差距 · 影响就业",
         "relevance": 0.33
       },
       {
@@ -231,6 +231,21 @@
         "relevance": 0.5
       },
       {
+        "title": "7 AI in the Workplace Examples: Benefits & What’s Driving AI Adoption",
+        "url": "https://www.aihr.com/blog/ai-in-the-workplace-examples/",
+        "published_at": "2026-09-07T14:45:29+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "c4084a0da137",
+        "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
+        "summary_zh": "提升效率 · 降低成本 · 增强决策",
+        "relevance": 0.5
+      },
+      {
         "title": "Adoption of AI in HR: How To Maximize AI’s HR Potential",
         "url": "https://www.aihr.com/blog/adoption-of-ai-in-hr/",
         "published_at": "2026-09-02T12:44:42+00:00",
@@ -246,6 +261,36 @@
         "relevance": 0.5
       },
       {
+        "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
+        "url": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
+        "published_at": "2026-09-07T12:30:40+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "3cea18690e34",
+        "title_zh": "招聘与录用：AI分配遇曝光与排斥",
+        "summary_zh": "AI辅助招聘 · 提高效率 · 存在偏见",
+        "relevance": 0.5
+      },
+      {
+        "title": "‘You cannot sue an AI’: Why adoption comes down to people, not platforms",
+        "url": "https://hrexecutive.com/you-cannot-sue-an-ai-why-adoption-comes-down-to-people-not-platforms/",
+        "published_at": "2026-09-07T12:15:32+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "064818e2bf41",
+        "title_zh": "“你不能起诉人工智能”：采用关键在人，非平台",
+        "summary_zh": "要点1 · 要点2 · 要点3",
+        "relevance": 0.5
+      },
+      {
         "title": "The rise of AI shadow culture",
         "url": "https://www.chieflearningofficer.com/2026/09/02/the-rise-of-ai-shadow-culture/",
         "published_at": "2026-09-02T06:00:00+00:00",
@@ -257,7 +302,7 @@
         "category": "案例、报告与趋势",
         "id": "01a859dc4658",
         "title_zh": "人工智能阴影文化的兴起",
-        "summary_zh": "企业忽视AI伦理 · 员工技能被替代 · 监管挑战加剧",
+        "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
         "relevance": 0.5
       },
       {
@@ -272,52 +317,7 @@
         "category": "案例、报告与趋势",
         "id": "e6e18f256c31",
         "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-        "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-07 — OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-        "url": "https://aihot.virxact.com/daily/2026-09-07",
-        "published_at": "2026-09-07T00:00:08+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "52165533506c",
-        "title_zh": "AIHOT 日报 · 2026-09-07 — O",
-        "summary_zh": "达成自动化研究实习生目标 · 推进 2028 年 3 月自动化 AI 研究员 · 发布内部研究加速报告",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-06 — 奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "url": "https://aihot.virxact.com/daily/2026-09-06",
-        "published_at": "2026-09-06T00:01:35+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "7f77ea14f236",
-        "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
-        "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推向所有Plus/Pro用户",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-05 — OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-        "url": "https://aihot.virxact.com/daily/2026-09-05",
-        "published_at": "2026-09-05T00:01:54+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "a3f996567657",
-        "title_zh": "AIHOT 日报 · 2026-09-05 — O",
-        "summary_zh": "GPT-6 Astra发布 · 面向特定用户群体 · 功能升级",
+        "summary_zh": "种族歧视可诉陪审团 · 药物测试相关 · 法院裁定",
         "relevance": 0.2
       }
     ]
@@ -349,14 +349,29 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "870ac6a1e6fe",
-      "title_zh": "5免费HR AI技能模板：用途及使用方法",
-      "summary_zh": "提升效率 · 优化招聘 · 简化管理",
+      "title_zh": "5免费HR AI技能模板：用途与使用方法",
+      "summary_zh": "提升效率 · 优化流程 · 降低成本",
+      "relevance": 0.77
+    },
+    {
+      "title": "From the Editor: Leadership, resilience and the problem(s) with AI",
+      "url": "https://hrzone.com/from-the-editor-leadership-resilience-and-the-problems-with-ai/",
+      "published_at": "2026-09-07T06:50:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "d7fc6005a506",
+      "title_zh": "从编辑处：领导力、韧性及人工智能的问题",
+      "summary_zh": "领导力关键 · 韧性重要 · AI挑战",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-02T00:00:00+00:00",
+      "published_at": "2026-09-03T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-02T00:00:00+00:00",
+      "published_at": "2026-09-03T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -395,7 +410,7 @@
       "category": "政策与劳动合规",
       "id": "729b27f9e7c4",
       "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
-      "summary_zh": "未涵盖不明缺勤 · 疫情政策 · 法官裁定",
+      "summary_zh": "未涵盖无解释缺勤 · 疫情政策 · 法官裁定",
       "relevance": 0.73
     },
     {
@@ -410,7 +425,7 @@
       "category": "政策与劳动合规",
       "id": "d1dd6cd7f79f",
       "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-      "summary_zh": "无法解释解雇差异 · FMLA申诉继续 · 案件悬而未决",
+      "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 案件悬而未决",
       "relevance": 0.73
     },
     {
@@ -440,7 +455,7 @@
       "category": "政策与劳动合规",
       "id": "61fd785b578a",
       "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-      "summary_zh": "关税裁员 · 责任未减 · 律师观点",
+      "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
       "relevance": 0.6
     },
     {
@@ -474,6 +489,21 @@
       "relevance": 0.5
     },
     {
+      "title": "7 AI in the Workplace Examples: Benefits & What’s Driving AI Adoption",
+      "url": "https://www.aihr.com/blog/ai-in-the-workplace-examples/",
+      "published_at": "2026-09-07T14:45:29+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "c4084a0da137",
+      "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
+      "summary_zh": "提升效率 · 降低成本 · 增强决策",
+      "relevance": 0.5
+    },
+    {
       "title": "Adoption of AI in HR: How To Maximize AI’s HR Potential",
       "url": "https://www.aihr.com/blog/adoption-of-ai-in-hr/",
       "published_at": "2026-09-02T12:44:42+00:00",
@@ -489,6 +519,36 @@
       "relevance": 0.5
     },
     {
+      "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
+      "url": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
+      "published_at": "2026-09-07T12:30:40+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "3cea18690e34",
+      "title_zh": "招聘与录用：AI分配遇曝光与排斥",
+      "summary_zh": "AI辅助招聘 · 提高效率 · 存在偏见",
+      "relevance": 0.5
+    },
+    {
+      "title": "‘You cannot sue an AI’: Why adoption comes down to people, not platforms",
+      "url": "https://hrexecutive.com/you-cannot-sue-an-ai-why-adoption-comes-down-to-people-not-platforms/",
+      "published_at": "2026-09-07T12:15:32+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "064818e2bf41",
+      "title_zh": "“你不能起诉人工智能”：采用关键在人，非平台",
+      "summary_zh": "要点1 · 要点2 · 要点3",
+      "relevance": 0.5
+    },
+    {
       "title": "The rise of AI shadow culture",
       "url": "https://www.chieflearningofficer.com/2026/09/02/the-rise-of-ai-shadow-culture/",
       "published_at": "2026-09-02T06:00:00+00:00",
@@ -500,7 +560,7 @@
       "category": "案例、报告与趋势",
       "id": "01a859dc4658",
       "title_zh": "人工智能阴影文化的兴起",
-      "summary_zh": "企业忽视AI伦理 · 员工技能被替代 · 监管挑战加剧",
+      "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
       "relevance": 0.5
     },
     {
@@ -515,7 +575,7 @@
       "category": "学习发展与技能转型",
       "id": "a268fa760758",
       "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-      "summary_zh": "性格重要 · 技能差距 · 潜力互补",
+      "summary_zh": "性格重要 · 技能差距 · 影响就业",
       "relevance": 0.33
     },
     {
@@ -544,23 +604,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "3eee48e52a5c",
-      "title_zh": "劳工部警告雇主烟草健康计划规则冲突",
-      "summary_zh": "规则冲突 · 影响雇主 · 需注意合规",
-      "relevance": 0.33
-    },
-    {
-      "title": "How Match Group’s CPO rebuilt talent growth after flattening the org",
-      "url": "https://hrexecutive.com/how-match-groups-cpo-rebuilt-talent-growth-after-flattening-the-org/",
-      "published_at": "2026-09-03T12:00:05+00:00",
-      "source_id": "hrexecutive",
-      "source_name": "HRExecutive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "828829c24d52",
-      "title_zh": "马奇集团首席产品官如何重塑组织扁平化后的人才培养",
-      "summary_zh": "重塑人才发展 · 优化组织结构 · 提升员工绩效",
+      "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
+      "summary_zh": "规则冲突 · 影响雇主 · 需注意",
       "relevance": 0.33
     },
     {
@@ -575,52 +620,7 @@
       "category": "案例、报告与趋势",
       "id": "e6e18f256c31",
       "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-      "summary_zh": "种族歧视可诉讼 · 药物测试相关 · 法院裁定",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-07 — OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-      "url": "https://aihot.virxact.com/daily/2026-09-07",
-      "published_at": "2026-09-07T00:00:08+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "52165533506c",
-      "title_zh": "AIHOT 日报 · 2026-09-07 — O",
-      "summary_zh": "达成自动化研究实习生目标 · 推进 2028 年 3 月自动化 AI 研究员 · 发布内部研究加速报告",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-06 — 奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "url": "https://aihot.virxact.com/daily/2026-09-06",
-      "published_at": "2026-09-06T00:01:35+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "7f77ea14f236",
-      "title_zh": "AIHOT 日报 · 2026-09-06 — 奥",
-      "summary_zh": "奥尔特曼致歉 · GPT-6发布混乱 · 推向所有Plus/Pro用户",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-05 — OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-      "url": "https://aihot.virxact.com/daily/2026-09-05",
-      "published_at": "2026-09-05T00:01:54+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "a3f996567657",
-      "title_zh": "AIHOT 日报 · 2026-09-05 — O",
-      "summary_zh": "GPT-6 Astra发布 · 面向特定用户群体 · 功能升级",
+      "summary_zh": "种族歧视可诉陪审团 · 药物测试相关 · 法院裁定",
       "relevance": 0.2
     }
   ]
