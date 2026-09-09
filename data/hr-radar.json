@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:05:32.243941+08:00",
+  "generated_at": "2026-09-09T12:12:12.619036+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,13 +24,13 @@
         "category": "政策与劳动合规",
         "id": "74ab4ebf24d6",
         "title_zh": "英国培训费用追回条款：可能因限制贸易而无法执行",
-        "summary_zh": "追回条款受限 · 约束贸易 · 法律风险",
+        "summary_zh": "追回条款存争议 · 限制商业自由 · 法律风险高",
         "relevance": 0.81
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-03T00:00:00+00:00",
+        "published_at": "2026-09-04T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -43,6 +43,21 @@
         "id": "c79ea307e6b8"
       },
       {
+        "title": "Rodeo tickets and nude dancers: DOL details alleged policy violations under former secretary",
+        "url": "https://www.hrdive.com/news/rodeo-tickets-and-nude-dancers-dol-details-recurring-policy-violations-und/829837/",
+        "published_at": "2026-09-08T21:08:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "7762523fb8ed",
+        "title_zh": "骑术票和裸体舞者：劳工部详细说明前任部长涉嫌政策违",
+        "summary_zh": "违反政策 · 裸体舞者 · 劳工部调查",
+        "relevance": 0.73
+      },
+      {
         "title": "Amtrak’s ‘relaxed’ COVID-era FMLA policy didn’t cover plaintiff’s unexplained absences, judge rules",
         "url": "https://www.hrdive.com/news/amtrak-relaxed-covid-era-fmla-policy-unexplained-absences/829728/",
         "published_at": "2026-09-04T19:55:00+00:00",
@@ -53,54 +68,24 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "729b27f9e7c4",
-        "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
-        "summary_zh": "未涵盖无解释缺勤 · 疫情政策 · 法官裁定",
+        "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
+        "summary_zh": "未涵盖无故缺勤 · 疫情政策 · 法官裁定",
         "relevance": 0.73
       },
       {
-        "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
-        "url": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
-        "published_at": "2026-09-03T19:33:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "d1dd6cd7f79f",
-        "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-        "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 案件悬而未决",
-        "relevance": 0.73
-      },
-      {
-        "title": "Tariff layoffs don't ease employers' health and safety duties: lawyer",
-        "url": "https://www.littler.com/press/news/tariff-layoffs-dont-ease-employers-health-and-safety-duties-lawyer",
-        "published_at": "2026-09-01T20:06:12+00:00",
+        "title": "Update on the EU Forced Labour Regulation: What the European Commission’s New Guidelines Mean for Companies",
+        "url": "https://www.littler.com/news-analysis/asap/update-eu-forced-labour-regulation-what-european-commissions-new-guidelines-mean",
+        "published_at": "2026-09-08T13:45:58+00:00",
         "source_id": "littler",
         "source_name": "Littler",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "61fd785b578a",
-        "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-        "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
-        "relevance": 0.6
-      },
-      {
-        "title": "DOL warns employers of tobacco wellness program rule conflict",
-        "url": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
-        "published_at": "2026-09-03T12:15:36+00:00",
-        "source_id": "hrexecutive",
-        "source_name": "HRExecutive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "3eee48e52a5c",
-        "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
-        "summary_zh": "规则冲突 · 影响雇主 · 需注意",
-        "relevance": 0.33
+        "id": "05fce89fd36d",
+        "title_zh": "欧盟强制劳动法规更新：欧盟委员会新指南对公司意味着",
+        "summary_zh": "禁止强制劳动 · 影响企业运营 · 需合规调整",
+        "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -123,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-03T00:00:00+00:00",
+        "published_at": "2026-09-04T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -134,6 +119,51 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
+      },
+      {
+        "title": "Increased Anonymous Reporting is a Signal Compliance Leaders Cannot Ignore",
+        "url": "https://www.littler.com/press/external-publication/increased-anonymous-reporting-signal-compliance-leaders-cannot-ignore",
+        "published_at": "2026-09-08T20:21:15+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "88fd85faf57b",
+        "title_zh": "匿名举报增加是合规领导者不能忽视的信号",
+        "summary_zh": "举报增多 · 合规关注 · 信号重要",
+        "relevance": 0.4
+      },
+      {
+        "title": "Study: Business leaders underestimate future work disruptions",
+        "url": "https://www.hrdive.com/news/leaders-underestimate-future-work-disruptions-2026/829805/",
+        "published_at": "2026-09-08T16:44:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "211254e4d231",
+        "title_zh": "研究：商界领袖低估未来工作干扰",
+        "summary_zh": "低估干扰 · 影响未来 · 需要重视",
+        "relevance": 0.33
+      },
+      {
+        "title": "Remote working is reshaping presenteeism, study finds",
+        "url": "https://hrexecutive.com/remote-working-is-reshaping-presenteeism-study-finds/",
+        "published_at": "2026-09-08T11:45:54+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "b64fcda53b71",
+        "title_zh": "远程工作正在重塑出勤主义，研究显示",
+        "summary_zh": "出勤观念受影响 · 工作模式改变 · 研究揭示新趋势",
+        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
@@ -148,39 +178,9 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "870ac6a1e6fe",
-        "title_zh": "5免费HR AI技能模板：用途与使用方法",
-        "summary_zh": "提升效率 · 优化流程 · 降低成本",
+        "title_zh": "5免费HR AI技能模板：用途及使用方法",
+        "summary_zh": "提升效率 · 优化招聘 · 简化管理",
         "relevance": 0.77
-      },
-      {
-        "title": "This week in 5 numbers: The right personality could make up for a skills gap",
-        "url": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
-        "published_at": "2026-09-03T19:33:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "学习发展与技能转型",
-        "id": "a268fa760758",
-        "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-        "summary_zh": "性格重要 · 技能差距 · 影响就业",
-        "relevance": 0.33
-      },
-      {
-        "title": "Employees say only 60% of onboarding materials are necessary",
-        "url": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
-        "published_at": "2026-09-03T14:20:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "学习发展与技能转型",
-        "id": "5a8cced97d2c",
-        "title_zh": "员工称只有60%的入职材料是必要的",
-        "summary_zh": "材料不必要 · 满意度低 · 需改进",
-        "relevance": 0.33
       }
     ],
     "HR 产品与数字化": [],
@@ -196,24 +196,24 @@
         "is_ai_hr": true,
         "category": "案例、报告与趋势",
         "id": "2e7e35d0cdbc",
-        "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-        "summary_zh": "塑造项目方向 · 控制成本 · 提高效率",
+        "title_zh": "雇主获机会塑造CMS药品成本调查计划",
+        "summary_zh": "塑造计划 · 降低成本 · 提高透明度",
         "relevance": 0.73
       },
       {
-        "title": "What awaits Harris on AI and labor",
-        "url": "https://www.littler.com/press/news/what-awaits-harris-ai-and-labor",
-        "published_at": "2026-09-01T15:00:13+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "Employers that only ‘talk the talk’ on AI may jeopardize worker trust",
+        "url": "https://www.hrdive.com/news/employers-that-only-talk-the-talk-on-ai-may-jeopardize-worker-trust/829804/",
+        "published_at": "2026-09-08T16:44:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "74b421300b63",
-        "title_zh": "哈里斯在人工智能与劳动力方面将面临什么挑战",
-        "summary_zh": "AI影响就业 · 劳动力转型 · 政策应对",
-        "relevance": 0.6
+        "id": "c7c33747e9ec",
+        "title_zh": "雇主仅“空谈”AI或损害员工信任",
+        "summary_zh": "仅谈不行动 · 信任受损 · AI应用不足",
+        "relevance": 0.5
       },
       {
         "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
@@ -226,8 +226,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "3823a1f702ec",
-        "title_zh": "劳氏基金会发起技能工厂数字联盟，目标2035年培训",
-        "summary_zh": "培训100万工人 · 技能工厂数字联盟 · 2035年目标",
+        "title_zh": "劳氏基金会发起技能工厂数字联盟，至2035年培训1",
+        "summary_zh": "培训100万工人 · 技能工厂数字联盟 · 劳氏基金会发起",
         "relevance": 0.5
       },
       {
@@ -242,7 +242,7 @@
         "category": "案例、报告与趋势",
         "id": "c4084a0da137",
         "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
-        "summary_zh": "提升效率 · 降低成本 · 增强决策",
+        "summary_zh": "优势提升效率 · 降低成本 · 改善决策 · 驱动因素技术进步 · 业务需求 · 数据驱动 ·",
         "relevance": 0.5
       },
       {
@@ -261,6 +261,21 @@
         "relevance": 0.5
       },
       {
+        "title": "3 out of 4 gen AI users fear for their job security",
+        "url": "https://hrexecutive.com/3-out-of-4-gen-ai-users-fear-for-their-job-security/",
+        "published_at": "2026-09-08T11:30:07+00:00",
+        "source_id": "hrexecutive",
+        "source_name": "HRExecutive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "c1e5c0f7197b",
+        "title_zh": "四分之三的生成式AI用户担心工作安全",
+        "summary_zh": "担心工作安全 · 使用率高 · 影响就业市场",
+        "relevance": 0.5
+      },
+      {
         "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
         "url": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
         "published_at": "2026-09-07T12:30:40+00:00",
@@ -271,8 +286,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "3cea18690e34",
-        "title_zh": "招聘与录用：AI分配遇曝光与排斥",
-        "summary_zh": "AI辅助招聘 · 提高效率 · 存在偏见",
+        "title_zh": "招聘与录用：AI分配的机遇与挑战",
+        "summary_zh": "AI提升效率 · 可能导致偏见 · 需平衡技术与人本",
         "relevance": 0.5
       },
       {
@@ -286,7 +301,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "064818e2bf41",
-        "title_zh": "“你不能起诉人工智能”：采用关键在人，非平台",
+        "title_zh": "“你不能起诉人工智能”：采用与否取决于人而非平台",
         "summary_zh": "要点1 · 要点2 · 要点3",
         "relevance": 0.5
       },
@@ -304,21 +319,6 @@
         "title_zh": "人工智能阴影文化的兴起",
         "summary_zh": "企业应用AI · 员工担忧 · 隐私风险",
         "relevance": 0.5
-      },
-      {
-        "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
-        "url": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
-        "published_at": "2026-09-04T19:55:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "e6e18f256c31",
-        "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-        "summary_zh": "种族歧视可诉陪审团 · 药物测试相关 · 法院裁定",
-        "relevance": 0.2
       }
     ]
   },
@@ -335,7 +335,7 @@
       "category": "政策与劳动合规",
       "id": "74ab4ebf24d6",
       "title_zh": "英国培训费用追回条款：可能因限制贸易而无法执行",
-      "summary_zh": "追回条款受限 · 约束贸易 · 法律风险",
+      "summary_zh": "追回条款存争议 · 限制商业自由 · 法律风险高",
       "relevance": 0.81
     },
     {
@@ -349,8 +349,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "870ac6a1e6fe",
-      "title_zh": "5免费HR AI技能模板：用途与使用方法",
-      "summary_zh": "提升效率 · 优化流程 · 降低成本",
+      "title_zh": "5免费HR AI技能模板：用途及使用方法",
+      "summary_zh": "提升效率 · 优化招聘 · 简化管理",
       "relevance": 0.77
     },
     {
@@ -371,7 +371,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-03T00:00:00+00:00",
+      "published_at": "2026-09-04T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-03T00:00:00+00:00",
+      "published_at": "2026-09-04T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -399,6 +399,21 @@
       "id": "c79ea307e6b8"
     },
     {
+      "title": "Rodeo tickets and nude dancers: DOL details alleged policy violations under former secretary",
+      "url": "https://www.hrdive.com/news/rodeo-tickets-and-nude-dancers-dol-details-recurring-policy-violations-und/829837/",
+      "published_at": "2026-09-08T21:08:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "7762523fb8ed",
+      "title_zh": "骑术票和裸体舞者：劳工部详细说明前任部长涉嫌政策违",
+      "summary_zh": "违反政策 · 裸体舞者 · 劳工部调查",
+      "relevance": 0.73
+    },
+    {
       "title": "Amtrak’s ‘relaxed’ COVID-era FMLA policy didn’t cover plaintiff’s unexplained absences, judge rules",
       "url": "https://www.hrdive.com/news/amtrak-relaxed-covid-era-fmla-policy-unexplained-absences/829728/",
       "published_at": "2026-09-04T19:55:00+00:00",
@@ -409,23 +424,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "729b27f9e7c4",
-      "title_zh": "美国铁路公司“宽松”的疫情期间FMLA政策未涵盖原",
-      "summary_zh": "未涵盖无解释缺勤 · 疫情政策 · 法官裁定",
-      "relevance": 0.73
-    },
-    {
-      "title": "Company’s inability to explain one manager’s firing over another keeps FMLA claim alive",
-      "url": "https://www.hrdive.com/news/companys-inability-to-explain-one-managers-firing-over-another-keeps-fmla/829588/",
-      "published_at": "2026-09-03T19:33:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "d1dd6cd7f79f",
-      "title_zh": "公司无法解释两位经理解雇差异使FMLA申诉继续",
-      "summary_zh": "无法解释解雇差异 || FMLA申诉继续 || 案件悬而未决",
+      "title_zh": "美国铁路公司“宽松”疫情期间的FMLA政策未涵盖原",
+      "summary_zh": "未涵盖无故缺勤 · 疫情政策 · 法官裁定",
       "relevance": 0.73
     },
     {
@@ -439,39 +439,24 @@
       "is_ai_hr": true,
       "category": "案例、报告与趋势",
       "id": "2e7e35d0cdbc",
-      "title_zh": "雇主获机会塑造CMS药品成本调查项目",
-      "summary_zh": "塑造项目方向 · 控制成本 · 提高效率",
+      "title_zh": "雇主获机会塑造CMS药品成本调查计划",
+      "summary_zh": "塑造计划 · 降低成本 · 提高透明度",
       "relevance": 0.73
     },
     {
-      "title": "Tariff layoffs don't ease employers' health and safety duties: lawyer",
-      "url": "https://www.littler.com/press/news/tariff-layoffs-dont-ease-employers-health-and-safety-duties-lawyer",
-      "published_at": "2026-09-01T20:06:12+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "61fd785b578a",
-      "title_zh": "雇主健康安全责任未因关税裁员而减轻：律师",
-      "summary_zh": "健康安全责任不变 · 关税裁员无效 · 法律规定不变",
-      "relevance": 0.6
-    },
-    {
-      "title": "What awaits Harris on AI and labor",
-      "url": "https://www.littler.com/press/news/what-awaits-harris-ai-and-labor",
-      "published_at": "2026-09-01T15:00:13+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "Employers that only ‘talk the talk’ on AI may jeopardize worker trust",
+      "url": "https://www.hrdive.com/news/employers-that-only-talk-the-talk-on-ai-may-jeopardize-worker-trust/829804/",
+      "published_at": "2026-09-08T16:44:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "74b421300b63",
-      "title_zh": "哈里斯在人工智能与劳动力方面将面临什么挑战",
-      "summary_zh": "AI影响就业 · 劳动力转型 · 政策应对",
-      "relevance": 0.6
+      "id": "c7c33747e9ec",
+      "title_zh": "雇主仅“空谈”AI或损害员工信任",
+      "summary_zh": "仅谈不行动 · 信任受损 · AI应用不足",
+      "relevance": 0.5
     },
     {
       "title": "Lowe’s Foundation launches skilled trades coalition to train 1M workers by 2035",
@@ -484,8 +469,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "3823a1f702ec",
-      "title_zh": "劳氏基金会发起技能工厂数字联盟，目标2035年培训",
-      "summary_zh": "培训100万工人 · 技能工厂数字联盟 · 2035年目标",
+      "title_zh": "劳氏基金会发起技能工厂数字联盟，至2035年培训1",
+      "summary_zh": "培训100万工人 · 技能工厂数字联盟 · 劳氏基金会发起",
       "relevance": 0.5
     },
     {
@@ -500,7 +485,7 @@
       "category": "案例、报告与趋势",
       "id": "c4084a0da137",
       "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
-      "summary_zh": "提升效率 · 降低成本 · 增强决策",
+      "summary_zh": "优势提升效率 · 降低成本 · 改善决策 · 驱动因素技术进步 · 业务需求 · 数据驱动 ·",
       "relevance": 0.5
     },
     {
@@ -519,6 +504,21 @@
       "relevance": 0.5
     },
     {
+      "title": "3 out of 4 gen AI users fear for their job security",
+      "url": "https://hrexecutive.com/3-out-of-4-gen-ai-users-fear-for-their-job-security/",
+      "published_at": "2026-09-08T11:30:07+00:00",
+      "source_id": "hrexecutive",
+      "source_name": "HRExecutive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "c1e5c0f7197b",
+      "title_zh": "四分之三的生成式AI用户担心工作安全",
+      "summary_zh": "担心工作安全 · 使用率高 · 影响就业市场",
+      "relevance": 0.5
+    },
+    {
       "title": "Recruiting and hiring: Where AI delegation meets exposure and exclusion",
       "url": "https://hrexecutive.com/recruiting-and-hiring-where-ai-delegation-meets-exposure-and-exclusion/",
       "published_at": "2026-09-07T12:30:40+00:00",
@@ -529,8 +529,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "3cea18690e34",
-      "title_zh": "招聘与录用：AI分配遇曝光与排斥",
-      "summary_zh": "AI辅助招聘 · 提高效率 · 存在偏见",
+      "title_zh": "招聘与录用：AI分配的机遇与挑战",
+      "summary_zh": "AI提升效率 · 可能导致偏见 · 需平衡技术与人本",
       "relevance": 0.5
     },
     {
@@ -544,7 +544,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "064818e2bf41",
-      "title_zh": "“你不能起诉人工智能”：采用关键在人，非平台",
+      "title_zh": "“你不能起诉人工智能”：采用与否取决于人而非平台",
       "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.5
     },
@@ -564,64 +564,64 @@
       "relevance": 0.5
     },
     {
-      "title": "This week in 5 numbers: The right personality could make up for a skills gap",
-      "url": "https://www.hrdive.com/news/the-right-personality-could-make-up-for-a-skills-gap/829527/",
-      "published_at": "2026-09-03T19:33:00+00:00",
+      "title": "Increased Anonymous Reporting is a Signal Compliance Leaders Cannot Ignore",
+      "url": "https://www.littler.com/press/external-publication/increased-anonymous-reporting-signal-compliance-leaders-cannot-ignore",
+      "published_at": "2026-09-08T20:21:15+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "88fd85faf57b",
+      "title_zh": "匿名举报增加是合规领导者不能忽视的信号",
+      "summary_zh": "举报增多 · 合规关注 · 信号重要",
+      "relevance": 0.4
+    },
+    {
+      "title": "Update on the EU Forced Labour Regulation: What the European Commission’s New Guidelines Mean for Companies",
+      "url": "https://www.littler.com/news-analysis/asap/update-eu-forced-labour-regulation-what-european-commissions-new-guidelines-mean",
+      "published_at": "2026-09-08T13:45:58+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "05fce89fd36d",
+      "title_zh": "欧盟强制劳动法规更新：欧盟委员会新指南对公司意味着",
+      "summary_zh": "禁止强制劳动 · 影响企业运营 · 需合规调整",
+      "relevance": 0.4
+    },
+    {
+      "title": "Study: Business leaders underestimate future work disruptions",
+      "url": "https://www.hrdive.com/news/leaders-underestimate-future-work-disruptions-2026/829805/",
+      "published_at": "2026-09-08T16:44:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "学习发展与技能转型",
-      "id": "a268fa760758",
-      "title_zh": "本周五大数据：合适的性格或可弥补技能差距",
-      "summary_zh": "性格重要 · 技能差距 · 影响就业",
+      "category": "组织与人才管理",
+      "id": "211254e4d231",
+      "title_zh": "研究：商界领袖低估未来工作干扰",
+      "summary_zh": "低估干扰 · 影响未来 · 需要重视",
       "relevance": 0.33
     },
     {
-      "title": "Employees say only 60% of onboarding materials are necessary",
-      "url": "https://www.hrdive.com/news/employees-say-only-60-of-onboarding-materials-are-necessary/829526/",
-      "published_at": "2026-09-03T14:20:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "学习发展与技能转型",
-      "id": "5a8cced97d2c",
-      "title_zh": "员工称只有60%的入职材料是必要的",
-      "summary_zh": "材料不必要 · 满意度低 · 需改进",
-      "relevance": 0.33
-    },
-    {
-      "title": "DOL warns employers of tobacco wellness program rule conflict",
-      "url": "https://hrexecutive.com/dol-warns-employers-of-tobacco-wellness-program-rule-conflict/",
-      "published_at": "2026-09-03T12:15:36+00:00",
+      "title": "Remote working is reshaping presenteeism, study finds",
+      "url": "https://hrexecutive.com/remote-working-is-reshaping-presenteeism-study-finds/",
+      "published_at": "2026-09-08T11:45:54+00:00",
       "source_id": "hrexecutive",
       "source_name": "HRExecutive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "3eee48e52a5c",
-      "title_zh": "美国劳工部警告雇主烟草健康计划规则冲突",
-      "summary_zh": "规则冲突 · 影响雇主 · 需注意",
+      "category": "组织与人才管理",
+      "id": "b64fcda53b71",
+      "title_zh": "远程工作正在重塑出勤主义，研究显示",
+      "summary_zh": "出勤观念受影响 · 工作模式改变 · 研究揭示新趋势",
       "relevance": 0.33
-    },
-    {
-      "title": "Race bias claims tied to drug test can go to jury, 11th Circuit says",
-      "url": "https://www.hrdive.com/news/drug-test-race-discrimination-complaint/829678/",
-      "published_at": "2026-09-04T19:55:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "e6e18f256c31",
-      "title_zh": "种族歧视指控与药物测试相关可提交陪审团，第十一巡回",
-      "summary_zh": "种族歧视可诉陪审团 · 药物测试相关 · 法院裁定",
-      "relevance": 0.2
     }
   ]
 }
