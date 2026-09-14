@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:19:55.863557+08:00",
+  "generated_at": "2026-09-14T12:26:27.859624+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -39,13 +39,13 @@
         "category": "政策与劳动合规",
         "id": "28d50d03ca2f",
         "title_zh": "法律专家需知HR关于AI的风险与危害",
-        "summary_zh": "AI风险 · 法律合规 · 人员管理",
+        "summary_zh": "AI风险需关注 · HR需了解 · 避免法律问题",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-08T00:00:00+00:00",
+        "published_at": "2026-09-09T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "05fce89fd36d",
         "title_zh": "欧盟强制劳动法规更新：欧盟委员会新指南对公司意味着",
-        "summary_zh": "新规加强监管 · 影响企业运营 · 需合规调整",
+        "summary_zh": "新法规加强监管 · 影响企业运营 · 需合规调整",
         "relevance": 0.4
       },
       {
@@ -84,7 +84,7 @@
         "category": "政策与劳动合规",
         "id": "43e392c49917",
         "title_zh": "痔疮疼痛可构成残疾，EEOC向法院提出主张",
-        "summary_zh": "痔疮疼痛可构成残疾 · EEOC提起诉讼 · 法院将审理",
+        "summary_zh": "疼痛可构成残疾 · EEOC提起诉讼 · 法院将审理",
         "relevance": 0.29
       }
     ],
@@ -108,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-08T00:00:00+00:00",
+        "published_at": "2026-09-09T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -131,7 +131,7 @@
         "is_ai_hr": true,
         "category": "组织与人才管理",
         "id": "90a3897afb0e",
-        "title_zh": "陪审团将决定大学招聘流程是否受多元化目标污染，法院",
+        "title_zh": "陪审团将决定大学招聘流程是否因多元化目标而受污染，",
         "summary_zh": "陪审团裁决 · 招聘流程 · 多元化目标",
         "relevance": 0.73
       },
@@ -162,7 +162,7 @@
         "category": "组织与人才管理",
         "id": "88fd85faf57b",
         "title_zh": "匿名举报增加是合规领导者不能忽视的信号",
-        "summary_zh": "举报增多 · 合规关注 · 信号重要",
+        "summary_zh": "举报量上升 · 合规风险 · 领导需重视",
         "relevance": 0.4
       },
       {
@@ -176,7 +176,7 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "39746889c064",
-        "title_zh": "Korn Ferry：领导者必须重新思考工作如何完",
+        "title_zh": "科乐华：领导者必须重新思考工作如何完成",
         "summary_zh": "重新思考工作方式 · 提升领导力 · 适应变化",
         "relevance": 0.33
       },
@@ -210,8 +210,8 @@
         "is_ai_hr": true,
         "category": "案例、报告与趋势",
         "id": "42ee8d3ddb33",
-        "title_zh": "个人特质在压力下可能阻碍成功，研究显示",
-        "summary_zh": "成功特质 · 压力影响 · 员工表现",
+        "title_zh": "性格特质助成功也可能在压力下毁掉员工，研究显示",
+        "summary_zh": "助成功 · 压力下 · 研究发现",
         "relevance": 0.73
       },
       {
@@ -225,8 +225,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "5d6577644c32",
-        "title_zh": "从助手到同事：管理自主AI的风险",
-        "summary_zh": "自主AI风险增加 · 影响工作模式 · 需要管理策略",
+        "title_zh": "从助手到同事：管理代理式AI的风险",
+        "summary_zh": "AI提升效率 · 引发管理挑战 · 需要新策略",
         "relevance": 0.6
       },
       {
@@ -240,8 +240,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "7bf59d13bd9b",
-        "title_zh": "人工智能时代的工作：“我们第一次都坐上了Waymo",
-        "summary_zh": "适应AI · 提升技能 · 改变工作方式",
+        "title_zh": "人工智能时代的工作：“我们第一次都上了Waymo”",
+        "summary_zh": "· 适应AI工作方式 · 提升技能应对变革 · 探索人机协作模式",
         "relevance": 0.5
       },
       {
@@ -256,8 +256,23 @@
         "category": "案例、报告与趋势",
         "id": "c4084a0da137",
         "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
-        "summary_zh": "优势提升效率 · 降低成本 · 改善决策 · 驱动因素技术进步 · 数据驱动 · 业务需求",
+        "summary_zh": "提升效率 · 降低成本 · 优化决策",
         "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-09-14 — Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "url": "https://aihot.news/daily/2026-09-14",
+        "published_at": "2026-09-14T00:01:17+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "009cfcc97d19",
+        "title_zh": "AIHOT 日报 · 2026-09-14 — A",
+        "summary_zh": "胡塞组织使用 Claude Code开发导弹软件 · Anthropic发布相关报告 · 报告揭示AI在军事应用的新威胁",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-09-13 — Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
@@ -301,22 +316,7 @@
         "category": "案例、报告与趋势",
         "id": "2d58a1e3c5a8",
         "title_zh": "AIHOT 日报 · 2026-09-11 — D",
-        "summary_zh": "发布 V4.1-Flash 版本 · API 价格下调 · 新功能推出",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-10 — OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-        "url": "https://aihot.news/daily/2026-09-10",
-        "published_at": "2026-09-10T00:01:34+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "f4ef8a68060b",
-        "title_zh": "AIHOT 日报 · 2026-09-10 — O",
-        "summary_zh": "GPT-6 Astra发布 · 面向专业工作场景 · 技术升级",
+        "summary_zh": "发布V4.1-Flash版本 · API价格下调 · 新功能提升性能",
         "relevance": 0.2
       }
     ]
@@ -364,13 +364,13 @@
       "category": "政策与劳动合规",
       "id": "28d50d03ca2f",
       "title_zh": "法律专家需知HR关于AI的风险与危害",
-      "summary_zh": "AI风险 · 法律合规 · 人员管理",
+      "summary_zh": "AI风险需关注 · HR需了解 · 避免法律问题",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-08T00:00:00+00:00",
+      "published_at": "2026-09-09T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -385,7 +385,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-08T00:00:00+00:00",
+      "published_at": "2026-09-09T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -408,7 +408,7 @@
       "is_ai_hr": true,
       "category": "组织与人才管理",
       "id": "90a3897afb0e",
-      "title_zh": "陪审团将决定大学招聘流程是否受多元化目标污染，法院",
+      "title_zh": "陪审团将决定大学招聘流程是否因多元化目标而受污染，",
       "summary_zh": "陪审团裁决 · 招聘流程 · 多元化目标",
       "relevance": 0.73
     },
@@ -423,8 +423,8 @@
       "is_ai_hr": true,
       "category": "案例、报告与趋势",
       "id": "42ee8d3ddb33",
-      "title_zh": "个人特质在压力下可能阻碍成功，研究显示",
-      "summary_zh": "成功特质 · 压力影响 · 员工表现",
+      "title_zh": "性格特质助成功也可能在压力下毁掉员工，研究显示",
+      "summary_zh": "助成功 · 压力下 · 研究发现",
       "relevance": 0.73
     },
     {
@@ -438,8 +438,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "5d6577644c32",
-      "title_zh": "从助手到同事：管理自主AI的风险",
-      "summary_zh": "自主AI风险增加 · 影响工作模式 · 需要管理策略",
+      "title_zh": "从助手到同事：管理代理式AI的风险",
+      "summary_zh": "AI提升效率 · 引发管理挑战 · 需要新策略",
       "relevance": 0.6
     },
     {
@@ -468,8 +468,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "7bf59d13bd9b",
-      "title_zh": "人工智能时代的工作：“我们第一次都坐上了Waymo",
-      "summary_zh": "适应AI · 提升技能 · 改变工作方式",
+      "title_zh": "人工智能时代的工作：“我们第一次都上了Waymo”",
+      "summary_zh": "· 适应AI工作方式 · 提升技能应对变革 · 探索人机协作模式",
       "relevance": 0.5
     },
     {
@@ -484,7 +484,7 @@
       "category": "案例、报告与趋势",
       "id": "c4084a0da137",
       "title_zh": "7个职场AI应用实例：优势与驱动AI采用因素",
-      "summary_zh": "优势提升效率 · 降低成本 · 改善决策 · 驱动因素技术进步 · 数据驱动 · 业务需求",
+      "summary_zh": "提升效率 · 降低成本 · 优化决策",
       "relevance": 0.5
     },
     {
@@ -499,7 +499,7 @@
       "category": "组织与人才管理",
       "id": "88fd85faf57b",
       "title_zh": "匿名举报增加是合规领导者不能忽视的信号",
-      "summary_zh": "举报增多 · 合规关注 · 信号重要",
+      "summary_zh": "举报量上升 · 合规风险 · 领导需重视",
       "relevance": 0.4
     },
     {
@@ -514,7 +514,7 @@
       "category": "政策与劳动合规",
       "id": "05fce89fd36d",
       "title_zh": "欧盟强制劳动法规更新：欧盟委员会新指南对公司意味着",
-      "summary_zh": "新规加强监管 · 影响企业运营 · 需合规调整",
+      "summary_zh": "新法规加强监管 · 影响企业运营 · 需合规调整",
       "relevance": 0.4
     },
     {
@@ -528,7 +528,7 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "39746889c064",
-      "title_zh": "Korn Ferry：领导者必须重新思考工作如何完",
+      "title_zh": "科乐华：领导者必须重新思考工作如何完成",
       "summary_zh": "重新思考工作方式 · 提升领导力 · 适应变化",
       "relevance": 0.33
     },
@@ -559,8 +559,23 @@
       "category": "政策与劳动合规",
       "id": "43e392c49917",
       "title_zh": "痔疮疼痛可构成残疾，EEOC向法院提出主张",
-      "summary_zh": "痔疮疼痛可构成残疾 · EEOC提起诉讼 · 法院将审理",
+      "summary_zh": "疼痛可构成残疾 · EEOC提起诉讼 · 法院将审理",
       "relevance": 0.29
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-14 — Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "url": "https://aihot.news/daily/2026-09-14",
+      "published_at": "2026-09-14T00:01:17+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "009cfcc97d19",
+      "title_zh": "AIHOT 日报 · 2026-09-14 — A",
+      "summary_zh": "胡塞组织使用 Claude Code开发导弹软件 · Anthropic发布相关报告 · 报告揭示AI在军事应用的新威胁",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-09-13 — Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
@@ -604,22 +619,7 @@
       "category": "案例、报告与趋势",
       "id": "2d58a1e3c5a8",
       "title_zh": "AIHOT 日报 · 2026-09-11 — D",
-      "summary_zh": "发布 V4.1-Flash 版本 · API 价格下调 · 新功能推出",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-10 — OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-      "url": "https://aihot.news/daily/2026-09-10",
-      "published_at": "2026-09-10T00:01:34+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "f4ef8a68060b",
-      "title_zh": "AIHOT 日报 · 2026-09-10 — O",
-      "summary_zh": "GPT-6 Astra发布 · 面向专业工作场景 · 技术升级",
+      "summary_zh": "发布V4.1-Flash版本 · API价格下调 · 新功能提升性能",
       "relevance": 0.2
     }
   ]
