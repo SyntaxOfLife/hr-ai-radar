@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:22:58.799501+08:00",
+  "generated_at": "2026-09-17T12:28:29.573407+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -23,7 +23,7 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "9c5683168ffa",
-        "title_zh": "加州拟修订紧急医疗服务和急救法规的实践影响",
+        "title_zh": "加州拟修订紧急医疗服务和急救法规的实用影响",
         "summary_zh": "修订法规 · 影响EMS · 涉及急救",
         "relevance": 0.77
       },
@@ -58,24 +58,9 @@
         "relevance": 0.77
       },
       {
-        "title": "What Legal Experts Need HR to Know About AI: Risks and Hazards",
-        "url": "https://www.littler.com/press/news/what-legal-experts-need-hr-know-about-ai-risks-and-hazards",
-        "published_at": "2026-09-09T22:38:36+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "28d50d03ca2f",
-        "title_zh": "法律专家需知HR关于AI的风险与危害",
-        "summary_zh": "风险增加 · 监管趋严 · 隐私保护",
-        "relevance": 0.77
-      },
-      {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-11T00:00:00+00:00",
+        "published_at": "2026-09-12T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -88,6 +73,21 @@
         "id": "c79ea307e6b8"
       },
       {
+        "title": "Canada: Minimum Wage Increases Effective October 1, 2026",
+        "url": "https://www.littler.com/news-analysis/asap/canada-minimum-wage-increases-effective-october-1-2026",
+        "published_at": "2026-09-16T18:02:17+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "259b9a27b882",
+        "title_zh": "加拿大：最低工资将于2026年10月1日生效上调",
+        "summary_zh": "最低工资上调 · 生效日期为2026年10月1日 · 加拿大实施",
+        "relevance": 0.4
+      },
+      {
         "title": "Ontario, Canada Court of Appeal Confirms that ESA-Compliant Temporary Layoff Clauses Are Not Termination Clauses",
         "url": "https://www.littler.com/news-analysis/asap/ontario-canada-court-appeal-confirms-esa-compliant-temporary-layoff-clauses-are",
         "published_at": "2026-09-14T17:01:58+00:00",
@@ -98,7 +98,7 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "635d0f06b1d4",
-        "title_zh": "安大略省加拿大上诉法院确认符合ESA的临时停职条款",
+        "title_zh": "加拿大安大略省上诉法院确认符合ESA的临时停职条款",
         "summary_zh": "临时停职条款合法 · 不视为解雇 · 符合ESA规定",
         "relevance": 0.4
       },
@@ -114,7 +114,7 @@
         "category": "政策与劳动合规",
         "id": "6f6238b09488",
         "title_zh": "雇主如何执行竞业限制和保密协议",
-        "summary_zh": "竞业限制协议受法律保护 · 保密协议需合理 · 违反协议将承担法律责任",
+        "summary_zh": "竞业限制协议受法律保护 · 保密信息范围广泛 · 违规将面临法律后果",
         "relevance": 0.4
       },
       {
@@ -128,8 +128,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "d6d0d81c447a",
-        "title_zh": "涉嫌DEI动机的招聘和晋升导致埃森哲支付2500万",
-        "summary_zh": "DEI动机招聘 · 涉嫌晋升 · 支付和解金",
+        "title_zh": "涉嫌DEI动机的招聘和晋升导致埃森哲向司法部支付2",
+        "summary_zh": "DEI动机招聘 · 埃森哲支付和解金 · 涉案金额2500万美元",
         "relevance": 0.33
       },
       {
@@ -143,9 +143,9 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "c3219fe9edf3",
-        "title_zh": "Judge says disability bias lawsuit against SHRM must proceed",
-        "summary_zh": "",
-        "relevance": 0.31
+        "title_zh": "劳动仲裁称SHRM必须继续受理歧视残疾人诉讼案",
+        "summary_zh": "歧视诉讼继续 · SHRM被起诉 · 涉及残疾人偏见",
+        "relevance": 0.32
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -162,13 +162,13 @@
         "category": "组织与人才管理",
         "id": "fd2f3f6b8df6",
         "title_zh": "消除模糊，提升绩效：包容型领导指南",
-        "summary_zh": "包容促进绩效 · 减少模糊 · 指导领导",
+        "summary_zh": "包容提升绩效 · 减少模糊 · 指导领导",
         "relevance": 0.77
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-11T00:00:00+00:00",
+        "published_at": "2026-09-12T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -179,21 +179,6 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them",
-        "url": "https://www.hrdive.com/news/ai-ethics-jacob-coxon-tech-culture/830399/",
-        "published_at": "2026-09-15T15:03:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "636b002d2027",
-        "title_zh": "人工智能工程师称了解AI的伦理风险，但职场文化使其",
-        "summary_zh": "了解风险 · 文化压制 · 缺乏发声",
-        "relevance": 0.73
       },
       {
         "title": "Preparing leaders for work that doesn’t exist yet",
@@ -215,6 +200,21 @@
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
+        "title": "AI completely absent from most organizations’ ethics codes, survey finds",
+        "url": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
+        "published_at": "2026-09-16T15:14:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "案例、报告与趋势",
+        "id": "8788b8d6d4af",
+        "title_zh": "人工智能完全缺失于大多数组织的道德规范，调查发现",
+        "summary_zh": "缺失道德规范 · 调查显示 · 普遍现象",
+        "relevance": 0.73
+      },
+      {
         "title": "AI hasn’t significantly improved the speed of hiring, report finds",
         "url": "https://www.hrdive.com/news/ai-hasnt-significantly-improved-the-speed-of-hiring/830316/",
         "published_at": "2026-09-15T15:03:00+00:00",
@@ -226,8 +226,23 @@
         "category": "案例、报告与趋势",
         "id": "4e94976487fb",
         "title_zh": "人工智能未显著提升招聘速度，报告显示",
-        "summary_zh": "招聘速度未改善 · 报告指出 · 人工智能影响有限",
+        "summary_zh": "招聘速度未改善 · 报告指出 · AI影响有限",
         "relevance": 0.73
+      },
+      {
+        "title": "Portugal and Spain Publish Drafts to Implement Portions of the EU Pay Transparency Directive",
+        "url": "https://www.littler.com/news-analysis/asap/portugal-and-spain-publish-drafts-implement-portions-eu-pay-transparency",
+        "published_at": "2026-09-16T14:51:34+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "2e731dadb662",
+        "title_zh": "葡萄牙和西班牙发布草案以实施欧盟薪酬透明指令",
+        "summary_zh": "实施部分指令 · 提高薪酬透明度 · 促进公平竞争",
+        "relevance": 0.6
       },
       {
         "title": "From Copilots to Coworkers: Managing the Risks of Agentic AI",
@@ -241,7 +256,7 @@
         "category": "案例、报告与趋势",
         "id": "5d6577644c32",
         "title_zh": "从助手到同事：管理代理式AI的风险",
-        "summary_zh": "提升效率 · 增加风险 · 需要管理",
+        "summary_zh": "AI增强效率 · 引发管理挑战 · 需要新策略",
         "relevance": 0.6
       },
       {
@@ -255,8 +270,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "13c4ee4feca5",
-        "title_zh": "加强针对驾驶记录仪篡改和驾驶休息时间违规行为的执法",
-        "summary_zh": "打击篡改行为 · 严惩休息时间违规 · 提升执法标准",
+        "title_zh": "加强针对伪造行车记录仪和驾驶休息时间违规行为的执法",
+        "summary_zh": "伪造记录仪受严惩 · 驾驶休息违规必究 · 违规行为将受处罚",
         "relevance": 0.6
       },
       {
@@ -271,7 +286,7 @@
         "category": "案例、报告与趋势",
         "id": "606b83d128b7",
         "title_zh": "人工智能正在削弱员工认知能力",
-        "summary_zh": "AI影响认知 · 员工能力下降 · 需关注适应",
+        "summary_zh": "AI影响认知 · 降低决策能力 · 改变工作方式",
         "relevance": 0.5
       },
       {
@@ -290,33 +305,18 @@
         "relevance": 0.5
       },
       {
-        "title": "Postal worker removed from office argument by police fails to reopen bias case",
-        "url": "https://www.hrdive.com/news/postal-worker-office-argument-police-fails-reopen-bias-case/830333/",
-        "published_at": "2026-09-14T20:31:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "03f7ec2d7883",
-        "title_zh": "邮局员工因办公室争执被警察带走，歧视案件未能重新审",
-        "summary_zh": "警察带走员工 · 案件未重审 · 歧视指控",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-16 — Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-        "url": "https://aihot.news/daily/2026-09-16",
-        "published_at": "2026-09-16T00:00:03+00:00",
+        "title": "AIHOT 日报 · 2026-09-17 — 微软 AI CEO 警告“模型福利”论调",
+        "url": "https://aihot.news/daily/2026-09-17",
+        "published_at": "2026-09-17T00:00:07+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "75c732b0d346",
-        "title_zh": "AIHOT 日报 · 2026-09-16 — G",
-        "summary_zh": "全新模型发布 · 支持扩展思维 · 性能提升",
+        "id": "746bb3787431",
+        "title_zh": "微软AICEO警告“模型福利”论调",
+        "summary_zh": "反对AI福利论调 · 关注模型发展 · 强调AI伦理",
         "relevance": 0.2
       }
     ]
@@ -334,7 +334,7 @@
       "category": "组织与人才管理",
       "id": "fd2f3f6b8df6",
       "title_zh": "消除模糊，提升绩效：包容型领导指南",
-      "summary_zh": "包容促进绩效 · 减少模糊 · 指导领导",
+      "summary_zh": "包容提升绩效 · 减少模糊 · 指导领导",
       "relevance": 0.77
     },
     {
@@ -348,7 +348,7 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "9c5683168ffa",
-      "title_zh": "加州拟修订紧急医疗服务和急救法规的实践影响",
+      "title_zh": "加州拟修订紧急医疗服务和急救法规的实用影响",
       "summary_zh": "修订法规 · 影响EMS · 涉及急救",
       "relevance": 0.77
     },
@@ -383,24 +383,9 @@
       "relevance": 0.77
     },
     {
-      "title": "What Legal Experts Need HR to Know About AI: Risks and Hazards",
-      "url": "https://www.littler.com/press/news/what-legal-experts-need-hr-know-about-ai-risks-and-hazards",
-      "published_at": "2026-09-09T22:38:36+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "28d50d03ca2f",
-      "title_zh": "法律专家需知HR关于AI的风险与危害",
-      "summary_zh": "风险增加 · 监管趋严 · 隐私保护",
-      "relevance": 0.77
-    },
-    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-11T00:00:00+00:00",
+      "published_at": "2026-09-12T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -415,7 +400,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-11T00:00:00+00:00",
+      "published_at": "2026-09-12T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -428,18 +413,18 @@
       "id": "c79ea307e6b8"
     },
     {
-      "title": "AI engineers say they know AI’s ethical risks, but workplace culture silences them",
-      "url": "https://www.hrdive.com/news/ai-ethics-jacob-coxon-tech-culture/830399/",
-      "published_at": "2026-09-15T15:03:00+00:00",
+      "title": "AI completely absent from most organizations’ ethics codes, survey finds",
+      "url": "https://www.hrdive.com/news/ai-absent-from-most-organizations-ethics-codes/830532/",
+      "published_at": "2026-09-16T15:14:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "636b002d2027",
-      "title_zh": "人工智能工程师称了解AI的伦理风险，但职场文化使其",
-      "summary_zh": "了解风险 · 文化压制 · 缺乏发声",
+      "category": "案例、报告与趋势",
+      "id": "8788b8d6d4af",
+      "title_zh": "人工智能完全缺失于大多数组织的道德规范，调查发现",
+      "summary_zh": "缺失道德规范 · 调查显示 · 普遍现象",
       "relevance": 0.73
     },
     {
@@ -454,8 +439,23 @@
       "category": "案例、报告与趋势",
       "id": "4e94976487fb",
       "title_zh": "人工智能未显著提升招聘速度，报告显示",
-      "summary_zh": "招聘速度未改善 · 报告指出 · 人工智能影响有限",
+      "summary_zh": "招聘速度未改善 · 报告指出 · AI影响有限",
       "relevance": 0.73
+    },
+    {
+      "title": "Portugal and Spain Publish Drafts to Implement Portions of the EU Pay Transparency Directive",
+      "url": "https://www.littler.com/news-analysis/asap/portugal-and-spain-publish-drafts-implement-portions-eu-pay-transparency",
+      "published_at": "2026-09-16T14:51:34+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "2e731dadb662",
+      "title_zh": "葡萄牙和西班牙发布草案以实施欧盟薪酬透明指令",
+      "summary_zh": "实施部分指令 · 提高薪酬透明度 · 促进公平竞争",
+      "relevance": 0.6
     },
     {
       "title": "From Copilots to Coworkers: Managing the Risks of Agentic AI",
@@ -469,7 +469,7 @@
       "category": "案例、报告与趋势",
       "id": "5d6577644c32",
       "title_zh": "从助手到同事：管理代理式AI的风险",
-      "summary_zh": "提升效率 · 增加风险 · 需要管理",
+      "summary_zh": "AI增强效率 · 引发管理挑战 · 需要新策略",
       "relevance": 0.6
     },
     {
@@ -483,8 +483,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "13c4ee4feca5",
-      "title_zh": "加强针对驾驶记录仪篡改和驾驶休息时间违规行为的执法",
-      "summary_zh": "打击篡改行为 · 严惩休息时间违规 · 提升执法标准",
+      "title_zh": "加强针对伪造行车记录仪和驾驶休息时间违规行为的执法",
+      "summary_zh": "伪造记录仪受严惩 · 驾驶休息违规必究 · 违规行为将受处罚",
       "relevance": 0.6
     },
     {
@@ -499,7 +499,7 @@
       "category": "案例、报告与趋势",
       "id": "606b83d128b7",
       "title_zh": "人工智能正在削弱员工认知能力",
-      "summary_zh": "AI影响认知 · 员工能力下降 · 需关注适应",
+      "summary_zh": "AI影响认知 · 降低决策能力 · 改变工作方式",
       "relevance": 0.5
     },
     {
@@ -518,6 +518,21 @@
       "relevance": 0.5
     },
     {
+      "title": "Canada: Minimum Wage Increases Effective October 1, 2026",
+      "url": "https://www.littler.com/news-analysis/asap/canada-minimum-wage-increases-effective-october-1-2026",
+      "published_at": "2026-09-16T18:02:17+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "259b9a27b882",
+      "title_zh": "加拿大：最低工资将于2026年10月1日生效上调",
+      "summary_zh": "最低工资上调 · 生效日期为2026年10月1日 · 加拿大实施",
+      "relevance": 0.4
+    },
+    {
       "title": "Ontario, Canada Court of Appeal Confirms that ESA-Compliant Temporary Layoff Clauses Are Not Termination Clauses",
       "url": "https://www.littler.com/news-analysis/asap/ontario-canada-court-appeal-confirms-esa-compliant-temporary-layoff-clauses-are",
       "published_at": "2026-09-14T17:01:58+00:00",
@@ -528,7 +543,7 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "635d0f06b1d4",
-      "title_zh": "安大略省加拿大上诉法院确认符合ESA的临时停职条款",
+      "title_zh": "加拿大安大略省上诉法院确认符合ESA的临时停职条款",
       "summary_zh": "临时停职条款合法 · 不视为解雇 · 符合ESA规定",
       "relevance": 0.4
     },
@@ -544,7 +559,7 @@
       "category": "政策与劳动合规",
       "id": "6f6238b09488",
       "title_zh": "雇主如何执行竞业限制和保密协议",
-      "summary_zh": "竞业限制协议受法律保护 · 保密协议需合理 · 违反协议将承担法律责任",
+      "summary_zh": "竞业限制协议受法律保护 · 保密信息范围广泛 · 违规将面临法律后果",
       "relevance": 0.4
     },
     {
@@ -558,8 +573,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "d6d0d81c447a",
-      "title_zh": "涉嫌DEI动机的招聘和晋升导致埃森哲支付2500万",
-      "summary_zh": "DEI动机招聘 · 涉嫌晋升 · 支付和解金",
+      "title_zh": "涉嫌DEI动机的招聘和晋升导致埃森哲向司法部支付2",
+      "summary_zh": "DEI动机招聘 · 埃森哲支付和解金 · 涉案金额2500万美元",
       "relevance": 0.33
     },
     {
@@ -588,38 +603,23 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "c3219fe9edf3",
-      "title_zh": "Judge says disability bias lawsuit against SHRM must proceed",
-      "summary_zh": "",
-      "relevance": 0.31
+      "title_zh": "劳动仲裁称SHRM必须继续受理歧视残疾人诉讼案",
+      "summary_zh": "歧视诉讼继续 · SHRM被起诉 · 涉及残疾人偏见",
+      "relevance": 0.32
     },
     {
-      "title": "Postal worker removed from office argument by police fails to reopen bias case",
-      "url": "https://www.hrdive.com/news/postal-worker-office-argument-police-fails-reopen-bias-case/830333/",
-      "published_at": "2026-09-14T20:31:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "03f7ec2d7883",
-      "title_zh": "邮局员工因办公室争执被警察带走，歧视案件未能重新审",
-      "summary_zh": "警察带走员工 · 案件未重审 · 歧视指控",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-16 — Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-      "url": "https://aihot.news/daily/2026-09-16",
-      "published_at": "2026-09-16T00:00:03+00:00",
+      "title": "AIHOT 日报 · 2026-09-17 — 微软 AI CEO 警告“模型福利”论调",
+      "url": "https://aihot.news/daily/2026-09-17",
+      "published_at": "2026-09-17T00:00:07+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "75c732b0d346",
-      "title_zh": "AIHOT 日报 · 2026-09-16 — G",
-      "summary_zh": "全新模型发布 · 支持扩展思维 · 性能提升",
+      "id": "746bb3787431",
+      "title_zh": "微软AICEO警告“模型福利”论调",
+      "summary_zh": "反对AI福利论调 · 关注模型发展 · 强调AI伦理",
       "relevance": 0.2
     }
   ]
