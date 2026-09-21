@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:29:03.903274+08:00",
+  "generated_at": "2026-09-21T12:27:09.389140+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,7 +24,7 @@
         "category": "政策与劳动合规",
         "id": "a188a3c64e2e",
         "title_zh": "避免加州职业安全与健康局罚单：实施安全措施与培训",
-        "summary_zh": "实施安全措施 · 提供培训 · 避免罚单",
+        "summary_zh": "实施安全措施 · 提供培训 · 降低罚单风险",
         "relevance": 0.81
       },
       {
@@ -38,8 +38,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "9c5683168ffa",
-        "title_zh": "加州拟修订紧急医疗服务和急救法规的实践影响",
-        "summary_zh": "修订法规 · 影响实践 · 需关注",
+        "title_zh": "加州拟修订紧急医疗服务和急救法规的实用影响",
+        "summary_zh": "修订法规 · 影响EMS · 涉及急救",
         "relevance": 0.77
       },
       {
@@ -54,13 +54,13 @@
         "category": "政策与劳动合规",
         "id": "52661aa4d1e4",
         "title_zh": "蒙大拿州就业法：新挑战、老问题及实用解决方案",
-        "summary_zh": "新法规带来挑战 · 老问题仍存 · 提供解决方案",
+        "summary_zh": "新法规带来挑战 · 老问题待解决 · 提供实用方案",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-15T00:00:00+00:00",
+        "published_at": "2026-09-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -113,8 +113,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "635d0f06b1d4",
-        "title_zh": "加拿大安大略省上诉法院确认符合ESA规定的临时停工",
-        "summary_zh": "临时停工条款合法 · 不视为解雇 · 符合ESA规定",
+        "title_zh": "加拿大安大略省上诉法院确认符合ESA的临时停职条款",
+        "summary_zh": "临时停职条款合法 · 不视为解雇 · 符合ESA规定",
         "relevance": 0.4
       },
       {
@@ -143,8 +143,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "938bd5e649ad",
-        "title_zh": "星巴克与佛罗里达州总检察长达成协议以结束关于涉嫌非",
-        "summary_zh": "结束诉讼 · 针对DEI实践 · 达成协议",
+        "title_zh": "星巴克与佛罗里达州总检察长达成协议以结束涉嫌非法D",
+        "summary_zh": "结束诉讼 · 阿拉伯语 · DEI争议",
         "relevance": 0.2
       }
     ],
@@ -162,13 +162,13 @@
         "category": "组织与人才管理",
         "id": "fd2f3f6b8df6",
         "title_zh": "消除模糊，提升绩效：包容型领导指南",
-        "summary_zh": "包容提升绩效 · 减少模糊 · 指导领导",
+        "summary_zh": "包容提升效率 · 减少歧义 · 指导领导力",
         "relevance": 0.77
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-15T00:00:00+00:00",
+        "published_at": "2026-09-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -194,7 +194,7 @@
         "category": "学习发展与技能转型",
         "id": "331646d85dd0",
         "title_zh": "提升技能：利用AI提供信息",
-        "summary_zh": "AI助力技能提升 · 优化信息提供 · 提高效率",
+        "summary_zh": "AI助力技能提升 · 优化信息提供 · 提高工作效率",
         "relevance": 0.77
       }
     ],
@@ -211,7 +211,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "7f533df35194",
-        "title_zh": "预测市场日益普及，HR可助企业规避风险",
+        "title_zh": "预测市场日益普及，HR可助规避风险投资",
         "summary_zh": "规避风险 · 提升决策 · 优化资源",
         "relevance": 0.6
       },
@@ -241,8 +241,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "0b5ec8992211",
-        "title_zh": "私营安保领域的非声明工作：一个面临公平工作挑战的快",
-        "summary_zh": "非声明工作增多 · 公平工作挑战 · 行业快速增长",
+        "title_zh": "私营安保领域的非正规工作：一个面临公平工作挑战的快",
+        "summary_zh": "非正规工作增多 · 公平工作挑战 · 行业快速增长",
         "relevance": 0.6
       },
       {
@@ -256,8 +256,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "13c4ee4feca5",
-        "title_zh": "加强针对驾驶记录仪篡改和驾驶休息时间违规的执法",
-        "summary_zh": "打击篡改 · 严惩违规 · 确保安全",
+        "title_zh": "加强针对伪造行车记录仪和驾驶休息时间违规行为的执法",
+        "summary_zh": "伪造记录仪受严惩 · 驾驶休息时间违规 · 执法力度加强",
         "relevance": 0.6
       },
       {
@@ -271,8 +271,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "1947ded42be6",
-        "title_zh": "AI摘要留下招聘人员可能未准备的纸痕",
-        "summary_zh": "AI摘要存档 · 招聘需应对 · 引发潜在问题",
+        "title_zh": "AI摘要留下招聘人员可能未准备的纸迹",
+        "summary_zh": "AI摘要存档 · 招聘需应对 · 隐私风险",
         "relevance": 0.5
       },
       {
@@ -286,8 +286,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "bc1448a61bd8",
-        "title_zh": "雇主可能不知如何解释薪酬决定，安永表示",
-        "summary_zh": "不知如何解释 · 薪酬决定 · 安永观点",
+        "title_zh": "雇主可能不知道如何解释薪酬决定，爱恩表示",
+        "summary_zh": "不知道解释薪酬决定 · 薪酬透明度低 · 雇主需改进",
         "relevance": 0.5
       },
       {
@@ -301,23 +301,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "34c35be4a694",
-        "title_zh": "人工智能让工作变成消防栓了吗？更多产出，而非更多价",
+        "title_zh": "人工智能让工作变成消防栓了吗？更多产出而非更多价值",
         "summary_zh": "产出增加 · 价值下降 · 效率问题",
         "relevance": 0.5
       },
       {
-        "title": "AIHOT 日报 · 2026-09-20 — Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-        "url": "https://aihot.news/daily/2026-09-20",
-        "published_at": "2026-09-20T00:00:12+00:00",
+        "title": "AIHOT 日报 · 2026-09-21 — Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "url": "https://aihot.news/daily/2026-09-21",
+        "published_at": "2026-09-21T00:00:18+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "288b55ae43b2",
-        "title_zh": "AIHOT 日报 · 2026-09-20 — A",
-        "summary_zh": "推迟至11月 · 估值2万亿 · 计划IPO",
+        "id": "30990106c8a8",
+        "title_zh": "AIHOT 日报 · 2026-09-21 — Q",
+        "summary_zh": "7B模型 · 支持透明图像 · 统一生成编辑",
         "relevance": 0.2
       }
     ]
@@ -335,7 +335,7 @@
       "category": "政策与劳动合规",
       "id": "a188a3c64e2e",
       "title_zh": "避免加州职业安全与健康局罚单：实施安全措施与培训",
-      "summary_zh": "实施安全措施 · 提供培训 · 避免罚单",
+      "summary_zh": "实施安全措施 · 提供培训 · 降低罚单风险",
       "relevance": 0.81
     },
     {
@@ -350,7 +350,7 @@
       "category": "组织与人才管理",
       "id": "fd2f3f6b8df6",
       "title_zh": "消除模糊，提升绩效：包容型领导指南",
-      "summary_zh": "包容提升绩效 · 减少模糊 · 指导领导",
+      "summary_zh": "包容提升效率 · 减少歧义 · 指导领导力",
       "relevance": 0.77
     },
     {
@@ -364,8 +364,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "9c5683168ffa",
-      "title_zh": "加州拟修订紧急医疗服务和急救法规的实践影响",
-      "summary_zh": "修订法规 · 影响实践 · 需关注",
+      "title_zh": "加州拟修订紧急医疗服务和急救法规的实用影响",
+      "summary_zh": "修订法规 · 影响EMS · 涉及急救",
       "relevance": 0.77
     },
     {
@@ -380,7 +380,7 @@
       "category": "政策与劳动合规",
       "id": "52661aa4d1e4",
       "title_zh": "蒙大拿州就业法：新挑战、老问题及实用解决方案",
-      "summary_zh": "新法规带来挑战 · 老问题仍存 · 提供解决方案",
+      "summary_zh": "新法规带来挑战 · 老问题待解决 · 提供实用方案",
       "relevance": 0.77
     },
     {
@@ -395,13 +395,13 @@
       "category": "学习发展与技能转型",
       "id": "331646d85dd0",
       "title_zh": "提升技能：利用AI提供信息",
-      "summary_zh": "AI助力技能提升 · 优化信息提供 · 提高效率",
+      "summary_zh": "AI助力技能提升 · 优化信息提供 · 提高工作效率",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-15T00:00:00+00:00",
+      "published_at": "2026-09-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -416,7 +416,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-15T00:00:00+00:00",
+      "published_at": "2026-09-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -454,7 +454,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "7f533df35194",
-      "title_zh": "预测市场日益普及，HR可助企业规避风险",
+      "title_zh": "预测市场日益普及，HR可助规避风险投资",
       "summary_zh": "规避风险 · 提升决策 · 优化资源",
       "relevance": 0.6
     },
@@ -484,8 +484,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "0b5ec8992211",
-      "title_zh": "私营安保领域的非声明工作：一个面临公平工作挑战的快",
-      "summary_zh": "非声明工作增多 · 公平工作挑战 · 行业快速增长",
+      "title_zh": "私营安保领域的非正规工作：一个面临公平工作挑战的快",
+      "summary_zh": "非正规工作增多 · 公平工作挑战 · 行业快速增长",
       "relevance": 0.6
     },
     {
@@ -499,8 +499,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "13c4ee4feca5",
-      "title_zh": "加强针对驾驶记录仪篡改和驾驶休息时间违规的执法",
-      "summary_zh": "打击篡改 · 严惩违规 · 确保安全",
+      "title_zh": "加强针对伪造行车记录仪和驾驶休息时间违规行为的执法",
+      "summary_zh": "伪造记录仪受严惩 · 驾驶休息时间违规 · 执法力度加强",
       "relevance": 0.6
     },
     {
@@ -514,8 +514,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "1947ded42be6",
-      "title_zh": "AI摘要留下招聘人员可能未准备的纸痕",
-      "summary_zh": "AI摘要存档 · 招聘需应对 · 引发潜在问题",
+      "title_zh": "AI摘要留下招聘人员可能未准备的纸迹",
+      "summary_zh": "AI摘要存档 · 招聘需应对 · 隐私风险",
       "relevance": 0.5
     },
     {
@@ -529,8 +529,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "bc1448a61bd8",
-      "title_zh": "雇主可能不知如何解释薪酬决定，安永表示",
-      "summary_zh": "不知如何解释 · 薪酬决定 · 安永观点",
+      "title_zh": "雇主可能不知道如何解释薪酬决定，爱恩表示",
+      "summary_zh": "不知道解释薪酬决定 · 薪酬透明度低 · 雇主需改进",
       "relevance": 0.5
     },
     {
@@ -544,7 +544,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "34c35be4a694",
-      "title_zh": "人工智能让工作变成消防栓了吗？更多产出，而非更多价",
+      "title_zh": "人工智能让工作变成消防栓了吗？更多产出而非更多价值",
       "summary_zh": "产出增加 · 价值下降 · 效率问题",
       "relevance": 0.5
     },
@@ -574,8 +574,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "635d0f06b1d4",
-      "title_zh": "加拿大安大略省上诉法院确认符合ESA规定的临时停工",
-      "summary_zh": "临时停工条款合法 · 不视为解雇 · 符合ESA规定",
+      "title_zh": "加拿大安大略省上诉法院确认符合ESA的临时停职条款",
+      "summary_zh": "临时停职条款合法 · 不视为解雇 · 符合ESA规定",
       "relevance": 0.4
     },
     {
@@ -604,23 +604,23 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "938bd5e649ad",
-      "title_zh": "星巴克与佛罗里达州总检察长达成协议以结束关于涉嫌非",
-      "summary_zh": "结束诉讼 · 针对DEI实践 · 达成协议",
+      "title_zh": "星巴克与佛罗里达州总检察长达成协议以结束涉嫌非法D",
+      "summary_zh": "结束诉讼 · 阿拉伯语 · DEI争议",
       "relevance": 0.2
     },
     {
-      "title": "AIHOT 日报 · 2026-09-20 — Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-      "url": "https://aihot.news/daily/2026-09-20",
-      "published_at": "2026-09-20T00:00:12+00:00",
+      "title": "AIHOT 日报 · 2026-09-21 — Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "url": "https://aihot.news/daily/2026-09-21",
+      "published_at": "2026-09-21T00:00:18+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "288b55ae43b2",
-      "title_zh": "AIHOT 日报 · 2026-09-20 — A",
-      "summary_zh": "推迟至11月 · 估值2万亿 · 计划IPO",
+      "id": "30990106c8a8",
+      "title_zh": "AIHOT 日报 · 2026-09-21 — Q",
+      "summary_zh": "7B模型 · 支持透明图像 · 统一生成编辑",
       "relevance": 0.2
     }
   ]
