@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:15:17.601606+08:00",
+  "generated_at": "2026-09-25T12:29:18.226713+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -28,21 +28,6 @@
         "relevance": 0.81
       },
       {
-        "title": "Maryland governor’s AI framework focuses on regulation and reskilling",
-        "url": "https://www.hrdive.com/news/maryland-governor-ai-framework-focuses-on-regulation-and-reskilling/831016/",
-        "published_at": "2026-09-22T19:42:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "227bd153a3b1",
-        "title_zh": "马里兰州长的人工智能框架聚焦监管与再培训",
-        "summary_zh": "监管AI · 再培训 · 聚焦 Maryland",
-        "relevance": 0.77
-      },
-      {
         "title": "Canada: Bill C-39 Proposes Significant Changes to Collective Bargaining in the Federal Sector",
         "url": "https://www.littler.com/news-analysis/asap/canada-bill-c-39-proposes-significant-changes-collective-bargaining-federal",
         "published_at": "2026-09-23T18:00:53+00:00",
@@ -53,14 +38,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "77f6d57bb49a",
-        "title_zh": "加拿大：C-39法案提议联邦行业集体谈判重大改革",
+        "title_zh": "加拿大：C-39法案拟对联邦部门集体谈判进行重大改",
         "summary_zh": "集体谈判权受限 · 职工选择权增强 · 法案待议会通过",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-19T00:00:00+00:00",
+        "published_at": "2026-09-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -78,7 +63,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-19T00:00:00+00:00",
+        "published_at": "2026-09-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -91,37 +76,37 @@
         "id": "3c2c2dfc96b7"
       },
       {
-        "title": "HR leaders worry about the loss of critical leadership skill development",
-        "url": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
-        "published_at": "2026-09-22T14:47:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "2861ee4dc9b7",
-        "title_zh": "人力资源领导者担忧关键领导力技能发展流失",
-        "summary_zh": "技能发展受威胁 · 领导力下降 · 未来影响",
-        "relevance": 0.33
-      },
-      {
-        "title": "Judge tosses former Purdue diversity chief’s race bias and retaliation claims",
-        "url": "https://www.hrdive.com/news/judge-tosses-purdue-former-diversity-chief-race-bias-and-retaliation-claim/831051/",
-        "published_at": "2026-09-22T19:41:00+00:00",
+        "title": "This week in 5 numbers: CHROs say AI creates ‘invisible’ work",
+        "url": "https://www.hrdive.com/news/chros-say-ai-creates-invisible-work/831273/",
+        "published_at": "2026-09-24T20:46:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": true,
         "category": "组织与人才管理",
-        "id": "3fa140ac5844",
-        "title_zh": "法官驳回前普渡大学多元化主管种族歧视和报复指控",
-        "summary_zh": "种族歧视指控被驳 · 报复指控被驳 · 法官作出裁决",
-        "relevance": 0.29
+        "id": "1360bb0a1ad7",
+        "title_zh": "本周五大数据：CHRO称AI创造“隐形”工作",
+        "summary_zh": "AI创造隐形工作 · CHRO观点 · 提升效率",
+        "relevance": 0.73
       }
     ],
     "学习发展与技能转型": [
+      {
+        "title": "Should workers be paid for AI skills?",
+        "url": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
+        "published_at": "2026-09-24T15:52:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "523d80b36705",
+        "title_zh": "员工是否应因AI技能获得报酬？",
+        "summary_zh": "提升技能价值 · 企业投资 · 人才竞争",
+        "relevance": 0.77
+      },
       {
         "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
         "url": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
@@ -133,8 +118,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "911be0313997",
-        "title_zh": "IBM报告警告AI可能削弱CHRO们认为重要的人类",
-        "summary_zh": "削弱人类技能 · 影响企业决策 · CHRO担忧",
+        "title_zh": "IBM报告警告AI可能削弱CHRO们认为至关重要的",
+        "summary_zh": "削弱关键技能 · 影响职业发展 · CHRO高度关注",
         "relevance": 0.77
       },
       {
@@ -149,7 +134,7 @@
         "category": "学习发展与技能转型",
         "id": "1c78005dfabd",
         "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-        "summary_zh": "培训义务 · 执法推迟 · 准备工作",
+        "summary_zh": "培训义务 · 费城实施 · 执法推迟",
         "relevance": 0.77
       },
       {
@@ -181,24 +166,24 @@
         "is_ai_hr": true,
         "category": "案例、报告与趋势",
         "id": "df005b4b8194",
-        "title_zh": "员工近半数不希望AI参与薪资核算",
-        "summary_zh": "不希望AI参与薪资核算 · 对AI薪资系统存疑 · 影响工作自主性",
+        "title_zh": "近半数员工不希望AI参与工资核算",
+        "summary_zh": "不希望AI参与工资核算 · 对AI存有疑虑 · 影响就业安全感",
         "relevance": 0.73
       },
       {
-        "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-        "url": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-        "published_at": "2026-09-22T14:53:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "October 2026 Right to Work Changes in the UK: Liability Extends to Subcontractors, Gig Workers and Supply Chains",
+        "url": "https://www.littler.com/news-analysis/asap/october-2026-right-work-changes-uk-liability-extends-subcontractors-gig-workers",
+        "published_at": "2026-09-24T14:05:16+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
+        "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "09622d64b064",
-        "title_zh": "员工对“诱饵式”职位描述感到沮丧",
-        "summary_zh": "职位描述不符 · 缺乏透明度 · 工作体验差",
-        "relevance": 0.73
+        "id": "c8778e2b0c3b",
+        "title_zh": "2026年英国工作权利变更：责任扩展至分包商、零工",
+        "summary_zh": "责任扩展 · 影响分包商 · 涉及零工",
+        "relevance": 0.6
       },
       {
         "title": "Why you need an AI notetaker policy – and what it should cover",
@@ -211,7 +196,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "fad8e22199bd",
-        "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+        "title_zh": "为何你需要AI笔记记录者政策——及其应涵盖的内容",
         "summary_zh": "保护隐私 · 提升效率 · 明确责任",
         "relevance": 0.6
       },
@@ -246,19 +231,49 @@
         "relevance": 0.6
       },
       {
-        "title": "Undeclared work in private security: a growing sector facing fair work challenges",
-        "url": "https://www.ela.europa.eu/en/news/undeclared-work-private-security-growing-sector-facing-fair-work-challenges",
-        "published_at": "2026-09-17T12:07:15+00:00",
-        "source_id": "ela",
-        "source_name": "ELA",
-        "source_region": "欧洲",
-        "source_level": "官方政策",
+        "title": "Ollie’s Bargain Discount allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
+        "url": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
+        "published_at": "2026-09-24T20:46:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "0b5ec8992211",
-        "title_zh": "私营安保领域的非申报工作：一个面临公平工作挑战的快",
-        "summary_zh": "非申报工作增多 · 公平工作挑战 · 行业快速增长",
-        "relevance": 0.6
+        "id": "92a95360a211",
+        "title_zh": "奥利购物折扣店涉嫌拒绝雇佣聋人员工，要求“能定期听",
+        "summary_zh": "涉嫌歧视聋人 · 要求听力正常 · 引发争议",
+        "relevance": 0.5
+      },
+      {
+        "title": "In the AI era, organizations must redesign work in real time, Gartner says",
+        "url": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
+        "published_at": "2026-09-24T14:01:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "de274691c4e9",
+        "title_zh": "在AI时代，企业需实时重塑工作，Gartner称",
+        "summary_zh": "实时重塑工作 · 适应AI发展 · 提升组织效率",
+        "relevance": 0.5
+      },
+      {
+        "title": "Employees report performative AI use amid role changes",
+        "url": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
+        "published_at": "2026-09-24T14:00:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "818d4af94460",
+        "title_zh": "员工报告称在角色变化中遭遇AI表演式使用",
+        "summary_zh": "AI被不当使用 · 角色变化加剧 · 员工反映问题",
+        "relevance": 0.5
       },
       {
         "title": "Nearly half of CFOs say they’d go with AI over a gut feeling",
@@ -271,8 +286,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "38b1c74a3ebe",
-        "title_zh": "近半数CFO更信任AI而非直觉",
-        "summary_zh": "更信任AI · 提高决策效率 · 减少主观偏见",
+        "title_zh": "近半数CFO更信赖AI而非直觉判断",
+        "summary_zh": "信赖AI · 舍弃直觉 · 关注数据",
         "relevance": 0.5
       },
       {
@@ -301,23 +316,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "612f2e82922a",
-        "title_zh": "职场歧视指控持续：前台员工因奴隶相关言论遭遇恶劣工",
-        "summary_zh": "奴隶言论引发争议 · 工作环境恶劣 · 持续法律诉讼",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-24 — Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-        "url": "https://aihot.news/daily/2026-09-24",
-        "published_at": "2026-09-24T00:03:03+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "ee885a38d328",
-        "title_zh": "AIHOT 日报 · 2026-09-24 — G",
-        "summary_zh": "发布新语音模型 · 支持快速生成 · 技术升级",
+        "title_zh": "职场歧视指控持续：前台员工因奴隶制相关言论遭遇恶劣",
+        "summary_zh": "奴隶制言论引发争议 · 恶劣工作环境 · 持续法律程序",
         "relevance": 0.2
       }
     ]
@@ -339,6 +339,21 @@
       "relevance": 0.81
     },
     {
+      "title": "Should workers be paid for AI skills?",
+      "url": "https://www.hrdive.com/news/should-workers-be-paid-for-ai-skills/830908/",
+      "published_at": "2026-09-24T15:52:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "523d80b36705",
+      "title_zh": "员工是否应因AI技能获得报酬？",
+      "summary_zh": "提升技能价值 · 企业投资 · 人才竞争",
+      "relevance": 0.77
+    },
+    {
       "title": "IBM report warns AI could erode human skills deemed vital by CHROs",
       "url": "https://www.hrdive.com/news/ibm-report-warns-ai-could-erode-human-skills-deemed-vital-by-chros/831124/",
       "published_at": "2026-09-23T14:39:00+00:00",
@@ -349,23 +364,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "911be0313997",
-      "title_zh": "IBM报告警告AI可能削弱CHRO们认为重要的人类",
-      "summary_zh": "削弱人类技能 · 影响企业决策 · CHRO担忧",
-      "relevance": 0.77
-    },
-    {
-      "title": "Maryland governor’s AI framework focuses on regulation and reskilling",
-      "url": "https://www.hrdive.com/news/maryland-governor-ai-framework-focuses-on-regulation-and-reskilling/831016/",
-      "published_at": "2026-09-22T19:42:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "227bd153a3b1",
-      "title_zh": "马里兰州长的人工智能框架聚焦监管与再培训",
-      "summary_zh": "监管AI · 再培训 · 聚焦 Maryland",
+      "title_zh": "IBM报告警告AI可能削弱CHRO们认为至关重要的",
+      "summary_zh": "削弱关键技能 · 影响职业发展 · CHRO高度关注",
       "relevance": 0.77
     },
     {
@@ -379,7 +379,7 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "77f6d57bb49a",
-      "title_zh": "加拿大：C-39法案提议联邦行业集体谈判重大改革",
+      "title_zh": "加拿大：C-39法案拟对联邦部门集体谈判进行重大改",
       "summary_zh": "集体谈判权受限 · 职工选择权增强 · 法案待议会通过",
       "relevance": 0.77
     },
@@ -395,7 +395,7 @@
       "category": "学习发展与技能转型",
       "id": "1c78005dfabd",
       "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-      "summary_zh": "培训义务 · 执法推迟 · 准备工作",
+      "summary_zh": "培训义务 · 费城实施 · 执法推迟",
       "relevance": 0.77
     },
     {
@@ -416,7 +416,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-19T00:00:00+00:00",
+      "published_at": "2026-09-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -431,7 +431,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-19T00:00:00+00:00",
+      "published_at": "2026-09-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -444,6 +444,21 @@
       "id": "c79ea307e6b8"
     },
     {
+      "title": "This week in 5 numbers: CHROs say AI creates ‘invisible’ work",
+      "url": "https://www.hrdive.com/news/chros-say-ai-creates-invisible-work/831273/",
+      "published_at": "2026-09-24T20:46:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "1360bb0a1ad7",
+      "title_zh": "本周五大数据：CHRO称AI创造“隐形”工作",
+      "summary_zh": "AI创造隐形工作 · CHRO观点 · 提升效率",
+      "relevance": 0.73
+    },
+    {
       "title": "Nearly half of workers say they don’t want AI in payroll",
       "url": "https://www.hrdive.com/news/nearly-half-of-workers-say-they-dont-want-ai-in-payroll/831143/",
       "published_at": "2026-09-23T19:12:00+00:00",
@@ -454,24 +469,24 @@
       "is_ai_hr": true,
       "category": "案例、报告与趋势",
       "id": "df005b4b8194",
-      "title_zh": "员工近半数不希望AI参与薪资核算",
-      "summary_zh": "不希望AI参与薪资核算 · 对AI薪资系统存疑 · 影响工作自主性",
+      "title_zh": "近半数员工不希望AI参与工资核算",
+      "summary_zh": "不希望AI参与工资核算 · 对AI存有疑虑 · 影响就业安全感",
       "relevance": 0.73
     },
     {
-      "title": "Workers say they are frustrated by bait-and-switch job descriptions",
-      "url": "https://www.hrdive.com/news/workers-say-they-are-frustrated-by-bait-and-switch-job-descriptions/830928/",
-      "published_at": "2026-09-22T14:53:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "October 2026 Right to Work Changes in the UK: Liability Extends to Subcontractors, Gig Workers and Supply Chains",
+      "url": "https://www.littler.com/news-analysis/asap/october-2026-right-work-changes-uk-liability-extends-subcontractors-gig-workers",
+      "published_at": "2026-09-24T14:05:16+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
-      "is_ai_hr": true,
+      "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "09622d64b064",
-      "title_zh": "员工对“诱饵式”职位描述感到沮丧",
-      "summary_zh": "职位描述不符 · 缺乏透明度 · 工作体验差",
-      "relevance": 0.73
+      "id": "c8778e2b0c3b",
+      "title_zh": "2026年英国工作权利变更：责任扩展至分包商、零工",
+      "summary_zh": "责任扩展 · 影响分包商 · 涉及零工",
+      "relevance": 0.6
     },
     {
       "title": "Why you need an AI notetaker policy – and what it should cover",
@@ -484,7 +499,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "fad8e22199bd",
-      "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+      "title_zh": "为何你需要AI笔记记录者政策——及其应涵盖的内容",
       "summary_zh": "保护隐私 · 提升效率 · 明确责任",
       "relevance": 0.6
     },
@@ -519,19 +534,49 @@
       "relevance": 0.6
     },
     {
-      "title": "Undeclared work in private security: a growing sector facing fair work challenges",
-      "url": "https://www.ela.europa.eu/en/news/undeclared-work-private-security-growing-sector-facing-fair-work-challenges",
-      "published_at": "2026-09-17T12:07:15+00:00",
-      "source_id": "ela",
-      "source_name": "ELA",
-      "source_region": "欧洲",
-      "source_level": "官方政策",
+      "title": "Ollie’s Bargain Discount allegedly refused to hire deaf worker, required ‘ability to hear regularly’",
+      "url": "https://www.hrdive.com/news/discriminating-against-deaf-workers-ollies/831320/",
+      "published_at": "2026-09-24T20:46:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "0b5ec8992211",
-      "title_zh": "私营安保领域的非申报工作：一个面临公平工作挑战的快",
-      "summary_zh": "非申报工作增多 · 公平工作挑战 · 行业快速增长",
-      "relevance": 0.6
+      "id": "92a95360a211",
+      "title_zh": "奥利购物折扣店涉嫌拒绝雇佣聋人员工，要求“能定期听",
+      "summary_zh": "涉嫌歧视聋人 · 要求听力正常 · 引发争议",
+      "relevance": 0.5
+    },
+    {
+      "title": "In the AI era, organizations must redesign work in real time, Gartner says",
+      "url": "https://www.hrdive.com/news/in-the-ai-era-organizations-must-redesign-work-in-real-time-gartner/831205/",
+      "published_at": "2026-09-24T14:01:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "de274691c4e9",
+      "title_zh": "在AI时代，企业需实时重塑工作，Gartner称",
+      "summary_zh": "实时重塑工作 · 适应AI发展 · 提升组织效率",
+      "relevance": 0.5
+    },
+    {
+      "title": "Employees report performative AI use amid role changes",
+      "url": "https://www.hrdive.com/news/employees-performative-AI-pressure/831236/",
+      "published_at": "2026-09-24T14:00:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "818d4af94460",
+      "title_zh": "员工报告称在角色变化中遭遇AI表演式使用",
+      "summary_zh": "AI被不当使用 · 角色变化加剧 · 员工反映问题",
+      "relevance": 0.5
     },
     {
       "title": "Nearly half of CFOs say they’d go with AI over a gut feeling",
@@ -544,8 +589,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "38b1c74a3ebe",
-      "title_zh": "近半数CFO更信任AI而非直觉",
-      "summary_zh": "更信任AI · 提高决策效率 · 减少主观偏见",
+      "title_zh": "近半数CFO更信赖AI而非直觉判断",
+      "summary_zh": "信赖AI · 舍弃直觉 · 关注数据",
       "relevance": 0.5
     },
     {
@@ -564,36 +609,6 @@
       "relevance": 0.5
     },
     {
-      "title": "HR leaders worry about the loss of critical leadership skill development",
-      "url": "https://www.hrdive.com/news/hr-leaders-worry-about-the-loss-of-critical-leadership-skill-development/830919/",
-      "published_at": "2026-09-22T14:47:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "2861ee4dc9b7",
-      "title_zh": "人力资源领导者担忧关键领导力技能发展流失",
-      "summary_zh": "技能发展受威胁 · 领导力下降 · 未来影响",
-      "relevance": 0.33
-    },
-    {
-      "title": "Judge tosses former Purdue diversity chief’s race bias and retaliation claims",
-      "url": "https://www.hrdive.com/news/judge-tosses-purdue-former-diversity-chief-race-bias-and-retaliation-claim/831051/",
-      "published_at": "2026-09-22T19:41:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "3fa140ac5844",
-      "title_zh": "法官驳回前普渡大学多元化主管种族歧视和报复指控",
-      "summary_zh": "种族歧视指控被驳 · 报复指控被驳 · 法官作出裁决",
-      "relevance": 0.29
-    },
-    {
       "title": "Language that evoked slavery keeps front desk worker’s hostile work environment claim alive",
       "url": "https://www.hrdive.com/news/hostile-work-environment-slavery-language/831149/",
       "published_at": "2026-09-23T19:12:00+00:00",
@@ -604,23 +619,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "612f2e82922a",
-      "title_zh": "职场歧视指控持续：前台员工因奴隶相关言论遭遇恶劣工",
-      "summary_zh": "奴隶言论引发争议 · 工作环境恶劣 · 持续法律诉讼",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-24 — Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-      "url": "https://aihot.news/daily/2026-09-24",
-      "published_at": "2026-09-24T00:03:03+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "ee885a38d328",
-      "title_zh": "AIHOT 日报 · 2026-09-24 — G",
-      "summary_zh": "发布新语音模型 · 支持快速生成 · 技术升级",
+      "title_zh": "职场歧视指控持续：前台员工因奴隶制相关言论遭遇恶劣",
+      "summary_zh": "奴隶制言论引发争议 · 恶劣工作环境 · 持续法律程序",
       "relevance": 0.2
     }
   ]
