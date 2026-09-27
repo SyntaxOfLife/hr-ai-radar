@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:32:23.522920+08:00",
+  "generated_at": "2026-09-27T12:50:18.692827+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,13 +24,13 @@
         "category": "政策与劳动合规",
         "id": "77f6d57bb49a",
         "title_zh": "加拿大：C-39法案提议对联邦部门集体谈判进行重大",
-        "summary_zh": "集体谈判规则将变更 · 联邦部门受影响 · 改革提案待审批",
+        "summary_zh": "集体谈判规则将变更 · 联邦部门受影响 · 改革内容待定",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-21T00:00:00+00:00",
+        "published_at": "2026-09-22T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -48,7 +48,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-21T00:00:00+00:00",
+        "published_at": "2026-09-22T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -89,7 +89,7 @@
         "category": "学习发展与技能转型",
         "id": "523d80b36705",
         "title_zh": "员工是否应因AI技能获得报酬？",
-        "summary_zh": "提升技能价值 · AI需求增长 · 企业投资培训",
+        "summary_zh": "提升技能价值 · 适应未来趋势 · 企业竞争力",
         "relevance": 0.77
       },
       {
@@ -104,7 +104,7 @@
         "category": "学习发展与技能转型",
         "id": "1c78005dfabd",
         "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-        "summary_zh": "培训义务 · 费城实施 · 时间推迟",
+        "summary_zh": "培训义务 · 执法推迟 · 企业需准备",
         "relevance": 0.77
       }
     ],
@@ -137,8 +137,8 @@
         "is_ai_hr": true,
         "category": "案例、报告与趋势",
         "id": "df005b4b8194",
-        "title_zh": "员工近半数不希望AI参与薪资核算",
-        "summary_zh": "不希望AI参与薪资核算 · 减少对AI的依赖 · 关注人工操作",
+        "title_zh": "员工近半数不希望AI参与薪酬计算",
+        "summary_zh": "不希望AI参与薪酬计算 · 对AI存在顾虑 · 影响薪酬公平性",
         "relevance": 0.73
       },
       {
@@ -167,7 +167,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "fad8e22199bd",
-        "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+        "title_zh": "为何你需要AI笔记记录者政策——及其应涵盖的内容",
         "summary_zh": "保护隐私 · 提升效率 · 明确责任",
         "relevance": 0.6
       },
@@ -182,7 +182,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "1cdd1c22fb14",
-        "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技最新对职场的影",
+        "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技最新影响职场",
         "summary_zh": "智能眼镜普及 · AI影响诉讼 · 职场技术变革",
         "relevance": 0.6
       },
@@ -197,8 +197,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "48ae7d2a86bd",
-        "title_zh": "奥利购物折扣店被指控拒绝雇佣聋人员工，要求“需能正",
-        "summary_zh": "拒聘聋人员工 · 要求正常听力 · 涉嫌歧视",
+        "title_zh": "奥利购物折扣店被指控拒绝雇佣聋人员工，要求“能定期",
+        "summary_zh": "拒绝雇佣聋人员工 · 要求能定期听 · 涉嫌歧视",
         "relevance": 0.5
       },
       {
@@ -212,7 +212,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "de274691c4e9",
-        "title_zh": "在AI时代，企业需实时重塑工作，Gartner称",
+        "title_zh": "人工智能时代，企业需实时重塑工作，Gartner称",
         "summary_zh": "实时重塑工作 · 适应AI发展 · 提升组织效率",
         "relevance": 0.5
       },
@@ -227,8 +227,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "818d4af94460",
-        "title_zh": "员工报告称在角色变化中遭遇AI表演性使用",
-        "summary_zh": "AI被用于表演性工作||员工角色变化频繁",
+        "title_zh": "员工报告在工作中使用表现型AI并伴随角色变化",
+        "summary_zh": "使用AI提升表现 · 角色变化明显 · 员工反馈增多",
         "relevance": 0.5
       },
       {
@@ -242,8 +242,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "612f2e82922a",
-        "title_zh": "职场歧视指控持续：前台员工因奴隶相关言论遭遇恶劣工",
-        "summary_zh": "奴隶言论引发争议 · 工作环境恶劣 · 持续法律诉讼",
+        "title_zh": "职场歧视指控持续：前台员工因奴隶制相关言论遭遇恶劣",
+        "summary_zh": "奴隶制言论引发争议 · 恶劣工作环境 · 持续法律诉讼",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-09-27 — Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
+        "url": "https://aihot.news/daily/2026-09-27",
+        "published_at": "2026-09-27T00:00:01+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "db23ac0cae19",
+        "title_zh": "AIHOT 日报 · 2026-09-27 — C",
+        "summary_zh": "Claude Opus 5.5 登顶榜单 · Arena Text Arena 榜首 · 1509 分成绩",
         "relevance": 0.2
       },
       {
@@ -273,7 +288,7 @@
         "category": "案例、报告与趋势",
         "id": "c758e9479269",
         "title_zh": "AIHOT日报·2026-09-25—Claude",
-        "summary_zh": "Claude Opus 5.5登顶WebDev榜||得1818分 · Claude Opus 5.5领先竞争对手 · AIHOT日报报道",
+        "summary_zh": "Claude Opus 5.5登顶WebDev榜||得1818分 · Claude Opus 5.5领先||AIHOT日报报道",
         "relevance": 0.2
       },
       {
@@ -303,22 +318,7 @@
         "category": "案例、报告与趋势",
         "id": "dee2119206be",
         "title_zh": "AIHOT 日报 · 2026-09-23 — A",
-        "summary_zh": "发布新版本 · 成本降低40% · Anthropic研发",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-22 — 小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "url": "https://aihot.news/daily/2026-09-22",
-        "published_at": "2026-09-22T00:59:43+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "8163a4eadfa5",
-        "title_zh": "AIHOT 日报 · 2026-09-22 — 小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "summary_zh": "",
+        "summary_zh": "发布新版本 · 成本降低40% · Anthropic研发。",
         "relevance": 0.2
       }
     ]
@@ -336,7 +336,7 @@
       "category": "学习发展与技能转型",
       "id": "523d80b36705",
       "title_zh": "员工是否应因AI技能获得报酬？",
-      "summary_zh": "提升技能价值 · AI需求增长 · 企业投资培训",
+      "summary_zh": "提升技能价值 · 适应未来趋势 · 企业竞争力",
       "relevance": 0.77
     },
     {
@@ -351,7 +351,7 @@
       "category": "政策与劳动合规",
       "id": "77f6d57bb49a",
       "title_zh": "加拿大：C-39法案提议对联邦部门集体谈判进行重大",
-      "summary_zh": "集体谈判规则将变更 · 联邦部门受影响 · 改革提案待审批",
+      "summary_zh": "集体谈判规则将变更 · 联邦部门受影响 · 改革内容待定",
       "relevance": 0.77
     },
     {
@@ -366,13 +366,13 @@
       "category": "学习发展与技能转型",
       "id": "1c78005dfabd",
       "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-      "summary_zh": "培训义务 · 费城实施 · 时间推迟",
+      "summary_zh": "培训义务 · 执法推迟 · 企业需准备",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-21T00:00:00+00:00",
+      "published_at": "2026-09-22T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -387,7 +387,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-21T00:00:00+00:00",
+      "published_at": "2026-09-22T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -425,8 +425,8 @@
       "is_ai_hr": true,
       "category": "案例、报告与趋势",
       "id": "df005b4b8194",
-      "title_zh": "员工近半数不希望AI参与薪资核算",
-      "summary_zh": "不希望AI参与薪资核算 · 减少对AI的依赖 · 关注人工操作",
+      "title_zh": "员工近半数不希望AI参与薪酬计算",
+      "summary_zh": "不希望AI参与薪酬计算 · 对AI存在顾虑 · 影响薪酬公平性",
       "relevance": 0.73
     },
     {
@@ -455,7 +455,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "fad8e22199bd",
-      "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+      "title_zh": "为何你需要AI笔记记录者政策——及其应涵盖的内容",
       "summary_zh": "保护隐私 · 提升效率 · 明确责任",
       "relevance": 0.6
     },
@@ -470,7 +470,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "1cdd1c22fb14",
-      "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技最新对职场的影",
+      "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技最新影响职场",
       "summary_zh": "智能眼镜普及 · AI影响诉讼 · 职场技术变革",
       "relevance": 0.6
     },
@@ -485,8 +485,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "48ae7d2a86bd",
-      "title_zh": "奥利购物折扣店被指控拒绝雇佣聋人员工，要求“需能正",
-      "summary_zh": "拒聘聋人员工 · 要求正常听力 · 涉嫌歧视",
+      "title_zh": "奥利购物折扣店被指控拒绝雇佣聋人员工，要求“能定期",
+      "summary_zh": "拒绝雇佣聋人员工 · 要求能定期听 · 涉嫌歧视",
       "relevance": 0.5
     },
     {
@@ -500,7 +500,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "de274691c4e9",
-      "title_zh": "在AI时代，企业需实时重塑工作，Gartner称",
+      "title_zh": "人工智能时代，企业需实时重塑工作，Gartner称",
       "summary_zh": "实时重塑工作 · 适应AI发展 · 提升组织效率",
       "relevance": 0.5
     },
@@ -515,8 +515,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "818d4af94460",
-      "title_zh": "员工报告称在角色变化中遭遇AI表演性使用",
-      "summary_zh": "AI被用于表演性工作||员工角色变化频繁",
+      "title_zh": "员工报告在工作中使用表现型AI并伴随角色变化",
+      "summary_zh": "使用AI提升表现 · 角色变化明显 · 员工反馈增多",
       "relevance": 0.5
     },
     {
@@ -545,8 +545,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "612f2e82922a",
-      "title_zh": "职场歧视指控持续：前台员工因奴隶相关言论遭遇恶劣工",
-      "summary_zh": "奴隶言论引发争议 · 工作环境恶劣 · 持续法律诉讼",
+      "title_zh": "职场歧视指控持续：前台员工因奴隶制相关言论遭遇恶劣",
+      "summary_zh": "奴隶制言论引发争议 · 恶劣工作环境 · 持续法律诉讼",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-09-27 — Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
+      "url": "https://aihot.news/daily/2026-09-27",
+      "published_at": "2026-09-27T00:00:01+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "db23ac0cae19",
+      "title_zh": "AIHOT 日报 · 2026-09-27 — C",
+      "summary_zh": "Claude Opus 5.5 登顶榜单 · Arena Text Arena 榜首 · 1509 分成绩",
       "relevance": 0.2
     },
     {
@@ -576,7 +591,7 @@
       "category": "案例、报告与趋势",
       "id": "c758e9479269",
       "title_zh": "AIHOT日报·2026-09-25—Claude",
-      "summary_zh": "Claude Opus 5.5登顶WebDev榜||得1818分 · Claude Opus 5.5领先竞争对手 · AIHOT日报报道",
+      "summary_zh": "Claude Opus 5.5登顶WebDev榜||得1818分 · Claude Opus 5.5领先||AIHOT日报报道",
       "relevance": 0.2
     },
     {
@@ -606,22 +621,7 @@
       "category": "案例、报告与趋势",
       "id": "dee2119206be",
       "title_zh": "AIHOT 日报 · 2026-09-23 — A",
-      "summary_zh": "发布新版本 · 成本降低40% · Anthropic研发",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-22 — 小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "url": "https://aihot.news/daily/2026-09-22",
-      "published_at": "2026-09-22T00:59:43+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "8163a4eadfa5",
-      "title_zh": "AIHOT 日报 · 2026-09-22 — 小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "summary_zh": "",
+      "summary_zh": "发布新版本 · 成本降低40% · Anthropic研发。",
       "relevance": 0.2
     }
   ]
