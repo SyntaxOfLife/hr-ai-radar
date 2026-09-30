@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:17:41.250976+08:00",
+  "generated_at": "2026-09-30T13:06:24.173804+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,8 +24,23 @@
         "category": "政策与劳动合规",
         "id": "a6c96b545709",
         "title_zh": "共情疲劳削弱律师的领导力与咨询能力",
-        "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作精力",
+        "summary_zh": "领导力受损 · 咨询能力下降 · 工作效率降低",
         "relevance": 0.85
+      },
+      {
+        "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
+        "url": "https://www.littler.com/news-analysis/asap/uk-government-publishes-details-trade-union-rights-access-workplaces",
+        "published_at": "2026-09-29T18:51:59+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "e36228dad779",
+        "title_zh": "英国政府发布工会进入工作场所的权利细节",
+        "summary_zh": "进入工作场所的权利 · 职业安全保护 · 法律规定",
+        "relevance": 0.77
       },
       {
         "title": "Canada: Bill C-39 Proposes Significant Changes to Collective Bargaining in the Federal Sector",
@@ -38,14 +53,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "77f6d57bb49a",
-        "title_zh": "加拿大：C-39法案拟对联邦部门集体谈判进行重大改",
-        "summary_zh": "集体谈判权受限 · 职工选择权削弱 · 法律程序变更",
+        "title_zh": "加拿大：C-39法案提议联邦行业集体谈判重大改革",
+        "summary_zh": "集体谈判权受限 · 职工选择权增强 · 法案待议会通过",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-24T00:00:00+00:00",
+        "published_at": "2026-09-25T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -69,8 +84,23 @@
         "category": "政策与劳动合规",
         "id": "a2f1cb546235",
         "title_zh": "美国平等就业机会委员会寻求对现代汽车发出传票以调查",
-        "summary_zh": "调查现代汽车歧视行为 · 涉嫌拒绝雇佣非韩国人 · EEOC采取法律行动",
+        "summary_zh": "调查现代汽车歧视非韩国人 · 发出传票 · 违反平等就业法",
         "relevance": 0.73
+      },
+      {
+        "title": "Puerto Rico Department of Labor Launches Desempleo Digital: Key Changes for Employers",
+        "url": "https://www.littler.com/news-analysis/asap/puerto-rico-department-labor-launches-desempleo-digital-key-changes-employers",
+        "published_at": "2026-09-29T16:06:54+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "081380c0d4c1",
+        "title_zh": "波多黎各劳工部推出Desempleo Digita",
+        "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主",
+        "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -78,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-24T00:00:00+00:00",
+        "published_at": "2026-09-25T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -101,26 +131,26 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "2a2ff415f97c",
-        "title_zh": "行政命令要求机构在H-1B裁决中考虑裁员",
-        "summary_zh": "考虑裁员 · H-1B裁决 · 机构执行",
+        "title_zh": "行政命令指示机构在H-1B裁决中考虑裁员",
+        "summary_zh": "考虑裁员 · H-1B裁决 · 机构指示",
         "relevance": 0.6
       }
     ],
     "学习发展与技能转型": [
       {
-        "title": "How to Prepare for Philadelphia’s New Employer Training Obligations for Security Officers While Enforcement Remains Postponed",
-        "url": "https://www.littler.com/news-analysis/asap/how-prepare-philadelphias-new-employer-training-obligations-security-officers",
-        "published_at": "2026-09-22T19:45:30+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "High performers might resent lower-performing workers getting training over them",
+        "url": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
+        "published_at": "2026-09-29T15:23:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
-        "id": "1c78005dfabd",
-        "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-        "summary_zh": "培训义务 · 执法推迟 · 准备工作",
-        "relevance": 0.77
+        "id": "f6c9ecdc18fa",
+        "title_zh": "高绩效员工可能怨恨低绩效员工获得培训机会",
+        "summary_zh": "绩效差异 · 培训资源分配 · 感到不公平",
+        "relevance": 0.73
       }
     ],
     "HR 产品与数字化": [
@@ -142,6 +172,21 @@
     ],
     "案例、报告与趋势": [
       {
+        "title": "Fewer Than 10% of U.S. Employers Feel Very Prepared for AI’s Impact on Labor Relations, Littler Survey Finds",
+        "url": "https://www.littler.com/press/press-release/fewer-10-us-employers-feel-very-prepared-ais-impact-labor-relations-littler",
+        "published_at": "2026-09-23T14:15:14+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "案例、报告与趋势",
+        "id": "f4660bd51a04",
+        "title_zh": "美国企业不到10%感觉非常准备好应对AI对劳资关系",
+        "summary_zh": "AI影响劳资关系 · 企业准备不足 · 调查结果",
+        "relevance": 0.77
+      },
+      {
         "title": "October 2026 Right to Work Changes in the UK: Liability Extends to Subcontractors, Gig Workers and Supply Chains",
         "url": "https://www.littler.com/news-analysis/asap/october-2026-right-work-changes-uk-liability-extends-subcontractors-gig-workers",
         "published_at": "2026-09-24T14:05:16+00:00",
@@ -152,8 +197,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "c8778e2b0c3b",
-        "title_zh": "2026年英国工作权利变化：责任扩展至分包商、零工",
-        "summary_zh": "责任扩展 · 影响分包商 · 涉及零工",
+        "title_zh": "2026年英国工作权利变更：责任扩展至分包商、零工",
+        "summary_zh": "责任扩展至分包商 · 影响零工群体 · 涉及供应链",
         "relevance": 0.6
       },
       {
@@ -167,7 +212,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "fad8e22199bd",
-        "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+        "title_zh": "为何你需要AI笔记记录政策——以及它应涵盖的内容",
         "summary_zh": "保护隐私 · 提升效率 · 明确责任",
         "relevance": 0.6
       },
@@ -183,8 +228,23 @@
         "category": "案例、报告与趋势",
         "id": "1cdd1c22fb14",
         "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技对职场最新影响",
-        "summary_zh": "智能眼镜普及 · AI影响诉讼 · 职场技术变革",
+        "summary_zh": "智能眼镜普及 · AI影响诉讼 · 改变工作方式",
         "relevance": 0.6
+      },
+      {
+        "title": "If AI takes on junior-level work, how will CFOs develop talent?",
+        "url": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
+        "published_at": "2026-09-29T14:57:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "3fc45af78c08",
+        "title_zh": "如果AI承担初级工作，CFO如何培养人才？",
+        "summary_zh": "提升领导力 · 关注战略 · 培养高阶技能",
+        "relevance": 0.5
       },
       {
         "title": "Insurers say AI could add billions in health costs. Billing companies disagree.",
@@ -199,36 +259,6 @@
         "id": "06deabd15dea",
         "title_zh": "保险公司称AI或致健康成本数十亿美元，计费公司表示",
         "summary_zh": "AI或增健康成本 · 计费公司反对 · 数十亿美元",
-        "relevance": 0.5
-      },
-      {
-        "title": "Week in review: The bait-and-switch gap in recruiting",
-        "url": "https://www.hrdive.com/news/the-bait-and-switch-gap-in-recruiting/831458/",
-        "published_at": "2026-09-28T15:09:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "ec721152a374",
-        "title_zh": "本周回顾：招聘中的诱饵与切换差距",
-        "summary_zh": "警惕虚假承诺 · 影响招聘效果 · 增加管理成本",
-        "relevance": 0.5
-      },
-      {
-        "title": "What data says about the who, what, when, where and why of open enrollment education",
-        "url": "https://www.hrdive.com/spons/what-data-says-about-the-who-what-when-where-and-why-of-open-enrollment/831389/",
-        "published_at": "2026-09-28T09:00:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "792fa2211726",
-        "title_zh": "开放教育数据揭示参与主体、内容、时间、地点及原因",
-        "summary_zh": "参与主体 · 内容形式 · 原因分析",
         "relevance": 0.5
       },
       {
@@ -247,6 +277,21 @@
         "relevance": 0.5
       },
       {
+        "title": "Five steps: How HR can pass the ‘Octopus Test’ before agentic AI gets its tentacles into everything",
+        "url": "https://hrzone.com/five-steps-how-hr-can-pass-the-octopus-test-before-agentic-ai-gets-its-tentacles-into-everything/",
+        "published_at": "2026-09-29T07:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "a0358fb674d4",
+        "title_zh": "五步：人力资源如何通过“章鱼测试”在代理式AI全面",
+        "summary_zh": "提升HR效率 · 适应AI变革 · 掌握主动权",
+        "relevance": 0.5
+      },
+      {
         "title": "AI and HR: A new workplace bureaucracy perspective",
         "url": "https://hrzone.com/a-new-way-to-think-about-ai-and-hr-the-workplace-bureaucracy-perspective/",
         "published_at": "2026-09-28T07:00:00+00:00",
@@ -258,67 +303,22 @@
         "category": "案例、报告与趋势",
         "id": "cc44c1e95651",
         "title_zh": "人工智能与人力资源：新的职场官僚主义视角",
-        "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚问题",
+        "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚主义担忧",
         "relevance": 0.5
       },
       {
-        "title": "AIHOT 日报 · 2026-09-29 — Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元",
-        "url": "https://aihot.news/daily/2026-09-29",
-        "published_at": "2026-09-29T00:00:28+00:00",
+        "title": "AIHOT 日报 · 2026-09-30 — OpenAI 取消 GPT-6.1 发布计划，称安全性未达标",
+        "url": "https://aihot.news/daily/2026-09-30",
+        "published_at": "2026-09-30T00:00:34+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "813b9efaecd2",
-        "title_zh": "AIHOT 日报 · 2026-09-29 — Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元",
-        "summary_zh": "",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-28 — Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "url": "https://aihot.news/daily/2026-09-28",
-        "published_at": "2026-09-28T00:00:10+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "2d1f51b2ea16",
-        "title_zh": "AIHOT 日报 · 2026-09-28 — 作",
-        "summary_zh": "高管早知盗版违法 · 盗版书籍训练 · 新文件披露",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-27 — Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
-        "url": "https://aihot.news/daily/2026-09-27",
-        "published_at": "2026-09-27T00:00:01+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "db23ac0cae19",
-        "title_zh": "AIHOT日报·2026-09-27—Claude",
-        "summary_zh": "ClaudeOpus5.5登顶榜单·分数创新高·AI性能提升",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-26 — Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "url": "https://aihot.news/daily/2026-09-26",
-        "published_at": "2026-09-26T00:00:22+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "26a989d40723",
-        "title_zh": "AIHOT 日报 · 2026-09-26 — S",
-        "summary_zh": "更新极大 · 定位新OS · 提升效率",
+        "id": "5cbc84aed48f",
+        "title_zh": "AIHOT 日报 · 2026-09-30 — O",
+        "summary_zh": "取消GPT-6.1发布 · 安全性未达标 · OpenAI决策",
         "relevance": 0.2
       }
     ]
@@ -336,8 +336,23 @@
       "category": "政策与劳动合规",
       "id": "a6c96b545709",
       "title_zh": "共情疲劳削弱律师的领导力与咨询能力",
-      "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作精力",
+      "summary_zh": "领导力受损 · 咨询能力下降 · 工作效率降低",
       "relevance": 0.85
+    },
+    {
+      "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
+      "url": "https://www.littler.com/news-analysis/asap/uk-government-publishes-details-trade-union-rights-access-workplaces",
+      "published_at": "2026-09-29T18:51:59+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "e36228dad779",
+      "title_zh": "英国政府发布工会进入工作场所的权利细节",
+      "summary_zh": "进入工作场所的权利 · 职业安全保护 · 法律规定",
+      "relevance": 0.77
     },
     {
       "title": "Canada: Bill C-39 Proposes Significant Changes to Collective Bargaining in the Federal Sector",
@@ -350,29 +365,29 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "77f6d57bb49a",
-      "title_zh": "加拿大：C-39法案拟对联邦部门集体谈判进行重大改",
-      "summary_zh": "集体谈判权受限 · 职工选择权削弱 · 法律程序变更",
+      "title_zh": "加拿大：C-39法案提议联邦行业集体谈判重大改革",
+      "summary_zh": "集体谈判权受限 · 职工选择权增强 · 法案待议会通过",
       "relevance": 0.77
     },
     {
-      "title": "How to Prepare for Philadelphia’s New Employer Training Obligations for Security Officers While Enforcement Remains Postponed",
-      "url": "https://www.littler.com/news-analysis/asap/how-prepare-philadelphias-new-employer-training-obligations-security-officers",
-      "published_at": "2026-09-22T19:45:30+00:00",
+      "title": "Fewer Than 10% of U.S. Employers Feel Very Prepared for AI’s Impact on Labor Relations, Littler Survey Finds",
+      "url": "https://www.littler.com/press/press-release/fewer-10-us-employers-feel-very-prepared-ais-impact-labor-relations-littler",
+      "published_at": "2026-09-23T14:15:14+00:00",
       "source_id": "littler",
       "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "1c78005dfabd",
-      "title_zh": "如何为费城安保人员的新雇主培训义务做准备，尽管执法",
-      "summary_zh": "培训义务 · 执法推迟 · 准备工作",
+      "category": "案例、报告与趋势",
+      "id": "f4660bd51a04",
+      "title_zh": "美国企业不到10%感觉非常准备好应对AI对劳资关系",
+      "summary_zh": "AI影响劳资关系 · 企业准备不足 · 调查结果",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-24T00:00:00+00:00",
+      "published_at": "2026-09-25T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -387,7 +402,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-24T00:00:00+00:00",
+      "published_at": "2026-09-25T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -398,6 +413,21 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "High performers might resent lower-performing workers getting training over them",
+      "url": "https://www.hrdive.com/news/high-performers-might-resent-lower-performing-workers-getting-training-over/831613/",
+      "published_at": "2026-09-29T15:23:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "f6c9ecdc18fa",
+      "title_zh": "高绩效员工可能怨恨低绩效员工获得培训机会",
+      "summary_zh": "绩效差异 · 培训资源分配 · 感到不公平",
+      "relevance": 0.73
     },
     {
       "title": "EEOC seeks subpoena enforcement against Hyundai over alleged refusal to hire non-Koreans",
@@ -411,7 +441,7 @@
       "category": "政策与劳动合规",
       "id": "a2f1cb546235",
       "title_zh": "美国平等就业机会委员会寻求对现代汽车发出传票以调查",
-      "summary_zh": "调查现代汽车歧视行为 · 涉嫌拒绝雇佣非韩国人 · EEOC采取法律行动",
+      "summary_zh": "调查现代汽车歧视非韩国人 · 发出传票 · 违反平等就业法",
       "relevance": 0.73
     },
     {
@@ -425,8 +455,8 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "2a2ff415f97c",
-      "title_zh": "行政命令要求机构在H-1B裁决中考虑裁员",
-      "summary_zh": "考虑裁员 · H-1B裁决 · 机构执行",
+      "title_zh": "行政命令指示机构在H-1B裁决中考虑裁员",
+      "summary_zh": "考虑裁员 · H-1B裁决 · 机构指示",
       "relevance": 0.6
     },
     {
@@ -440,8 +470,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "c8778e2b0c3b",
-      "title_zh": "2026年英国工作权利变化：责任扩展至分包商、零工",
-      "summary_zh": "责任扩展 · 影响分包商 · 涉及零工",
+      "title_zh": "2026年英国工作权利变更：责任扩展至分包商、零工",
+      "summary_zh": "责任扩展至分包商 · 影响零工群体 · 涉及供应链",
       "relevance": 0.6
     },
     {
@@ -455,7 +485,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "fad8e22199bd",
-      "title_zh": "为何需要AI笔记记录者政策——及其应涵盖内容",
+      "title_zh": "为何你需要AI笔记记录政策——以及它应涵盖的内容",
       "summary_zh": "保护隐私 · 提升效率 · 明确责任",
       "relevance": 0.6
     },
@@ -471,8 +501,23 @@
       "category": "案例、报告与趋势",
       "id": "1cdd1c22fb14",
       "title_zh": "从办公室智能眼镜到AI驱动诉讼：科技对职场最新影响",
-      "summary_zh": "智能眼镜普及 · AI影响诉讼 · 职场技术变革",
+      "summary_zh": "智能眼镜普及 · AI影响诉讼 · 改变工作方式",
       "relevance": 0.6
+    },
+    {
+      "title": "If AI takes on junior-level work, how will CFOs develop talent?",
+      "url": "https://www.hrdive.com/news/if-ai-takes-junior-work-how-will-cfos-develop-senior-talent-brian-beaupre-blake-oliver-jeff-seibert/831618/",
+      "published_at": "2026-09-29T14:57:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "3fc45af78c08",
+      "title_zh": "如果AI承担初级工作，CFO如何培养人才？",
+      "summary_zh": "提升领导力 · 关注战略 · 培养高阶技能",
+      "relevance": 0.5
     },
     {
       "title": "Insurers say AI could add billions in health costs. Billing companies disagree.",
@@ -487,36 +532,6 @@
       "id": "06deabd15dea",
       "title_zh": "保险公司称AI或致健康成本数十亿美元，计费公司表示",
       "summary_zh": "AI或增健康成本 · 计费公司反对 · 数十亿美元",
-      "relevance": 0.5
-    },
-    {
-      "title": "Week in review: The bait-and-switch gap in recruiting",
-      "url": "https://www.hrdive.com/news/the-bait-and-switch-gap-in-recruiting/831458/",
-      "published_at": "2026-09-28T15:09:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "ec721152a374",
-      "title_zh": "本周回顾：招聘中的诱饵与切换差距",
-      "summary_zh": "警惕虚假承诺 · 影响招聘效果 · 增加管理成本",
-      "relevance": 0.5
-    },
-    {
-      "title": "What data says about the who, what, when, where and why of open enrollment education",
-      "url": "https://www.hrdive.com/spons/what-data-says-about-the-who-what-when-where-and-why-of-open-enrollment/831389/",
-      "published_at": "2026-09-28T09:00:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "792fa2211726",
-      "title_zh": "开放教育数据揭示参与主体、内容、时间、地点及原因",
-      "summary_zh": "参与主体 · 内容形式 · 原因分析",
       "relevance": 0.5
     },
     {
@@ -535,6 +550,21 @@
       "relevance": 0.5
     },
     {
+      "title": "Five steps: How HR can pass the ‘Octopus Test’ before agentic AI gets its tentacles into everything",
+      "url": "https://hrzone.com/five-steps-how-hr-can-pass-the-octopus-test-before-agentic-ai-gets-its-tentacles-into-everything/",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "a0358fb674d4",
+      "title_zh": "五步：人力资源如何通过“章鱼测试”在代理式AI全面",
+      "summary_zh": "提升HR效率 · 适应AI变革 · 掌握主动权",
+      "relevance": 0.5
+    },
+    {
       "title": "AI and HR: A new workplace bureaucracy perspective",
       "url": "https://hrzone.com/a-new-way-to-think-about-ai-and-hr-the-workplace-bureaucracy-perspective/",
       "published_at": "2026-09-28T07:00:00+00:00",
@@ -546,8 +576,23 @@
       "category": "案例、报告与趋势",
       "id": "cc44c1e95651",
       "title_zh": "人工智能与人力资源：新的职场官僚主义视角",
-      "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚问题",
+      "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚主义担忧",
       "relevance": 0.5
+    },
+    {
+      "title": "Puerto Rico Department of Labor Launches Desempleo Digital: Key Changes for Employers",
+      "url": "https://www.littler.com/news-analysis/asap/puerto-rico-department-labor-launches-desempleo-digital-key-changes-employers",
+      "published_at": "2026-09-29T16:06:54+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "081380c0d4c1",
+      "title_zh": "波多黎各劳工部推出Desempleo Digita",
+      "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主",
+      "relevance": 0.4
     },
     {
       "title": "HR Tech Stack Guide 2026, With Categories, Tools, and Examples",
@@ -565,63 +610,18 @@
       "relevance": 0.33
     },
     {
-      "title": "AIHOT 日报 · 2026-09-29 — Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元",
-      "url": "https://aihot.news/daily/2026-09-29",
-      "published_at": "2026-09-29T00:00:28+00:00",
+      "title": "AIHOT 日报 · 2026-09-30 — OpenAI 取消 GPT-6.1 发布计划，称安全性未达标",
+      "url": "https://aihot.news/daily/2026-09-30",
+      "published_at": "2026-09-30T00:00:34+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "813b9efaecd2",
-      "title_zh": "AIHOT 日报 · 2026-09-29 — Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元",
-      "summary_zh": "",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-28 — Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "url": "https://aihot.news/daily/2026-09-28",
-      "published_at": "2026-09-28T00:00:10+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "2d1f51b2ea16",
-      "title_zh": "AIHOT 日报 · 2026-09-28 — 作",
-      "summary_zh": "高管早知盗版违法 · 盗版书籍训练 · 新文件披露",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-27 — Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
-      "url": "https://aihot.news/daily/2026-09-27",
-      "published_at": "2026-09-27T00:00:01+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "db23ac0cae19",
-      "title_zh": "AIHOT日报·2026-09-27—Claude",
-      "summary_zh": "ClaudeOpus5.5登顶榜单·分数创新高·AI性能提升",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-26 — Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-      "url": "https://aihot.news/daily/2026-09-26",
-      "published_at": "2026-09-26T00:00:22+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "26a989d40723",
-      "title_zh": "AIHOT 日报 · 2026-09-26 — S",
-      "summary_zh": "更新极大 · 定位新OS · 提升效率",
+      "id": "5cbc84aed48f",
+      "title_zh": "AIHOT 日报 · 2026-09-30 — O",
+      "summary_zh": "取消GPT-6.1发布 · 安全性未达标 · OpenAI决策",
       "relevance": 0.2
     }
   ]
