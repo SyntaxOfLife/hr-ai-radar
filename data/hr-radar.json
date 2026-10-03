@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:08:21.216808+08:00",
+  "generated_at": "2026-10-03T12:51:26.734067+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,8 +24,38 @@
         "category": "政策与劳动合规",
         "id": "a6c96b545709",
         "title_zh": "共情疲劳削弱律师的领导力与咨询能力",
-        "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作精力",
+        "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作效能",
         "relevance": 0.85
+      },
+      {
+        "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
+        "url": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
+        "published_at": "2026-10-02T20:57:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "0317c2f84137",
+        "title_zh": "美国平等就业机会委员会起诉哈佛以获取数百份DEI相",
+        "summary_zh": "起诉哈佛获取文件 · 涉及DEI调查 · 目的为获取证据",
+        "relevance": 0.77
+      },
+      {
+        "title": "Two Unions Claim the Same Work – Why Employers Need to Know About Section 10(k) of the NLRA",
+        "url": "https://www.littler.com/news-analysis/asap/two-unions-claim-same-work-why-employers-need-know-about-section-10k-nlra",
+        "published_at": "2026-10-02T13:23:27+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "f2081269e32d",
+        "title_zh": "两家工会主张同一工作——雇主为何需了解NLRA第1",
+        "summary_zh": "工会主张同一工作 · 雇主需了解第10(k)条 · NLRA规定影响",
+        "relevance": 0.77
       },
       {
         "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
@@ -39,13 +69,13 @@
         "category": "政策与劳动合规",
         "id": "e36228dad779",
         "title_zh": "英国政府发布工会进入工作场所的权利细节",
-        "summary_zh": "进入权 · 争议解决 · 法律保障",
+        "summary_zh": "进入权 · 职场活动 · 法律保障",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-09-27T00:00:00+00:00",
+        "published_at": "2026-09-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -56,6 +86,21 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
+      },
+      {
+        "title": "EEOC takes aim at trans rights in investigations involving ‘biological’ pronouns, single-sex spaces",
+        "url": "https://www.hrdive.com/news/eeoc-shifts-on-trans-rights-sues-for-single-sex-bathroom-restriction-and/832038/",
+        "published_at": "2026-10-02T20:57:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "9734817bb0ef",
+        "title_zh": "美国平等就业机会委员会针对涉及“生理性别”代词和单",
+        "summary_zh": "调查关注生理性别代词 · 限制跨性别者使用单性别空间 · EEOC介入保护权益",
+        "relevance": 0.73
       },
       {
         "title": "Puerto Rico Department of Labor Launches Desempleo Digital: Key Changes for Employers",
@@ -69,7 +114,7 @@
         "category": "政策与劳动合规",
         "id": "081380c0d4c1",
         "title_zh": "波多黎各劳工部推出Desempleo Digita",
-        "summary_zh": "线上申领失业金 · 新系统操作流程 · 影响雇主合规",
+        "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主操作",
         "relevance": 0.4
       },
       {
@@ -88,12 +133,28 @@
         "relevance": 0.2
       }
     ],
-    "AI 招聘与招聘工具": [],
+    "AI 招聘与招聘工具": [
+      {
+        "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
+        "url": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
+        "published_at": "2026-10-02T15:07:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "AI 招聘与招聘工具",
+        "id": "b014f4988471",
+        "title_zh": "社交化：领英更新其AI驱动的招聘机器人",
+        "summary_zh": "AI驱动 · 招聘机器人 · 更新",
+        "relevance": 0.73
+      }
+    ],
     "组织与人才管理": [
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-09-27T00:00:00+00:00",
+        "published_at": "2026-09-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -117,29 +178,43 @@
         "category": "组织与人才管理",
         "id": "2a2ff415f97c",
         "title_zh": "行政命令指示机构在H-1B裁决中考虑裁员",
-        "summary_zh": "H-1B裁决考虑裁员 · 机构需执行 · 影响移民政策",
+        "summary_zh": "考虑裁员 · H-1B裁决 · 机构指示",
         "relevance": 0.6
-      }
-    ],
-    "学习发展与技能转型": [],
-    "HR 产品与数字化": [
+      },
       {
-        "title": "HR Tech Stack Guide 2026, With Categories, Tools, and Examples",
-        "url": "https://www.aihr.com/blog/hr-tech-stack/",
-        "published_at": "2026-09-25T12:48:15+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
+        "title": "Leaders need scenario planning to survive",
+        "url": "https://www.chieflearningofficer.com/2026/10/02/leaders-need-scenario-planning-to-survive/",
+        "published_at": "2026-10-02T06:00:00+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
-        "category": "HR 产品与数字化",
-        "id": "b63a19cbccc1",
-        "title_zh": "HR技术栈指南2026，含类别、工具和案例",
-        "summary_zh": "技术整合 · 工具推荐 · 实例分析",
+        "category": "组织与人才管理",
+        "id": "d7748494b7e0",
+        "title_zh": "领导力需要情景规划以求生存",
+        "summary_zh": "情景规划是生存关键 · 预见未来风险 · 提升决策能力",
         "relevance": 0.33
       }
     ],
+    "学习发展与技能转型": [],
+    "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "California Amends its WARN Act (Again)",
+        "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
+        "published_at": "2026-10-02T13:15:38+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "231a00999506",
+        "title_zh": "加州再次修订其WARN法案",
+        "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
+        "relevance": 0.6
+      },
       {
         "title": "AI might be making women sound less sophisticated",
         "url": "https://www.hrdive.com/news/ai-might-be-making-women-sound-less-sophisticated/831973/",
@@ -151,8 +226,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "b06d83785a57",
-        "title_zh": "AI可能让女性听起来不够成熟",
-        "summary_zh": "AI影响女性语言表达 · 降低女性语言复杂性 · 削弱女性声音权威性",
+        "title_zh": "AI可能让女性的声音听起来不够成熟",
+        "summary_zh": "AI影响女性声音 · 降低女性声音质感 · 带来沟通障碍",
         "relevance": 0.5
       },
       {
@@ -167,37 +242,7 @@
         "category": "案例、报告与趋势",
         "id": "60ad70f3503d",
         "title_zh": "加州密集签署法案修订工人AI保护措施",
-        "summary_zh": "修订AI保护法规 · 加强工人权益 · 推动立法进程",
-        "relevance": 0.5
-      },
-      {
-        "title": "Esker folds AI into employee cost analysis",
-        "url": "https://www.hrdive.com/news/esker-folds-ai-token-costs-employee-expense-planning-accounting/831737/",
-        "published_at": "2026-10-01T15:04:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "ea2f2c6cf668",
-        "title_zh": "埃斯克将AI融入员工成本分析",
-        "summary_zh": "AI助力 · 优化分析 · 提升效率",
-        "relevance": 0.5
-      },
-      {
-        "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
-        "url": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
-        "published_at": "2026-09-30T20:19:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "480ef5ccdfcf",
-        "title_zh": "同性恋原告未能证明雇主生育福利违反最高法院测试标准",
-        "summary_zh": "未能证明歧视 · 最高法院测试 · 生育福利",
+        "summary_zh": "修订AI保护法规 · 关注工人权益 · 加强监管",
         "relevance": 0.5
       },
       {
@@ -212,7 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "2d447f1e3d7b",
         "title_zh": "人工智能如何影响职场及如何构建AI文化",
-        "summary_zh": "影响工作方式 · 提升效率 · 需要文化建设",
+        "summary_zh": "影响工作效率 · 提升决策质量 · 需要文化建设",
         "relevance": 0.5
       },
       {
@@ -226,7 +271,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "d227671a6572",
-        "title_zh": "职位描述说谎：如何为AI重新设计角色",
+        "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
         "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
         "relevance": 0.5
       },
@@ -256,8 +301,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "cc44c1e95651",
-        "title_zh": "人工智能与人力资源：新的职场官僚主义视角",
-        "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚主义担忧",
+        "title_zh": "人工智能与人力资源：新的工作场所官僚主义视角",
+        "summary_zh": "AI改变HR工作 · 提升效率 · 引发新挑战",
         "relevance": 0.5
       },
       {
@@ -272,53 +317,8 @@
         "category": "案例、报告与趋势",
         "id": "ca3abfe665ab",
         "title_zh": "学习不是限制，能力才是",
-        "summary_zh": "提升能力 · 限制发展 · 需要突破",
+        "summary_zh": "学习非限制 · 能力是关键 · 提升能力",
         "relevance": 0.5
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-02 — Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-        "url": "https://aihot.news/daily/2026-10-02",
-        "published_at": "2026-10-02T00:00:19+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "8ad4984b1883",
-        "title_zh": "AIHOT 日报 · 2026-10-02 — C",
-        "summary_zh": "可用TypeScript改写提示词 · 替换内置功能 · 增强交互性",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-01 — Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-        "url": "https://aihot.news/daily/2026-10-01",
-        "published_at": "2026-10-01T10:29:11+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "a81b1e3156a3",
-        "title_zh": "AIHOT 日报 · 2026-10-01 — G",
-        "summary_zh": "发布Gemini 4 Argon模型 · 面向可信网络防御者 · 先行开放测试",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-09-30 — OpenAI 取消 GPT-6.1 发布计划，称安全性未达标",
-        "url": "https://aihot.news/daily/2026-09-30",
-        "published_at": "2026-09-30T00:00:34+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "5cbc84aed48f",
-        "title_zh": "AIHOT 日报 · 2026-09-30 — O",
-        "summary_zh": "取消GPT-6.1发布 · 安全性未达标 · OpenAI决策",
-        "relevance": 0.2
       }
     ]
   },
@@ -335,8 +335,38 @@
       "category": "政策与劳动合规",
       "id": "a6c96b545709",
       "title_zh": "共情疲劳削弱律师的领导力与咨询能力",
-      "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作精力",
+      "summary_zh": "共情疲劳影响领导力 · 降低咨询能力 · 减少工作效能",
       "relevance": 0.85
+    },
+    {
+      "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
+      "url": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
+      "published_at": "2026-10-02T20:57:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "0317c2f84137",
+      "title_zh": "美国平等就业机会委员会起诉哈佛以获取数百份DEI相",
+      "summary_zh": "起诉哈佛获取文件 · 涉及DEI调查 · 目的为获取证据",
+      "relevance": 0.77
+    },
+    {
+      "title": "Two Unions Claim the Same Work – Why Employers Need to Know About Section 10(k) of the NLRA",
+      "url": "https://www.littler.com/news-analysis/asap/two-unions-claim-same-work-why-employers-need-know-about-section-10k-nlra",
+      "published_at": "2026-10-02T13:23:27+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "f2081269e32d",
+      "title_zh": "两家工会主张同一工作——雇主为何需了解NLRA第1",
+      "summary_zh": "工会主张同一工作 · 雇主需了解第10(k)条 · NLRA规定影响",
+      "relevance": 0.77
     },
     {
       "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
@@ -350,13 +380,13 @@
       "category": "政策与劳动合规",
       "id": "e36228dad779",
       "title_zh": "英国政府发布工会进入工作场所的权利细节",
-      "summary_zh": "进入权 · 争议解决 · 法律保障",
+      "summary_zh": "进入权 · 职场活动 · 法律保障",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-09-27T00:00:00+00:00",
+      "published_at": "2026-09-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-09-27T00:00:00+00:00",
+      "published_at": "2026-09-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -382,6 +412,51 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "EEOC takes aim at trans rights in investigations involving ‘biological’ pronouns, single-sex spaces",
+      "url": "https://www.hrdive.com/news/eeoc-shifts-on-trans-rights-sues-for-single-sex-bathroom-restriction-and/832038/",
+      "published_at": "2026-10-02T20:57:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "9734817bb0ef",
+      "title_zh": "美国平等就业机会委员会针对涉及“生理性别”代词和单",
+      "summary_zh": "调查关注生理性别代词 · 限制跨性别者使用单性别空间 · EEOC介入保护权益",
+      "relevance": 0.73
+    },
+    {
+      "title": "Sociable: LinkedIn updates its AI-powered hiring bot",
+      "url": "https://www.hrdive.com/news/sociable-linkedin-updates-its-ai-powered-hiring-bot/831873/",
+      "published_at": "2026-10-02T15:07:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "AI 招聘与招聘工具",
+      "id": "b014f4988471",
+      "title_zh": "社交化：领英更新其AI驱动的招聘机器人",
+      "summary_zh": "AI驱动 · 招聘机器人 · 更新",
+      "relevance": 0.73
+    },
+    {
+      "title": "California Amends its WARN Act (Again)",
+      "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
+      "published_at": "2026-10-02T13:15:38+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "231a00999506",
+      "title_zh": "加州再次修订其WARN法案",
+      "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
+      "relevance": 0.6
     },
     {
       "title": "Executive Order Directs Agencies to Consider Layoffs in H-1B Adjudication",
@@ -395,7 +470,7 @@
       "category": "组织与人才管理",
       "id": "2a2ff415f97c",
       "title_zh": "行政命令指示机构在H-1B裁决中考虑裁员",
-      "summary_zh": "H-1B裁决考虑裁员 · 机构需执行 · 影响移民政策",
+      "summary_zh": "考虑裁员 · H-1B裁决 · 机构指示",
       "relevance": 0.6
     },
     {
@@ -409,8 +484,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "b06d83785a57",
-      "title_zh": "AI可能让女性听起来不够成熟",
-      "summary_zh": "AI影响女性语言表达 · 降低女性语言复杂性 · 削弱女性声音权威性",
+      "title_zh": "AI可能让女性的声音听起来不够成熟",
+      "summary_zh": "AI影响女性声音 · 降低女性声音质感 · 带来沟通障碍",
       "relevance": 0.5
     },
     {
@@ -425,37 +500,7 @@
       "category": "案例、报告与趋势",
       "id": "60ad70f3503d",
       "title_zh": "加州密集签署法案修订工人AI保护措施",
-      "summary_zh": "修订AI保护法规 · 加强工人权益 · 推动立法进程",
-      "relevance": 0.5
-    },
-    {
-      "title": "Esker folds AI into employee cost analysis",
-      "url": "https://www.hrdive.com/news/esker-folds-ai-token-costs-employee-expense-planning-accounting/831737/",
-      "published_at": "2026-10-01T15:04:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "ea2f2c6cf668",
-      "title_zh": "埃斯克将AI融入员工成本分析",
-      "summary_zh": "AI助力 · 优化分析 · 提升效率",
-      "relevance": 0.5
-    },
-    {
-      "title": "Lesbian plaintiff fails to show employer’s fertility benefits were biased under SCOTUS test",
-      "url": "https://www.hrdive.com/news/lesbian-plaintiff-fertility-benefits-biased-scotus-bostock-test/831821/",
-      "published_at": "2026-09-30T20:19:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "480ef5ccdfcf",
-      "title_zh": "同性恋原告未能证明雇主生育福利违反最高法院测试标准",
-      "summary_zh": "未能证明歧视 · 最高法院测试 · 生育福利",
+      "summary_zh": "修订AI保护法规 · 关注工人权益 · 加强监管",
       "relevance": 0.5
     },
     {
@@ -470,7 +515,7 @@
       "category": "案例、报告与趋势",
       "id": "2d447f1e3d7b",
       "title_zh": "人工智能如何影响职场及如何构建AI文化",
-      "summary_zh": "影响工作方式 · 提升效率 · 需要文化建设",
+      "summary_zh": "影响工作效率 · 提升决策质量 · 需要文化建设",
       "relevance": 0.5
     },
     {
@@ -484,7 +529,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "d227671a6572",
-      "title_zh": "职位描述说谎：如何为AI重新设计角色",
+      "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
       "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
       "relevance": 0.5
     },
@@ -514,8 +559,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "cc44c1e95651",
-      "title_zh": "人工智能与人力资源：新的职场官僚主义视角",
-      "summary_zh": "AI提升HR效率 · 改变管理方式 · 引发官僚主义担忧",
+      "title_zh": "人工智能与人力资源：新的工作场所官僚主义视角",
+      "summary_zh": "AI改变HR工作 · 提升效率 · 引发新挑战",
       "relevance": 0.5
     },
     {
@@ -530,7 +575,7 @@
       "category": "案例、报告与趋势",
       "id": "ca3abfe665ab",
       "title_zh": "学习不是限制，能力才是",
-      "summary_zh": "提升能力 · 限制发展 · 需要突破",
+      "summary_zh": "学习非限制 · 能力是关键 · 提升能力",
       "relevance": 0.5
     },
     {
@@ -545,22 +590,22 @@
       "category": "政策与劳动合规",
       "id": "081380c0d4c1",
       "title_zh": "波多黎各劳工部推出Desempleo Digita",
-      "summary_zh": "线上申领失业金 · 新系统操作流程 · 影响雇主合规",
+      "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主操作",
       "relevance": 0.4
     },
     {
-      "title": "HR Tech Stack Guide 2026, With Categories, Tools, and Examples",
-      "url": "https://www.aihr.com/blog/hr-tech-stack/",
-      "published_at": "2026-09-25T12:48:15+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
+      "title": "Leaders need scenario planning to survive",
+      "url": "https://www.chieflearningofficer.com/2026/10/02/leaders-need-scenario-planning-to-survive/",
+      "published_at": "2026-10-02T06:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "HR 产品与数字化",
-      "id": "b63a19cbccc1",
-      "title_zh": "HR技术栈指南2026，含类别、工具和案例",
-      "summary_zh": "技术整合 · 工具推荐 · 实例分析",
+      "category": "组织与人才管理",
+      "id": "d7748494b7e0",
+      "title_zh": "领导力需要情景规划以求生存",
+      "summary_zh": "情景规划是生存关键 · 预见未来风险 · 提升决策能力",
       "relevance": 0.33
     },
     {
@@ -576,51 +621,6 @@
       "id": "2058c53a1e27",
       "title_zh": "Ban on Suboxone use for ‘safety-sensitive’ roles draws EEOC lawsuit",
       "summary_zh": "",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-02 — Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
-      "url": "https://aihot.news/daily/2026-10-02",
-      "published_at": "2026-10-02T00:00:19+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "8ad4984b1883",
-      "title_zh": "AIHOT 日报 · 2026-10-02 — C",
-      "summary_zh": "可用TypeScript改写提示词 · 替换内置功能 · 增强交互性",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-01 — Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-      "url": "https://aihot.news/daily/2026-10-01",
-      "published_at": "2026-10-01T10:29:11+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "a81b1e3156a3",
-      "title_zh": "AIHOT 日报 · 2026-10-01 — G",
-      "summary_zh": "发布Gemini 4 Argon模型 · 面向可信网络防御者 · 先行开放测试",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-09-30 — OpenAI 取消 GPT-6.1 发布计划，称安全性未达标",
-      "url": "https://aihot.news/daily/2026-09-30",
-      "published_at": "2026-09-30T00:00:34+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "5cbc84aed48f",
-      "title_zh": "AIHOT 日报 · 2026-09-30 — O",
-      "summary_zh": "取消GPT-6.1发布 · 安全性未达标 · OpenAI决策",
       "relevance": 0.2
     }
   ]
