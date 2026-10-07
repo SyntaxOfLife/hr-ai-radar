@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:53:54.700996+08:00",
+  "generated_at": "2026-10-07T13:26:11.853362+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -13,21 +13,6 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
-        "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
-        "url": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
-        "published_at": "2026-10-02T20:57:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "0317c2f84137",
-        "title_zh": "美国平等就业机会委员会起诉哈佛以获取数百份与DEI",
-        "summary_zh": "起诉哈佛 · 获取文件 · DEI调查",
-        "relevance": 0.77
-      },
-      {
         "title": "Duty to Inform Workers in the UK of the Right to Join a Trade Union: Details Published But Timing Delayed",
         "url": "https://www.littler.com/news-analysis/asap/duty-inform-workers-uk-right-join-trade-union-details-published-timing-delayed",
         "published_at": "2026-10-05T19:22:49+00:00",
@@ -38,7 +23,7 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "0782372b1f18",
-        "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
+        "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间推迟",
         "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
         "relevance": 0.77
       },
@@ -58,24 +43,9 @@
         "relevance": 0.77
       },
       {
-        "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
-        "url": "https://www.littler.com/news-analysis/asap/uk-government-publishes-details-trade-union-rights-access-workplaces",
-        "published_at": "2026-09-29T18:51:59+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "e36228dad779",
-        "title_zh": "英国政府发布工会进入工作场所的权利细节",
-        "summary_zh": "工会有权进入工作场所 · 保障员工权益 · 明确访问规则",
-        "relevance": 0.77
-      },
-      {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-01T00:00:00+00:00",
+        "published_at": "2026-10-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -86,21 +56,6 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
-      },
-      {
-        "title": "Puerto Rico Department of Labor Launches Desempleo Digital: Key Changes for Employers",
-        "url": "https://www.littler.com/news-analysis/asap/puerto-rico-department-labor-launches-desempleo-digital-key-changes-employers",
-        "published_at": "2026-09-29T16:06:54+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "081380c0d4c1",
-        "title_zh": "波多黎各劳工部推出Desempleo Digita",
-        "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主操作",
-        "relevance": 0.4
       },
       {
         "title": "Transgender former EEOC employee may proceed with bias lawsuit, judge says",
@@ -118,28 +73,12 @@
         "relevance": 0.2
       }
     ],
-    "AI 招聘与招聘工具": [
-      {
-        "title": "Sirius XM beats allegations of AI-fueled racial bias",
-        "url": "https://www.hrdive.com/news/sirius-xm-beats-allegations-of-ai-fueled-racial-bias/832115/",
-        "published_at": "2026-10-05T14:02:17+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "AI 招聘与招聘工具",
-        "id": "66e551c58e71",
-        "title_zh": "Sirius XM beats allegations of AI-fueled racial bias",
-        "summary_zh": "",
-        "relevance": 0.73
-      }
-    ],
+    "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-01T00:00:00+00:00",
+        "published_at": "2026-10-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -152,18 +91,48 @@
         "id": "3c2c2dfc96b7"
       },
       {
-        "title": "The future of workforce wellbeing: Strategies enterprise employers are prioritizing in 2026",
-        "url": "https://www.hrdive.com/spons/the-future-of-workforce-wellbeing-strategies-enterprise-employers-are-prio/831724/",
-        "published_at": "2026-10-05T09:00:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "Employee Xperience Expo 2026 NORTH: Leadership, wellbeing and inclusion take centre stage",
+        "url": "https://hrzone.com/employee-xperience-expo-2026-north-leadership-wellbeing-and-inclusion-take-centre-stage/",
+        "published_at": "2026-10-06T07:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "组织与人才管理",
-        "id": "390e528bacc9",
-        "title_zh": "员工福祉的未来：企业雇主在2026年优先采取的策略",
-        "summary_zh": "关注员工健康 · 提升工作生活平衡 · 推广心理健康计划",
+        "id": "d40c308334f8",
+        "title_zh": "员工体验博览会2026北：领导力、福祉和包容性成为",
+        "summary_zh": "领导力提升 · 福祉关注 · 包容性加强",
+        "relevance": 0.5
+      },
+      {
+        "title": "The leadership readiness gap: Why succession planning isn’t enough",
+        "url": "https://www.chieflearningofficer.com/2026/10/06/the-leadership-readiness-gap-why-succession-planning-isnt-enough/",
+        "published_at": "2026-10-06T06:00:00+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "7601185b6a8c",
+        "title_zh": "领导力准备差距：继任计划为何不足",
+        "summary_zh": "人才断层风险 · 继任计划缺陷 · 发展需求紧迫",
+        "relevance": 0.5
+      },
+      {
+        "title": "The fragmented leader is finished: A new path to whole leadership",
+        "url": "https://hrzone.com/the-fragmented-leader-is-finished-a-new-path-to-whole-leadership/",
+        "published_at": "2026-10-06T07:05:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "db3c7494cd48",
+        "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
+        "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
         "relevance": 0.33
       },
       {
@@ -177,12 +146,27 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "d7748494b7e0",
-        "title_zh": "领导需进行情景规划以求生存",
-        "summary_zh": "情景规划很重要 · 提升生存能力 · 应对不确定性",
+        "title_zh": "领导力需要情景规划以求生存",
+        "summary_zh": "情景规划是生存关键 · 提升决策能力 · 面对不确定性",
         "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
+      {
+        "title": "California Expands and Modernizes Workplace Violence Restraining Order Protections",
+        "url": "https://www.littler.com/news-analysis/asap/california-expands-and-modernizes-workplace-violence-restraining-order",
+        "published_at": "2026-10-06T18:20:32+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "7a6a2b72973b",
+        "title_zh": "加州扩大并现代化职场暴力禁令保护",
+        "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
+        "relevance": 0.77
+      },
       {
         "title": "Driving culture change: What corporate mobility can teach L&D leaders",
         "url": "https://www.chieflearningofficer.com/2026/10/05/driving-culture-change-what-corporate-mobility-can-teach-ld-leaders/",
@@ -194,8 +178,8 @@
         "is_ai_hr": false,
         "category": "学习发展与技能转型",
         "id": "67bb97a68f6b",
-        "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么启",
-        "summary_zh": "要点1 · 企业流动性促进文化变革 · 要点2 · L&D需借鉴流动性经验 · 要点3 · 提升员工流动性与文化契合度",
+        "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么",
+        "summary_zh": "要点1 · 要点2 · 要点3",
         "relevance": 0.5
       }
     ],
@@ -212,9 +196,39 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "231a00999506",
-        "title_zh": "加州再次修订其WARN法案",
-        "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
+        "title_zh": "加州再次修订其《工资和遣散通知法》",
+        "summary_zh": "修订警告法 · 影响雇主 · 遣散通知",
         "relevance": 0.6
+      },
+      {
+        "title": "SHRM service dog trial begins — with plaintiff’s dog by her side",
+        "url": "https://www.hrdive.com/news/shrm-service-dog-trial-begins-disability-discrimination/832271/",
+        "published_at": "2026-10-06T20:31:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "0fe955a5db88",
+        "title_zh": "SHRM服务犬试验开始——原告的狗陪伴左右",
+        "summary_zh": "试验启动 · 原告带狗 · 评估服务犬影响",
+        "relevance": 0.5
+      },
+      {
+        "title": "Executives may use AI more than their workers do",
+        "url": "https://www.hrdive.com/news/executives-may-use-ai-more-than-their-workers-do/832141/",
+        "published_at": "2026-10-06T15:13:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "b7460b29dbbf",
+        "title_zh": "高管可能比员工更多地使用AI",
+        "summary_zh": "高管使用AI多 · 提升效率 · 改变工作方式",
+        "relevance": 0.5
       },
       {
         "title": "Job descriptions lie: How to rethink role design for AI",
@@ -227,23 +241,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "d227671a6572",
-        "title_zh": "职位描述说谎：如何为AI重新设计角色",
-        "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
-        "relevance": 0.5
-      },
-      {
-        "title": "Five steps: How HR can pass the ‘Octopus Test’ before agentic AI gets its tentacles into everything",
-        "url": "https://hrzone.com/five-steps-how-hr-can-pass-the-octopus-test-before-agentic-ai-gets-its-tentacles-into-everything/",
-        "published_at": "2026-09-29T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "a0358fb674d4",
-        "title_zh": "五步：人力资源如何通过“章鱼测试”在自主AI全面入",
-        "summary_zh": "自主AI挑战HR · 提升HR能力 · 主动应对变革",
+        "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
+        "summary_zh": "重新定义工作职责 · 适应AI需求 · 关注技能提升",
         "relevance": 0.5
       },
       {
@@ -277,6 +276,21 @@
         "relevance": 0.2
       },
       {
+        "title": "AIHOT 日报 · 2026-10-07 — Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
+        "url": "https://aihot.news/daily/2026-10-07",
+        "published_at": "2026-10-07T00:00:29+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "aa53d60c3b02",
+        "title_zh": "AIHOT 日报 · 2026-10-07 — M",
+        "summary_zh": "Mistral发布新模型 · 评测称最智能 · 美中之外领先",
+        "relevance": 0.2
+      },
+      {
         "title": "AIHOT 日报 · 2026-10-06 — SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
         "url": "https://aihot.news/daily/2026-10-06",
         "published_at": "2026-10-06T00:00:34+00:00",
@@ -303,40 +317,25 @@
         "category": "案例、报告与趋势",
         "id": "b1c37eec99f1",
         "title_zh": "AIHOT 日报 · 2026-10-05 — 今",
-        "summary_zh": "无重大事件 · 平静度日 · 无新动态",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-04 — OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-        "url": "https://aihot.news/daily/2026-10-04",
-        "published_at": "2026-10-04T00:00:24+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "cb7b4bd1c08b",
-        "title_zh": "AIHOT 日报 · 2026-10-04 — O",
-        "summary_zh": "利用漏洞入侵 · 内部研究模型 · EDA 机器事件",
+        "summary_zh": "无重大事件 · 平静一日 · 无新动态",
         "relevance": 0.2
       }
     ]
   },
   "all_items": [
     {
-      "title": "EEOC sues Harvard to obtain hundreds of documents in DEI-related investigation",
-      "url": "https://www.hrdive.com/news/eeoc-sues-harvard-dei-investigation-subpoena/832037/",
-      "published_at": "2026-10-02T20:57:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "California Expands and Modernizes Workplace Violence Restraining Order Protections",
+      "url": "https://www.littler.com/news-analysis/asap/california-expands-and-modernizes-workplace-violence-restraining-order",
+      "published_at": "2026-10-06T18:20:32+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "0317c2f84137",
-      "title_zh": "美国平等就业机会委员会起诉哈佛以获取数百份与DEI",
-      "summary_zh": "起诉哈佛 · 获取文件 · DEI调查",
+      "category": "学习发展与技能转型",
+      "id": "7a6a2b72973b",
+      "title_zh": "加州扩大并现代化职场暴力禁令保护",
+      "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
       "relevance": 0.77
     },
     {
@@ -350,7 +349,7 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "0782372b1f18",
-      "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
+      "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间推迟",
       "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
       "relevance": 0.77
     },
@@ -370,24 +369,9 @@
       "relevance": 0.77
     },
     {
-      "title": "UK Government Publishes Details of Trade Union Rights of Access to Workplaces",
-      "url": "https://www.littler.com/news-analysis/asap/uk-government-publishes-details-trade-union-rights-access-workplaces",
-      "published_at": "2026-09-29T18:51:59+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "e36228dad779",
-      "title_zh": "英国政府发布工会进入工作场所的权利细节",
-      "summary_zh": "工会有权进入工作场所 · 保障员工权益 · 明确访问规则",
-      "relevance": 0.77
-    },
-    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-01T00:00:00+00:00",
+      "published_at": "2026-10-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -402,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-01T00:00:00+00:00",
+      "published_at": "2026-10-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -415,21 +399,6 @@
       "id": "c79ea307e6b8"
     },
     {
-      "title": "Sirius XM beats allegations of AI-fueled racial bias",
-      "url": "https://www.hrdive.com/news/sirius-xm-beats-allegations-of-ai-fueled-racial-bias/832115/",
-      "published_at": "2026-10-05T14:02:17+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "AI 招聘与招聘工具",
-      "id": "66e551c58e71",
-      "title_zh": "Sirius XM beats allegations of AI-fueled racial bias",
-      "summary_zh": "",
-      "relevance": 0.73
-    },
-    {
       "title": "California Amends its WARN Act (Again)",
       "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
       "published_at": "2026-10-02T13:15:38+00:00",
@@ -440,9 +409,54 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "231a00999506",
-      "title_zh": "加州再次修订其WARN法案",
-      "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
+      "title_zh": "加州再次修订其《工资和遣散通知法》",
+      "summary_zh": "修订警告法 · 影响雇主 · 遣散通知",
       "relevance": 0.6
+    },
+    {
+      "title": "SHRM service dog trial begins — with plaintiff’s dog by her side",
+      "url": "https://www.hrdive.com/news/shrm-service-dog-trial-begins-disability-discrimination/832271/",
+      "published_at": "2026-10-06T20:31:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "0fe955a5db88",
+      "title_zh": "SHRM服务犬试验开始——原告的狗陪伴左右",
+      "summary_zh": "试验启动 · 原告带狗 · 评估服务犬影响",
+      "relevance": 0.5
+    },
+    {
+      "title": "Executives may use AI more than their workers do",
+      "url": "https://www.hrdive.com/news/executives-may-use-ai-more-than-their-workers-do/832141/",
+      "published_at": "2026-10-06T15:13:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "b7460b29dbbf",
+      "title_zh": "高管可能比员工更多地使用AI",
+      "summary_zh": "高管使用AI多 · 提升效率 · 改变工作方式",
+      "relevance": 0.5
+    },
+    {
+      "title": "Employee Xperience Expo 2026 NORTH: Leadership, wellbeing and inclusion take centre stage",
+      "url": "https://hrzone.com/employee-xperience-expo-2026-north-leadership-wellbeing-and-inclusion-take-centre-stage/",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "d40c308334f8",
+      "title_zh": "员工体验博览会2026北：领导力、福祉和包容性成为",
+      "summary_zh": "领导力提升 · 福祉关注 · 包容性加强",
+      "relevance": 0.5
     },
     {
       "title": "Job descriptions lie: How to rethink role design for AI",
@@ -455,23 +469,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "d227671a6572",
-      "title_zh": "职位描述说谎：如何为AI重新设计角色",
-      "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
+      "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
+      "summary_zh": "重新定义工作职责 · 适应AI需求 · 关注技能提升",
       "relevance": 0.5
     },
     {
-      "title": "Five steps: How HR can pass the ‘Octopus Test’ before agentic AI gets its tentacles into everything",
-      "url": "https://hrzone.com/five-steps-how-hr-can-pass-the-octopus-test-before-agentic-ai-gets-its-tentacles-into-everything/",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
+      "title": "The leadership readiness gap: Why succession planning isn’t enough",
+      "url": "https://www.chieflearningofficer.com/2026/10/06/the-leadership-readiness-gap-why-succession-planning-isnt-enough/",
+      "published_at": "2026-10-06T06:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "a0358fb674d4",
-      "title_zh": "五步：人力资源如何通过“章鱼测试”在自主AI全面入",
-      "summary_zh": "自主AI挑战HR · 提升HR能力 · 主动应对变革",
+      "category": "组织与人才管理",
+      "id": "7601185b6a8c",
+      "title_zh": "领导力准备差距：继任计划为何不足",
+      "summary_zh": "人才断层风险 · 继任计划缺陷 · 发展需求紧迫",
       "relevance": 0.5
     },
     {
@@ -485,8 +499,8 @@
       "is_ai_hr": false,
       "category": "学习发展与技能转型",
       "id": "67bb97a68f6b",
-      "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么启",
-      "summary_zh": "要点1 · 企业流动性促进文化变革 · 要点2 · L&D需借鉴流动性经验 · 要点3 · 提升员工流动性与文化契合度",
+      "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么",
+      "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.5
     },
     {
@@ -505,33 +519,18 @@
       "relevance": 0.5
     },
     {
-      "title": "Puerto Rico Department of Labor Launches Desempleo Digital: Key Changes for Employers",
-      "url": "https://www.littler.com/news-analysis/asap/puerto-rico-department-labor-launches-desempleo-digital-key-changes-employers",
-      "published_at": "2026-09-29T16:06:54+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "081380c0d4c1",
-      "title_zh": "波多黎各劳工部推出Desempleo Digita",
-      "summary_zh": "线上申领失业金 · 政策调整 · 影响雇主操作",
-      "relevance": 0.4
-    },
-    {
-      "title": "The future of workforce wellbeing: Strategies enterprise employers are prioritizing in 2026",
-      "url": "https://www.hrdive.com/spons/the-future-of-workforce-wellbeing-strategies-enterprise-employers-are-prio/831724/",
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "The fragmented leader is finished: A new path to whole leadership",
+      "url": "https://hrzone.com/the-fragmented-leader-is-finished-a-new-path-to-whole-leadership/",
+      "published_at": "2026-10-06T07:05:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "组织与人才管理",
-      "id": "390e528bacc9",
-      "title_zh": "员工福祉的未来：企业雇主在2026年优先采取的策略",
-      "summary_zh": "关注员工健康 · 提升工作生活平衡 · 推广心理健康计划",
+      "id": "db3c7494cd48",
+      "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
+      "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
       "relevance": 0.33
     },
     {
@@ -545,8 +544,8 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "d7748494b7e0",
-      "title_zh": "领导需进行情景规划以求生存",
-      "summary_zh": "情景规划很重要 · 提升生存能力 · 应对不确定性",
+      "title_zh": "领导力需要情景规划以求生存",
+      "summary_zh": "情景规划是生存关键 · 提升决策能力 · 面对不确定性",
       "relevance": 0.33
     },
     {
@@ -580,6 +579,21 @@
       "relevance": 0.2
     },
     {
+      "title": "AIHOT 日报 · 2026-10-07 — Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
+      "url": "https://aihot.news/daily/2026-10-07",
+      "published_at": "2026-10-07T00:00:29+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "aa53d60c3b02",
+      "title_zh": "AIHOT 日报 · 2026-10-07 — M",
+      "summary_zh": "Mistral发布新模型 · 评测称最智能 · 美中之外领先",
+      "relevance": 0.2
+    },
+    {
       "title": "AIHOT 日报 · 2026-10-06 — SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
       "url": "https://aihot.news/daily/2026-10-06",
       "published_at": "2026-10-06T00:00:34+00:00",
@@ -606,22 +620,7 @@
       "category": "案例、报告与趋势",
       "id": "b1c37eec99f1",
       "title_zh": "AIHOT 日报 · 2026-10-05 — 今",
-      "summary_zh": "无重大事件 · 平静度日 · 无新动态",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-04 — OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-      "url": "https://aihot.news/daily/2026-10-04",
-      "published_at": "2026-10-04T00:00:24+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "cb7b4bd1c08b",
-      "title_zh": "AIHOT 日报 · 2026-10-04 — O",
-      "summary_zh": "利用漏洞入侵 · 内部研究模型 · EDA 机器事件",
+      "summary_zh": "无重大事件 · 平静一日 · 无新动态",
       "relevance": 0.2
     }
   ]
