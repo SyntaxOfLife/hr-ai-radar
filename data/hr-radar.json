@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:26:11.853362+08:00",
+  "generated_at": "2026-10-08T13:35:29.086350+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -23,8 +23,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "0782372b1f18",
-        "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间推迟",
-        "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
+        "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间延迟",
+        "summary_zh": "通知员工权利 · 工会加入自由 · 细节延迟公布",
         "relevance": 0.77
       },
       {
@@ -39,13 +39,13 @@
         "category": "政策与劳动合规",
         "id": "f2081269e32d",
         "title_zh": "两家工会主张同一工作——雇主为何需了解NLRA第1",
-        "summary_zh": "工会主张同一工作 · 雇主需了解第10(k)条 · NLRA规定影响",
+        "summary_zh": "工会主张同一工作 · 雇主需了解NLRA条款 · 影响劳动关系",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-02T00:00:00+00:00",
+        "published_at": "2026-10-03T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -58,27 +58,57 @@
         "id": "c79ea307e6b8"
       },
       {
-        "title": "Transgender former EEOC employee may proceed with bias lawsuit, judge says",
-        "url": "https://www.hrdive.com/news/transgender-former-eeoc-employee-may-proceed-with-bias-lawsuit-judge-says/832176/",
-        "published_at": "2026-10-05T21:28:00+00:00",
+        "title": "DOL to up minimum wage to $14 per hour for federal contractors",
+        "url": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
+        "published_at": "2026-10-07T21:01:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "086794bf29b7",
-        "title_zh": "跨性别前EEOC员工可能继续歧视诉讼，法官称",
-        "summary_zh": "继续诉讼 · 歧视指控 · 法官裁决",
-        "relevance": 0.2
+        "id": "0dc8b08f0edb",
+        "title_zh": "美国劳工部将联邦承包商最低工资提高到每小时14美元",
+        "summary_zh": "提高最低工资至14美元/小时 · 影响联邦承包商 · 政策调整",
+        "relevance": 0.5
+      },
+      {
+        "title": "Holiday Survival Guide: An Employment Law Q&A Feast for Employers",
+        "url": "https://www.littler.com/events/holiday-survival-guide-employment-law-qa-feast-employers",
+        "published_at": "2026-10-07T18:40:59+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "bbd5efc3cb6a",
+        "title_zh": "假期生存指南：雇主劳动法问答盛宴",
+        "summary_zh": "关注法律风险 · 保护员工权益 · 合规避免纠纷",
+        "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
+        "title": "AI adoption may be hampering future organizational growth",
+        "url": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
+        "published_at": "2026-10-07T14:48:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "组织与人才管理",
+        "id": "0230dfc5675e",
+        "title_zh": "人工智能应用或阻碍未来组织发展",
+        "summary_zh": "阻碍增长 · 影响发展 · 需要关注",
+        "relevance": 0.77
+      },
+      {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-02T00:00:00+00:00",
+        "published_at": "2026-10-03T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -89,6 +119,21 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
+      },
+      {
+        "title": "Few CHROs say they feel very confident they can manage AI-driven change",
+        "url": "https://www.hrdive.com/news/few-chros-feel-very-confident-they-can-manage-ai-driven-change/832359/",
+        "published_at": "2026-10-07T14:48:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "组织与人才管理",
+        "id": "4be5eed1e693",
+        "title_zh": "人力资源总监对管理AI驱动变革表示缺乏信心",
+        "summary_zh": "管理AI变革信心不足 · CHRO普遍担忧 · AI影响管理",
+        "relevance": 0.73
       },
       {
         "title": "Employee Xperience Expo 2026 NORTH: Leadership, wellbeing and inclusion take centre stage",
@@ -117,7 +162,7 @@
         "category": "组织与人才管理",
         "id": "7601185b6a8c",
         "title_zh": "领导力准备差距：继任计划为何不足",
-        "summary_zh": "人才断层风险 · 继任计划缺陷 · 发展需求紧迫",
+        "summary_zh": "人才断层 · 继任计划 · 领导力培养",
         "relevance": 0.5
       },
       {
@@ -147,7 +192,7 @@
         "category": "组织与人才管理",
         "id": "d7748494b7e0",
         "title_zh": "领导力需要情景规划以求生存",
-        "summary_zh": "情景规划是生存关键 · 提升决策能力 · 面对不确定性",
+        "summary_zh": "情景规划是生存关键 · 领导者需掌握 · 提升应对能力",
         "relevance": 0.33
       }
     ],
@@ -178,8 +223,8 @@
         "is_ai_hr": false,
         "category": "学习发展与技能转型",
         "id": "67bb97a68f6b",
-        "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么",
-        "summary_zh": "要点1 · 要点2 · 要点3",
+        "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么启",
+        "summary_zh": "要点1 · 企业流动性促进文化变革 · 要点2 · L&D需学习流动性策略 · 要点3 · 提升员工发展与组织适应性",
         "relevance": 0.5
       }
     ],
@@ -196,8 +241,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "231a00999506",
-        "title_zh": "加州再次修订其《工资和遣散通知法》",
-        "summary_zh": "修订警告法 · 影响雇主 · 遣散通知",
+        "title_zh": "加州再次修订其WARN法案",
+        "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
         "relevance": 0.6
       },
       {
@@ -212,22 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "0fe955a5db88",
         "title_zh": "SHRM服务犬试验开始——原告的狗陪伴左右",
-        "summary_zh": "试验启动 · 原告带狗 · 评估服务犬影响",
-        "relevance": 0.5
-      },
-      {
-        "title": "Executives may use AI more than their workers do",
-        "url": "https://www.hrdive.com/news/executives-may-use-ai-more-than-their-workers-do/832141/",
-        "published_at": "2026-10-06T15:13:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "b7460b29dbbf",
-        "title_zh": "高管可能比员工更多地使用AI",
-        "summary_zh": "高管使用AI多 · 提升效率 · 改变工作方式",
+        "summary_zh": "试验开始 · 原告狗陪伴 · 关注服务犬使用",
         "relevance": 0.5
       },
       {
@@ -241,23 +271,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "d227671a6572",
-        "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
-        "summary_zh": "重新定义工作职责 · 适应AI需求 · 关注技能提升",
+        "title_zh": "职位描述造假：如何为AI重新设计角色",
+        "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
         "relevance": 0.5
       },
       {
-        "title": "Learning isn’t the constraint—capacity is",
-        "url": "https://www.chieflearningofficer.com/2026/09/30/learning-isnt-the-constraint-capacity-is/",
-        "published_at": "2026-09-30T06:00:00+00:00",
+        "title": "The capability risk of agentic AI",
+        "url": "https://www.chieflearningofficer.com/2026/10/07/the-capability-risk-of-agentic-ai/",
+        "published_at": "2026-10-07T06:00:00+00:00",
         "source_id": "clo",
         "source_name": "Chief Learning Officer",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "ca3abfe665ab",
-        "title_zh": "学习不是限制，能力才是",
-        "summary_zh": "提升能力 · 限制发展 · 需要突破",
+        "id": "47a5f790aae4",
+        "title_zh": "代理型AI的能力风险",
+        "summary_zh": "能力不足 · 存在偏见 · 安全隐患",
         "relevance": 0.5
       },
       {
@@ -276,53 +306,38 @@
         "relevance": 0.2
       },
       {
-        "title": "AIHOT 日报 · 2026-10-07 — Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
-        "url": "https://aihot.news/daily/2026-10-07",
-        "published_at": "2026-10-07T00:00:29+00:00",
+        "title": "AIHOT 日报 · 2026-10-08 — OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+        "url": "https://aihot.news/daily/2026-10-08",
+        "published_at": "2026-10-08T00:00:21+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "aa53d60c3b02",
-        "title_zh": "AIHOT 日报 · 2026-10-07 — M",
-        "summary_zh": "Mistral发布新模型 · 评测称最智能 · 美中之外领先",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-06 — SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-        "url": "https://aihot.news/daily/2026-10-06",
-        "published_at": "2026-10-06T00:00:34+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "0eee44f66c87",
-        "title_zh": "AIHOT 日报 · 2026-10-06 — S",
-        "summary_zh": "Anthropic API价值超OpenAI 5倍 · SemiAnalysis测算 · 订阅价值高",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-05 — 今日安静，无大事发生",
-        "url": "https://aihot.news/daily/2026-10-05",
-        "published_at": "2026-10-05T06:30:24+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "b1c37eec99f1",
-        "title_zh": "AIHOT 日报 · 2026-10-05 — 今",
-        "summary_zh": "无重大事件 · 平静一日 · 无新动态",
+        "id": "851af7ca27c2",
+        "title_zh": "AIHOT 日报 · 2026-10-08 — O",
+        "summary_zh": "GPT-6向全部用户推出 · 智能UI功能上线 · 提升用户体验",
         "relevance": 0.2
       }
     ]
   },
   "all_items": [
+    {
+      "title": "AI adoption may be hampering future organizational growth",
+      "url": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
+      "published_at": "2026-10-07T14:48:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "0230dfc5675e",
+      "title_zh": "人工智能应用或阻碍未来组织发展",
+      "summary_zh": "阻碍增长 · 影响发展 · 需要关注",
+      "relevance": 0.77
+    },
     {
       "title": "California Expands and Modernizes Workplace Violence Restraining Order Protections",
       "url": "https://www.littler.com/news-analysis/asap/california-expands-and-modernizes-workplace-violence-restraining-order",
@@ -349,8 +364,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "0782372b1f18",
-      "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间推迟",
-      "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
+      "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间延迟",
+      "summary_zh": "通知员工权利 · 工会加入自由 · 细节延迟公布",
       "relevance": 0.77
     },
     {
@@ -365,13 +380,13 @@
       "category": "政策与劳动合规",
       "id": "f2081269e32d",
       "title_zh": "两家工会主张同一工作——雇主为何需了解NLRA第1",
-      "summary_zh": "工会主张同一工作 · 雇主需了解第10(k)条 · NLRA规定影响",
+      "summary_zh": "工会主张同一工作 · 雇主需了解NLRA条款 · 影响劳动关系",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-02T00:00:00+00:00",
+      "published_at": "2026-10-03T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-02T00:00:00+00:00",
+      "published_at": "2026-10-03T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -399,6 +414,21 @@
       "id": "c79ea307e6b8"
     },
     {
+      "title": "Few CHROs say they feel very confident they can manage AI-driven change",
+      "url": "https://www.hrdive.com/news/few-chros-feel-very-confident-they-can-manage-ai-driven-change/832359/",
+      "published_at": "2026-10-07T14:48:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "4be5eed1e693",
+      "title_zh": "人力资源总监对管理AI驱动变革表示缺乏信心",
+      "summary_zh": "管理AI变革信心不足 · CHRO普遍担忧 · AI影响管理",
+      "relevance": 0.73
+    },
+    {
       "title": "California Amends its WARN Act (Again)",
       "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
       "published_at": "2026-10-02T13:15:38+00:00",
@@ -409,9 +439,24 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "231a00999506",
-      "title_zh": "加州再次修订其《工资和遣散通知法》",
-      "summary_zh": "修订警告法 · 影响雇主 · 遣散通知",
+      "title_zh": "加州再次修订其WARN法案",
+      "summary_zh": "修订WARN法案 · 增加例外情况 · 影响企业裁员流程",
       "relevance": 0.6
+    },
+    {
+      "title": "DOL to up minimum wage to $14 per hour for federal contractors",
+      "url": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
+      "published_at": "2026-10-07T21:01:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "0dc8b08f0edb",
+      "title_zh": "美国劳工部将联邦承包商最低工资提高到每小时14美元",
+      "summary_zh": "提高最低工资至14美元/小时 · 影响联邦承包商 · 政策调整",
+      "relevance": 0.5
     },
     {
       "title": "SHRM service dog trial begins — with plaintiff’s dog by her side",
@@ -425,22 +470,7 @@
       "category": "案例、报告与趋势",
       "id": "0fe955a5db88",
       "title_zh": "SHRM服务犬试验开始——原告的狗陪伴左右",
-      "summary_zh": "试验启动 · 原告带狗 · 评估服务犬影响",
-      "relevance": 0.5
-    },
-    {
-      "title": "Executives may use AI more than their workers do",
-      "url": "https://www.hrdive.com/news/executives-may-use-ai-more-than-their-workers-do/832141/",
-      "published_at": "2026-10-06T15:13:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "b7460b29dbbf",
-      "title_zh": "高管可能比员工更多地使用AI",
-      "summary_zh": "高管使用AI多 · 提升效率 · 改变工作方式",
+      "summary_zh": "试验开始 · 原告狗陪伴 · 关注服务犬使用",
       "relevance": 0.5
     },
     {
@@ -469,8 +499,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "d227671a6572",
-      "title_zh": "职位描述说谎：如何为AI重新思考角色设计",
-      "summary_zh": "重新定义工作职责 · 适应AI需求 · 关注技能提升",
+      "title_zh": "职位描述造假：如何为AI重新设计角色",
+      "summary_zh": "重新设计角色 · 考虑AI · 提升效率",
+      "relevance": 0.5
+    },
+    {
+      "title": "The capability risk of agentic AI",
+      "url": "https://www.chieflearningofficer.com/2026/10/07/the-capability-risk-of-agentic-ai/",
+      "published_at": "2026-10-07T06:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "47a5f790aae4",
+      "title_zh": "代理型AI的能力风险",
+      "summary_zh": "能力不足 · 存在偏见 · 安全隐患",
       "relevance": 0.5
     },
     {
@@ -485,7 +530,7 @@
       "category": "组织与人才管理",
       "id": "7601185b6a8c",
       "title_zh": "领导力准备差距：继任计划为何不足",
-      "summary_zh": "人才断层风险 · 继任计划缺陷 · 发展需求紧迫",
+      "summary_zh": "人才断层 · 继任计划 · 领导力培养",
       "relevance": 0.5
     },
     {
@@ -499,24 +544,24 @@
       "is_ai_hr": false,
       "category": "学习发展与技能转型",
       "id": "67bb97a68f6b",
-      "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么",
-      "summary_zh": "要点1 · 要点2 · 要点3",
+      "title_zh": "推动文化变革：企业流动性能为L&D领导者带来什么启",
+      "summary_zh": "要点1 · 企业流动性促进文化变革 · 要点2 · L&D需学习流动性策略 · 要点3 · 提升员工发展与组织适应性",
       "relevance": 0.5
     },
     {
-      "title": "Learning isn’t the constraint—capacity is",
-      "url": "https://www.chieflearningofficer.com/2026/09/30/learning-isnt-the-constraint-capacity-is/",
-      "published_at": "2026-09-30T06:00:00+00:00",
-      "source_id": "clo",
-      "source_name": "Chief Learning Officer",
+      "title": "Holiday Survival Guide: An Employment Law Q&A Feast for Employers",
+      "url": "https://www.littler.com/events/holiday-survival-guide-employment-law-qa-feast-employers",
+      "published_at": "2026-10-07T18:40:59+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "ca3abfe665ab",
-      "title_zh": "学习不是限制，能力才是",
-      "summary_zh": "提升能力 · 限制发展 · 需要突破",
-      "relevance": 0.5
+      "category": "政策与劳动合规",
+      "id": "bbd5efc3cb6a",
+      "title_zh": "假期生存指南：雇主劳动法问答盛宴",
+      "summary_zh": "关注法律风险 · 保护员工权益 · 合规避免纠纷",
+      "relevance": 0.4
     },
     {
       "title": "The fragmented leader is finished: A new path to whole leadership",
@@ -545,23 +590,8 @@
       "category": "组织与人才管理",
       "id": "d7748494b7e0",
       "title_zh": "领导力需要情景规划以求生存",
-      "summary_zh": "情景规划是生存关键 · 提升决策能力 · 面对不确定性",
+      "summary_zh": "情景规划是生存关键 · 领导者需掌握 · 提升应对能力",
       "relevance": 0.33
-    },
-    {
-      "title": "Transgender former EEOC employee may proceed with bias lawsuit, judge says",
-      "url": "https://www.hrdive.com/news/transgender-former-eeoc-employee-may-proceed-with-bias-lawsuit-judge-says/832176/",
-      "published_at": "2026-10-05T21:28:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "086794bf29b7",
-      "title_zh": "跨性别前EEOC员工可能继续歧视诉讼，法官称",
-      "summary_zh": "继续诉讼 · 歧视指控 · 法官裁决",
-      "relevance": 0.2
     },
     {
       "title": "【AIHOT 通知】订阅地址换到 aihot.news 了，请更新",
@@ -579,48 +609,18 @@
       "relevance": 0.2
     },
     {
-      "title": "AIHOT 日报 · 2026-10-07 — Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
-      "url": "https://aihot.news/daily/2026-10-07",
-      "published_at": "2026-10-07T00:00:29+00:00",
+      "title": "AIHOT 日报 · 2026-10-08 — OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+      "url": "https://aihot.news/daily/2026-10-08",
+      "published_at": "2026-10-08T00:00:21+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "aa53d60c3b02",
-      "title_zh": "AIHOT 日报 · 2026-10-07 — M",
-      "summary_zh": "Mistral发布新模型 · 评测称最智能 · 美中之外领先",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-06 — SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-      "url": "https://aihot.news/daily/2026-10-06",
-      "published_at": "2026-10-06T00:00:34+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "0eee44f66c87",
-      "title_zh": "AIHOT 日报 · 2026-10-06 — S",
-      "summary_zh": "Anthropic API价值超OpenAI 5倍 · SemiAnalysis测算 · 订阅价值高",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-05 — 今日安静，无大事发生",
-      "url": "https://aihot.news/daily/2026-10-05",
-      "published_at": "2026-10-05T06:30:24+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "b1c37eec99f1",
-      "title_zh": "AIHOT 日报 · 2026-10-05 — 今",
-      "summary_zh": "无重大事件 · 平静一日 · 无新动态",
+      "id": "851af7ca27c2",
+      "title_zh": "AIHOT 日报 · 2026-10-08 — O",
+      "summary_zh": "GPT-6向全部用户推出 · 智能UI功能上线 · 提升用户体验",
       "relevance": 0.2
     }
   ]
