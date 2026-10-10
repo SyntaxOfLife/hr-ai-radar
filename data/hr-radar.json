@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:39:06.318984+08:00",
+  "generated_at": "2026-10-10T13:23:23.591681+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -23,8 +23,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "e2957043ba72",
-        "title_zh": "雇主担忧AI助长工会运动，但多数未更新劳资策略，利",
-        "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 雇主担忧增加",
+        "title_zh": "雇主担忧AI将助长工会运动，但多数未更新劳资策略，",
+        "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 雇主担忧加剧",
         "relevance": 0.81
       },
       {
@@ -38,29 +38,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "0782372b1f18",
-        "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间延迟",
-        "summary_zh": "依法通知 · 工会权利 · 时间推迟",
-        "relevance": 0.77
-      },
-      {
-        "title": "Two Unions Claim the Same Work – Why Employers Need to Know About Section 10(k) of the NLRA",
-        "url": "https://www.littler.com/news-analysis/asap/two-unions-claim-same-work-why-employers-need-know-about-section-10k-nlra",
-        "published_at": "2026-10-02T13:23:27+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "f2081269e32d",
-        "title_zh": "两个工会主张同一工作——雇主须知《国家劳资关系法》",
-        "summary_zh": "工会主张冲突 · 雇主需了解法律 · 保护雇主权益",
+        "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
+        "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-04T00:00:00+00:00",
+        "published_at": "2026-10-05T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -73,19 +58,19 @@
         "id": "c79ea307e6b8"
       },
       {
-        "title": "DOL to up minimum wage to $14 per hour for federal contractors",
-        "url": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
-        "published_at": "2026-10-07T21:01:00+00:00",
+        "title": "EEOC obtains $23K for Muslim barista denied accommodation for Ramadan",
+        "url": "https://www.hrdive.com/news/eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-ramadan/832637/",
+        "published_at": "2026-10-09T19:44:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": false,
+        "is_ai_hr": true,
         "category": "政策与劳动合规",
-        "id": "0dc8b08f0edb",
-        "title_zh": "劳工部将联邦承包商最低工资提高到每小时14美元",
-        "summary_zh": "提高最低工资至14美元 · 影响联邦承包商 · 提高工人收入",
-        "relevance": 0.5
+        "id": "245fb7df0839",
+        "title_zh": "美国平等就业机会委员会为穆斯林咖啡师拒绝斋月便利获",
+        "summary_zh": "拒绝斋月便利 · 获赔2.3万美元 · EEOC介入",
+        "relevance": 0.73
       },
       {
         "title": "New Jersey independent contractor regulation with ABC test is in effect",
@@ -113,8 +98,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "15e4c59b0541",
-        "title_zh": "最低工资上涨可能加剧工资压缩，增加全国性雇主的复杂",
-        "summary_zh": "工资压缩加剧 · 复杂性增加 · 影响全国雇主",
+        "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
+        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
         "relevance": 0.4
       },
       {
@@ -128,32 +113,17 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "bbd5efc3cb6a",
-        "title_zh": "节日生存指南：雇主劳动法问答盛宴",
-        "summary_zh": "关注合规 · 保护员工 · 避免风险",
+        "title_zh": "假期生存指南：雇主劳动法问答盛宴",
+        "summary_zh": "关注法律风险 · 保护员工权益 · 合规操作",
         "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
-        "title": "AI adoption may be hampering future organizational growth",
-        "url": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
-        "published_at": "2026-10-07T14:48:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "0230dfc5675e",
-        "title_zh": "人工智能应用可能阻碍未来组织发展",
-        "summary_zh": "阻碍增长 · 影响决策 · 需要适应",
-        "relevance": 0.77
-      },
-      {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-04T00:00:00+00:00",
+        "published_at": "2026-10-05T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -178,21 +148,6 @@
         "id": "15219f9dd733",
         "title_zh": "本周五大数据：管理层主导发展可助留任",
         "summary_zh": "管理层主导 · 提升留任率 · 增强员工发展",
-        "relevance": 0.73
-      },
-      {
-        "title": "AI-assisted performance reviews can’t replace human insight, report warns",
-        "url": "https://www.hrdive.com/news/ai-assisted-performance-reviews-cant-replace-human-insight-report-warns/832471/",
-        "published_at": "2026-10-08T14:41:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "c90ad6b0ddc1",
-        "title_zh": "人工智能辅助绩效评估无法取代人类洞察力，报告警示",
-        "summary_zh": "无法取代人类洞察力 · 提升效率 · 需要结合人类分析",
         "relevance": 0.73
       },
       {
@@ -236,8 +191,23 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "686a4706a6ce",
-        "title_zh": "HR领导者应审视自身福祉",
+        "title_zh": "人力资源领导者应审视自身福祉",
         "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+        "relevance": 0.33
+      },
+      {
+        "title": "The fragmented leader is finished: A new path to whole leadership",
+        "url": "https://hrzone.com/the-fragmented-leader-is-finished-a-new-path-to-whole-leadership/",
+        "published_at": "2026-10-06T07:05:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "db3c7494cd48",
+        "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
+        "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
         "relevance": 0.33
       }
     ],
@@ -254,8 +224,23 @@
         "category": "学习发展与技能转型",
         "id": "7a6a2b72973b",
         "title_zh": "加州扩大并现代化职场暴力禁令保护",
-        "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
+        "summary_zh": "扩大保护范围 · 现代化程序 · 加强执行力度",
         "relevance": 0.77
+      },
+      {
+        "title": "DHS proposes $70K fee for initial Optional Practical Training participation",
+        "url": "https://www.hrdive.com/news/dhs-proposes-70k-fee-for-initial-optional-practical-training-participation/832499/",
+        "published_at": "2026-10-09T15:03:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "f963c5118f06",
+        "title_zh": "美国国土安全部提议对初次参与选择性实践培训收取7万",
+        "summary_zh": "初次参与费用7万美元 · 可能影响学生 · 需关注政策调整",
+        "relevance": 0.73
       },
       {
         "title": "Driving culture change: What corporate mobility can teach L&D leaders",
@@ -269,26 +254,26 @@
         "category": "学习发展与技能转型",
         "id": "67bb97a68f6b",
         "title_zh": "推动文化变革：企业流动性对L&D领导者的启示",
-        "summary_zh": "企业流动性促进文化变革 · 提升员工发展效率 · 帮助L&D领导者创新",
+        "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强员工发展",
         "relevance": 0.5
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
-        "title": "California Amends its WARN Act (Again)",
-        "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
-        "published_at": "2026-10-02T13:15:38+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "ACLU files California complaint over Emotify hiring assessment tool",
+        "url": "https://www.hrdive.com/news/aclu-files-california-complaint-over-emotify-hiring-assessment-tool/832596/",
+        "published_at": "2026-10-09T15:02:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "231a00999506",
-        "title_zh": "加州再次修订其《工作警告法》",
-        "summary_zh": "修订警告法 · 增加适用范围 · 强化处罚措施",
-        "relevance": 0.6
+        "id": "de36e6c15c23",
+        "title_zh": "美国公民自由联盟就Emotify招聘评估工具向加州",
+        "summary_zh": "评估工具存歧视 · 引发法律争议 · 影响招聘公平",
+        "relevance": 0.5
       },
       {
         "title": "Even woman-presenting AI bots are ‘paid’ less, research says",
@@ -302,7 +287,22 @@
         "category": "案例、报告与趋势",
         "id": "3e066ab4cd37",
         "title_zh": "女性形象AI机器人也“薪酬”较低，研究称",
-        "summary_zh": "女性AI薪酬偏低 · 研究揭示偏见 · 机器人也受影响",
+        "summary_zh": "薪酬差距 · 性别偏见 · AI应用",
+        "relevance": 0.5
+      },
+      {
+        "title": "What AI is making scarce and why HR should care",
+        "url": "https://hrzone.com/what-ai-is-making-scarce-and-why-hr-should-care/",
+        "published_at": "2026-10-09T07:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "444a35f21b85",
+        "title_zh": "人工智能正变得稀缺及其对HR的影响",
+        "summary_zh": "稀缺性 · 影响HR · 需关注",
         "relevance": 0.5
       },
       {
@@ -317,7 +317,7 @@
         "category": "案例、报告与趋势",
         "id": "47a5f790aae4",
         "title_zh": "代理型AI的能力风险",
-        "summary_zh": "能力不足 · 存在偏见 · 安全隐患",
+        "summary_zh": "能力不足 · 实施困难 · 安全隐患",
         "relevance": 0.5
       }
     ]
@@ -334,24 +334,9 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "e2957043ba72",
-      "title_zh": "雇主担忧AI助长工会运动，但多数未更新劳资策略，利",
-      "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 雇主担忧增加",
+      "title_zh": "雇主担忧AI将助长工会运动，但多数未更新劳资策略，",
+      "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 雇主担忧加剧",
       "relevance": 0.81
-    },
-    {
-      "title": "AI adoption may be hampering future organizational growth",
-      "url": "https://www.hrdive.com/news/ai-adoption-may-be-hampering-future-organizational-growth/832352/",
-      "published_at": "2026-10-07T14:48:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "0230dfc5675e",
-      "title_zh": "人工智能应用可能阻碍未来组织发展",
-      "summary_zh": "阻碍增长 · 影响决策 · 需要适应",
-      "relevance": 0.77
     },
     {
       "title": "California Expands and Modernizes Workplace Violence Restraining Order Protections",
@@ -365,7 +350,7 @@
       "category": "学习发展与技能转型",
       "id": "7a6a2b72973b",
       "title_zh": "加州扩大并现代化职场暴力禁令保护",
-      "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
+      "summary_zh": "扩大保护范围 · 现代化程序 · 加强执行力度",
       "relevance": 0.77
     },
     {
@@ -379,29 +364,14 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "0782372b1f18",
-      "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间延迟",
-      "summary_zh": "依法通知 · 工会权利 · 时间推迟",
-      "relevance": 0.77
-    },
-    {
-      "title": "Two Unions Claim the Same Work – Why Employers Need to Know About Section 10(k) of the NLRA",
-      "url": "https://www.littler.com/news-analysis/asap/two-unions-claim-same-work-why-employers-need-know-about-section-10k-nlra",
-      "published_at": "2026-10-02T13:23:27+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "f2081269e32d",
-      "title_zh": "两个工会主张同一工作——雇主须知《国家劳资关系法》",
-      "summary_zh": "工会主张冲突 · 雇主需了解法律 · 保护雇主权益",
+      "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
+      "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-04T00:00:00+00:00",
+      "published_at": "2026-10-05T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -416,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-04T00:00:00+00:00",
+      "published_at": "2026-10-05T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -427,6 +397,36 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "EEOC obtains $23K for Muslim barista denied accommodation for Ramadan",
+      "url": "https://www.hrdive.com/news/eeoc-obtains-23k-for-muslim-barista-denied-accommodation-for-ramadan/832637/",
+      "published_at": "2026-10-09T19:44:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "245fb7df0839",
+      "title_zh": "美国平等就业机会委员会为穆斯林咖啡师拒绝斋月便利获",
+      "summary_zh": "拒绝斋月便利 · 获赔2.3万美元 · EEOC介入",
+      "relevance": 0.73
+    },
+    {
+      "title": "DHS proposes $70K fee for initial Optional Practical Training participation",
+      "url": "https://www.hrdive.com/news/dhs-proposes-70k-fee-for-initial-optional-practical-training-participation/832499/",
+      "published_at": "2026-10-09T15:03:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "f963c5118f06",
+      "title_zh": "美国国土安全部提议对初次参与选择性实践培训收取7万",
+      "summary_zh": "初次参与费用7万美元 · 可能影响学生 · 需关注政策调整",
+      "relevance": 0.73
     },
     {
       "title": "This week in 5 numbers: Manager-led development can aid retention",
@@ -444,34 +444,19 @@
       "relevance": 0.73
     },
     {
-      "title": "AI-assisted performance reviews can’t replace human insight, report warns",
-      "url": "https://www.hrdive.com/news/ai-assisted-performance-reviews-cant-replace-human-insight-report-warns/832471/",
-      "published_at": "2026-10-08T14:41:00+00:00",
+      "title": "ACLU files California complaint over Emotify hiring assessment tool",
+      "url": "https://www.hrdive.com/news/aclu-files-california-complaint-over-emotify-hiring-assessment-tool/832596/",
+      "published_at": "2026-10-09T15:02:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "c90ad6b0ddc1",
-      "title_zh": "人工智能辅助绩效评估无法取代人类洞察力，报告警示",
-      "summary_zh": "无法取代人类洞察力 · 提升效率 · 需要结合人类分析",
-      "relevance": 0.73
-    },
-    {
-      "title": "California Amends its WARN Act (Again)",
-      "url": "https://www.littler.com/news-analysis/asap/california-amends-its-warn-act-again",
-      "published_at": "2026-10-02T13:15:38+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "231a00999506",
-      "title_zh": "加州再次修订其《工作警告法》",
-      "summary_zh": "修订警告法 · 增加适用范围 · 强化处罚措施",
-      "relevance": 0.6
+      "id": "de36e6c15c23",
+      "title_zh": "美国公民自由联盟就Emotify招聘评估工具向加州",
+      "summary_zh": "评估工具存歧视 · 引发法律争议 · 影响招聘公平",
+      "relevance": 0.5
     },
     {
       "title": "Even woman-presenting AI bots are ‘paid’ less, research says",
@@ -485,22 +470,22 @@
       "category": "案例、报告与趋势",
       "id": "3e066ab4cd37",
       "title_zh": "女性形象AI机器人也“薪酬”较低，研究称",
-      "summary_zh": "女性AI薪酬偏低 · 研究揭示偏见 · 机器人也受影响",
+      "summary_zh": "薪酬差距 · 性别偏见 · AI应用",
       "relevance": 0.5
     },
     {
-      "title": "DOL to up minimum wage to $14 per hour for federal contractors",
-      "url": "https://www.hrdive.com/news/dol-to-up-minimum-wage-to-14-per-hour-for-federal-contractors/832385/",
-      "published_at": "2026-10-07T21:01:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "What AI is making scarce and why HR should care",
+      "url": "https://hrzone.com/what-ai-is-making-scarce-and-why-hr-should-care/",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "0dc8b08f0edb",
-      "title_zh": "劳工部将联邦承包商最低工资提高到每小时14美元",
-      "summary_zh": "提高最低工资至14美元 · 影响联邦承包商 · 提高工人收入",
+      "category": "案例、报告与趋势",
+      "id": "444a35f21b85",
+      "title_zh": "人工智能正变得稀缺及其对HR的影响",
+      "summary_zh": "稀缺性 · 影响HR · 需关注",
       "relevance": 0.5
     },
     {
@@ -530,7 +515,7 @@
       "category": "案例、报告与趋势",
       "id": "47a5f790aae4",
       "title_zh": "代理型AI的能力风险",
-      "summary_zh": "能力不足 · 存在偏见 · 安全隐患",
+      "summary_zh": "能力不足 · 实施困难 · 安全隐患",
       "relevance": 0.5
     },
     {
@@ -560,7 +545,7 @@
       "category": "学习发展与技能转型",
       "id": "67bb97a68f6b",
       "title_zh": "推动文化变革：企业流动性对L&D领导者的启示",
-      "summary_zh": "企业流动性促进文化变革 · 提升员工发展效率 · 帮助L&D领导者创新",
+      "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强员工发展",
       "relevance": 0.5
     },
     {
@@ -589,8 +574,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "15e4c59b0541",
-      "title_zh": "最低工资上涨可能加剧工资压缩，增加全国性雇主的复杂",
-      "summary_zh": "工资压缩加剧 · 复杂性增加 · 影响全国雇主",
+      "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
+      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
       "relevance": 0.4
     },
     {
@@ -604,8 +589,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "bbd5efc3cb6a",
-      "title_zh": "节日生存指南：雇主劳动法问答盛宴",
-      "summary_zh": "关注合规 · 保护员工 · 避免风险",
+      "title_zh": "假期生存指南：雇主劳动法问答盛宴",
+      "summary_zh": "关注法律风险 · 保护员工权益 · 合规操作",
       "relevance": 0.4
     },
     {
@@ -619,8 +604,23 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "686a4706a6ce",
-      "title_zh": "HR领导者应审视自身福祉",
+      "title_zh": "人力资源领导者应审视自身福祉",
       "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+      "relevance": 0.33
+    },
+    {
+      "title": "The fragmented leader is finished: A new path to whole leadership",
+      "url": "https://hrzone.com/the-fragmented-leader-is-finished-a-new-path-to-whole-leadership/",
+      "published_at": "2026-10-06T07:05:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "db3c7494cd48",
+      "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
+      "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
       "relevance": 0.33
     }
   ]
