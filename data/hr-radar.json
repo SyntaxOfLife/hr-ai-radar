@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:23:23.591681+08:00",
+  "generated_at": "2026-10-11T13:14:47.250767+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -38,14 +38,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "0782372b1f18",
-        "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
-        "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
+        "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间推迟",
+        "summary_zh": "员工有权加入工会 · 政府延迟公布时间 · 细节已公布",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-05T00:00:00+00:00",
+        "published_at": "2026-10-06T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "245fb7df0839",
         "title_zh": "美国平等就业机会委员会为穆斯林咖啡师拒绝斋月便利获",
-        "summary_zh": "拒绝斋月便利 · 获赔2.3万美元 · EEOC介入",
+        "summary_zh": "穆斯林咖啡师受歧视 · 斋月便利被拒 · EEOC获赔2.3万",
         "relevance": 0.73
       },
       {
@@ -84,7 +84,7 @@
         "category": "政策与劳动合规",
         "id": "a39666a1cd66",
         "title_zh": "新泽西州ABC测试独立承包商法规生效",
-        "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业招聘",
+        "summary_zh": "ABC测试适用 · 影响自由职业者 · 需重新评估合同",
         "relevance": 0.4
       },
       {
@@ -99,7 +99,7 @@
         "category": "政策与劳动合规",
         "id": "15e4c59b0541",
         "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
+        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
         "relevance": 0.4
       },
       {
@@ -123,7 +123,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-05T00:00:00+00:00",
+        "published_at": "2026-10-06T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -146,8 +146,8 @@
         "is_ai_hr": true,
         "category": "组织与人才管理",
         "id": "15219f9dd733",
-        "title_zh": "本周五大数据：管理层主导发展可助留任",
-        "summary_zh": "管理层主导 · 提升留任率 · 增强员工发展",
+        "title_zh": "本周五数字：管理层主导发展有助于留任",
+        "summary_zh": "管理层主导 · 提升留任率 · 数据支持",
         "relevance": 0.73
       },
       {
@@ -177,7 +177,7 @@
         "category": "组织与人才管理",
         "id": "7601185b6a8c",
         "title_zh": "领导力准备差距：继任计划为何不足",
-        "summary_zh": "人才储备不足 · 继任计划缺陷 · 需强化培养",
+        "summary_zh": "人才断层 · 继任计划 · 发展不足",
         "relevance": 0.5
       },
       {
@@ -192,7 +192,7 @@
         "category": "组织与人才管理",
         "id": "686a4706a6ce",
         "title_zh": "人力资源领导者应审视自身福祉",
-        "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+        "summary_zh": "关注健康 · 优化管理 · 提升效能",
         "relevance": 0.33
       },
       {
@@ -207,7 +207,7 @@
         "category": "组织与人才管理",
         "id": "db3c7494cd48",
         "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
-        "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
+        "summary_zh": "告别碎片化 · 追求完整 · 路径创新",
         "relevance": 0.33
       }
     ],
@@ -224,7 +224,7 @@
         "category": "学习发展与技能转型",
         "id": "7a6a2b72973b",
         "title_zh": "加州扩大并现代化职场暴力禁令保护",
-        "summary_zh": "扩大保护范围 · 现代化程序 · 加强执行力度",
+        "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
         "relevance": 0.77
       },
       {
@@ -238,8 +238,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "f963c5118f06",
-        "title_zh": "美国国土安全部提议对初次参与选择性实践培训收取7万",
-        "summary_zh": "初次参与费用7万美元 · 可能影响学生 · 需关注政策调整",
+        "title_zh": "劳工部提议对初次参与选择性实践培训收取7万美元费用",
+        "summary_zh": "初次参与 · 费用7万美元 · 劳工部提议",
         "relevance": 0.73
       },
       {
@@ -254,7 +254,7 @@
         "category": "学习发展与技能转型",
         "id": "67bb97a68f6b",
         "title_zh": "推动文化变革：企业流动性对L&D领导者的启示",
-        "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强员工发展",
+        "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强组织适应性",
         "relevance": 0.5
       }
     ],
@@ -272,7 +272,7 @@
         "category": "案例、报告与趋势",
         "id": "de36e6c15c23",
         "title_zh": "美国公民自由联盟就Emotify招聘评估工具向加州",
-        "summary_zh": "评估工具存歧视 · 引发法律争议 · 影响招聘公平",
+        "summary_zh": "评估工具存歧视风险 · 引发法律争议 · 影响招聘公平性",
         "relevance": 0.5
       },
       {
@@ -287,7 +287,7 @@
         "category": "案例、报告与趋势",
         "id": "3e066ab4cd37",
         "title_zh": "女性形象AI机器人也“薪酬”较低，研究称",
-        "summary_zh": "薪酬差距 · 性别偏见 · AI应用",
+        "summary_zh": "女性形象AI薪酬偏低 · 研究揭示性别偏见 · AI也存在薪酬差距",
         "relevance": 0.5
       },
       {
@@ -350,7 +350,7 @@
       "category": "学习发展与技能转型",
       "id": "7a6a2b72973b",
       "title_zh": "加州扩大并现代化职场暴力禁令保护",
-      "summary_zh": "扩大保护范围 · 现代化程序 · 加强执行力度",
+      "summary_zh": "扩大保护范围 · 现代化程序 · 加强执法",
       "relevance": 0.77
     },
     {
@@ -364,14 +364,14 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "0782372b1f18",
-      "title_zh": "英国工人加入工会的权利通知义务：细节公布但时间延迟",
-      "summary_zh": "工人有权加入工会 · 政府延迟公布时间 · 细节已公布",
+      "title_zh": "英国员工加入工会的权利通知义务：细节公布但时间推迟",
+      "summary_zh": "员工有权加入工会 · 政府延迟公布时间 · 细节已公布",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-05T00:00:00+00:00",
+      "published_at": "2026-10-06T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-05T00:00:00+00:00",
+      "published_at": "2026-10-06T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -410,7 +410,7 @@
       "category": "政策与劳动合规",
       "id": "245fb7df0839",
       "title_zh": "美国平等就业机会委员会为穆斯林咖啡师拒绝斋月便利获",
-      "summary_zh": "拒绝斋月便利 · 获赔2.3万美元 · EEOC介入",
+      "summary_zh": "穆斯林咖啡师受歧视 · 斋月便利被拒 · EEOC获赔2.3万",
       "relevance": 0.73
     },
     {
@@ -424,8 +424,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "f963c5118f06",
-      "title_zh": "美国国土安全部提议对初次参与选择性实践培训收取7万",
-      "summary_zh": "初次参与费用7万美元 · 可能影响学生 · 需关注政策调整",
+      "title_zh": "劳工部提议对初次参与选择性实践培训收取7万美元费用",
+      "summary_zh": "初次参与 · 费用7万美元 · 劳工部提议",
       "relevance": 0.73
     },
     {
@@ -439,8 +439,8 @@
       "is_ai_hr": true,
       "category": "组织与人才管理",
       "id": "15219f9dd733",
-      "title_zh": "本周五大数据：管理层主导发展可助留任",
-      "summary_zh": "管理层主导 · 提升留任率 · 增强员工发展",
+      "title_zh": "本周五数字：管理层主导发展有助于留任",
+      "summary_zh": "管理层主导 · 提升留任率 · 数据支持",
       "relevance": 0.73
     },
     {
@@ -455,7 +455,7 @@
       "category": "案例、报告与趋势",
       "id": "de36e6c15c23",
       "title_zh": "美国公民自由联盟就Emotify招聘评估工具向加州",
-      "summary_zh": "评估工具存歧视 · 引发法律争议 · 影响招聘公平",
+      "summary_zh": "评估工具存歧视风险 · 引发法律争议 · 影响招聘公平性",
       "relevance": 0.5
     },
     {
@@ -470,7 +470,7 @@
       "category": "案例、报告与趋势",
       "id": "3e066ab4cd37",
       "title_zh": "女性形象AI机器人也“薪酬”较低，研究称",
-      "summary_zh": "薪酬差距 · 性别偏见 · AI应用",
+      "summary_zh": "女性形象AI薪酬偏低 · 研究揭示性别偏见 · AI也存在薪酬差距",
       "relevance": 0.5
     },
     {
@@ -530,7 +530,7 @@
       "category": "组织与人才管理",
       "id": "7601185b6a8c",
       "title_zh": "领导力准备差距：继任计划为何不足",
-      "summary_zh": "人才储备不足 · 继任计划缺陷 · 需强化培养",
+      "summary_zh": "人才断层 · 继任计划 · 发展不足",
       "relevance": 0.5
     },
     {
@@ -545,7 +545,7 @@
       "category": "学习发展与技能转型",
       "id": "67bb97a68f6b",
       "title_zh": "推动文化变革：企业流动性对L&D领导者的启示",
-      "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强员工发展",
+      "summary_zh": "企业流动性促进文化变革 · 提升L&D领导力 · 增强组织适应性",
       "relevance": 0.5
     },
     {
@@ -560,7 +560,7 @@
       "category": "政策与劳动合规",
       "id": "a39666a1cd66",
       "title_zh": "新泽西州ABC测试独立承包商法规生效",
-      "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业招聘",
+      "summary_zh": "ABC测试适用 · 影响自由职业者 · 需重新评估合同",
       "relevance": 0.4
     },
     {
@@ -575,7 +575,7 @@
       "category": "政策与劳动合规",
       "id": "15e4c59b0541",
       "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
+      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
       "relevance": 0.4
     },
     {
@@ -605,7 +605,7 @@
       "category": "组织与人才管理",
       "id": "686a4706a6ce",
       "title_zh": "人力资源领导者应审视自身福祉",
-      "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+      "summary_zh": "关注健康 · 优化管理 · 提升效能",
       "relevance": 0.33
     },
     {
@@ -620,7 +620,7 @@
       "category": "组织与人才管理",
       "id": "db3c7494cd48",
       "title_zh": "碎片化领导者已终结：通往完整领导力的新路径",
-      "summary_zh": "重塑领导力 · 关注整合 · 强调完整",
+      "summary_zh": "告别碎片化 · 追求完整 · 路径创新",
       "relevance": 0.33
     }
   ]
