@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:26:56.557017+08:00",
+  "generated_at": "2026-10-15T12:09:05.781171+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -28,9 +28,24 @@
         "relevance": 0.81
       },
       {
+        "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
+        "url": "https://www.littler.com/news-analysis/asap/californias-2026-ai-legislation-wave-new-laws-target-ai-throughout-employment",
+        "published_at": "2026-10-14T20:46:28+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "970e2c6df407",
+        "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
+        "summary_zh": "新法覆盖就业全周期 · 2026年实施 · 目标AI应用",
+        "relevance": 0.77
+      },
+      {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-09T00:00:00+00:00",
+        "published_at": "2026-10-10T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -54,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "5e655c5ee2ac",
         "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护在车轮前停",
-        "summary_zh": "医疗大麻受保护 · 禁止开车时使用 · 法律明确界定",
+        "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 法律明确界定",
         "relevance": 0.4
       },
       {
@@ -84,7 +99,7 @@
         "category": "政策与劳动合规",
         "id": "a39666a1cd66",
         "title_zh": "新泽西州ABC测试独立承包商法规生效",
-        "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业招聘",
+        "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业用工",
         "relevance": 0.4
       },
       {
@@ -99,62 +114,31 @@
         "category": "政策与劳动合规",
         "id": "15e4c59b0541",
         "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
+        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
         "relevance": 0.4
-      },
-      {
-        "title": "Holiday Survival Guide: An Employment Law Q&A Feast for Employers",
-        "url": "https://www.littler.com/events/holiday-survival-guide-employment-law-qa-feast-employers",
-        "published_at": "2026-10-07T18:40:59+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "bbd5efc3cb6a",
-        "title_zh": "假期生存指南：雇主劳动法问答盛宴",
-        "summary_zh": "关注法律风险 · 保护员工权益 · 合规操作",
-        "relevance": 0.4
-      },
-      {
-        "title": "Company’s male-only job openings lead to $500K settlement with EEOC",
-        "url": "https://www.hrdive.com/news/companys-male-only-job-openings-lead-to-500k-settlement-with-eeoc/832733/",
-        "published_at": "2026-10-12T15:36:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "3779348f1eb7",
-        "title_zh": "公司男性专属职位 openings导致与 EEOC",
-        "summary_zh": "男性职位受限 · EEOC 调查 · 50 万美元和解",
-        "relevance": 0.33
       }
     ],
-    "AI 招聘与招聘工具": [
+    "AI 招聘与招聘工具": [],
+    "组织与人才管理": [
       {
-        "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-        "url": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
-        "published_at": "2026-10-12T20:23:00+00:00",
+        "title": "HR leaders may be able to use AI to improve employee wellness",
+        "url": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
+        "published_at": "2026-10-14T15:21:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": true,
-        "category": "AI 招聘与招聘工具",
-        "id": "e95a6640fc4e",
-        "title_zh": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-        "summary_zh": "",
-        "relevance": 0.73
-      }
-    ],
-    "组织与人才管理": [
+        "category": "组织与人才管理",
+        "id": "9c3dbf4000c6",
+        "title_zh": "人力资源领导者或可利用AI提升员工福祉",
+        "summary_zh": "AI助提升福祉 · 优化员工体验 · 提高管理效率",
+        "relevance": 0.8
+      },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-09T00:00:00+00:00",
+        "published_at": "2026-10-10T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -167,19 +151,34 @@
         "id": "3c2c2dfc96b7"
       },
       {
-        "title": "HR leaders feel positive about their outlook, but can’t back it up with numbers",
-        "url": "https://www.hrdive.com/news/hr-leaders-feel-positive-about-their-outlook-but-cant-back-it-up-with-num/832807/",
-        "published_at": "2026-10-13T15:25:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "7 HR Digital Transformation Challenges HR Leaders Must Tackle",
+        "url": "https://www.aihr.com/blog/hr-digital-transformation-challenges/",
+        "published_at": "2026-10-14T10:34:30+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "组织与人才管理",
-        "id": "c20783021cc7",
-        "title_zh": "人力资源领导者对前景持乐观态度，但缺乏数据支持",
-        "summary_zh": "对前景乐观 · 缺乏数据支持 · 领导者信心不足",
+        "id": "1b8cfcbe2aba",
+        "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
+        "summary_zh": "转型需应对 · 技术整合 · 数据安全",
         "relevance": 0.5
+      },
+      {
+        "title": "Why good leaders don’t have all the answers",
+        "url": "https://hrzone.com/why-good-leaders-dont-have-all-the-answers/",
+        "published_at": "2026-10-14T07:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "ec3d193c9c64",
+        "title_zh": "为什么好领导并非全知全能",
+        "summary_zh": "不惧暴露不足 · 持续学习成长 · 善于借助团队智慧",
+        "relevance": 0.33
       },
       {
         "title": "The first 30 days: Kickstarting your new leadership role",
@@ -192,8 +191,8 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "4b948de0e3ee",
-        "title_zh": "新领导的30天：启动你的新角色",
-        "summary_zh": "融入团队 · 提升能力 · 设定目标",
+        "title_zh": "新领导的30天启动期",
+        "summary_zh": "进入新角色 · 设定目标 · 建立关系",
         "relevance": 0.33
       },
       {
@@ -207,12 +206,43 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "686a4706a6ce",
-        "title_zh": "人力资源领导者应审视自身福祉",
+        "title_zh": "HR领导者应审视自身福祉",
         "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
         "relevance": 0.33
       }
     ],
-    "学习发展与技能转型": [],
+    "学习发展与技能转型": [
+      {
+        "title": "Mailbag: How can HR keep track of employees’ credentials?",
+        "url": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
+        "published_at": "2026-10-14T20:25:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "e3ec02817aae",
+        "title_zh": "邮件包：人力资源如何追踪员工资质？",
+        "summary_zh": "追踪员工资质 · 使用系统管理 · 定期更新验证",
+        "relevance": 0.73
+      },
+      {
+        "title": "What high-impact training videos have in common",
+        "url": "https://www.chieflearningofficer.com/2026/10/14/what-high-impact-training-videos-have-in-common/",
+        "published_at": "2026-10-14T06:00:00+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "73806b3daada",
+        "title_zh": "高影响力培训视频的共性",
+        "summary_zh": "提升技能 · 增强参与 · 改善效果",
+        "relevance": 0.73
+      }
+    ],
     "HR 产品与数字化": [
       {
         "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
@@ -242,8 +272,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "7b87d9d0a08b",
-        "title_zh": "50 AI Terms for HR You Should Know + Practical HR Examples",
-        "summary_zh": "",
+        "title_zh": "人工智能术语50条HR必知及实用案例",
+        "summary_zh": "AI术语需掌握 · 实用性强 · 人力资源应用",
+        "relevance": 0.73
+      },
+      {
+        "title": "Time spent waiting to work is compensable if required, appeals court rules",
+        "url": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
+        "published_at": "2026-10-14T20:25:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "9d5706122915",
+        "title_zh": "工作时间等待补偿可诉，上诉法庭裁定",
+        "summary_zh": "等待时间可获补偿 · 法庭裁定 · 需要举证",
         "relevance": 0.5
       },
       {
@@ -257,8 +302,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "444a35f21b85",
-        "title_zh": "人工智能正使哪些技能稀缺及为何HR应关注",
-        "summary_zh": "技能需求变化 · AI影响 · HR需适应",
+        "title_zh": "人工智能正使哪些资源稀缺及其对HR的影响",
+        "summary_zh": "人才竞争加剧 · 效率提升 · 需要新技能",
         "relevance": 0.5
       },
       {
@@ -275,51 +320,6 @@
         "title_zh": "实际获得赞赏",
         "summary_zh": "真诚表达 · 适时给予 · 个性化反馈",
         "relevance": 0.5
-      },
-      {
-        "title": "The capability risk of agentic AI",
-        "url": "https://www.chieflearningofficer.com/2026/10/07/the-capability-risk-of-agentic-ai/",
-        "published_at": "2026-10-07T06:00:00+00:00",
-        "source_id": "clo",
-        "source_name": "Chief Learning Officer",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "47a5f790aae4",
-        "title_zh": "代理型AI的能力风险",
-        "summary_zh": "能力不足 · 实施困难 · 安全隐患",
-        "relevance": 0.5
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-14 — Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-        "url": "https://aihot.news/daily/2026-10-14",
-        "published_at": "2026-10-14T00:00:27+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "53c312e7c56c",
-        "title_zh": "AIHOT 日报 · 2026-10-14 — G",
-        "summary_zh": "前沿模型 · 支持科研 · 复杂工程",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-13 — Meta 发布 Muse Wonder 和 Muse Wonder Full，Artificial Analysis 实测智能水平较前代显著提升",
-        "url": "https://aihot.news/daily/2026-10-13",
-        "published_at": "2026-10-13T00:00:19+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "2b1739a0a9c2",
-        "title_zh": "AIHOT 日报 · 2026-10-13 — M",
-        "summary_zh": "智能水平显著提升 · 新产品发布 · 实测分析",
-        "relevance": 0.2
       }
     ]
   },
@@ -340,9 +340,39 @@
       "relevance": 0.81
     },
     {
+      "title": "HR leaders may be able to use AI to improve employee wellness",
+      "url": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
+      "published_at": "2026-10-14T15:21:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "组织与人才管理",
+      "id": "9c3dbf4000c6",
+      "title_zh": "人力资源领导者或可利用AI提升员工福祉",
+      "summary_zh": "AI助提升福祉 · 优化员工体验 · 提高管理效率",
+      "relevance": 0.8
+    },
+    {
+      "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
+      "url": "https://www.littler.com/news-analysis/asap/californias-2026-ai-legislation-wave-new-laws-target-ai-throughout-employment",
+      "published_at": "2026-10-14T20:46:28+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "970e2c6df407",
+      "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
+      "summary_zh": "新法覆盖就业全周期 · 2026年实施 · 目标AI应用",
+      "relevance": 0.77
+    },
+    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-09T00:00:00+00:00",
+      "published_at": "2026-10-10T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -357,7 +387,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-09T00:00:00+00:00",
+      "published_at": "2026-10-10T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -368,6 +398,21 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "Mailbag: How can HR keep track of employees’ credentials?",
+      "url": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
+      "published_at": "2026-10-14T20:25:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "e3ec02817aae",
+      "title_zh": "邮件包：人力资源如何追踪员工资质？",
+      "summary_zh": "追踪员工资质 · 使用系统管理 · 定期更新验证",
+      "relevance": 0.73
     },
     {
       "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
@@ -385,36 +430,6 @@
       "relevance": 0.73
     },
     {
-      "title": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-      "url": "https://www.hrdive.com/news/whole-foods-defeats-bias-suit-after-catching-plaintiff-faking-time-records/832779/",
-      "published_at": "2026-10-12T20:23:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "AI 招聘与招聘工具",
-      "id": "e95a6640fc4e",
-      "title_zh": "Whole Foods defeats bias suit after catching plaintiff faking time records",
-      "summary_zh": "",
-      "relevance": 0.73
-    },
-    {
-      "title": "HR leaders feel positive about their outlook, but can’t back it up with numbers",
-      "url": "https://www.hrdive.com/news/hr-leaders-feel-positive-about-their-outlook-but-cant-back-it-up-with-num/832807/",
-      "published_at": "2026-10-13T15:25:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "c20783021cc7",
-      "title_zh": "人力资源领导者对前景持乐观态度，但缺乏数据支持",
-      "summary_zh": "对前景乐观 · 缺乏数据支持 · 领导者信心不足",
-      "relevance": 0.5
-    },
-    {
       "title": "50 AI Terms for HR You Should Know + Practical HR Examples",
       "url": "https://www.aihr.com/blog/ai-terms-for-hr/",
       "published_at": "2026-10-12T15:29:35+00:00",
@@ -425,8 +440,53 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "7b87d9d0a08b",
-      "title_zh": "50 AI Terms for HR You Should Know + Practical HR Examples",
-      "summary_zh": "",
+      "title_zh": "人工智能术语50条HR必知及实用案例",
+      "summary_zh": "AI术语需掌握 · 实用性强 · 人力资源应用",
+      "relevance": 0.73
+    },
+    {
+      "title": "What high-impact training videos have in common",
+      "url": "https://www.chieflearningofficer.com/2026/10/14/what-high-impact-training-videos-have-in-common/",
+      "published_at": "2026-10-14T06:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "73806b3daada",
+      "title_zh": "高影响力培训视频的共性",
+      "summary_zh": "提升技能 · 增强参与 · 改善效果",
+      "relevance": 0.73
+    },
+    {
+      "title": "Time spent waiting to work is compensable if required, appeals court rules",
+      "url": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
+      "published_at": "2026-10-14T20:25:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "9d5706122915",
+      "title_zh": "工作时间等待补偿可诉，上诉法庭裁定",
+      "summary_zh": "等待时间可获补偿 · 法庭裁定 · 需要举证",
+      "relevance": 0.5
+    },
+    {
+      "title": "7 HR Digital Transformation Challenges HR Leaders Must Tackle",
+      "url": "https://www.aihr.com/blog/hr-digital-transformation-challenges/",
+      "published_at": "2026-10-14T10:34:30+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "1b8cfcbe2aba",
+      "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
+      "summary_zh": "转型需应对 · 技术整合 · 数据安全",
       "relevance": 0.5
     },
     {
@@ -440,8 +500,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "444a35f21b85",
-      "title_zh": "人工智能正使哪些技能稀缺及为何HR应关注",
-      "summary_zh": "技能需求变化 · AI影响 · HR需适应",
+      "title_zh": "人工智能正使哪些资源稀缺及其对HR的影响",
+      "summary_zh": "人才竞争加剧 · 效率提升 · 需要新技能",
       "relevance": 0.5
     },
     {
@@ -460,21 +520,6 @@
       "relevance": 0.5
     },
     {
-      "title": "The capability risk of agentic AI",
-      "url": "https://www.chieflearningofficer.com/2026/10/07/the-capability-risk-of-agentic-ai/",
-      "published_at": "2026-10-07T06:00:00+00:00",
-      "source_id": "clo",
-      "source_name": "Chief Learning Officer",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "47a5f790aae4",
-      "title_zh": "代理型AI的能力风险",
-      "summary_zh": "能力不足 · 实施困难 · 安全隐患",
-      "relevance": 0.5
-    },
-    {
       "title": "Red Light, Green Light: New Puerto Rico Law Spells Out That Medical Cannabis Protections Stop at the Wheel",
       "url": "https://www.littler.com/news-analysis/asap/red-light-green-light-new-puerto-rico-law-spells-out-medical-cannabis",
       "published_at": "2026-10-13T17:40:09+00:00",
@@ -486,7 +531,7 @@
       "category": "政策与劳动合规",
       "id": "5e655c5ee2ac",
       "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护在车轮前停",
-      "summary_zh": "医疗大麻受保护 · 禁止开车时使用 · 法律明确界定",
+      "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 法律明确界定",
       "relevance": 0.4
     },
     {
@@ -516,7 +561,7 @@
       "category": "政策与劳动合规",
       "id": "a39666a1cd66",
       "title_zh": "新泽西州ABC测试独立承包商法规生效",
-      "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业招聘",
+      "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业用工",
       "relevance": 0.4
     },
     {
@@ -531,37 +576,22 @@
       "category": "政策与劳动合规",
       "id": "15e4c59b0541",
       "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响全国雇主",
+      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
       "relevance": 0.4
     },
     {
-      "title": "Holiday Survival Guide: An Employment Law Q&A Feast for Employers",
-      "url": "https://www.littler.com/events/holiday-survival-guide-employment-law-qa-feast-employers",
-      "published_at": "2026-10-07T18:40:59+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "Why good leaders don’t have all the answers",
+      "url": "https://hrzone.com/why-good-leaders-dont-have-all-the-answers/",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "bbd5efc3cb6a",
-      "title_zh": "假期生存指南：雇主劳动法问答盛宴",
-      "summary_zh": "关注法律风险 · 保护员工权益 · 合规操作",
-      "relevance": 0.4
-    },
-    {
-      "title": "Company’s male-only job openings lead to $500K settlement with EEOC",
-      "url": "https://www.hrdive.com/news/companys-male-only-job-openings-lead-to-500k-settlement-with-eeoc/832733/",
-      "published_at": "2026-10-12T15:36:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "3779348f1eb7",
-      "title_zh": "公司男性专属职位 openings导致与 EEOC",
-      "summary_zh": "男性职位受限 · EEOC 调查 · 50 万美元和解",
+      "category": "组织与人才管理",
+      "id": "ec3d193c9c64",
+      "title_zh": "为什么好领导并非全知全能",
+      "summary_zh": "不惧暴露不足 · 持续学习成长 · 善于借助团队智慧",
       "relevance": 0.33
     },
     {
@@ -575,8 +605,8 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "4b948de0e3ee",
-      "title_zh": "新领导的30天：启动你的新角色",
-      "summary_zh": "融入团队 · 提升能力 · 设定目标",
+      "title_zh": "新领导的30天启动期",
+      "summary_zh": "进入新角色 · 设定目标 · 建立关系",
       "relevance": 0.33
     },
     {
@@ -590,39 +620,9 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "686a4706a6ce",
-      "title_zh": "人力资源领导者应审视自身福祉",
+      "title_zh": "HR领导者应审视自身福祉",
       "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
       "relevance": 0.33
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-14 — Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-      "url": "https://aihot.news/daily/2026-10-14",
-      "published_at": "2026-10-14T00:00:27+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "53c312e7c56c",
-      "title_zh": "AIHOT 日报 · 2026-10-14 — G",
-      "summary_zh": "前沿模型 · 支持科研 · 复杂工程",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-13 — Meta 发布 Muse Wonder 和 Muse Wonder Full，Artificial Analysis 实测智能水平较前代显著提升",
-      "url": "https://aihot.news/daily/2026-10-13",
-      "published_at": "2026-10-13T00:00:19+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "2b1739a0a9c2",
-      "title_zh": "AIHOT 日报 · 2026-10-13 — M",
-      "summary_zh": "智能水平显著提升 · 新产品发布 · 实测分析",
-      "relevance": 0.2
     }
   ]
 }
