@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:09:05.781171+08:00",
+  "generated_at": "2026-10-16T12:05:45.522316+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -13,21 +13,6 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
-        "title": "Employers Fear AI Will Fuel Union Campaigns, but Most Haven't Updated Labor Playbooks, Littler Survey Finds",
-        "url": "https://www.littler.com/press/news/employers-fear-ai-will-fuel-union-campaigns-most-havent-updated-labor-playbooks-littler",
-        "published_at": "2026-10-08T16:54:56+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "e2957043ba72",
-        "title_zh": "雇主担忧AI将助长工会运动，但多数未更新劳资策略，",
-        "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 调查揭示",
-        "relevance": 0.81
-      },
-      {
         "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
         "url": "https://www.littler.com/news-analysis/asap/californias-2026-ai-legislation-wave-new-laws-target-ai-throughout-employment",
         "published_at": "2026-10-14T20:46:28+00:00",
@@ -39,13 +24,13 @@
         "category": "政策与劳动合规",
         "id": "970e2c6df407",
         "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
-        "summary_zh": "新法覆盖就业全周期 · 2026年实施 · 目标AI应用",
+        "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 涉及AI应用",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-10T00:00:00+00:00",
+        "published_at": "2026-10-11T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -86,36 +71,6 @@
         "title_zh": "员工能否单方面取消育儿假？德国联邦劳动法院为企业提",
         "summary_zh": "员工不可单方面取消育儿假 · 法院提供明确指引 · 企业需遵守规定",
         "relevance": 0.4
-      },
-      {
-        "title": "New Jersey independent contractor regulation with ABC test is in effect",
-        "url": "https://www.littler.com/press/news/new-jersey-independent-contractor-regulation-abc-test-effect",
-        "published_at": "2026-10-08T17:06:01+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "a39666a1cd66",
-        "title_zh": "新泽西州ABC测试独立承包商法规生效",
-        "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业用工",
-        "relevance": 0.4
-      },
-      {
-        "title": "Minimum wage increases could create wage compression, add complexity for national employers: expert",
-        "url": "https://www.littler.com/press/news/minimum-wage-increases-could-create-wage-compression-add-complexity-national-employers",
-        "published_at": "2026-10-08T17:01:13+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "15e4c59b0541",
-        "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-        "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
-        "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -132,13 +87,13 @@
         "category": "组织与人才管理",
         "id": "9c3dbf4000c6",
         "title_zh": "人力资源领导者或可利用AI提升员工福祉",
-        "summary_zh": "AI助提升福祉 · 优化员工体验 · 提高管理效率",
+        "summary_zh": "AI助提升福祉 · 改善员工状态 · 提高工作效率",
         "relevance": 0.8
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-10T00:00:00+00:00",
+        "published_at": "2026-10-11T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -162,8 +117,23 @@
         "category": "组织与人才管理",
         "id": "1b8cfcbe2aba",
         "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
-        "summary_zh": "转型需应对 · 技术整合 · 数据安全",
+        "summary_zh": "转型需应对 · 技术整合 · 数据安全 · 领导力提升",
         "relevance": 0.5
+      },
+      {
+        "title": "Leaders say they are worried about their ability to handle change",
+        "url": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
+        "published_at": "2026-10-15T14:43:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "01b1a166e763",
+        "title_zh": "领导担心应对变化的能力",
+        "summary_zh": "应对变化的能力不足 · 对变化感到担忧 · 领导层表示忧虑",
+        "relevance": 0.33
       },
       {
         "title": "Why good leaders don’t have all the answers",
@@ -177,7 +147,7 @@
         "category": "组织与人才管理",
         "id": "ec3d193c9c64",
         "title_zh": "为什么好领导并非全知全能",
-        "summary_zh": "不惧暴露不足 · 持续学习成长 · 善于借助团队智慧",
+        "summary_zh": "好领导承认不足 · 好领导善于学习 · 好领导依靠团队",
         "relevance": 0.33
       },
       {
@@ -192,26 +162,41 @@
         "category": "组织与人才管理",
         "id": "4b948de0e3ee",
         "title_zh": "新领导的30天启动期",
-        "summary_zh": "进入新角色 · 设定目标 · 建立关系",
-        "relevance": 0.33
-      },
-      {
-        "title": "What every HR leader should ask themselves about their wellbeing",
-        "url": "https://hrzone.com/what-every-hr-leader-should-ask-themselves-about-their-wellbeing/",
-        "published_at": "2026-10-08T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "686a4706a6ce",
-        "title_zh": "HR领导者应审视自身福祉",
-        "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+        "summary_zh": "融入团队 · 设定目标 · 传递愿景",
         "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
+      {
+        "title": "Littler Edge Training - November 2026",
+        "url": "https://www.littler.com/events/littler-edge-training-november-2026",
+        "published_at": "2026-10-15T15:48:24+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "b079a06ffaa3",
+        "title_zh": "利特尔优势培训 - 2026年11月",
+        "summary_zh": "提升技能 · 培训机会 · 时间确定",
+        "relevance": 0.77
+      },
+      {
+        "title": "This week in 5 numbers: Workers would spend up to $2,500 on their own training",
+        "url": "https://www.hrdive.com/news/workers-would-spend-up-to-2500-on-their-own-training/833145/",
+        "published_at": "2026-10-15T20:51:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "e2b931c32882",
+        "title_zh": "本周五大数据：员工自费培训最高达2500美元",
+        "summary_zh": "自费培训支出高 · 员工投入大 · 超额预算支出",
+        "relevance": 0.73
+      },
       {
         "title": "Mailbag: How can HR keep track of employees’ credentials?",
         "url": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
@@ -224,7 +209,7 @@
         "category": "学习发展与技能转型",
         "id": "e3ec02817aae",
         "title_zh": "邮件包：人力资源如何追踪员工资质？",
-        "summary_zh": "追踪员工资质 · 使用系统管理 · 定期更新验证",
+        "summary_zh": "追踪员工资质 · 保障信息安全 · 提升管理效率",
         "relevance": 0.73
       },
       {
@@ -238,43 +223,42 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "73806b3daada",
-        "title_zh": "高影响力培训视频的共性",
+        "title_zh": "高影响力培训视频的共同点",
         "summary_zh": "提升技能 · 增强参与 · 改善效果",
         "relevance": 0.73
-      }
-    ],
-    "HR 产品与数字化": [
+      },
       {
-        "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-        "url": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
-        "published_at": "2026-10-13T19:58:00+00:00",
+        "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
+        "url": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
+        "published_at": "2026-10-15T14:43:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "HR 产品与数字化",
-        "id": "004c756fda33",
-        "title_zh": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-        "summary_zh": "",
-        "relevance": 0.73
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "b274f1b363fc",
+        "title_zh": "CEO渴望能谈战略与技能的企业级HR负责人",
+        "summary_zh": "谈战略 · 强技能 · 企业级",
+        "relevance": 0.5
       }
     ],
+    "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
-        "title": "50 AI Terms for HR You Should Know + Practical HR Examples",
-        "url": "https://www.aihr.com/blog/ai-terms-for-hr/",
-        "published_at": "2026-10-12T15:29:35+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
+        "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
+        "url": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
+        "published_at": "2026-10-15T16:36:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "7b87d9d0a08b",
-        "title_zh": "人工智能术语50条HR必知及实用案例",
-        "summary_zh": "AI术语需掌握 · 实用性强 · 人力资源应用",
-        "relevance": 0.73
+        "id": "4e0d6f90232a",
+        "title_zh": "沃尔玛计划为员工提供免费处方药、带薪新生儿重症监护",
+        "summary_zh": "免费处方药 · 带薪NICU休假 · 员工福利",
+        "relevance": 0.5
       },
       {
         "title": "Time spent waiting to work is compensable if required, appeals court rules",
@@ -287,8 +271,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "9d5706122915",
-        "title_zh": "工作时间等待补偿可诉，上诉法庭裁定",
-        "summary_zh": "等待时间可获补偿 · 法庭裁定 · 需要举证",
+        "title_zh": "工作时间等待可获补偿，上诉法院裁定",
+        "summary_zh": "等待时间可获补偿 · 法院裁定 · 需满足条件",
+        "relevance": 0.5
+      },
+      {
+        "title": "50 AI Terms for HR You Should Know + Practical HR Examples",
+        "url": "https://www.aihr.com/blog/ai-terms-for-hr/",
+        "published_at": "2026-10-12T15:29:35+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "7b87d9d0a08b",
+        "title_zh": "50 AI Terms for HR You Should Know + Practical HR Examples",
+        "summary_zh": "",
         "relevance": 0.5
       },
       {
@@ -325,21 +324,6 @@
   },
   "all_items": [
     {
-      "title": "Employers Fear AI Will Fuel Union Campaigns, but Most Haven't Updated Labor Playbooks, Littler Survey Finds",
-      "url": "https://www.littler.com/press/news/employers-fear-ai-will-fuel-union-campaigns-most-havent-updated-labor-playbooks-littler",
-      "published_at": "2026-10-08T16:54:56+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "e2957043ba72",
-      "title_zh": "雇主担忧AI将助长工会运动，但多数未更新劳资策略，",
-      "summary_zh": "AI助长工会运动 · 多数未更新劳资策略 · 调查揭示",
-      "relevance": 0.81
-    },
-    {
       "title": "HR leaders may be able to use AI to improve employee wellness",
       "url": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
       "published_at": "2026-10-14T15:21:00+00:00",
@@ -351,8 +335,23 @@
       "category": "组织与人才管理",
       "id": "9c3dbf4000c6",
       "title_zh": "人力资源领导者或可利用AI提升员工福祉",
-      "summary_zh": "AI助提升福祉 · 优化员工体验 · 提高管理效率",
+      "summary_zh": "AI助提升福祉 · 改善员工状态 · 提高工作效率",
       "relevance": 0.8
+    },
+    {
+      "title": "Littler Edge Training - November 2026",
+      "url": "https://www.littler.com/events/littler-edge-training-november-2026",
+      "published_at": "2026-10-15T15:48:24+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "b079a06ffaa3",
+      "title_zh": "利特尔优势培训 - 2026年11月",
+      "summary_zh": "提升技能 · 培训机会 · 时间确定",
+      "relevance": 0.77
     },
     {
       "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
@@ -366,13 +365,13 @@
       "category": "政策与劳动合规",
       "id": "970e2c6df407",
       "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
-      "summary_zh": "新法覆盖就业全周期 · 2026年实施 · 目标AI应用",
+      "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 涉及AI应用",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-10T00:00:00+00:00",
+      "published_at": "2026-10-11T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -387,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-10T00:00:00+00:00",
+      "published_at": "2026-10-11T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -398,6 +397,21 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "This week in 5 numbers: Workers would spend up to $2,500 on their own training",
+      "url": "https://www.hrdive.com/news/workers-would-spend-up-to-2500-on-their-own-training/833145/",
+      "published_at": "2026-10-15T20:51:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "e2b931c32882",
+      "title_zh": "本周五大数据：员工自费培训最高达2500美元",
+      "summary_zh": "自费培训支出高 · 员工投入大 · 超额预算支出",
+      "relevance": 0.73
     },
     {
       "title": "Mailbag: How can HR keep track of employees’ credentials?",
@@ -411,37 +425,7 @@
       "category": "学习发展与技能转型",
       "id": "e3ec02817aae",
       "title_zh": "邮件包：人力资源如何追踪员工资质？",
-      "summary_zh": "追踪员工资质 · 使用系统管理 · 定期更新验证",
-      "relevance": 0.73
-    },
-    {
-      "title": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-      "url": "https://www.hrdive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832890/",
-      "published_at": "2026-10-13T19:58:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "HR 产品与数字化",
-      "id": "004c756fda33",
-      "title_zh": "Workday brings autopilots to hiring, payroll in autonomous AI bet",
-      "summary_zh": "",
-      "relevance": 0.73
-    },
-    {
-      "title": "50 AI Terms for HR You Should Know + Practical HR Examples",
-      "url": "https://www.aihr.com/blog/ai-terms-for-hr/",
-      "published_at": "2026-10-12T15:29:35+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "7b87d9d0a08b",
-      "title_zh": "人工智能术语50条HR必知及实用案例",
-      "summary_zh": "AI术语需掌握 · 实用性强 · 人力资源应用",
+      "summary_zh": "追踪员工资质 · 保障信息安全 · 提升管理效率",
       "relevance": 0.73
     },
     {
@@ -455,9 +439,39 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "73806b3daada",
-      "title_zh": "高影响力培训视频的共性",
+      "title_zh": "高影响力培训视频的共同点",
       "summary_zh": "提升技能 · 增强参与 · 改善效果",
       "relevance": 0.73
+    },
+    {
+      "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
+      "url": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
+      "published_at": "2026-10-15T16:36:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "4e0d6f90232a",
+      "title_zh": "沃尔玛计划为员工提供免费处方药、带薪新生儿重症监护",
+      "summary_zh": "免费处方药 · 带薪NICU休假 · 员工福利",
+      "relevance": 0.5
+    },
+    {
+      "title": "CEOs want ‘enterprise CHROs’ who can talk strategy and skills, report finds",
+      "url": "https://www.hrdive.com/news/ceos-want-enterprise-chros-who-can-help-drive-long-term-performance/833081/",
+      "published_at": "2026-10-15T14:43:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "b274f1b363fc",
+      "title_zh": "CEO渴望能谈战略与技能的企业级HR负责人",
+      "summary_zh": "谈战略 · 强技能 · 企业级",
+      "relevance": 0.5
     },
     {
       "title": "Time spent waiting to work is compensable if required, appeals court rules",
@@ -470,8 +484,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "9d5706122915",
-      "title_zh": "工作时间等待补偿可诉，上诉法庭裁定",
-      "summary_zh": "等待时间可获补偿 · 法庭裁定 · 需要举证",
+      "title_zh": "工作时间等待可获补偿，上诉法院裁定",
+      "summary_zh": "等待时间可获补偿 · 法院裁定 · 需满足条件",
       "relevance": 0.5
     },
     {
@@ -486,7 +500,22 @@
       "category": "组织与人才管理",
       "id": "1b8cfcbe2aba",
       "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
-      "summary_zh": "转型需应对 · 技术整合 · 数据安全",
+      "summary_zh": "转型需应对 · 技术整合 · 数据安全 · 领导力提升",
+      "relevance": 0.5
+    },
+    {
+      "title": "50 AI Terms for HR You Should Know + Practical HR Examples",
+      "url": "https://www.aihr.com/blog/ai-terms-for-hr/",
+      "published_at": "2026-10-12T15:29:35+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "7b87d9d0a08b",
+      "title_zh": "50 AI Terms for HR You Should Know + Practical HR Examples",
+      "summary_zh": "",
       "relevance": 0.5
     },
     {
@@ -550,34 +579,19 @@
       "relevance": 0.4
     },
     {
-      "title": "New Jersey independent contractor regulation with ABC test is in effect",
-      "url": "https://www.littler.com/press/news/new-jersey-independent-contractor-regulation-abc-test-effect",
-      "published_at": "2026-10-08T17:06:01+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "Leaders say they are worried about their ability to handle change",
+      "url": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
+      "published_at": "2026-10-15T14:43:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "a39666a1cd66",
-      "title_zh": "新泽西州ABC测试独立承包商法规生效",
-      "summary_zh": "ABC测试定义独立承包商 · 规范用工关系 · 影响企业用工",
-      "relevance": 0.4
-    },
-    {
-      "title": "Minimum wage increases could create wage compression, add complexity for national employers: expert",
-      "url": "https://www.littler.com/press/news/minimum-wage-increases-could-create-wage-compression-add-complexity-national-employers",
-      "published_at": "2026-10-08T17:01:13+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "15e4c59b0541",
-      "title_zh": "最低工资上调或致薪酬压缩、增加全国雇主复杂性：专家",
-      "summary_zh": "薪酬压缩 · 复杂性增加 · 影响雇主",
-      "relevance": 0.4
+      "category": "组织与人才管理",
+      "id": "01b1a166e763",
+      "title_zh": "领导担心应对变化的能力",
+      "summary_zh": "应对变化的能力不足 · 对变化感到担忧 · 领导层表示忧虑",
+      "relevance": 0.33
     },
     {
       "title": "Why good leaders don’t have all the answers",
@@ -591,7 +605,7 @@
       "category": "组织与人才管理",
       "id": "ec3d193c9c64",
       "title_zh": "为什么好领导并非全知全能",
-      "summary_zh": "不惧暴露不足 · 持续学习成长 · 善于借助团队智慧",
+      "summary_zh": "好领导承认不足 · 好领导善于学习 · 好领导依靠团队",
       "relevance": 0.33
     },
     {
@@ -606,22 +620,7 @@
       "category": "组织与人才管理",
       "id": "4b948de0e3ee",
       "title_zh": "新领导的30天启动期",
-      "summary_zh": "进入新角色 · 设定目标 · 建立关系",
-      "relevance": 0.33
-    },
-    {
-      "title": "What every HR leader should ask themselves about their wellbeing",
-      "url": "https://hrzone.com/what-every-hr-leader-should-ask-themselves-about-their-wellbeing/",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "686a4706a6ce",
-      "title_zh": "HR领导者应审视自身福祉",
-      "summary_zh": "关注身心健康 · 优化工作平衡 · 推动组织支持",
+      "summary_zh": "融入团队 · 设定目标 · 传递愿景",
       "relevance": 0.33
     }
   ]
