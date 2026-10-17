@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:05:45.522316+08:00",
+  "generated_at": "2026-10-17T11:56:14.500972+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -13,6 +13,21 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
+        "title": "New York City Commission on Human Rights Adopts Final Rules Implementing Amendments to Fair Chance Act",
+        "url": "https://www.littler.com/news-analysis/asap/new-york-city-commission-human-rights-adopts-final-rules-implementing-amendments",
+        "published_at": "2026-10-16T16:19:12+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "61356d09999f",
+        "title_zh": "纽约市人权委员会通过最终规则实施公平机会法案",
+        "summary_zh": "实施公平机会法案修订 · 制定新规则 · 促进就业公平",
+        "relevance": 0.77
+      },
+      {
         "title": "California's 2026 AI Legislation Wave: New Laws Target AI Throughout the Employment Lifecycle",
         "url": "https://www.littler.com/news-analysis/asap/californias-2026-ai-legislation-wave-new-laws-target-ai-throughout-employment",
         "published_at": "2026-10-14T20:46:28+00:00",
@@ -24,13 +39,13 @@
         "category": "政策与劳动合规",
         "id": "970e2c6df407",
         "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
-        "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 涉及AI应用",
+        "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 目标AI应用",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-11T00:00:00+00:00",
+        "published_at": "2026-10-12T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -41,6 +56,21 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
+      },
+      {
+        "title": "FMLA Leave and RIF Decisions: Why the Record Matters",
+        "url": "https://www.littler.com/news-analysis/asap/fmla-leave-and-rif-decisions-why-record-matters",
+        "published_at": "2026-10-16T18:26:16+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "6bda51fb8ce3",
+        "title_zh": "FMLA休假与裁员决定：记录为何重要",
+        "summary_zh": "记录影响决策 · 保护员工权益 · 避免法律风险",
+        "relevance": 0.6
       },
       {
         "title": "Red Light, Green Light: New Puerto Rico Law Spells Out That Medical Cannabis Protections Stop at the Wheel",
@@ -54,7 +84,7 @@
         "category": "政策与劳动合规",
         "id": "5e655c5ee2ac",
         "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护在车轮前停",
-        "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 法律明确界定",
+        "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 新法律明确界定",
         "relevance": 0.4
       },
       {
@@ -76,24 +106,9 @@
     "AI 招聘与招聘工具": [],
     "组织与人才管理": [
       {
-        "title": "HR leaders may be able to use AI to improve employee wellness",
-        "url": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
-        "published_at": "2026-10-14T15:21:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "9c3dbf4000c6",
-        "title_zh": "人力资源领导者或可利用AI提升员工福祉",
-        "summary_zh": "AI助提升福祉 · 改善员工状态 · 提高工作效率",
-        "relevance": 0.8
-      },
-      {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-11T00:00:00+00:00",
+        "published_at": "2026-10-12T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -117,23 +132,8 @@
         "category": "组织与人才管理",
         "id": "1b8cfcbe2aba",
         "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
-        "summary_zh": "转型需应对 · 技术整合 · 数据安全 · 领导力提升",
+        "summary_zh": "转型需应对 · 技术整合 · 数据安全",
         "relevance": 0.5
-      },
-      {
-        "title": "Leaders say they are worried about their ability to handle change",
-        "url": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
-        "published_at": "2026-10-15T14:43:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "01b1a166e763",
-        "title_zh": "领导担心应对变化的能力",
-        "summary_zh": "应对变化的能力不足 · 对变化感到担忧 · 领导层表示忧虑",
-        "relevance": 0.33
       },
       {
         "title": "Why good leaders don’t have all the answers",
@@ -146,23 +146,8 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "ec3d193c9c64",
-        "title_zh": "为什么好领导并非全知全能",
-        "summary_zh": "好领导承认不足 · 好领导善于学习 · 好领导依靠团队",
-        "relevance": 0.33
-      },
-      {
-        "title": "The first 30 days: Kickstarting your new leadership role",
-        "url": "https://hrzone.com/the-first-30-days-kickstarting-your-new-leadership-role/",
-        "published_at": "2026-10-13T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "4b948de0e3ee",
-        "title_zh": "新领导的30天启动期",
-        "summary_zh": "融入团队 · 设定目标 · 传递愿景",
+        "title_zh": "为什么优秀领导者并非全知全能",
+        "summary_zh": "不惧暴露不足 · 持续学习成长 · 鼓励团队创新",
         "relevance": 0.33
       }
     ],
@@ -198,21 +183,6 @@
         "relevance": 0.73
       },
       {
-        "title": "Mailbag: How can HR keep track of employees’ credentials?",
-        "url": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
-        "published_at": "2026-10-14T20:25:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "e3ec02817aae",
-        "title_zh": "邮件包：人力资源如何追踪员工资质？",
-        "summary_zh": "追踪员工资质 · 保障信息安全 · 提升管理效率",
-        "relevance": 0.73
-      },
-      {
         "title": "What high-impact training videos have in common",
         "url": "https://www.chieflearningofficer.com/2026/10/14/what-high-impact-training-videos-have-in-common/",
         "published_at": "2026-10-14T06:00:00+00:00",
@@ -241,10 +211,70 @@
         "title_zh": "CEO渴望能谈战略与技能的企业级HR负责人",
         "summary_zh": "谈战略 · 强技能 · 企业级",
         "relevance": 0.5
+      },
+      {
+        "title": "Skills Gap Analysis Guide With Examples & Free Templates",
+        "url": "https://www.aihr.com/blog/skills-gap-analysis/",
+        "published_at": "2026-10-16T10:59:38+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "a942676c3804",
+        "title_zh": "技能差距分析指南及示例与免费模板",
+        "summary_zh": "识别技能差距 · 提供解决方案 · 下载模板",
+        "relevance": 0.33
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "AI is the root of recruiters’ biggest stressors, survey says",
+        "url": "https://www.hrdive.com/news/ai-is-the-root-of-recruiters-biggest-stressors-survey-says/833223/",
+        "published_at": "2026-10-16T14:10:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "案例、报告与趋势",
+        "id": "e4eaba1e61bd",
+        "title_zh": "人工智能是招聘人员最大压力的根源，调查称",
+        "summary_zh": "AI加剧招聘压力 · 增加工作难度 · 影响效率",
+        "relevance": 0.73
+      },
+      {
+        "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
+        "url": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
+        "published_at": "2026-10-16T20:25:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "a357d55e5473",
+        "title_zh": "“你为什么不退休？”铁路工人赢得160万美元年龄歧",
+        "summary_zh": "年龄歧视 · 赔偿金160万美元 · 铁路工人",
+        "relevance": 0.5
+      },
+      {
+        "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
+        "url": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
+        "published_at": "2026-10-16T14:24:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "5aff469ec739",
+        "title_zh": "招聘人员借助AI更快找到人——但对候选人的信心并未",
+        "summary_zh": "AI提速招聘 · 信心未增 · 候选人评估",
+        "relevance": 0.5
+      },
       {
         "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
         "url": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
@@ -256,23 +286,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "4e0d6f90232a",
-        "title_zh": "沃尔玛计划为员工提供免费处方药、带薪新生儿重症监护",
-        "summary_zh": "免费处方药 · 带薪NICU休假 · 员工福利",
-        "relevance": 0.5
-      },
-      {
-        "title": "Time spent waiting to work is compensable if required, appeals court rules",
-        "url": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
-        "published_at": "2026-10-14T20:25:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "9d5706122915",
-        "title_zh": "工作时间等待可获补偿，上诉法院裁定",
-        "summary_zh": "等待时间可获补偿 · 法院裁定 · 需满足条件",
+        "title_zh": "沃尔玛计划为员工提供免费处方药、支付NICU产假",
+        "summary_zh": "免费处方药 · 支付NICU产假 · 员工福利",
         "relevance": 0.5
       },
       {
@@ -291,21 +306,6 @@
         "relevance": 0.5
       },
       {
-        "title": "What AI is making scarce and why HR should care",
-        "url": "https://hrzone.com/what-ai-is-making-scarce-and-why-hr-should-care/",
-        "published_at": "2026-10-09T07:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "444a35f21b85",
-        "title_zh": "人工智能正使哪些资源稀缺及其对HR的影响",
-        "summary_zh": "人才竞争加剧 · 效率提升 · 需要新技能",
-        "relevance": 0.5
-      },
-      {
         "title": "The praise that actually lands",
         "url": "https://www.chieflearningofficer.com/2026/10/12/the-praise-that-actually-lands/",
         "published_at": "2026-10-12T06:00:00+00:00",
@@ -316,27 +316,27 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "5dd2c83410ed",
-        "title_zh": "实际获得赞赏",
-        "summary_zh": "真诚表达 · 适时给予 · 个性化反馈",
+        "title_zh": "真正的赞扬才能打动人心",
+        "summary_zh": "赞扬需真诚 · 赞扬需具体 · 赞扬需及时",
         "relevance": 0.5
       }
     ]
   },
   "all_items": [
     {
-      "title": "HR leaders may be able to use AI to improve employee wellness",
-      "url": "https://www.hrdive.com/news/hr-leaders-may-be-able-to-use-ai-to-improve-employee-wellness/832960/",
-      "published_at": "2026-10-14T15:21:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "New York City Commission on Human Rights Adopts Final Rules Implementing Amendments to Fair Chance Act",
+      "url": "https://www.littler.com/news-analysis/asap/new-york-city-commission-human-rights-adopts-final-rules-implementing-amendments",
+      "published_at": "2026-10-16T16:19:12+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "9c3dbf4000c6",
-      "title_zh": "人力资源领导者或可利用AI提升员工福祉",
-      "summary_zh": "AI助提升福祉 · 改善员工状态 · 提高工作效率",
-      "relevance": 0.8
+      "category": "政策与劳动合规",
+      "id": "61356d09999f",
+      "title_zh": "纽约市人权委员会通过最终规则实施公平机会法案",
+      "summary_zh": "实施公平机会法案修订 · 制定新规则 · 促进就业公平",
+      "relevance": 0.77
     },
     {
       "title": "Littler Edge Training - November 2026",
@@ -365,13 +365,13 @@
       "category": "政策与劳动合规",
       "id": "970e2c6df407",
       "title_zh": "加州2026年AI立法浪潮：新法覆盖就业全周期",
-      "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 涉及AI应用",
+      "summary_zh": "新法覆盖就业全周期 · 2026年生效 · 目标AI应用",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-11T00:00:00+00:00",
+      "published_at": "2026-10-12T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-11T00:00:00+00:00",
+      "published_at": "2026-10-12T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -397,6 +397,21 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
+    },
+    {
+      "title": "AI is the root of recruiters’ biggest stressors, survey says",
+      "url": "https://www.hrdive.com/news/ai-is-the-root-of-recruiters-biggest-stressors-survey-says/833223/",
+      "published_at": "2026-10-16T14:10:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "案例、报告与趋势",
+      "id": "e4eaba1e61bd",
+      "title_zh": "人工智能是招聘人员最大压力的根源，调查称",
+      "summary_zh": "AI加剧招聘压力 · 增加工作难度 · 影响效率",
+      "relevance": 0.73
     },
     {
       "title": "This week in 5 numbers: Workers would spend up to $2,500 on their own training",
@@ -411,21 +426,6 @@
       "id": "e2b931c32882",
       "title_zh": "本周五大数据：员工自费培训最高达2500美元",
       "summary_zh": "自费培训支出高 · 员工投入大 · 超额预算支出",
-      "relevance": 0.73
-    },
-    {
-      "title": "Mailbag: How can HR keep track of employees’ credentials?",
-      "url": "https://www.hrdive.com/news/mailbag-how-can-hr-keep-track-of-employee-credentials/833016/",
-      "published_at": "2026-10-14T20:25:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "e3ec02817aae",
-      "title_zh": "邮件包：人力资源如何追踪员工资质？",
-      "summary_zh": "追踪员工资质 · 保障信息安全 · 提升管理效率",
       "relevance": 0.73
     },
     {
@@ -444,6 +444,51 @@
       "relevance": 0.73
     },
     {
+      "title": "FMLA Leave and RIF Decisions: Why the Record Matters",
+      "url": "https://www.littler.com/news-analysis/asap/fmla-leave-and-rif-decisions-why-record-matters",
+      "published_at": "2026-10-16T18:26:16+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "6bda51fb8ce3",
+      "title_zh": "FMLA休假与裁员决定：记录为何重要",
+      "summary_zh": "记录影响决策 · 保护员工权益 · 避免法律风险",
+      "relevance": 0.6
+    },
+    {
+      "title": "‘Why haven’t you retired?’: Railroader gets $1.6M in age bias win",
+      "url": "https://www.hrdive.com/news/why-havent-you-retired-railroader-age-bias-win/833286/",
+      "published_at": "2026-10-16T20:25:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "a357d55e5473",
+      "title_zh": "“你为什么不退休？”铁路工人赢得160万美元年龄歧",
+      "summary_zh": "年龄歧视 · 赔偿金160万美元 · 铁路工人",
+      "relevance": 0.5
+    },
+    {
+      "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
+      "url": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
+      "published_at": "2026-10-16T14:24:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "5aff469ec739",
+      "title_zh": "招聘人员借助AI更快找到人——但对候选人的信心并未",
+      "summary_zh": "AI提速招聘 · 信心未增 · 候选人评估",
+      "relevance": 0.5
+    },
+    {
       "title": "Walmart plans to offer employees free prescriptions, paid NICU leave",
       "url": "https://www.hrdive.com/news/walmart-plans-to-offer-employees-free-prescriptions-paid-nicu-leave/832988/",
       "published_at": "2026-10-15T16:36:00+00:00",
@@ -454,8 +499,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "4e0d6f90232a",
-      "title_zh": "沃尔玛计划为员工提供免费处方药、带薪新生儿重症监护",
-      "summary_zh": "免费处方药 · 带薪NICU休假 · 员工福利",
+      "title_zh": "沃尔玛计划为员工提供免费处方药、支付NICU产假",
+      "summary_zh": "免费处方药 · 支付NICU产假 · 员工福利",
       "relevance": 0.5
     },
     {
@@ -474,21 +519,6 @@
       "relevance": 0.5
     },
     {
-      "title": "Time spent waiting to work is compensable if required, appeals court rules",
-      "url": "https://www.hrdive.com/news/employee-pay-waiting-time-clock-in-lidl/833030/",
-      "published_at": "2026-10-14T20:25:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "9d5706122915",
-      "title_zh": "工作时间等待可获补偿，上诉法院裁定",
-      "summary_zh": "等待时间可获补偿 · 法院裁定 · 需满足条件",
-      "relevance": 0.5
-    },
-    {
       "title": "7 HR Digital Transformation Challenges HR Leaders Must Tackle",
       "url": "https://www.aihr.com/blog/hr-digital-transformation-challenges/",
       "published_at": "2026-10-14T10:34:30+00:00",
@@ -500,7 +530,7 @@
       "category": "组织与人才管理",
       "id": "1b8cfcbe2aba",
       "title_zh": "7 HR数字化转型挑战人力资源领导者必须应对",
-      "summary_zh": "转型需应对 · 技术整合 · 数据安全 · 领导力提升",
+      "summary_zh": "转型需应对 · 技术整合 · 数据安全",
       "relevance": 0.5
     },
     {
@@ -519,21 +549,6 @@
       "relevance": 0.5
     },
     {
-      "title": "What AI is making scarce and why HR should care",
-      "url": "https://hrzone.com/what-ai-is-making-scarce-and-why-hr-should-care/",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "444a35f21b85",
-      "title_zh": "人工智能正使哪些资源稀缺及其对HR的影响",
-      "summary_zh": "人才竞争加剧 · 效率提升 · 需要新技能",
-      "relevance": 0.5
-    },
-    {
       "title": "The praise that actually lands",
       "url": "https://www.chieflearningofficer.com/2026/10/12/the-praise-that-actually-lands/",
       "published_at": "2026-10-12T06:00:00+00:00",
@@ -544,8 +559,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "5dd2c83410ed",
-      "title_zh": "实际获得赞赏",
-      "summary_zh": "真诚表达 · 适时给予 · 个性化反馈",
+      "title_zh": "真正的赞扬才能打动人心",
+      "summary_zh": "赞扬需真诚 · 赞扬需具体 · 赞扬需及时",
       "relevance": 0.5
     },
     {
@@ -560,7 +575,7 @@
       "category": "政策与劳动合规",
       "id": "5e655c5ee2ac",
       "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护在车轮前停",
-      "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 法律明确界定",
+      "summary_zh": "医疗大麻保护有限 · 不适用于驾驶 · 新法律明确界定",
       "relevance": 0.4
     },
     {
@@ -579,18 +594,18 @@
       "relevance": 0.4
     },
     {
-      "title": "Leaders say they are worried about their ability to handle change",
-      "url": "https://www.hrdive.com/news/leaders-say-they-are-worried-about-their-ability-to-handle-change/833077/",
-      "published_at": "2026-10-15T14:43:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "Skills Gap Analysis Guide With Examples & Free Templates",
+      "url": "https://www.aihr.com/blog/skills-gap-analysis/",
+      "published_at": "2026-10-16T10:59:38+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "01b1a166e763",
-      "title_zh": "领导担心应对变化的能力",
-      "summary_zh": "应对变化的能力不足 · 对变化感到担忧 · 领导层表示忧虑",
+      "category": "学习发展与技能转型",
+      "id": "a942676c3804",
+      "title_zh": "技能差距分析指南及示例与免费模板",
+      "summary_zh": "识别技能差距 · 提供解决方案 · 下载模板",
       "relevance": 0.33
     },
     {
@@ -604,23 +619,8 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "ec3d193c9c64",
-      "title_zh": "为什么好领导并非全知全能",
-      "summary_zh": "好领导承认不足 · 好领导善于学习 · 好领导依靠团队",
-      "relevance": 0.33
-    },
-    {
-      "title": "The first 30 days: Kickstarting your new leadership role",
-      "url": "https://hrzone.com/the-first-30-days-kickstarting-your-new-leadership-role/",
-      "published_at": "2026-10-13T07:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "4b948de0e3ee",
-      "title_zh": "新领导的30天启动期",
-      "summary_zh": "融入团队 · 设定目标 · 传递愿景",
+      "title_zh": "为什么优秀领导者并非全知全能",
+      "summary_zh": "不惧暴露不足 · 持续学习成长 · 鼓励团队创新",
       "relevance": 0.33
     }
   ]
