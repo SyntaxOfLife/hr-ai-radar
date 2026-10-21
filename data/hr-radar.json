@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:23:13.421596+08:00",
+  "generated_at": "2026-10-21T12:13:51.311787+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -23,8 +23,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "d6f4e9150786",
-        "title_zh": "莫等OSHA：即刻保护工人免受高温伤害",
-        "summary_zh": "高温风险 · 保护措施 · 即刻行动",
+        "title_zh": "莫等OSHA：即刻保护工人免受高温危害",
+        "summary_zh": "高温危害 · 保护工人 · 即刻行动",
         "relevance": 0.77
       },
       {
@@ -39,7 +39,7 @@
         "category": "政策与劳动合规",
         "id": "61356d09999f",
         "title_zh": "纽约市人权委员会通过最终规则实施公平机会法案",
-        "summary_zh": "实施公平机会法案修订 · 制定新规则 · 促进就业公平",
+        "summary_zh": "实施公平机会法案修订||制定新规则||保障就业公平",
         "relevance": 0.77
       },
       {
@@ -60,7 +60,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-15T00:00:00+00:00",
+        "published_at": "2026-10-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -98,7 +98,7 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "6bda51fb8ce3",
-        "title_zh": "FMLA休假与裁员决策：记录为何重要",
+        "title_zh": "FMLA休假与裁员决定：记录为何重要",
         "summary_zh": "记录影响决策 · 保护员工权益 · 避免法律风险",
         "relevance": 0.6
       },
@@ -118,34 +118,34 @@
         "relevance": 0.4
       },
       {
-        "title": "Red Light, Green Light: New Puerto Rico Law Spells Out That Medical Cannabis Protections Stop at the Wheel",
-        "url": "https://www.littler.com/news-analysis/asap/red-light-green-light-new-puerto-rico-law-spells-out-medical-cannabis",
-        "published_at": "2026-10-13T17:40:09+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
+        "url": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
+        "published_at": "2026-10-20T20:33:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "5e655c5ee2ac",
-        "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护止于方向盘",
-        "summary_zh": "大麻保护有限 · 驾驶禁用 · 法律明确",
-        "relevance": 0.4
+        "id": "7e81d8674cc9",
+        "title_zh": "美国劳工部撤回可能“误读”的小费规则意见函，在FL",
+        "summary_zh": "撤回意见函 · 调整小费规则 · FLSA执法变化",
+        "relevance": 0.33
       },
       {
-        "title": "Can Employees Unilaterally Cancel Parental Leave? German Federal Labor Court Provides Clarity for Employers",
-        "url": "https://www.littler.com/news-analysis/asap/can-employees-unilaterally-cancel-parental-leave-german-federal-labor-court",
-        "published_at": "2026-10-13T14:46:17+00:00",
+        "title": "Trump’s Goals Creep into EEOC Workplace Bias Lawsuits for 2026",
+        "url": "https://www.littler.com/press/news/trumps-goals-creep-eeoc-workplace-bias-lawsuits-2026",
+        "published_at": "2026-10-19T16:41:43+00:00",
         "source_id": "littler",
         "source_name": "Littler",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "政策与劳动合规",
-        "id": "5ac23540e846",
-        "title_zh": "员工能否单方面取消育儿假？德国联邦劳动法院为企业提",
-        "summary_zh": "单方面取消受限 · 法院提供指引 · 需符合条件",
-        "relevance": 0.4
+        "id": "3533ce8a95e5",
+        "title_zh": "特朗普目标渗入2026年EEOC职场偏见诉讼",
+        "summary_zh": "反对歧视 · 关注公平 · 影响广泛",
+        "relevance": 0.24
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -162,13 +162,13 @@
         "category": "组织与人才管理",
         "id": "0033b1b9de50",
         "title_zh": "利特尔调查：AI与领导沟通塑造2026年劳资关系",
-        "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 预测2026趋势",
+        "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 2026年趋势",
         "relevance": 0.85
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-15T00:00:00+00:00",
+        "published_at": "2026-10-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -179,21 +179,6 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "Coach claims retaliation after opposing trans athlete’s inclusion on team",
-        "url": "https://www.hrdive.com/news/volleyball-coach-opposed-transgender-player-claims-retaliation/833326/",
-        "published_at": "2026-10-19T15:07:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "a604d0373a55",
-        "title_zh": "教练称因反对跨性别运动员入选球队而遭报复",
-        "summary_zh": "反对入选 · 遭报复 · 引发争议",
-        "relevance": 0.73
       },
       {
         "title": "7 HR Digital Transformation Challenges HR Leaders Must Tackle",
@@ -224,6 +209,21 @@
         "title_zh": "五步：赢得组织转型中的领导角色",
         "summary_zh": "赢得领导力 · 推动转型 · 值得尊重",
         "relevance": 0.33
+      },
+      {
+        "title": "Why good leaders don’t have all the answers",
+        "url": "https://hrzone.com/why-good-leaders-dont-have-all-the-answers/",
+        "published_at": "2026-10-14T07:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "ec3d193c9c64",
+        "title_zh": "为什么优秀领导者并非全知全能",
+        "summary_zh": "不惧暴露不足 · 持续学习成长 · 鼓励团队创新",
+        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
@@ -253,7 +253,7 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "73806b3daada",
-        "title_zh": "高影响力培训视频的共同点",
+        "title_zh": "高影响力培训视频的共性",
         "summary_zh": "提升技能 · 增强参与 · 改善效果",
         "relevance": 0.73
       },
@@ -269,40 +269,40 @@
         "category": "学习发展与技能转型",
         "id": "a942676c3804",
         "title_zh": "技能差距分析指南及示例与免费模板",
-        "summary_zh": "识别技能差距 · 提供解决方案 · 下载模板",
+        "summary_zh": "识别技能不足 · 提供解决方案 · 下载模板",
         "relevance": 0.33
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
-        "title": "The future of HR services: How AI is making human expertise more valuable",
-        "url": "https://www.hrdive.com/spons/the-future-of-hr-services-how-ai-is-making-human-expertise-more-valuable/832821/",
-        "published_at": "2026-10-19T09:00:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "Eleventh Circuit Holds that Administrative Exhaustion Is Not Required for ERISA Statutory Claims",
+        "url": "https://www.littler.com/news-analysis/asap/eleventh-circuit-holds-administrative-exhaustion-not-required-erisa-statutory",
+        "published_at": "2026-10-20T20:48:50+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "690482ac20c8",
-        "title_zh": "人力资源服务的未来：AI如何提升人类专业价值",
-        "summary_zh": "AI增强专业价值 · 提升效率 · 改变工作方式",
-        "relevance": 0.5
+        "id": "450ec84d0f5f",
+        "title_zh": "第十一巡回上诉法院裁定，ERISA法定索赔无需履行",
+        "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 上诉法院裁定",
+        "relevance": 0.6
       },
       {
-        "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
-        "url": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
-        "published_at": "2026-10-16T14:24:00+00:00",
+        "title": "Nearly half of employers say AI will make college degrees more important",
+        "url": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
+        "published_at": "2026-10-20T20:34:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "5aff469ec739",
-        "title_zh": "招聘人员借助AI更快找到人——但对候选人的信心并未",
-        "summary_zh": "AI提速招聘 · 信心未增 · 候选人评估",
+        "id": "a98ad36c0645",
+        "title_zh": "近半数雇主称AI将使大学学位更重要",
+        "summary_zh": "AI提升学位价值 · 雇主重视学历 · 就业竞争加剧",
         "relevance": 0.5
       },
       {
@@ -335,7 +335,7 @@
       "category": "组织与人才管理",
       "id": "0033b1b9de50",
       "title_zh": "利特尔调查：AI与领导沟通塑造2026年劳资关系",
-      "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 预测2026趋势",
+      "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 2026年趋势",
       "relevance": 0.85
     },
     {
@@ -349,8 +349,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "d6f4e9150786",
-      "title_zh": "莫等OSHA：即刻保护工人免受高温伤害",
-      "summary_zh": "高温风险 · 保护措施 · 即刻行动",
+      "title_zh": "莫等OSHA：即刻保护工人免受高温危害",
+      "summary_zh": "高温危害 · 保护工人 · 即刻行动",
       "relevance": 0.77
     },
     {
@@ -365,7 +365,7 @@
       "category": "政策与劳动合规",
       "id": "61356d09999f",
       "title_zh": "纽约市人权委员会通过最终规则实施公平机会法案",
-      "summary_zh": "实施公平机会法案修订 · 制定新规则 · 促进就业公平",
+      "summary_zh": "实施公平机会法案修订||制定新规则||保障就业公平",
       "relevance": 0.77
     },
     {
@@ -401,7 +401,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-15T00:00:00+00:00",
+      "published_at": "2026-10-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -416,7 +416,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-15T00:00:00+00:00",
+      "published_at": "2026-10-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -429,21 +429,6 @@
       "id": "c79ea307e6b8"
     },
     {
-      "title": "Coach claims retaliation after opposing trans athlete’s inclusion on team",
-      "url": "https://www.hrdive.com/news/volleyball-coach-opposed-transgender-player-claims-retaliation/833326/",
-      "published_at": "2026-10-19T15:07:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "a604d0373a55",
-      "title_zh": "教练称因反对跨性别运动员入选球队而遭报复",
-      "summary_zh": "反对入选 · 遭报复 · 引发争议",
-      "relevance": 0.73
-    },
-    {
       "title": "What high-impact training videos have in common",
       "url": "https://www.chieflearningofficer.com/2026/10/14/what-high-impact-training-videos-have-in-common/",
       "published_at": "2026-10-14T06:00:00+00:00",
@@ -454,7 +439,7 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "73806b3daada",
-      "title_zh": "高影响力培训视频的共同点",
+      "title_zh": "高影响力培训视频的共性",
       "summary_zh": "提升技能 · 增强参与 · 改善效果",
       "relevance": 0.73
     },
@@ -474,6 +459,21 @@
       "relevance": 0.64
     },
     {
+      "title": "Eleventh Circuit Holds that Administrative Exhaustion Is Not Required for ERISA Statutory Claims",
+      "url": "https://www.littler.com/news-analysis/asap/eleventh-circuit-holds-administrative-exhaustion-not-required-erisa-statutory",
+      "published_at": "2026-10-20T20:48:50+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "450ec84d0f5f",
+      "title_zh": "第十一巡回上诉法院裁定，ERISA法定索赔无需履行",
+      "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 上诉法院裁定",
+      "relevance": 0.6
+    },
+    {
       "title": "FMLA Leave and RIF Decisions: Why the Record Matters",
       "url": "https://www.littler.com/news-analysis/asap/fmla-leave-and-rif-decisions-why-record-matters",
       "published_at": "2026-10-16T18:26:16+00:00",
@@ -484,38 +484,23 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "6bda51fb8ce3",
-      "title_zh": "FMLA休假与裁员决策：记录为何重要",
+      "title_zh": "FMLA休假与裁员决定：记录为何重要",
       "summary_zh": "记录影响决策 · 保护员工权益 · 避免法律风险",
       "relevance": 0.6
     },
     {
-      "title": "The future of HR services: How AI is making human expertise more valuable",
-      "url": "https://www.hrdive.com/spons/the-future-of-hr-services-how-ai-is-making-human-expertise-more-valuable/832821/",
-      "published_at": "2026-10-19T09:00:00+00:00",
+      "title": "Nearly half of employers say AI will make college degrees more important",
+      "url": "https://www.hrdive.com/news/nearly-half-of-employers-say-ai-will-make-college-degrees-more-important/833497/",
+      "published_at": "2026-10-20T20:34:00+00:00",
       "source_id": "hr_dive",
       "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "690482ac20c8",
-      "title_zh": "人力资源服务的未来：AI如何提升人类专业价值",
-      "summary_zh": "AI增强专业价值 · 提升效率 · 改变工作方式",
-      "relevance": 0.5
-    },
-    {
-      "title": "Recruiters find people faster with AI — but confidence in candidates hasn’t followed",
-      "url": "https://www.hrdive.com/news/recruiters-find-people-faster-with-ai-but-confidence-in-candidates-hasnt/833206/",
-      "published_at": "2026-10-16T14:24:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "5aff469ec739",
-      "title_zh": "招聘人员借助AI更快找到人——但对候选人的信心并未",
-      "summary_zh": "AI提速招聘 · 信心未增 · 候选人评估",
+      "id": "a98ad36c0645",
+      "title_zh": "近半数雇主称AI将使大学学位更重要",
+      "summary_zh": "AI提升学位价值 · 雇主重视学历 · 就业竞争加剧",
       "relevance": 0.5
     },
     {
@@ -564,34 +549,19 @@
       "relevance": 0.4
     },
     {
-      "title": "Red Light, Green Light: New Puerto Rico Law Spells Out That Medical Cannabis Protections Stop at the Wheel",
-      "url": "https://www.littler.com/news-analysis/asap/red-light-green-light-new-puerto-rico-law-spells-out-medical-cannabis",
-      "published_at": "2026-10-13T17:40:09+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "DOL rescinds potentially ‘misread’ tip rule opinion letters in FLSA enforcement shift",
+      "url": "https://www.hrdive.com/news/dol-rescinds-potentially-misread-tip-rule-opinion-letters-flsa/833524/",
+      "published_at": "2026-10-20T20:33:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "政策与劳动合规",
-      "id": "5e655c5ee2ac",
-      "title_zh": "红灯绿灯：波多黎各新法律明确医疗大麻保护止于方向盘",
-      "summary_zh": "大麻保护有限 · 驾驶禁用 · 法律明确",
-      "relevance": 0.4
-    },
-    {
-      "title": "Can Employees Unilaterally Cancel Parental Leave? German Federal Labor Court Provides Clarity for Employers",
-      "url": "https://www.littler.com/news-analysis/asap/can-employees-unilaterally-cancel-parental-leave-german-federal-labor-court",
-      "published_at": "2026-10-13T14:46:17+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "5ac23540e846",
-      "title_zh": "员工能否单方面取消育儿假？德国联邦劳动法院为企业提",
-      "summary_zh": "单方面取消受限 · 法院提供指引 · 需符合条件",
-      "relevance": 0.4
+      "id": "7e81d8674cc9",
+      "title_zh": "美国劳工部撤回可能“误读”的小费规则意见函，在FL",
+      "summary_zh": "撤回意见函 · 调整小费规则 · FLSA执法变化",
+      "relevance": 0.33
     },
     {
       "title": "Skills Gap Analysis Guide With Examples & Free Templates",
@@ -605,7 +575,7 @@
       "category": "学习发展与技能转型",
       "id": "a942676c3804",
       "title_zh": "技能差距分析指南及示例与免费模板",
-      "summary_zh": "识别技能差距 · 提供解决方案 · 下载模板",
+      "summary_zh": "识别技能不足 · 提供解决方案 · 下载模板",
       "relevance": 0.33
     },
     {
@@ -622,6 +592,36 @@
       "title_zh": "五步：赢得组织转型中的领导角色",
       "summary_zh": "赢得领导力 · 推动转型 · 值得尊重",
       "relevance": 0.33
+    },
+    {
+      "title": "Why good leaders don’t have all the answers",
+      "url": "https://hrzone.com/why-good-leaders-dont-have-all-the-answers/",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "ec3d193c9c64",
+      "title_zh": "为什么优秀领导者并非全知全能",
+      "summary_zh": "不惧暴露不足 · 持续学习成长 · 鼓励团队创新",
+      "relevance": 0.33
+    },
+    {
+      "title": "Trump’s Goals Creep into EEOC Workplace Bias Lawsuits for 2026",
+      "url": "https://www.littler.com/press/news/trumps-goals-creep-eeoc-workplace-bias-lawsuits-2026",
+      "published_at": "2026-10-19T16:41:43+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "3533ce8a95e5",
+      "title_zh": "特朗普目标渗入2026年EEOC职场偏见诉讼",
+      "summary_zh": "反对歧视 · 关注公平 · 影响广泛",
+      "relevance": 0.24
     }
   ]
 }
