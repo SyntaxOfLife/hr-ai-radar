@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:08:55.501044+08:00",
+  "generated_at": "2026-10-25T12:11:36.697175+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-19T00:00:00+00:00",
+        "published_at": "2026-10-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "9793c50031a4",
         "title_zh": "劳动法院计划存在法律问题，专家小组表示",
-        "summary_zh": "法律问题 · 计划受阻 · 需修订",
+        "summary_zh": "法律问题 · 专家质疑 · 需修订",
         "relevance": 0.6
       },
       {
@@ -83,9 +83,9 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "8e1a9b8b1719",
-        "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大休假留",
-        "summary_zh": "禁止竞业限制 · 公司加大休假留任 · 员工流动增加",
-        "relevance": 0.6
+        "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大脱产留",
+        "summary_zh": "禁止竞业限制 · 公司加大脱产留任 · 员工权益无实质改善",
+        "relevance": 0.4
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -108,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-19T00:00:00+00:00",
+        "published_at": "2026-10-20T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -166,7 +166,7 @@
         "category": "案例、报告与趋势",
         "id": "f984f16d0839",
         "title_zh": "一线AI正在重塑酒店劳资关系",
-        "summary_zh": "提升效率 · 优化管理 · 影响关系",
+        "summary_zh": "提升效率 · 改变互动 · 优化管理",
         "relevance": 0.6
       },
       {
@@ -210,7 +210,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "cd105342baa8",
-        "title_zh": "前NBA布鲁克林篮网副总裁声称因休育儿假被解雇",
+        "title_zh": "前NBA布鲁克林篮网副总裁称因休育儿假被解雇",
         "summary_zh": "休育儿假被解雇 · 声称遭报复 · 公司未回应",
         "relevance": 0.5
       },
@@ -226,7 +226,7 @@
         "category": "案例、报告与趋势",
         "id": "a81bb48688dd",
         "title_zh": "首席信息官未准备好应对自主型员工转变",
-        "summary_zh": "自主型员工增多 · 数字技能要求提高 · 管理模式需调整",
+        "summary_zh": "自主型员工增加 · 技术挑战 · 管理变革",
         "relevance": 0.5
       },
       {
@@ -241,7 +241,7 @@
         "category": "案例、报告与趋势",
         "id": "7f9f97c0b5a9",
         "title_zh": "CEO称尚未看到AI带来的变革性改变",
-        "summary_zh": "尚未看到变革 · AI影响有限 · 需要时间显现",
+        "summary_zh": "尚未看到AI变革 · CEO观点 · 需要时间",
         "relevance": 0.5
       },
       {
@@ -255,8 +255,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "0c0eca2b4862",
-        "title_zh": "南航空乘人员因未满足宠物过敏需求提起诉讼",
-        "summary_zh": "未满足过敏需求 · 提起诉讼 · 追讨赔偿",
+        "title_zh": "西南航空空乘人员因未满足宠物过敏需求提起诉讼",
+        "summary_zh": "未满足过敏需求 · 提起诉讼 · 宠物过敏",
         "relevance": 0.5
       },
       {
@@ -271,7 +271,7 @@
         "category": "案例、报告与趋势",
         "id": "2a1f6579fef3",
         "title_zh": "人工智能正将人力资源分为两种原型，研究显示",
-        "summary_zh": "AI重塑HR职能 · 分化两大类型 · 提升效率",
+        "summary_zh": "AI重塑HR职能 · 形成两大类型 · 研究揭示趋势",
         "relevance": 0.5
       },
       {
@@ -285,7 +285,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "65e3b9df6467",
-        "title_zh": "宾夕法尼亚州一个县成为全美首个通过带薪亲子假法案的",
+        "title_zh": "宾夕法尼亚州某县成为全美首个通过带薪亲子假法案的县",
         "summary_zh": "带薪亲子假法案 · 首创先例 · 全美首个",
         "relevance": 0.5
       },
@@ -370,7 +370,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-19T00:00:00+00:00",
+      "published_at": "2026-10-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -385,7 +385,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-19T00:00:00+00:00",
+      "published_at": "2026-10-20T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -439,7 +439,7 @@
       "category": "案例、报告与趋势",
       "id": "f984f16d0839",
       "title_zh": "一线AI正在重塑酒店劳资关系",
-      "summary_zh": "提升效率 · 优化管理 · 影响关系",
+      "summary_zh": "提升效率 · 改变互动 · 优化管理",
       "relevance": 0.6
     },
     {
@@ -454,7 +454,7 @@
       "category": "政策与劳动合规",
       "id": "9793c50031a4",
       "title_zh": "劳动法院计划存在法律问题，专家小组表示",
-      "summary_zh": "法律问题 · 计划受阻 · 需修订",
+      "summary_zh": "法律问题 · 专家质疑 · 需修订",
       "relevance": 0.6
     },
     {
@@ -488,21 +488,6 @@
       "relevance": 0.6
     },
     {
-      "title": "Banning non-competes is a hollow victory — firms will just ramp up gardening leave",
-      "url": "https://www.littler.com/press/news/banning-non-competes-hollow-victory-firms-will-just-ramp-gardening-leave",
-      "published_at": "2026-10-19T16:39:29+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "8e1a9b8b1719",
-      "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大休假留",
-      "summary_zh": "禁止竞业限制 · 公司加大休假留任 · 员工流动增加",
-      "relevance": 0.6
-    },
-    {
       "title": "Ex-VP for NBA’s Brooklyn Nets claims he was fired for taking parental leave",
       "url": "https://www.hrdive.com/news/ex-vp-nba-brooklyn-nets-claims-fired-for-taking-parental-leave/833880/",
       "published_at": "2026-10-23T20:19:00+00:00",
@@ -513,7 +498,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "cd105342baa8",
-      "title_zh": "前NBA布鲁克林篮网副总裁声称因休育儿假被解雇",
+      "title_zh": "前NBA布鲁克林篮网副总裁称因休育儿假被解雇",
       "summary_zh": "休育儿假被解雇 · 声称遭报复 · 公司未回应",
       "relevance": 0.5
     },
@@ -529,7 +514,7 @@
       "category": "案例、报告与趋势",
       "id": "a81bb48688dd",
       "title_zh": "首席信息官未准备好应对自主型员工转变",
-      "summary_zh": "自主型员工增多 · 数字技能要求提高 · 管理模式需调整",
+      "summary_zh": "自主型员工增加 · 技术挑战 · 管理变革",
       "relevance": 0.5
     },
     {
@@ -544,7 +529,7 @@
       "category": "案例、报告与趋势",
       "id": "7f9f97c0b5a9",
       "title_zh": "CEO称尚未看到AI带来的变革性改变",
-      "summary_zh": "尚未看到变革 · AI影响有限 · 需要时间显现",
+      "summary_zh": "尚未看到AI变革 · CEO观点 · 需要时间",
       "relevance": 0.5
     },
     {
@@ -558,8 +543,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "0c0eca2b4862",
-      "title_zh": "南航空乘人员因未满足宠物过敏需求提起诉讼",
-      "summary_zh": "未满足过敏需求 · 提起诉讼 · 追讨赔偿",
+      "title_zh": "西南航空空乘人员因未满足宠物过敏需求提起诉讼",
+      "summary_zh": "未满足过敏需求 · 提起诉讼 · 宠物过敏",
       "relevance": 0.5
     },
     {
@@ -574,7 +559,7 @@
       "category": "案例、报告与趋势",
       "id": "2a1f6579fef3",
       "title_zh": "人工智能正将人力资源分为两种原型，研究显示",
-      "summary_zh": "AI重塑HR职能 · 分化两大类型 · 提升效率",
+      "summary_zh": "AI重塑HR职能 · 形成两大类型 · 研究揭示趋势",
       "relevance": 0.5
     },
     {
@@ -588,7 +573,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "65e3b9df6467",
-      "title_zh": "宾夕法尼亚州一个县成为全美首个通过带薪亲子假法案的",
+      "title_zh": "宾夕法尼亚州某县成为全美首个通过带薪亲子假法案的县",
       "summary_zh": "带薪亲子假法案 · 首创先例 · 全美首个",
       "relevance": 0.5
     },
@@ -621,6 +606,21 @@
       "title_zh": "人工智能能提升绩效，但有人学到精髓了吗？",
       "summary_zh": "提升绩效 · 学习精髓 · 未知效果",
       "relevance": 0.5
+    },
+    {
+      "title": "Banning non-competes is a hollow victory — firms will just ramp up gardening leave",
+      "url": "https://www.littler.com/press/news/banning-non-competes-hollow-victory-firms-will-just-ramp-gardening-leave",
+      "published_at": "2026-10-19T16:39:29+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "8e1a9b8b1719",
+      "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大脱产留",
+      "summary_zh": "禁止竞业限制 · 公司加大脱产留任 · 员工权益无实质改善",
+      "relevance": 0.4
     }
   ]
 }
