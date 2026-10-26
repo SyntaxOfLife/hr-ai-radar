@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:11:36.697175+08:00",
+  "generated_at": "2026-10-26T12:15:40.871884+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-20T00:00:00+00:00",
+        "published_at": "2026-10-21T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -41,21 +41,6 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-19 — Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "url": "https://aihot.news/daily/2026-10-19",
-        "published_at": "2026-10-19T00:00:14+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "25199a077246",
-        "title_zh": "AIHOT 日报 · 2026-10-19 — Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "summary_zh": "",
-        "relevance": 0.64
       },
       {
         "title": "'Labor Court' Plan Has Legal Issues, Panel Says",
@@ -83,9 +68,24 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "8e1a9b8b1719",
-        "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大脱产留",
-        "summary_zh": "禁止竞业限制 · 公司加大脱产留任 · 员工权益无实质改善",
-        "relevance": 0.4
+        "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大休假留",
+        "summary_zh": "禁止竞业限制 · 公司加大休假留任 · 员工流动增加",
+        "relevance": 0.6
+      },
+      {
+        "title": "Overtime Pay Calculator for HR + Free Excel Template",
+        "url": "https://www.aihr.com/blog/overtime-pay-calculator/",
+        "published_at": "2026-10-21T08:49:44+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "de42d02e3a7f",
+        "title_zh": "加班费计算器为HR +免费Excel模板",
+        "summary_zh": "加班费计算 · 免费模板 · 人力资源工具",
+        "relevance": 0.33
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -102,13 +102,13 @@
         "category": "组织与人才管理",
         "id": "0033b1b9de50",
         "title_zh": "利特尔调查：AI与领导沟通塑造2026年劳资关系",
-        "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 预测2026趋势",
+        "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 2026年趋势",
         "relevance": 0.85
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-20T00:00:00+00:00",
+        "published_at": "2026-10-21T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -165,8 +165,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "f984f16d0839",
-        "title_zh": "一线AI正在重塑酒店劳资关系",
-        "summary_zh": "提升效率 · 改变互动 · 优化管理",
+        "title_zh": "一线AI正重塑酒店劳资关系",
+        "summary_zh": "AI改变工作方式 · 提升效率 · 优化管理",
         "relevance": 0.6
       },
       {
@@ -181,7 +181,7 @@
         "category": "案例、报告与趋势",
         "id": "3906369d96fd",
         "title_zh": "利特尔休息室：工作中的AI——采用、效率和员工使用",
-        "summary_zh": "AI提升效率 · 员工适应挑战 · 企业需关注整合",
+        "summary_zh": "AI提升效率 · 员工接受度低 · 影响工作方式",
         "relevance": 0.6
       },
       {
@@ -195,8 +195,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "450ec84d0f5f",
-        "title_zh": "第十一巡回上诉法院裁定，ERISA法定索赔无需履行",
-        "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 上诉法院裁定",
+        "title_zh": "第十一巡回法院裁定，ERISA法定索赔无需履行行政",
+        "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 法院裁定",
         "relevance": 0.6
       },
       {
@@ -210,7 +210,7 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "cd105342baa8",
-        "title_zh": "前NBA布鲁克林篮网副总裁称因休育儿假被解雇",
+        "title_zh": "前NBA布鲁克林篮网副总裁声称因休育儿假被解雇",
         "summary_zh": "休育儿假被解雇 · 声称遭报复 · 公司未回应",
         "relevance": 0.5
       },
@@ -226,7 +226,7 @@
         "category": "案例、报告与趋势",
         "id": "a81bb48688dd",
         "title_zh": "首席信息官未准备好应对自主型员工转变",
-        "summary_zh": "自主型员工增加 · 技术挑战 · 管理变革",
+        "summary_zh": "自主型员工增多 · 数字技能要求提高 · 管理模式需调整",
         "relevance": 0.5
       },
       {
@@ -270,8 +270,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "2a1f6579fef3",
-        "title_zh": "人工智能正将人力资源分为两种原型，研究显示",
-        "summary_zh": "AI重塑HR职能 · 形成两大类型 · 研究揭示趋势",
+        "title_zh": "人工智能正将人力资源分为两种类型，研究显示",
+        "summary_zh": "AI分化HR角色 · 形成两大类型 · 研究揭示趋势",
         "relevance": 0.5
       },
       {
@@ -285,8 +285,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "65e3b9df6467",
-        "title_zh": "宾夕法尼亚州某县成为全美首个通过带薪亲子假法案的县",
-        "summary_zh": "带薪亲子假法案 · 首创先例 · 全美首个",
+        "title_zh": "宾夕法尼亚州一个县成为全美首个通过带薪亲子假法案的",
+        "summary_zh": "带薪亲子假法案 · 首个通过 · 全美第一",
         "relevance": 0.5
       },
       {
@@ -316,7 +316,7 @@
         "category": "案例、报告与趋势",
         "id": "5b96b56401fb",
         "title_zh": "人工智能能提升绩效，但有人学到精髓了吗？",
-        "summary_zh": "提升绩效 · 学习精髓 · 未知效果",
+        "summary_zh": "提升绩效 · 学习精髓 · 人工智能",
         "relevance": 0.5
       }
     ]
@@ -334,7 +334,7 @@
       "category": "组织与人才管理",
       "id": "0033b1b9de50",
       "title_zh": "利特尔调查：AI与领导沟通塑造2026年劳资关系",
-      "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 预测2026趋势",
+      "summary_zh": "AI影响劳资关系 · 领导沟通关键 · 2026年趋势",
       "relevance": 0.85
     },
     {
@@ -370,7 +370,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-20T00:00:00+00:00",
+      "published_at": "2026-10-21T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -385,7 +385,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-20T00:00:00+00:00",
+      "published_at": "2026-10-21T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -396,21 +396,6 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-19 — Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-      "url": "https://aihot.news/daily/2026-10-19",
-      "published_at": "2026-10-19T00:00:14+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "25199a077246",
-      "title_zh": "AIHOT 日报 · 2026-10-19 — Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-      "summary_zh": "",
-      "relevance": 0.64
     },
     {
       "title": "Littler Advances AI-Enabled Workforce Transformation Through Strategic Partnerships with Legora and Epiq",
@@ -438,8 +423,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "f984f16d0839",
-      "title_zh": "一线AI正在重塑酒店劳资关系",
-      "summary_zh": "提升效率 · 改变互动 · 优化管理",
+      "title_zh": "一线AI正重塑酒店劳资关系",
+      "summary_zh": "AI改变工作方式 · 提升效率 · 优化管理",
       "relevance": 0.6
     },
     {
@@ -469,7 +454,7 @@
       "category": "案例、报告与趋势",
       "id": "3906369d96fd",
       "title_zh": "利特尔休息室：工作中的AI——采用、效率和员工使用",
-      "summary_zh": "AI提升效率 · 员工适应挑战 · 企业需关注整合",
+      "summary_zh": "AI提升效率 · 员工接受度低 · 影响工作方式",
       "relevance": 0.6
     },
     {
@@ -483,8 +468,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "450ec84d0f5f",
-      "title_zh": "第十一巡回上诉法院裁定，ERISA法定索赔无需履行",
-      "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 上诉法院裁定",
+      "title_zh": "第十一巡回法院裁定，ERISA法定索赔无需履行行政",
+      "summary_zh": "无需行政救济程序 · ERISA法定索赔 · 法院裁定",
+      "relevance": 0.6
+    },
+    {
+      "title": "Banning non-competes is a hollow victory — firms will just ramp up gardening leave",
+      "url": "https://www.littler.com/press/news/banning-non-competes-hollow-victory-firms-will-just-ramp-gardening-leave",
+      "published_at": "2026-10-19T16:39:29+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "8e1a9b8b1719",
+      "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大休假留",
+      "summary_zh": "禁止竞业限制 · 公司加大休假留任 · 员工流动增加",
       "relevance": 0.6
     },
     {
@@ -498,7 +498,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "cd105342baa8",
-      "title_zh": "前NBA布鲁克林篮网副总裁称因休育儿假被解雇",
+      "title_zh": "前NBA布鲁克林篮网副总裁声称因休育儿假被解雇",
       "summary_zh": "休育儿假被解雇 · 声称遭报复 · 公司未回应",
       "relevance": 0.5
     },
@@ -514,7 +514,7 @@
       "category": "案例、报告与趋势",
       "id": "a81bb48688dd",
       "title_zh": "首席信息官未准备好应对自主型员工转变",
-      "summary_zh": "自主型员工增加 · 技术挑战 · 管理变革",
+      "summary_zh": "自主型员工增多 · 数字技能要求提高 · 管理模式需调整",
       "relevance": 0.5
     },
     {
@@ -558,8 +558,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "2a1f6579fef3",
-      "title_zh": "人工智能正将人力资源分为两种原型，研究显示",
-      "summary_zh": "AI重塑HR职能 · 形成两大类型 · 研究揭示趋势",
+      "title_zh": "人工智能正将人力资源分为两种类型，研究显示",
+      "summary_zh": "AI分化HR角色 · 形成两大类型 · 研究揭示趋势",
       "relevance": 0.5
     },
     {
@@ -573,8 +573,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "65e3b9df6467",
-      "title_zh": "宾夕法尼亚州某县成为全美首个通过带薪亲子假法案的县",
-      "summary_zh": "带薪亲子假法案 · 首创先例 · 全美首个",
+      "title_zh": "宾夕法尼亚州一个县成为全美首个通过带薪亲子假法案的",
+      "summary_zh": "带薪亲子假法案 · 首个通过 · 全美第一",
       "relevance": 0.5
     },
     {
@@ -604,23 +604,23 @@
       "category": "案例、报告与趋势",
       "id": "5b96b56401fb",
       "title_zh": "人工智能能提升绩效，但有人学到精髓了吗？",
-      "summary_zh": "提升绩效 · 学习精髓 · 未知效果",
+      "summary_zh": "提升绩效 · 学习精髓 · 人工智能",
       "relevance": 0.5
     },
     {
-      "title": "Banning non-competes is a hollow victory — firms will just ramp up gardening leave",
-      "url": "https://www.littler.com/press/news/banning-non-competes-hollow-victory-firms-will-just-ramp-gardening-leave",
-      "published_at": "2026-10-19T16:39:29+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "Overtime Pay Calculator for HR + Free Excel Template",
+      "url": "https://www.aihr.com/blog/overtime-pay-calculator/",
+      "published_at": "2026-10-21T08:49:44+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "政策与劳动合规",
-      "id": "8e1a9b8b1719",
-      "title_zh": "禁止竞业限制是一场空洞的胜利——公司只会加大脱产留",
-      "summary_zh": "禁止竞业限制 · 公司加大脱产留任 · 员工权益无实质改善",
-      "relevance": 0.4
+      "id": "de42d02e3a7f",
+      "title_zh": "加班费计算器为HR +免费Excel模板",
+      "summary_zh": "加班费计算 · 免费模板 · 人力资源工具",
+      "relevance": 0.33
     }
   ]
 }
