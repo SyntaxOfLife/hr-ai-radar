@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:06:10.567242+08:00",
+  "generated_at": "2026-10-29T13:18:57.660200+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,7 +24,7 @@
         "category": "政策与劳动合规",
         "id": "a6214ede6dbf",
         "title_zh": "加州法院不能质疑雇主在州公平机会法案下的个性化评估",
-        "summary_zh": "个性化评估受法律保护 · 法院无权干预 · 公平机会法案保障",
+        "summary_zh": "个性化评估结果受保护 · 法院无权干预 · 公平机会法案保障",
         "relevance": 0.77
       },
       {
@@ -38,14 +38,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "5373fd2beb7e",
-        "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪育",
-        "summary_zh": "强制带薪育儿假 · 扩大带薪病假 · 影响雇主",
+        "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪父",
+        "summary_zh": "强制带薪父母假 · 扩大带薪病假 · 影响雇主",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-23T00:00:00+00:00",
+        "published_at": "2026-10-24T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -69,23 +69,8 @@
         "category": "政策与劳动合规",
         "id": "9793c50031a4",
         "title_zh": "劳动法院计划存在法律问题，专家小组表示",
-        "summary_zh": "法律问题 · 计划受阻 · 需修订",
+        "summary_zh": "法律问题 · 专家质疑 · 需修订",
         "relevance": 0.6
-      },
-      {
-        "title": "Overtime Pay Calculator for HR + Free Excel Template",
-        "url": "https://www.aihr.com/blog/overtime-pay-calculator/",
-        "published_at": "2026-10-21T08:49:44+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "de42d02e3a7f",
-        "title_zh": "加班费计算器供HR使用+免费Excel模板",
-        "summary_zh": "计算加班费 · 提供模板 · 免费下载",
-        "relevance": 0.33
       },
       {
         "title": "Cornell prevails on DEI hiring lawsuit after judge finds plaintiff ‘had no intention of reentering academia’",
@@ -108,7 +93,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-23T00:00:00+00:00",
+        "published_at": "2026-10-24T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -131,8 +116,8 @@
         "is_ai_hr": true,
         "category": "组织与人才管理",
         "id": "c3c995f15b01",
-        "title_zh": "东芝首席人力资源官：入门级员工需更频繁使用AI",
-        "summary_zh": "入门级员工需更频繁使用AI · 提升AI技能 · 适应技术发展",
+        "title_zh": "东芝首席人力资源官：入门级员工需要更多地使用AI—",
+        "summary_zh": "AI技能重要 · 提升效率 · 适应未来",
         "relevance": 0.73
       },
       {
@@ -147,43 +132,13 @@
         "category": "组织与人才管理",
         "id": "902bf1076194",
         "title_zh": "领导力项目有效，为何行为未改变？",
-        "summary_zh": "提升技能 · 文化影响 · 持续跟进",
-        "relevance": 0.33
-      },
-      {
-        "title": "The reciprocal nature of leadership and followership",
-        "url": "https://www.chieflearningofficer.com/2026/10/21/the-reciprocal-nature-of-leadership-and-followership/",
-        "published_at": "2026-10-21T14:02:45+00:00",
-        "source_id": "clo",
-        "source_name": "Chief Learning Officer",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "72f5baf34104",
-        "title_zh": "领导与追随的互惠性",
-        "summary_zh": "领导需追随者 · 追随者需领导 · 互惠促进成长",
+        "summary_zh": "提升技能 · 改变习惯 · 缺乏实践",
         "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
-      {
-        "title": "Brazil's New Working-Time Framework: Reduced Hours, Two Weekly Rest Days, and a New Exemption for Certain Employees",
-        "url": "https://www.littler.com/news-analysis/asap/brazils-new-working-time-framework-reduced-hours-two-weekly-rest-days-and-new",
-        "published_at": "2026-10-21T18:04:39+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "e4283b069e3b",
-        "title_zh": "巴西新工时框架：减少工时、每周两休及特定员工新豁免",
-        "summary_zh": "减少工时 · 每周两休 · 特定员工豁免",
-        "relevance": 0.77
-      },
       {
         "title": "Littler Advances AI-Enabled Workforce Transformation Through Strategic Partnerships with Legora and Epiq",
         "url": "https://www.littler.com/press/press-release/littler-advances-ai-enabled-workforce-transformation-through-strategic",
@@ -215,34 +170,64 @@
         "relevance": 0.6
       },
       {
-        "title": "Littler Lounge: AI at Work - A Reality Check on Adoption, Efficiency and Employee Use",
-        "url": "https://www.littler.com/news-analysis/podcast/littler-lounge-ai-work-reality-check-adoption-efficiency-and-employee-use",
-        "published_at": "2026-10-21T21:37:50+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "AI at work: Employees, employers may not be on the same page",
+        "url": "https://www.hrdive.com/news/ai-at-work-employees-employers-may-not-be-on-the-same-page/873055/",
+        "published_at": "2026-10-28T19:08:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "3906369d96fd",
-        "title_zh": "利特尔休息室：工作中的AI - 对采用、效率和员工",
-        "summary_zh": "AI提升效率 · 员工适应挑战 · 企业需谨慎评估",
-        "relevance": 0.6
+        "id": "1ce7f2a22eef",
+        "title_zh": "人工智能助力职场：员工与雇主或存认知差异",
+        "summary_zh": "员工技能需提升 · 企业需培训 · 管理需调整",
+        "relevance": 0.5
       },
       {
-        "title": "Beyond personalized learning: Capability development requires more than AI recommendations",
-        "url": "https://www.chieflearningofficer.com/2026/10/21/beyond-personalized-learning-capability-development-requires-more-than-ai-recommendations/",
-        "published_at": "2026-10-21T06:00:00+00:00",
-        "source_id": "clo",
-        "source_name": "Chief Learning Officer",
+        "title": "4 trends explaining why recruiters are struggling right now",
+        "url": "https://www.hrdive.com/news/4-trends-explaining-why-recruiters-are-struggling-right-now/873036/",
+        "published_at": "2026-10-28T15:37:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "7b62fe726e79",
-        "title_zh": "超越个性化学习：能力发展需要超越AI推荐",
-        "summary_zh": "AI推荐不足 · 需综合方法 · 注重实践应用",
+        "id": "68fff16d4243",
+        "title_zh": "招聘官当前面临的四大挑战原因",
+        "summary_zh": "竞争激烈 · 人才短缺 · 要求提高",
         "relevance": 0.5
+      },
+      {
+        "title": "Banished for asking the wrong question: Five signs of a Traitors culture",
+        "url": "https://hrzone.com/five-signs-of-a-traitors-culture/",
+        "published_at": "2026-10-28T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "a6b65cc0b004",
+        "title_zh": "被问错问题遭驱逐：背叛文化的五个迹象",
+        "summary_zh": "要点1 · 要点2 · 要点3",
+        "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-10-29 — Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "url": "https://aihot.news/daily/2026-10-29",
+        "published_at": "2026-10-29T00:00:28+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "1c16e4e0737e",
+        "title_zh": "AIHOT 日报 · 2026-10-29 — G",
+        "summary_zh": "减排技术 · 性能提升 · 全球推广",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-10-28 — Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
@@ -256,7 +241,7 @@
         "category": "案例、报告与趋势",
         "id": "3b53290b867f",
         "title_zh": "AIHOT 日报 · 2026-10-28 — A",
-        "summary_zh": "募资约 1000 亿美元 · 拆解 11 个细节 · 聚焦 Anthropic IPO",
+        "summary_zh": "募资规模大 · 融资细节多 · 公司发展关注",
         "relevance": 0.2
       },
       {
@@ -286,7 +271,7 @@
         "category": "案例、报告与趋势",
         "id": "c43c43ae7c8e",
         "title_zh": "AIHOT 日报 · 2026-10-26 — 今",
-        "summary_zh": "无重大事件 · 平静度日 · 无新动态",
+        "summary_zh": "无重大事件 · 平静状态 · 无新动态",
         "relevance": 0.2
       },
       {
@@ -301,7 +286,7 @@
         "category": "案例、报告与趋势",
         "id": "e1820e67d97f",
         "title_zh": "AIHOT 日报 · 2026-10-25 — O",
-        "summary_zh": "隔离测试发现隐蔽通信 | 利用缓存技术 | OpenAI 智能体行为异常",
+        "summary_zh": "隔离测试 · 隐蔽通信 · CPU缓存",
         "relevance": 0.2
       },
       {
@@ -316,7 +301,22 @@
         "category": "案例、报告与趋势",
         "id": "4eaddbd3148c",
         "title_zh": "AIHOT 日报 · 2026-10-24 — 月",
-        "summary_zh": "发布Kimi K3.1 Pro · 上下文100万token · 开放权重11月4日前释出",
+        "summary_zh": "发布Kimi K3.1 Pro · 上下文达100万token · 开放权重11月4日前释出",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-10-23 — AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+        "url": "https://aihot.news/daily/2026-10-23",
+        "published_at": "2026-10-23T00:00:18+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "02f8830ccdb0",
+        "title_zh": "AIHOT 日报 · 2026-10-23 — AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+        "summary_zh": "",
         "relevance": 0.2
       }
     ]
@@ -334,7 +334,7 @@
       "category": "政策与劳动合规",
       "id": "a6214ede6dbf",
       "title_zh": "加州法院不能质疑雇主在州公平机会法案下的个性化评估",
-      "summary_zh": "个性化评估受法律保护 · 法院无权干预 · 公平机会法案保障",
+      "summary_zh": "个性化评估结果受保护 · 法院无权干预 · 公平机会法案保障",
       "relevance": 0.77
     },
     {
@@ -348,29 +348,14 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "5373fd2beb7e",
-      "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪育",
-      "summary_zh": "强制带薪育儿假 · 扩大带薪病假 · 影响雇主",
-      "relevance": 0.77
-    },
-    {
-      "title": "Brazil's New Working-Time Framework: Reduced Hours, Two Weekly Rest Days, and a New Exemption for Certain Employees",
-      "url": "https://www.littler.com/news-analysis/asap/brazils-new-working-time-framework-reduced-hours-two-weekly-rest-days-and-new",
-      "published_at": "2026-10-21T18:04:39+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "e4283b069e3b",
-      "title_zh": "巴西新工时框架：减少工时、每周两休及特定员工新豁免",
-      "summary_zh": "减少工时 · 每周两休 · 特定员工豁免",
+      "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪父",
+      "summary_zh": "强制带薪父母假 · 扩大带薪病假 · 影响雇主",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-23T00:00:00+00:00",
+      "published_at": "2026-10-24T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -385,7 +370,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-23T00:00:00+00:00",
+      "published_at": "2026-10-24T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -408,8 +393,8 @@
       "is_ai_hr": true,
       "category": "组织与人才管理",
       "id": "c3c995f15b01",
-      "title_zh": "东芝首席人力资源官：入门级员工需更频繁使用AI",
-      "summary_zh": "入门级员工需更频繁使用AI · 提升AI技能 · 适应技术发展",
+      "title_zh": "东芝首席人力资源官：入门级员工需要更多地使用AI—",
+      "summary_zh": "AI技能重要 · 提升效率 · 适应未来",
       "relevance": 0.73
     },
     {
@@ -454,53 +439,53 @@
       "category": "政策与劳动合规",
       "id": "9793c50031a4",
       "title_zh": "劳动法院计划存在法律问题，专家小组表示",
-      "summary_zh": "法律问题 · 计划受阻 · 需修订",
+      "summary_zh": "法律问题 · 专家质疑 · 需修订",
       "relevance": 0.6
     },
     {
-      "title": "Littler Lounge: AI at Work - A Reality Check on Adoption, Efficiency and Employee Use",
-      "url": "https://www.littler.com/news-analysis/podcast/littler-lounge-ai-work-reality-check-adoption-efficiency-and-employee-use",
-      "published_at": "2026-10-21T21:37:50+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "AI at work: Employees, employers may not be on the same page",
+      "url": "https://www.hrdive.com/news/ai-at-work-employees-employers-may-not-be-on-the-same-page/873055/",
+      "published_at": "2026-10-28T19:08:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "3906369d96fd",
-      "title_zh": "利特尔休息室：工作中的AI - 对采用、效率和员工",
-      "summary_zh": "AI提升效率 · 员工适应挑战 · 企业需谨慎评估",
-      "relevance": 0.6
-    },
-    {
-      "title": "Beyond personalized learning: Capability development requires more than AI recommendations",
-      "url": "https://www.chieflearningofficer.com/2026/10/21/beyond-personalized-learning-capability-development-requires-more-than-ai-recommendations/",
-      "published_at": "2026-10-21T06:00:00+00:00",
-      "source_id": "clo",
-      "source_name": "Chief Learning Officer",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "7b62fe726e79",
-      "title_zh": "超越个性化学习：能力发展需要超越AI推荐",
-      "summary_zh": "AI推荐不足 · 需综合方法 · 注重实践应用",
+      "id": "1ce7f2a22eef",
+      "title_zh": "人工智能助力职场：员工与雇主或存认知差异",
+      "summary_zh": "员工技能需提升 · 企业需培训 · 管理需调整",
       "relevance": 0.5
     },
     {
-      "title": "Overtime Pay Calculator for HR + Free Excel Template",
-      "url": "https://www.aihr.com/blog/overtime-pay-calculator/",
-      "published_at": "2026-10-21T08:49:44+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
+      "title": "4 trends explaining why recruiters are struggling right now",
+      "url": "https://www.hrdive.com/news/4-trends-explaining-why-recruiters-are-struggling-right-now/873036/",
+      "published_at": "2026-10-28T15:37:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "de42d02e3a7f",
-      "title_zh": "加班费计算器供HR使用+免费Excel模板",
-      "summary_zh": "计算加班费 · 提供模板 · 免费下载",
-      "relevance": 0.33
+      "category": "案例、报告与趋势",
+      "id": "68fff16d4243",
+      "title_zh": "招聘官当前面临的四大挑战原因",
+      "summary_zh": "竞争激烈 · 人才短缺 · 要求提高",
+      "relevance": 0.5
+    },
+    {
+      "title": "Banished for asking the wrong question: Five signs of a Traitors culture",
+      "url": "https://hrzone.com/five-signs-of-a-traitors-culture/",
+      "published_at": "2026-10-28T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "a6b65cc0b004",
+      "title_zh": "被问错问题遭驱逐：背叛文化的五个迹象",
+      "summary_zh": "要点1 · 要点2 · 要点3",
+      "relevance": 0.5
     },
     {
       "title": "The leadership program worked. Why didn’t behavior change?",
@@ -514,22 +499,7 @@
       "category": "组织与人才管理",
       "id": "902bf1076194",
       "title_zh": "领导力项目有效，为何行为未改变？",
-      "summary_zh": "提升技能 · 文化影响 · 持续跟进",
-      "relevance": 0.33
-    },
-    {
-      "title": "The reciprocal nature of leadership and followership",
-      "url": "https://www.chieflearningofficer.com/2026/10/21/the-reciprocal-nature-of-leadership-and-followership/",
-      "published_at": "2026-10-21T14:02:45+00:00",
-      "source_id": "clo",
-      "source_name": "Chief Learning Officer",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "72f5baf34104",
-      "title_zh": "领导与追随的互惠性",
-      "summary_zh": "领导需追随者 · 追随者需领导 · 互惠促进成长",
+      "summary_zh": "提升技能 · 改变习惯 · 缺乏实践",
       "relevance": 0.33
     },
     {
@@ -548,6 +518,21 @@
       "relevance": 0.32
     },
     {
+      "title": "AIHOT 日报 · 2026-10-29 — Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+      "url": "https://aihot.news/daily/2026-10-29",
+      "published_at": "2026-10-29T00:00:28+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "1c16e4e0737e",
+      "title_zh": "AIHOT 日报 · 2026-10-29 — G",
+      "summary_zh": "减排技术 · 性能提升 · 全球推广",
+      "relevance": 0.2
+    },
+    {
       "title": "AIHOT 日报 · 2026-10-28 — Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
       "url": "https://aihot.news/daily/2026-10-28",
       "published_at": "2026-10-28T00:00:06+00:00",
@@ -559,7 +544,7 @@
       "category": "案例、报告与趋势",
       "id": "3b53290b867f",
       "title_zh": "AIHOT 日报 · 2026-10-28 — A",
-      "summary_zh": "募资约 1000 亿美元 · 拆解 11 个细节 · 聚焦 Anthropic IPO",
+      "summary_zh": "募资规模大 · 融资细节多 · 公司发展关注",
       "relevance": 0.2
     },
     {
@@ -589,7 +574,7 @@
       "category": "案例、报告与趋势",
       "id": "c43c43ae7c8e",
       "title_zh": "AIHOT 日报 · 2026-10-26 — 今",
-      "summary_zh": "无重大事件 · 平静度日 · 无新动态",
+      "summary_zh": "无重大事件 · 平静状态 · 无新动态",
       "relevance": 0.2
     },
     {
@@ -604,7 +589,7 @@
       "category": "案例、报告与趋势",
       "id": "e1820e67d97f",
       "title_zh": "AIHOT 日报 · 2026-10-25 — O",
-      "summary_zh": "隔离测试发现隐蔽通信 | 利用缓存技术 | OpenAI 智能体行为异常",
+      "summary_zh": "隔离测试 · 隐蔽通信 · CPU缓存",
       "relevance": 0.2
     },
     {
@@ -619,7 +604,22 @@
       "category": "案例、报告与趋势",
       "id": "4eaddbd3148c",
       "title_zh": "AIHOT 日报 · 2026-10-24 — 月",
-      "summary_zh": "发布Kimi K3.1 Pro · 上下文100万token · 开放权重11月4日前释出",
+      "summary_zh": "发布Kimi K3.1 Pro · 上下文达100万token · 开放权重11月4日前释出",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-10-23 — AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "url": "https://aihot.news/daily/2026-10-23",
+      "published_at": "2026-10-23T00:00:18+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "02f8830ccdb0",
+      "title_zh": "AIHOT 日报 · 2026-10-23 — AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+      "summary_zh": "",
       "relevance": 0.2
     }
   ]
