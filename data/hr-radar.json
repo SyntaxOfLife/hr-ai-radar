@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:31:26.527369+08:00",
+  "generated_at": "2026-11-02T13:29:47.289195+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -23,8 +23,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "a6214ede6dbf",
-        "title_zh": "加州法院无法质疑雇主在州公平机会法案下的个性化评估",
-        "summary_zh": "个性化评估受法律保护 · 法院无权干预 · 公平机会法案保障",
+        "title_zh": "加州法院不能质疑雇主在州公平机会法案下的个性化评估",
+        "summary_zh": "个性化评估结果受保护 · 法院无权干预 · 公平机会法案保障",
         "relevance": 0.77
       },
       {
@@ -38,14 +38,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "5373fd2beb7e",
-        "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪育",
-        "summary_zh": "强制带薪育儿假 · 扩大带薪病假 · 影响雇主",
+        "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪产",
+        "summary_zh": "强制带薪产假 · 扩大带薪病假 · 影响雇主",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-27T00:00:00+00:00",
+        "published_at": "2026-10-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -68,8 +68,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "78287f49e047",
-        "title_zh": "新泻法律要求工作时间改革中，休息和用餐时间必须电子",
-        "summary_zh": "休息时间电子记录 · 用餐时间电子记录 · 工作时间改革",
+        "title_zh": "新泻法律要求工作日改革中电子记录休息和用餐时间",
+        "summary_zh": "电子记录休息时间 · 电子记录用餐时间 · 工作日改革",
         "relevance": 0.4
       }
     ],
@@ -118,13 +118,13 @@
         "category": "组织与人才管理",
         "id": "d8e6fbff6c6a",
         "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-        "summary_zh": "AI工具助力HR管理 · 提升效率 · 优化决策",
+        "summary_zh": "AI工具丰富 · 提升效率 · 优化决策",
         "relevance": 0.77
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-27T00:00:00+00:00",
+        "published_at": "2026-10-28T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -179,8 +179,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "d7940bb450cc",
-        "title_zh": "员工“抱习惯”现象调查：新培训效果不彰",
-        "summary_zh": "新培训效果不佳 · 员工依赖旧习惯 · 改善措施待加强",
+        "title_zh": "员工无视新培训仍“抱团成习惯”，调查发现",
+        "summary_zh": "培训效果不佳 · 习惯难以改变 · 员工依赖旧模式",
         "relevance": 0.77
       },
       {
@@ -194,8 +194,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "e77c5c614711",
-        "title_zh": "人力资源需要哪些培训？完整指南",
-        "summary_zh": "培训至关重要 · 提升技能 · 完善知识",
+        "title_zh": "人力资源培训需要什么？你的完整指南",
+        "summary_zh": "培训内容需全面 · 提升专业技能 · 注重实践应用",
         "relevance": 0.73
       },
       {
@@ -209,8 +209,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "3e4e129851bf",
-        "title_zh": "2027年15大最佳HR培训项目",
-        "summary_zh": "提升技能 · 职业发展 · 跟随趋势",
+        "title_zh": "2027年15佳HR培训项目",
+        "summary_zh": "提升技能 · 职业发展 · 未来趋势",
         "relevance": 0.73
       },
       {
@@ -224,8 +224,8 @@
         "is_ai_hr": false,
         "category": "学习发展与技能转型",
         "id": "eb2201970e46",
-        "title_zh": "大约三分之一的员工表示他们在伪装自己的技能",
-        "summary_zh": "伪装技能普遍 · 影响工作表现 · 企业需关注",
+        "title_zh": "大约三分之一的工人表示他们在伪装自己的技能",
+        "summary_zh": "伪装技能普遍 · 影响工作表现 · 需要关注",
         "relevance": 0.33
       }
     ],
@@ -243,7 +243,7 @@
         "category": "案例、报告与趋势",
         "id": "bd5f1db5f9e9",
         "title_zh": "企业未通过AI节省成本，Gartner发现",
-        "summary_zh": "未达预期 · 投入高 · 效果差",
+        "summary_zh": "未达预期 · 投入成本高 · 效果有限",
         "relevance": 0.5
       },
       {
@@ -273,7 +273,7 @@
         "category": "案例、报告与趋势",
         "id": "1ce7f2a22eef",
         "title_zh": "人工智能助力职场：员工与雇主或存认知差异",
-        "summary_zh": "员工技能需提升 · 企业需培训 · 管理需调整",
+        "summary_zh": "员工技能需提升 · 雇主需培训员工 · 认知差异影响效率",
         "relevance": 0.5
       },
       {
@@ -287,9 +287,24 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "a6b65cc0b004",
-        "title_zh": "被问错问题遭驱逐：背叛文化五迹象",
-        "summary_zh": "警惕背叛文化 · 员工可能泄密 · 管理层忽视风险",
+        "title_zh": "被问错问题遭驱逐：背叛文化的五个迹象",
+        "summary_zh": "要点1 · 要点2 · 要点3",
         "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-02 — OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+        "url": "https://aihot.news/daily/2026-11-02",
+        "published_at": "2026-11-02T00:00:35+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "b759e1bab0f9",
+        "title_zh": "AIHOT 日报 · 2026-11-02 — O",
+        "summary_zh": "合并ChatGPT与Codex · 统一Token额度 · 12月起执行",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-11-01 — Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
@@ -303,22 +318,7 @@
         "category": "案例、报告与趋势",
         "id": "f6555986a393",
         "title_zh": "AIHOT 日报 · 2026-11-01 — W",
-        "summary_zh": "安全事件频发 · Wiz发布报告 · AI平台受影响",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-10-31 — Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
-        "url": "https://aihot.news/daily/2026-10-31",
-        "published_at": "2026-10-31T00:00:43+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "f7139951017f",
-        "title_zh": "AIHOT 日报 · 2026-10-31 — C",
-        "summary_zh": "扩展含恶意软件 · 影响用户超5000 · Cursor披露事件",
+        "summary_zh": "安全事件频发 · AI平台受影响 · Wiz发布报告",
         "relevance": 0.2
       }
     ]
@@ -335,8 +335,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "d7940bb450cc",
-      "title_zh": "员工“抱习惯”现象调查：新培训效果不彰",
-      "summary_zh": "新培训效果不佳 · 员工依赖旧习惯 · 改善措施待加强",
+      "title_zh": "员工无视新培训仍“抱团成习惯”，调查发现",
+      "summary_zh": "培训效果不佳 · 习惯难以改变 · 员工依赖旧模式",
       "relevance": 0.77
     },
     {
@@ -366,7 +366,7 @@
       "category": "组织与人才管理",
       "id": "d8e6fbff6c6a",
       "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-      "summary_zh": "AI工具助力HR管理 · 提升效率 · 优化决策",
+      "summary_zh": "AI工具丰富 · 提升效率 · 优化决策",
       "relevance": 0.77
     },
     {
@@ -380,8 +380,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "a6214ede6dbf",
-      "title_zh": "加州法院无法质疑雇主在州公平机会法案下的个性化评估",
-      "summary_zh": "个性化评估受法律保护 · 法院无权干预 · 公平机会法案保障",
+      "title_zh": "加州法院不能质疑雇主在州公平机会法案下的个性化评估",
+      "summary_zh": "个性化评估结果受保护 · 法院无权干预 · 公平机会法案保障",
       "relevance": 0.77
     },
     {
@@ -395,14 +395,14 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "5373fd2beb7e",
-      "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪育",
-      "summary_zh": "强制带薪育儿假 · 扩大带薪病假 · 影响雇主",
+      "title_zh": "Allegheny县宾夕法尼亚州强制雇主提供带薪产",
+      "summary_zh": "强制带薪产假 · 扩大带薪病假 · 影响雇主",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-27T00:00:00+00:00",
+      "published_at": "2026-10-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -417,7 +417,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-27T00:00:00+00:00",
+      "published_at": "2026-10-28T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -440,8 +440,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "e77c5c614711",
-      "title_zh": "人力资源需要哪些培训？完整指南",
-      "summary_zh": "培训至关重要 · 提升技能 · 完善知识",
+      "title_zh": "人力资源培训需要什么？你的完整指南",
+      "summary_zh": "培训内容需全面 · 提升专业技能 · 注重实践应用",
       "relevance": 0.73
     },
     {
@@ -455,8 +455,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "3e4e129851bf",
-      "title_zh": "2027年15大最佳HR培训项目",
-      "summary_zh": "提升技能 · 职业发展 · 跟随趋势",
+      "title_zh": "2027年15佳HR培训项目",
+      "summary_zh": "提升技能 · 职业发展 · 未来趋势",
       "relevance": 0.73
     },
     {
@@ -471,7 +471,7 @@
       "category": "案例、报告与趋势",
       "id": "bd5f1db5f9e9",
       "title_zh": "企业未通过AI节省成本，Gartner发现",
-      "summary_zh": "未达预期 · 投入高 · 效果差",
+      "summary_zh": "未达预期 · 投入成本高 · 效果有限",
       "relevance": 0.5
     },
     {
@@ -501,7 +501,7 @@
       "category": "案例、报告与趋势",
       "id": "1ce7f2a22eef",
       "title_zh": "人工智能助力职场：员工与雇主或存认知差异",
-      "summary_zh": "员工技能需提升 · 企业需培训 · 管理需调整",
+      "summary_zh": "员工技能需提升 · 雇主需培训员工 · 认知差异影响效率",
       "relevance": 0.5
     },
     {
@@ -515,8 +515,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "a6b65cc0b004",
-      "title_zh": "被问错问题遭驱逐：背叛文化五迹象",
-      "summary_zh": "警惕背叛文化 · 员工可能泄密 · 管理层忽视风险",
+      "title_zh": "被问错问题遭驱逐：背叛文化的五个迹象",
+      "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.5
     },
     {
@@ -530,8 +530,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "78287f49e047",
-      "title_zh": "新泻法律要求工作时间改革中，休息和用餐时间必须电子",
-      "summary_zh": "休息时间电子记录 · 用餐时间电子记录 · 工作时间改革",
+      "title_zh": "新泻法律要求工作日改革中电子记录休息和用餐时间",
+      "summary_zh": "电子记录休息时间 · 电子记录用餐时间 · 工作日改革",
       "relevance": 0.4
     },
     {
@@ -545,8 +545,8 @@
       "is_ai_hr": false,
       "category": "学习发展与技能转型",
       "id": "eb2201970e46",
-      "title_zh": "大约三分之一的员工表示他们在伪装自己的技能",
-      "summary_zh": "伪装技能普遍 · 影响工作表现 · 企业需关注",
+      "title_zh": "大约三分之一的工人表示他们在伪装自己的技能",
+      "summary_zh": "伪装技能普遍 · 影响工作表现 · 需要关注",
       "relevance": 0.33
     },
     {
@@ -595,6 +595,21 @@
       "relevance": 0.33
     },
     {
+      "title": "AIHOT 日报 · 2026-11-02 — OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+      "url": "https://aihot.news/daily/2026-11-02",
+      "published_at": "2026-11-02T00:00:35+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "b759e1bab0f9",
+      "title_zh": "AIHOT 日报 · 2026-11-02 — O",
+      "summary_zh": "合并ChatGPT与Codex · 统一Token额度 · 12月起执行",
+      "relevance": 0.2
+    },
+    {
       "title": "AIHOT 日报 · 2026-11-01 — Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
       "url": "https://aihot.news/daily/2026-11-01",
       "published_at": "2026-11-01T00:00:43+00:00",
@@ -606,22 +621,7 @@
       "category": "案例、报告与趋势",
       "id": "f6555986a393",
       "title_zh": "AIHOT 日报 · 2026-11-01 — W",
-      "summary_zh": "安全事件频发 · Wiz发布报告 · AI平台受影响",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-10-31 — Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
-      "url": "https://aihot.news/daily/2026-10-31",
-      "published_at": "2026-10-31T00:00:43+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "f7139951017f",
-      "title_zh": "AIHOT 日报 · 2026-10-31 — C",
-      "summary_zh": "扩展含恶意软件 · 影响用户超5000 · Cursor披露事件",
+      "summary_zh": "安全事件频发 · AI平台受影响 · Wiz发布报告",
       "relevance": 0.2
     }
   ]
