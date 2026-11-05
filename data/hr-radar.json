@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:48:14.530108+08:00",
+  "generated_at": "2026-11-05T14:07:00.115489+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-10-30T00:00:00+00:00",
+        "published_at": "2026-10-31T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -58,19 +58,19 @@
         "relevance": 0.4
       },
       {
-        "title": "Labor Department’s FLSA duty analysis ‘gets it right,’ 6th Circuit says",
-        "url": "https://www.hrdive.com/news/dol-flsa-primary-duty-analysis-gets-it-right-6th-circuit/873487/",
-        "published_at": "2026-11-02T20:58:00+00:00",
+        "title": "Lockheed Martin to pay nearly $30M to settle claims of discrimination against White workers",
+        "url": "https://www.hrdive.com/news/lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discrimination-against-White-workers/873733/",
+        "published_at": "2026-11-04T21:49:00+00:00",
         "source_id": "hr_dive",
         "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": false,
+        "is_ai_hr": true,
         "category": "政策与劳动合规",
-        "id": "ed71d3395421",
-        "title_zh": "劳工部FLSA责任分析“正确”，第六巡回法庭称",
-        "summary_zh": "重新定义工作条件 · 加班规则调整 · 法庭支持劳工部",
-        "relevance": 0.33
+        "id": "20af5d6890d5",
+        "title_zh": "洛克希德·马丁将支付近3000万美元以解决对白人工",
+        "summary_zh": "解决歧视指控 · 支付近3000万美元 · 涉及白人工作者",
+        "relevance": 0.29
       }
     ],
     "AI 招聘与招聘工具": [
@@ -85,8 +85,8 @@
         "is_ai_hr": true,
         "category": "AI 招聘与招聘工具",
         "id": "3de06ebe3d72",
-        "title_zh": "从想法到影响：AI代理实现企业规模所需要素",
-        "summary_zh": "生存企业规模 · 影响力实现 · 要素关键",
+        "title_zh": "从想法到影响：AI代理成功走向企业规模所需要素",
+        "summary_zh": "生存关键 · 企业需求 · 技术支持",
         "relevance": 0.73
       },
       {
@@ -101,7 +101,7 @@
         "category": "AI 招聘与招聘工具",
         "id": "1c3c8294c65a",
         "title_zh": "17个最佳人才获取认证与课程，助你提升技能",
-        "summary_zh": "认证提升 · 职业发展 · 技能强化",
+        "summary_zh": "认证提升竞争力 · 课程拓宽视野 · 技能加速招聘",
         "relevance": 0.33
       }
     ],
@@ -118,13 +118,13 @@
         "category": "组织与人才管理",
         "id": "d8e6fbff6c6a",
         "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-        "summary_zh": "AI提升效率 · 解决重复工作 · 优化决策",
+        "summary_zh": "AI工具助力 · 提升效率 · 优化管理",
         "relevance": 0.77
       },
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-10-30T00:00:00+00:00",
+        "published_at": "2026-10-31T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -147,9 +147,24 @@
         "is_ai_hr": true,
         "category": "组织与人才管理",
         "id": "6c6007bf089f",
-        "title_zh": "适应先于算法：AI时代的5种领导者心态",
+        "title_zh": "适应先于算法：AI时代领导者的5种思维模式",
         "summary_zh": "适应变化 · 技术赋能 · 人本管理",
         "relevance": 0.73
+      },
+      {
+        "title": "Seven key enablers to move diverse talent from entry-level to leadership",
+        "url": "https://hrzone.com/seven-key-enablers-to-move-diverse-talent-from-entry-level-to-leadership/",
+        "published_at": "2026-11-04T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "835bbd41c379",
+        "title_zh": "七项关键举措助多元化人才从入门晋升至领导层",
+        "summary_zh": "提升技能 · 拓展视野 · 强化支持",
+        "relevance": 0.33
       },
       {
         "title": "The HR trust gap: Learning from employee experience to build credibility",
@@ -163,7 +178,7 @@
         "category": "组织与人才管理",
         "id": "76a3b66ddad5",
         "title_zh": "人力资源信任差距：从员工体验中学习以建立信誉",
-        "summary_zh": "员工体验很重要 · 建立信誉需行动 · 学习是关键",
+        "summary_zh": "员工体验很重要 · 建立信任需行动 · 提升信誉靠学习",
         "relevance": 0.33
       },
       {
@@ -177,8 +192,8 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "81c96ba9b102",
-        "title_zh": "人力资源如何让领导者不再疲于奔命",
-        "summary_zh": "优化流程 · 提升效率 · 减轻负担",
+        "title_zh": "人力资源如何让领导者不再跳下舞台",
+        "summary_zh": "提升领导力 · 优化管理 · 增强参与",
         "relevance": 0.33
       }
     ],
@@ -194,8 +209,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "e77c5c614711",
-        "title_zh": "人力资源需要哪些培训？完整指南",
-        "summary_zh": "培训至关重要 · 提升技能 · 完善知识",
+        "title_zh": "人力资源培训需要什么？你的完整指南",
+        "summary_zh": "培训内容需全面 · 注重实践技能 · 提供专业认证",
         "relevance": 0.73
       },
       {
@@ -209,13 +224,28 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "3e4e129851bf",
-        "title_zh": "2027年15大最佳HR培训项目",
-        "summary_zh": "提升技能 · 职业发展 · 跟随趋势",
+        "title_zh": "2027年15佳HR培训项目",
+        "summary_zh": "提升技能 · 职业发展 · 未来趋势",
         "relevance": 0.73
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "San Mateo County, California Regulates AI-Controlled Robots in Workplaces",
+        "url": "https://www.littler.com/news-analysis/asap/san-mateo-county-california-regulates-ai-controlled-robots-workplaces",
+        "published_at": "2026-11-04T18:57:41+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "e83e3b38c6d4",
+        "title_zh": "圣马特奥县加州规范职场中的AI机器人",
+        "summary_zh": "监管AI机器人 · 确保工作安全 · 规范职场使用",
+        "relevance": 0.6
+      },
       {
         "title": "California Requires Mid-Project Prevailing Wage Increases on Public Works Contracts of $35 Million or More",
         "url": "https://www.littler.com/news-analysis/asap/california-requires-mid-project-prevailing-wage-increases-public-works-contracts",
@@ -228,7 +258,7 @@
         "category": "案例、报告与趋势",
         "id": "2a6bf46fa845",
         "title_zh": "加州要求35亿美元以上的公共工程合同在项目中期提高",
-        "summary_zh": "项目中期涨薪 · 适用于35亿美元以上合同 · 公共工程领域",
+        "summary_zh": "项目中期提薪 · 合同金额超35亿美元 · 公共工程合同",
         "relevance": 0.6
       },
       {
@@ -273,7 +303,7 @@
         "category": "案例、报告与趋势",
         "id": "3d4400c7fbbc",
         "title_zh": "美国法院对俄罗斯在乌克兰无人机战中的人权责任",
-        "summary_zh": "企业需承担人权责任 · 无人机战引发关注 · 法院介入调查",
+        "summary_zh": "无人机战引发人权诉讼 · 美国法院审理 · 聚焦企业责任",
         "relevance": 0.6
       },
       {
@@ -287,39 +317,9 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "5d34815e01ff",
-        "title_zh": "宾夕法尼亚州最高法院拒绝根据WPCL单独主张违约金",
-        "summary_zh": "拒绝单独违约金索赔 · 适用WPCL · 法院裁决",
+        "title_zh": "宾夕法尼亚州最高法院拒绝根据《WPCL》单独主张违",
+        "summary_zh": "拒绝单独违约金索赔 · 适用《WPCL》 · 法院裁决",
         "relevance": 0.6
-      },
-      {
-        "title": "Kentucky college grants religious accommodation excusing humanist from AI use",
-        "url": "https://www.hrdive.com/news/kentucky-college-grants-religious-accommodation-excusing-humanist-from-ai/873491/",
-        "published_at": "2026-11-02T20:57:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "71c792de5d15",
-        "title_zh": "肯塔基大学授予宗教豁免，人文主义者免用AI",
-        "summary_zh": "宗教豁免 · AI使用 · 人文主义者",
-        "relevance": 0.5
-      },
-      {
-        "title": "Banished for asking the wrong question: Five signs of a Traitors culture",
-        "url": "https://hrzone.com/five-signs-of-a-traitors-culture/",
-        "published_at": "2026-10-28T08:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "a6b65cc0b004",
-        "title_zh": "被问错问题遭驱逐：背叛文化五迹象",
-        "summary_zh": "要点1 · 要点2 · 要点3",
-        "relevance": 0.5
       }
     ]
   },
@@ -351,13 +351,13 @@
       "category": "组织与人才管理",
       "id": "d8e6fbff6c6a",
       "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-      "summary_zh": "AI提升效率 · 解决重复工作 · 优化决策",
+      "summary_zh": "AI工具助力 · 提升效率 · 优化管理",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-10-30T00:00:00+00:00",
+      "published_at": "2026-10-31T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -372,7 +372,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-10-30T00:00:00+00:00",
+      "published_at": "2026-10-31T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -395,8 +395,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "e77c5c614711",
-      "title_zh": "人力资源需要哪些培训？完整指南",
-      "summary_zh": "培训至关重要 · 提升技能 · 完善知识",
+      "title_zh": "人力资源培训需要什么？你的完整指南",
+      "summary_zh": "培训内容需全面 · 注重实践技能 · 提供专业认证",
       "relevance": 0.73
     },
     {
@@ -410,8 +410,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "3e4e129851bf",
-      "title_zh": "2027年15大最佳HR培训项目",
-      "summary_zh": "提升技能 · 职业发展 · 跟随趋势",
+      "title_zh": "2027年15佳HR培训项目",
+      "summary_zh": "提升技能 · 职业发展 · 未来趋势",
       "relevance": 0.73
     },
     {
@@ -425,8 +425,8 @@
       "is_ai_hr": true,
       "category": "AI 招聘与招聘工具",
       "id": "3de06ebe3d72",
-      "title_zh": "从想法到影响：AI代理实现企业规模所需要素",
-      "summary_zh": "生存企业规模 · 影响力实现 · 要素关键",
+      "title_zh": "从想法到影响：AI代理成功走向企业规模所需要素",
+      "summary_zh": "生存关键 · 企业需求 · 技术支持",
       "relevance": 0.73
     },
     {
@@ -440,9 +440,24 @@
       "is_ai_hr": true,
       "category": "组织与人才管理",
       "id": "6c6007bf089f",
-      "title_zh": "适应先于算法：AI时代的5种领导者心态",
+      "title_zh": "适应先于算法：AI时代领导者的5种思维模式",
       "summary_zh": "适应变化 · 技术赋能 · 人本管理",
       "relevance": 0.73
+    },
+    {
+      "title": "San Mateo County, California Regulates AI-Controlled Robots in Workplaces",
+      "url": "https://www.littler.com/news-analysis/asap/san-mateo-county-california-regulates-ai-controlled-robots-workplaces",
+      "published_at": "2026-11-04T18:57:41+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "e83e3b38c6d4",
+      "title_zh": "圣马特奥县加州规范职场中的AI机器人",
+      "summary_zh": "监管AI机器人 · 确保工作安全 · 规范职场使用",
+      "relevance": 0.6
     },
     {
       "title": "California Requires Mid-Project Prevailing Wage Increases on Public Works Contracts of $35 Million or More",
@@ -456,7 +471,7 @@
       "category": "案例、报告与趋势",
       "id": "2a6bf46fa845",
       "title_zh": "加州要求35亿美元以上的公共工程合同在项目中期提高",
-      "summary_zh": "项目中期涨薪 · 适用于35亿美元以上合同 · 公共工程领域",
+      "summary_zh": "项目中期提薪 · 合同金额超35亿美元 · 公共工程合同",
       "relevance": 0.6
     },
     {
@@ -501,7 +516,7 @@
       "category": "案例、报告与趋势",
       "id": "3d4400c7fbbc",
       "title_zh": "美国法院对俄罗斯在乌克兰无人机战中的人权责任",
-      "summary_zh": "企业需承担人权责任 · 无人机战引发关注 · 法院介入调查",
+      "summary_zh": "无人机战引发人权诉讼 · 美国法院审理 · 聚焦企业责任",
       "relevance": 0.6
     },
     {
@@ -515,39 +530,9 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "5d34815e01ff",
-      "title_zh": "宾夕法尼亚州最高法院拒绝根据WPCL单独主张违约金",
-      "summary_zh": "拒绝单独违约金索赔 · 适用WPCL · 法院裁决",
+      "title_zh": "宾夕法尼亚州最高法院拒绝根据《WPCL》单独主张违",
+      "summary_zh": "拒绝单独违约金索赔 · 适用《WPCL》 · 法院裁决",
       "relevance": 0.6
-    },
-    {
-      "title": "Kentucky college grants religious accommodation excusing humanist from AI use",
-      "url": "https://www.hrdive.com/news/kentucky-college-grants-religious-accommodation-excusing-humanist-from-ai/873491/",
-      "published_at": "2026-11-02T20:57:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "71c792de5d15",
-      "title_zh": "肯塔基大学授予宗教豁免，人文主义者免用AI",
-      "summary_zh": "宗教豁免 · AI使用 · 人文主义者",
-      "relevance": 0.5
-    },
-    {
-      "title": "Banished for asking the wrong question: Five signs of a Traitors culture",
-      "url": "https://hrzone.com/five-signs-of-a-traitors-culture/",
-      "published_at": "2026-10-28T08:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "a6b65cc0b004",
-      "title_zh": "被问错问题遭驱逐：背叛文化五迹象",
-      "summary_zh": "要点1 · 要点2 · 要点3",
-      "relevance": 0.5
     },
     {
       "title": "Silla Law breaks and meal times must be recorded electronically with the workday reform",
@@ -565,21 +550,6 @@
       "relevance": 0.4
     },
     {
-      "title": "Labor Department’s FLSA duty analysis ‘gets it right,’ 6th Circuit says",
-      "url": "https://www.hrdive.com/news/dol-flsa-primary-duty-analysis-gets-it-right-6th-circuit/873487/",
-      "published_at": "2026-11-02T20:58:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "ed71d3395421",
-      "title_zh": "劳工部FLSA责任分析“正确”，第六巡回法庭称",
-      "summary_zh": "重新定义工作条件 · 加班规则调整 · 法庭支持劳工部",
-      "relevance": 0.33
-    },
-    {
       "title": "17 Best Talent Acquisition Certifications & Courses To Build Your Skills",
       "url": "https://www.aihr.com/blog/best-talent-acquisition-certification/",
       "published_at": "2026-10-30T15:31:43+00:00",
@@ -591,7 +561,22 @@
       "category": "AI 招聘与招聘工具",
       "id": "1c3c8294c65a",
       "title_zh": "17个最佳人才获取认证与课程，助你提升技能",
-      "summary_zh": "认证提升 · 职业发展 · 技能强化",
+      "summary_zh": "认证提升竞争力 · 课程拓宽视野 · 技能加速招聘",
+      "relevance": 0.33
+    },
+    {
+      "title": "Seven key enablers to move diverse talent from entry-level to leadership",
+      "url": "https://hrzone.com/seven-key-enablers-to-move-diverse-talent-from-entry-level-to-leadership/",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "835bbd41c379",
+      "title_zh": "七项关键举措助多元化人才从入门晋升至领导层",
+      "summary_zh": "提升技能 · 拓展视野 · 强化支持",
       "relevance": 0.33
     },
     {
@@ -606,7 +591,7 @@
       "category": "组织与人才管理",
       "id": "76a3b66ddad5",
       "title_zh": "人力资源信任差距：从员工体验中学习以建立信誉",
-      "summary_zh": "员工体验很重要 · 建立信誉需行动 · 学习是关键",
+      "summary_zh": "员工体验很重要 · 建立信任需行动 · 提升信誉靠学习",
       "relevance": 0.33
     },
     {
@@ -620,9 +605,24 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "81c96ba9b102",
-      "title_zh": "人力资源如何让领导者不再疲于奔命",
-      "summary_zh": "优化流程 · 提升效率 · 减轻负担",
+      "title_zh": "人力资源如何让领导者不再跳下舞台",
+      "summary_zh": "提升领导力 · 优化管理 · 增强参与",
       "relevance": 0.33
+    },
+    {
+      "title": "Lockheed Martin to pay nearly $30M to settle claims of discrimination against White workers",
+      "url": "https://www.hrdive.com/news/lockheed-martin-to-pay-nearly-30m-to-settle-claims-of-discrimination-against-White-workers/873733/",
+      "published_at": "2026-11-04T21:49:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "20af5d6890d5",
+      "title_zh": "洛克希德·马丁将支付近3000万美元以解决对白人工",
+      "summary_zh": "解决歧视指控 · 支付近3000万美元 · 涉及白人工作者",
+      "relevance": 0.29
     }
   ]
 }
