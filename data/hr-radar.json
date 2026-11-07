@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:01:18.624190+08:00",
+  "generated_at": "2026-11-07T13:33:50.455347+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -15,7 +15,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-01T00:00:00+00:00",
+        "published_at": "2026-11-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -26,6 +26,21 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
+      },
+      {
+        "title": "Vacation Law 2026: German Employers’ Obligations to Inform, Forfeiture and Illness",
+        "url": "https://www.littler.com/news-analysis/asap/vacation-law-2026-german-employers-obligations-inform-forfeiture-and-illness",
+        "published_at": "2026-11-06T14:22:34+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "05adfebc1275",
+        "title_zh": "休假法2026：德国雇主告知义务、权利丧失与疾病",
+        "summary_zh": "告知义务 · 权利丧失 · 疾病影响",
+        "relevance": 0.4
       },
       {
         "title": "UK Government Promises Reform of Non-Compete Clauses",
@@ -39,7 +54,7 @@
         "category": "政策与劳动合规",
         "id": "afc7ea5ca0d0",
         "title_zh": "英国政府承诺改革竞业限制条款",
-        "summary_zh": "禁止条款将受限 · 保护员工权益 · 提高就业灵活性",
+        "summary_zh": "竞业限制条款将改革 · 政府加强监管 · 保护员工权益",
         "relevance": 0.4
       },
       {
@@ -53,38 +68,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "c5c8437eb4cb",
-        "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报备",
-        "summary_zh": "强制报备 · 性别薪酬差距 · 11月起执行",
-        "relevance": 0.4
-      },
-      {
-        "title": "Silla Law breaks and meal times must be recorded electronically with the workday reform",
-        "url": "https://www.littler.com/press/news/silla-law-breaks-and-meal-times-must-be-recorded-electronically-workday-reform",
-        "published_at": "2026-10-30T17:19:07+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "78287f49e047",
-        "title_zh": "新泻法律要求工作时间改革中，休息和用餐时间必须电子",
-        "summary_zh": "休息时间电子记录 · 用餐时间电子记录 · 工作时间改革",
-        "relevance": 0.4
-      },
-      {
-        "title": "Littler Attorneys Named to 2027 Best Lawyers™ Lists in Colombia and Puerto Rico",
-        "url": "https://www.littler.com/press/press-release/littler-attorneys-named-2027-best-lawyerstm-lists-colombia-and-puerto-rico",
-        "published_at": "2026-10-30T15:26:15+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "5be6150ff1c2",
-        "title_zh": "利特尔律师事务所入选2027年哥伦比亚和波多黎各最",
-        "summary_zh": "哥伦比亚入选 · 波多黎各入选 · 2027年榜单",
+        "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
+        "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
         "relevance": 0.4
       }
     ],
@@ -100,46 +85,16 @@
         "is_ai_hr": true,
         "category": "AI 招聘与招聘工具",
         "id": "3de06ebe3d72",
-        "title_zh": "从想法到影响：AI代理实现企业规模所需要素",
+        "title_zh": "从想法到影响：AI代理走向企业规模所需要素",
         "summary_zh": "生存企业规模 · 影响力 · 要素",
         "relevance": 0.73
-      },
-      {
-        "title": "17 Best Talent Acquisition Certifications & Courses To Build Your Skills",
-        "url": "https://www.aihr.com/blog/best-talent-acquisition-certification/",
-        "published_at": "2026-10-30T15:31:43+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "AI 招聘与招聘工具",
-        "id": "1c3c8294c65a",
-        "title_zh": "17个最佳人才获取认证与课程，助你提升技能",
-        "summary_zh": "认证提升 · 职业发展 · 技能强化",
-        "relevance": 0.33
       }
     ],
     "组织与人才管理": [
       {
-        "title": "48 HR AI Tools: The Ultimate List for HR Leaders",
-        "url": "https://www.aihr.com/blog/hr-ai-tools/",
-        "published_at": "2026-10-30T14:49:58+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "组织与人才管理",
-        "id": "d8e6fbff6c6a",
-        "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-        "summary_zh": "AI提升效率 · 优化招聘 · 数据驱动决策",
-        "relevance": 0.77
-      },
-      {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-01T00:00:00+00:00",
+        "published_at": "2026-11-02T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -162,7 +117,7 @@
         "is_ai_hr": true,
         "category": "组织与人才管理",
         "id": "6c6007bf089f",
-        "title_zh": "适应先于算法：AI时代的5种领导者心态",
+        "title_zh": "适应先于算法：AI时代的5种领导力思维模式",
         "summary_zh": "适应变化 · 技术赋能 · 人本管理",
         "relevance": 0.73
       },
@@ -208,13 +163,43 @@
         "category": "组织与人才管理",
         "id": "835bbd41c379",
         "title_zh": "七项关键因素助力多元人才从入门到领导",
-        "summary_zh": "提升技能 · 拓展视野 · 强化支持",
+        "summary_zh": "提升技能 · 促进发展 · 加强支持",
+        "relevance": 0.33
+      },
+      {
+        "title": "The HR trust gap: Learning from employee experience to build credibility",
+        "url": "https://hrzone.com/the-hr-trust-gap-what-employee-experience-can-teach-us-about-building-credibility/",
+        "published_at": "2026-11-02T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "76a3b66ddad5",
+        "title_zh": "人力资源信任差距：从员工体验中学习以建立信誉",
+        "summary_zh": "信任度下降 · 员工体验重要 · 建立信誉需行动",
         "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
+      {
+        "title": "UK Government Confirms Details of New Bereavement Leave Right",
+        "url": "https://www.littler.com/news-analysis/asap/uk-government-confirms-details-new-bereavement-leave-right",
+        "published_at": "2026-11-06T14:49:17+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "04d7218da68a",
+        "title_zh": "英国政府确认新丧假权利细节",
+        "summary_zh": "新增丧假权利 · 政府确认细节 · 适用范围明确",
+        "relevance": 0.6
+      },
       {
         "title": "San Mateo County, California Regulates AI-Controlled Robots in Workplaces",
         "url": "https://www.littler.com/news-analysis/asap/san-mateo-county-california-regulates-ai-controlled-robots-workplaces",
@@ -226,8 +211,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "e83e3b38c6d4",
-        "title_zh": "圣马特奥县加州规范职场中的AI机器人",
-        "summary_zh": "监管AI机器人 · 确保工作安全 · 规范职场使用",
+        "title_zh": "圣马特奥县加州监管职场中的AI控制机器人",
+        "summary_zh": "监管AI机器人 · 影响职场安全 · 需合规操作",
         "relevance": 0.6
       },
       {
@@ -257,7 +242,7 @@
         "category": "案例、报告与趋势",
         "id": "a32fed71b687",
         "title_zh": "智能AI在工作场所",
-        "summary_zh": "AI提升效率 · 自动化任务 · 改善决策",
+        "summary_zh": "增强效率 · 改善协作 · 提升决策",
         "relevance": 0.6
       },
       {
@@ -287,7 +272,7 @@
         "category": "案例、报告与趋势",
         "id": "3d4400c7fbbc",
         "title_zh": "美国法院对俄罗斯在乌克兰无人机战中的人权责任",
-        "summary_zh": "企业需承担人权责任 · 受美国法院管辖 · 无人机战引发关注",
+        "summary_zh": "企业需承担人权责任 · 受美国法院管辖 · 无人机战引发关注。",
         "relevance": 0.6
       },
       {
@@ -302,8 +287,23 @@
         "category": "案例、报告与趋势",
         "id": "5d34815e01ff",
         "title_zh": "宾夕法尼亚州最高法院拒绝根据WPCL单独主张违约金",
-        "summary_zh": "拒绝单独违约金索赔 · WPCL适用 · 法院裁决",
+        "summary_zh": "拒绝单独违约金索赔 · 适用WPCL · 违约金条款无效",
         "relevance": 0.6
+      },
+      {
+        "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+        "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
+        "published_at": "2026-11-06T18:51:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "b08088298647",
+        "title_zh": "本周回顾：就业增长在数月温和增长后意外达到高位",
+        "summary_zh": "就业增长超预期 · 增长幅度大 · 出现转折",
+        "relevance": 0.5
       },
       {
         "title": "‘AI rebounding’ could cost companies",
@@ -317,31 +317,16 @@
         "category": "案例、报告与趋势",
         "id": "55582df72117",
         "title_zh": "‘AI反弹’可能使公司蒙受损失",
-        "summary_zh": "要点1 · 要点2 · 要点3",
+        "summary_zh": "要点1 · AI成本上升 · 要点2 · 企业预算受压 · 要点3 · 需调整策略",
         "relevance": 0.5
       }
     ]
   },
   "all_items": [
     {
-      "title": "48 HR AI Tools: The Ultimate List for HR Leaders",
-      "url": "https://www.aihr.com/blog/hr-ai-tools/",
-      "published_at": "2026-10-30T14:49:58+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "组织与人才管理",
-      "id": "d8e6fbff6c6a",
-      "title_zh": "48个人力资源AI工具：HR领导者的终极清单",
-      "summary_zh": "AI提升效率 · 优化招聘 · 数据驱动决策",
-      "relevance": 0.77
-    },
-    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-01T00:00:00+00:00",
+      "published_at": "2026-11-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -356,7 +341,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-01T00:00:00+00:00",
+      "published_at": "2026-11-02T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -379,7 +364,7 @@
       "is_ai_hr": true,
       "category": "AI 招聘与招聘工具",
       "id": "3de06ebe3d72",
-      "title_zh": "从想法到影响：AI代理实现企业规模所需要素",
+      "title_zh": "从想法到影响：AI代理走向企业规模所需要素",
       "summary_zh": "生存企业规模 · 影响力 · 要素",
       "relevance": 0.73
     },
@@ -394,9 +379,24 @@
       "is_ai_hr": true,
       "category": "组织与人才管理",
       "id": "6c6007bf089f",
-      "title_zh": "适应先于算法：AI时代的5种领导者心态",
+      "title_zh": "适应先于算法：AI时代的5种领导力思维模式",
       "summary_zh": "适应变化 · 技术赋能 · 人本管理",
       "relevance": 0.73
+    },
+    {
+      "title": "UK Government Confirms Details of New Bereavement Leave Right",
+      "url": "https://www.littler.com/news-analysis/asap/uk-government-confirms-details-new-bereavement-leave-right",
+      "published_at": "2026-11-06T14:49:17+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "04d7218da68a",
+      "title_zh": "英国政府确认新丧假权利细节",
+      "summary_zh": "新增丧假权利 · 政府确认细节 · 适用范围明确",
+      "relevance": 0.6
     },
     {
       "title": "San Mateo County, California Regulates AI-Controlled Robots in Workplaces",
@@ -409,8 +409,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "e83e3b38c6d4",
-      "title_zh": "圣马特奥县加州规范职场中的AI机器人",
-      "summary_zh": "监管AI机器人 · 确保工作安全 · 规范职场使用",
+      "title_zh": "圣马特奥县加州监管职场中的AI控制机器人",
+      "summary_zh": "监管AI机器人 · 影响职场安全 · 需合规操作",
       "relevance": 0.6
     },
     {
@@ -440,7 +440,7 @@
       "category": "案例、报告与趋势",
       "id": "a32fed71b687",
       "title_zh": "智能AI在工作场所",
-      "summary_zh": "AI提升效率 · 自动化任务 · 改善决策",
+      "summary_zh": "增强效率 · 改善协作 · 提升决策",
       "relevance": 0.6
     },
     {
@@ -470,7 +470,7 @@
       "category": "案例、报告与趋势",
       "id": "3d4400c7fbbc",
       "title_zh": "美国法院对俄罗斯在乌克兰无人机战中的人权责任",
-      "summary_zh": "企业需承担人权责任 · 受美国法院管辖 · 无人机战引发关注",
+      "summary_zh": "企业需承担人权责任 · 受美国法院管辖 · 无人机战引发关注。",
       "relevance": 0.6
     },
     {
@@ -485,8 +485,23 @@
       "category": "案例、报告与趋势",
       "id": "5d34815e01ff",
       "title_zh": "宾夕法尼亚州最高法院拒绝根据WPCL单独主张违约金",
-      "summary_zh": "拒绝单独违约金索赔 · WPCL适用 · 法院裁决",
+      "summary_zh": "拒绝单独违约金索赔 · 适用WPCL · 违约金条款无效",
       "relevance": 0.6
+    },
+    {
+      "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
+      "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
+      "published_at": "2026-11-06T18:51:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "b08088298647",
+      "title_zh": "本周回顾：就业增长在数月温和增长后意外达到高位",
+      "summary_zh": "就业增长超预期 · 增长幅度大 · 出现转折",
+      "relevance": 0.5
     },
     {
       "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
@@ -515,8 +530,23 @@
       "category": "案例、报告与趋势",
       "id": "55582df72117",
       "title_zh": "‘AI反弹’可能使公司蒙受损失",
-      "summary_zh": "要点1 · 要点2 · 要点3",
+      "summary_zh": "要点1 · AI成本上升 · 要点2 · 企业预算受压 · 要点3 · 需调整策略",
       "relevance": 0.5
+    },
+    {
+      "title": "Vacation Law 2026: German Employers’ Obligations to Inform, Forfeiture and Illness",
+      "url": "https://www.littler.com/news-analysis/asap/vacation-law-2026-german-employers-obligations-inform-forfeiture-and-illness",
+      "published_at": "2026-11-06T14:22:34+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "05adfebc1275",
+      "title_zh": "休假法2026：德国雇主告知义务、权利丧失与疾病",
+      "summary_zh": "告知义务 · 权利丧失 · 疾病影响",
+      "relevance": 0.4
     },
     {
       "title": "UK Government Promises Reform of Non-Compete Clauses",
@@ -530,7 +560,7 @@
       "category": "政策与劳动合规",
       "id": "afc7ea5ca0d0",
       "title_zh": "英国政府承诺改革竞业限制条款",
-      "summary_zh": "禁止条款将受限 · 保护员工权益 · 提高就业灵活性",
+      "summary_zh": "竞业限制条款将改革 · 政府加强监管 · 保护员工权益",
       "relevance": 0.4
     },
     {
@@ -544,54 +574,9 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "c5c8437eb4cb",
-      "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报备",
-      "summary_zh": "强制报备 · 性别薪酬差距 · 11月起执行",
+      "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
+      "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
       "relevance": 0.4
-    },
-    {
-      "title": "Silla Law breaks and meal times must be recorded electronically with the workday reform",
-      "url": "https://www.littler.com/press/news/silla-law-breaks-and-meal-times-must-be-recorded-electronically-workday-reform",
-      "published_at": "2026-10-30T17:19:07+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "78287f49e047",
-      "title_zh": "新泻法律要求工作时间改革中，休息和用餐时间必须电子",
-      "summary_zh": "休息时间电子记录 · 用餐时间电子记录 · 工作时间改革",
-      "relevance": 0.4
-    },
-    {
-      "title": "Littler Attorneys Named to 2027 Best Lawyers™ Lists in Colombia and Puerto Rico",
-      "url": "https://www.littler.com/press/press-release/littler-attorneys-named-2027-best-lawyerstm-lists-colombia-and-puerto-rico",
-      "published_at": "2026-10-30T15:26:15+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "5be6150ff1c2",
-      "title_zh": "利特尔律师事务所入选2027年哥伦比亚和波多黎各最",
-      "summary_zh": "哥伦比亚入选 · 波多黎各入选 · 2027年榜单",
-      "relevance": 0.4
-    },
-    {
-      "title": "17 Best Talent Acquisition Certifications & Courses To Build Your Skills",
-      "url": "https://www.aihr.com/blog/best-talent-acquisition-certification/",
-      "published_at": "2026-10-30T15:31:43+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "AI 招聘与招聘工具",
-      "id": "1c3c8294c65a",
-      "title_zh": "17个最佳人才获取认证与课程，助你提升技能",
-      "summary_zh": "认证提升 · 职业发展 · 技能强化",
-      "relevance": 0.33
     },
     {
       "title": "Three things your employee surveys aren’t telling you",
@@ -620,7 +605,22 @@
       "category": "组织与人才管理",
       "id": "835bbd41c379",
       "title_zh": "七项关键因素助力多元人才从入门到领导",
-      "summary_zh": "提升技能 · 拓展视野 · 强化支持",
+      "summary_zh": "提升技能 · 促进发展 · 加强支持",
+      "relevance": 0.33
+    },
+    {
+      "title": "The HR trust gap: Learning from employee experience to build credibility",
+      "url": "https://hrzone.com/the-hr-trust-gap-what-employee-experience-can-teach-us-about-building-credibility/",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "76a3b66ddad5",
+      "title_zh": "人力资源信任差距：从员工体验中学习以建立信誉",
+      "summary_zh": "信任度下降 · 员工体验重要 · 建立信誉需行动",
       "relevance": 0.33
     }
   ]
