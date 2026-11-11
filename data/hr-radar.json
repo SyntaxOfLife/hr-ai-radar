@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:53:09.080742+08:00",
+  "generated_at": "2026-11-11T13:42:01.209246+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -24,13 +24,13 @@
         "category": "政策与劳动合规",
         "id": "c8a1a4e1632e",
         "title_zh": "不公平解雇案件在WRC激增43%",
-        "summary_zh": "案件数量激增 · 法律风险增加 · 企业需加强合规管理",
+        "summary_zh": "案件数量激增 · 升幅达43% · WRC数据统计",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-05T00:00:00+00:00",
+        "published_at": "2026-11-06T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -53,7 +53,7 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "05adfebc1275",
-        "title_zh": "休假法2026：德国雇主告知义务、权利丧失与疾病",
+        "title_zh": "德国2026年休假法：雇主告知义务、权利丧失与疾病",
         "summary_zh": "告知义务 · 权利丧失 · 疾病影响",
         "relevance": 0.4
       },
@@ -69,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "afc7ea5ca0d0",
         "title_zh": "英国政府承诺改革竞业限制条款",
-        "summary_zh": "禁止竞业限制 · 保护员工 · 提高灵活性",
+        "summary_zh": "禁止竞业限制 · 保护员工 · 提高就业流动性",
         "relevance": 0.4
       },
       {
@@ -83,8 +83,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "c5c8437eb4cb",
-        "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报备",
-        "summary_zh": "强制报备 · 性别薪酬差距 · 11月起执行",
+        "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
+        "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
         "relevance": 0.4
       },
       {
@@ -98,8 +98,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "9db4d3171b66",
-        "title_zh": "“DEI趋势将逆转”：法律专业人士预计浪潮转向多元",
-        "summary_zh": "法律界预期DEI逆转 · 多元包容成趋势 · 法律专业人士持此观点",
+        "title_zh": "“这并非新故事”：法律专业人士预计DEI浪潮将转向",
+        "summary_zh": "预计DEI将转向 · 法律专业人士持此观点 · DEI趋势变化",
         "relevance": 0.33
       }
     ],
@@ -108,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-05T00:00:00+00:00",
+        "published_at": "2026-11-06T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -121,21 +121,6 @@
         "id": "3c2c2dfc96b7"
       },
       {
-        "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
-        "url": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
-        "published_at": "2026-11-05T21:18:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "01c6b6430926",
-        "title_zh": "近三分之二HR领导者预计2027年裁员",
-        "summary_zh": "预计2027年裁员 · HR领导者担忧 · 裁员趋势显现",
-        "relevance": 0.5
-      },
-      {
         "title": "Three things your employee surveys aren’t telling you",
         "url": "https://hrzone.com/three-things-your-employee-surveys-arent-telling-you/",
         "published_at": "2026-11-05T07:55:00+00:00",
@@ -146,12 +131,58 @@
         "is_ai_hr": false,
         "category": "组织与人才管理",
         "id": "857d6ea9f424",
-        "title_zh": "员工调查未能告知你的三件事",
+        "title_zh": "员工调查未能告知的三件事",
         "summary_zh": "要点1 · 要点2 · 要点3",
+        "relevance": 0.33
+      },
+      {
+        "title": "Seven key enablers to move diverse talent from entry-level to leadership",
+        "url": "https://hrzone.com/seven-key-enablers-to-move-diverse-talent-from-entry-level-to-leadership/",
+        "published_at": "2026-11-04T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "835bbd41c379",
+        "title_zh": "七项关键要素助力多元人才从入门到领导",
+        "summary_zh": "提升技能 · 促进发展 · 营造包容",
         "relevance": 0.33
       }
     ],
-    "学习发展与技能转型": [],
+    "学习发展与技能转型": [
+      {
+        "title": "AI leadership training tools are most effective when paired with managerial support",
+        "url": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
+        "published_at": "2026-11-10T20:55:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "51264b75fc3f",
+        "title_zh": "人工智能领导力培训工具在与管理层支持结合时最有效",
+        "summary_zh": "提升领导力 · 提高效率 · 需要支持",
+        "relevance": 0.8
+      },
+      {
+        "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
+        "url": "https://www.littler.com/news-analysis/2-point-video/what-do-employers-need-know-about-californias-new-anti-hate-speech",
+        "published_at": "2026-11-10T15:25:45+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "62860a8c7ad8",
+        "title_zh": "加州反仇恨言论培训新要求雇主须知",
+        "summary_zh": "培训新规 · 影响企业 · 避免歧视",
+        "relevance": 0.77
+      }
+    ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
@@ -181,7 +212,7 @@
         "category": "案例、报告与趋势",
         "id": "bef368262c5b",
         "title_zh": "使用AI起草和审查员工手册及政策时的注意事项",
-        "summary_zh": "起草需审慎 · 审查要细致 · 保护隐私",
+        "summary_zh": "起草需审慎 · 审查要细致 · 遵守法规",
         "relevance": 0.6
       },
       {
@@ -225,53 +256,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "e83e3b38c6d4",
-        "title_zh": "圣马特奥县加州规范职场中的AI控制机器人",
-        "summary_zh": "规范AI机器人 · 影响职场 · 强制执行",
-        "relevance": 0.6
-      },
-      {
-        "title": "California Requires Mid-Project Prevailing Wage Increases on Public Works Contracts of $35 Million or More",
-        "url": "https://www.littler.com/news-analysis/asap/california-requires-mid-project-prevailing-wage-increases-public-works-contracts",
-        "published_at": "2026-11-03T22:10:45+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "2a6bf46fa845",
-        "title_zh": "加州要求35亿美元以上的公共工程合同在项目中期提高",
-        "summary_zh": "项目中期涨薪 · 适用于35亿美元以上合同 · 公共工程领域",
-        "relevance": 0.6
-      },
-      {
-        "title": "Agentic AI in the Workplace",
-        "url": "https://www.littler.com/news-analysis/littler-report/agentic-ai-workplace",
-        "published_at": "2026-11-03T18:08:59+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "a32fed71b687",
-        "title_zh": "智能AI在工作场所",
-        "summary_zh": "增强效率 · 改善协作 · 提升决策",
-        "relevance": 0.6
-      },
-      {
-        "title": "UK Employment Status Shake-Up Proposed: Key Details for Employers",
-        "url": "https://www.littler.com/news-analysis/asap/uk-employment-status-shake-proposed-key-details-employers",
-        "published_at": "2026-11-03T14:53:06+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "ed82b7ae8a8e",
-        "title_zh": "英国就业状态改革提议：雇主需关注关键细节",
-        "summary_zh": "改革提议 · 影响雇主 · 关注细节",
+        "title_zh": "圣马特奥县加州规范职场中AI控制机器人",
+        "summary_zh": "监管AI机器人 · 确保安全 · 影响职场",
         "relevance": 0.6
       },
       {
@@ -285,23 +271,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "932252ab6d0d",
-        "title_zh": "未能精确诊断并未击败员工的ADA索赔，第十巡回上诉",
-        "summary_zh": "要点1 · 未能精确诊断 · ADA索赔成功 · 法院支持",
+        "title_zh": "无法确诊未能挫败员工ADA索赔，第十巡回法院认为",
+        "summary_zh": "要点1 · 要点2 · 要点3",
         "relevance": 0.5
       },
       {
-        "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
-        "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
-        "published_at": "2026-11-06T18:51:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "15+ AI Hackathon Ideas for HR Teams",
+        "url": "https://www.aihr.com/blog/ai-hackathon-ideas/",
+        "published_at": "2026-11-10T09:55:18+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "b08088298647",
-        "title_zh": "本周回顾：就业增长在数月低迷后意外强劲",
-        "summary_zh": "就业增长强劲 · 数月低迷 · 意外增长",
+        "id": "5114fe6d3052",
+        "title_zh": "15+ 人力资源团队的AI黑客松创意",
+        "summary_zh": "利用AI提升效率 · 优化招聘流程 · 探索创新应用",
         "relevance": 0.5
       },
       {
@@ -318,10 +304,55 @@
         "title_zh": "人工智能疲劳是工作设计问题及HR应对措施",
         "summary_zh": "优化工作流程 · 关注员工福祉 · 提升效率",
         "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-11 — Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "url": "https://aihot.news/daily/2026-11-11",
+        "published_at": "2026-11-11T00:00:27+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "fc4ca6472c31",
+        "title_zh": "AIHOT 日报 · 2026-11-11 — G",
+        "summary_zh": "减排技术 · 性能提升 · 全球推广",
+        "relevance": 0.2
       }
     ]
   },
   "all_items": [
+    {
+      "title": "AI leadership training tools are most effective when paired with managerial support",
+      "url": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
+      "published_at": "2026-11-10T20:55:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "51264b75fc3f",
+      "title_zh": "人工智能领导力培训工具在与管理层支持结合时最有效",
+      "summary_zh": "提升领导力 · 提高效率 · 需要支持",
+      "relevance": 0.8
+    },
+    {
+      "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
+      "url": "https://www.littler.com/news-analysis/2-point-video/what-do-employers-need-know-about-californias-new-anti-hate-speech",
+      "published_at": "2026-11-10T15:25:45+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "62860a8c7ad8",
+      "title_zh": "加州反仇恨言论培训新要求雇主须知",
+      "summary_zh": "培训新规 · 影响企业 · 避免歧视",
+      "relevance": 0.77
+    },
     {
       "title": "World of HR: Spain approves measure to provide paid menopause leave",
       "url": "https://www.littler.com/press/news/world-hr-spain-approves-measure-provide-paid-menopause-leave",
@@ -349,13 +380,13 @@
       "category": "政策与劳动合规",
       "id": "c8a1a4e1632e",
       "title_zh": "不公平解雇案件在WRC激增43%",
-      "summary_zh": "案件数量激增 · 法律风险增加 · 企业需加强合规管理",
+      "summary_zh": "案件数量激增 · 升幅达43% · WRC数据统计",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-05T00:00:00+00:00",
+      "published_at": "2026-11-06T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -370,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-05T00:00:00+00:00",
+      "published_at": "2026-11-06T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -394,7 +425,7 @@
       "category": "案例、报告与趋势",
       "id": "bef368262c5b",
       "title_zh": "使用AI起草和审查员工手册及政策时的注意事项",
-      "summary_zh": "起草需审慎 · 审查要细致 · 保护隐私",
+      "summary_zh": "起草需审慎 · 审查要细致 · 遵守法规",
       "relevance": 0.6
     },
     {
@@ -438,53 +469,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "e83e3b38c6d4",
-      "title_zh": "圣马特奥县加州规范职场中的AI控制机器人",
-      "summary_zh": "规范AI机器人 · 影响职场 · 强制执行",
-      "relevance": 0.6
-    },
-    {
-      "title": "California Requires Mid-Project Prevailing Wage Increases on Public Works Contracts of $35 Million or More",
-      "url": "https://www.littler.com/news-analysis/asap/california-requires-mid-project-prevailing-wage-increases-public-works-contracts",
-      "published_at": "2026-11-03T22:10:45+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "2a6bf46fa845",
-      "title_zh": "加州要求35亿美元以上的公共工程合同在项目中期提高",
-      "summary_zh": "项目中期涨薪 · 适用于35亿美元以上合同 · 公共工程领域",
-      "relevance": 0.6
-    },
-    {
-      "title": "Agentic AI in the Workplace",
-      "url": "https://www.littler.com/news-analysis/littler-report/agentic-ai-workplace",
-      "published_at": "2026-11-03T18:08:59+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "a32fed71b687",
-      "title_zh": "智能AI在工作场所",
-      "summary_zh": "增强效率 · 改善协作 · 提升决策",
-      "relevance": 0.6
-    },
-    {
-      "title": "UK Employment Status Shake-Up Proposed: Key Details for Employers",
-      "url": "https://www.littler.com/news-analysis/asap/uk-employment-status-shake-proposed-key-details-employers",
-      "published_at": "2026-11-03T14:53:06+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "ed82b7ae8a8e",
-      "title_zh": "英国就业状态改革提议：雇主需关注关键细节",
-      "summary_zh": "改革提议 · 影响雇主 · 关注细节",
+      "title_zh": "圣马特奥县加州规范职场中AI控制机器人",
+      "summary_zh": "监管AI机器人 · 确保安全 · 影响职场",
       "relevance": 0.6
     },
     {
@@ -498,38 +484,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "932252ab6d0d",
-      "title_zh": "未能精确诊断并未击败员工的ADA索赔，第十巡回上诉",
-      "summary_zh": "要点1 · 未能精确诊断 · ADA索赔成功 · 法院支持",
+      "title_zh": "无法确诊未能挫败员工ADA索赔，第十巡回法院认为",
+      "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.5
     },
     {
-      "title": "Week in review: Employment growth hits unexpected high after months of tepid gains",
-      "url": "https://www.hrdive.com/news/employment-growth-hits-unexpected-high-october-2026/874020/",
-      "published_at": "2026-11-06T18:51:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "15+ AI Hackathon Ideas for HR Teams",
+      "url": "https://www.aihr.com/blog/ai-hackathon-ideas/",
+      "published_at": "2026-11-10T09:55:18+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "b08088298647",
-      "title_zh": "本周回顾：就业增长在数月低迷后意外强劲",
-      "summary_zh": "就业增长强劲 · 数月低迷 · 意外增长",
-      "relevance": 0.5
-    },
-    {
-      "title": "Nearly two-thirds of HR leaders expect layoffs in 2027",
-      "url": "https://www.hrdive.com/news/hr-leaders-expect-layoffs-in-2027/873880/",
-      "published_at": "2026-11-05T21:18:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "01c6b6430926",
-      "title_zh": "近三分之二HR领导者预计2027年裁员",
-      "summary_zh": "预计2027年裁员 · HR领导者担忧 · 裁员趋势显现",
+      "id": "5114fe6d3052",
+      "title_zh": "15+ 人力资源团队的AI黑客松创意",
+      "summary_zh": "利用AI提升效率 · 优化招聘流程 · 探索创新应用",
       "relevance": 0.5
     },
     {
@@ -558,7 +529,7 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "05adfebc1275",
-      "title_zh": "休假法2026：德国雇主告知义务、权利丧失与疾病",
+      "title_zh": "德国2026年休假法：雇主告知义务、权利丧失与疾病",
       "summary_zh": "告知义务 · 权利丧失 · 疾病影响",
       "relevance": 0.4
     },
@@ -574,7 +545,7 @@
       "category": "政策与劳动合规",
       "id": "afc7ea5ca0d0",
       "title_zh": "英国政府承诺改革竞业限制条款",
-      "summary_zh": "禁止竞业限制 · 保护员工 · 提高灵活性",
+      "summary_zh": "禁止竞业限制 · 保护员工 · 提高就业流动性",
       "relevance": 0.4
     },
     {
@@ -588,8 +559,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "c5c8437eb4cb",
-      "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报备",
-      "summary_zh": "强制报备 · 性别薪酬差距 · 11月起执行",
+      "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
+      "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
       "relevance": 0.4
     },
     {
@@ -603,8 +574,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "9db4d3171b66",
-      "title_zh": "“DEI趋势将逆转”：法律专业人士预计浪潮转向多元",
-      "summary_zh": "法律界预期DEI逆转 · 多元包容成趋势 · 法律专业人士持此观点",
+      "title_zh": "“这并非新故事”：法律专业人士预计DEI浪潮将转向",
+      "summary_zh": "预计DEI将转向 · 法律专业人士持此观点 · DEI趋势变化",
       "relevance": 0.33
     },
     {
@@ -618,9 +589,39 @@
       "is_ai_hr": false,
       "category": "组织与人才管理",
       "id": "857d6ea9f424",
-      "title_zh": "员工调查未能告知你的三件事",
+      "title_zh": "员工调查未能告知的三件事",
       "summary_zh": "要点1 · 要点2 · 要点3",
       "relevance": 0.33
+    },
+    {
+      "title": "Seven key enablers to move diverse talent from entry-level to leadership",
+      "url": "https://hrzone.com/seven-key-enablers-to-move-diverse-talent-from-entry-level-to-leadership/",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "835bbd41c379",
+      "title_zh": "七项关键要素助力多元人才从入门到领导",
+      "summary_zh": "提升技能 · 促进发展 · 营造包容",
+      "relevance": 0.33
+    },
+    {
+      "title": "AIHOT 日报 · 2026-11-11 — Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+      "url": "https://aihot.news/daily/2026-11-11",
+      "published_at": "2026-11-11T00:00:27+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "fc4ca6472c31",
+      "title_zh": "AIHOT 日报 · 2026-11-11 — G",
+      "summary_zh": "减排技术 · 性能提升 · 全球推广",
+      "relevance": 0.2
     }
   ]
 }
