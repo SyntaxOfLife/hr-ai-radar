@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:54:37.531507+08:00",
+  "generated_at": "2026-11-13T14:36:09.225233+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -13,6 +13,36 @@
   "items_by_category": {
     "政策与劳动合规": [
       {
+        "title": "San Diego, California Revises Paid Sick and Safe Standards to Better Align with State Law, Strengthen Enforcement",
+        "url": "https://www.littler.com/news-analysis/asap/san-diego-california-revises-paid-sick-and-safe-standards-better-align-state-law",
+        "published_at": "2026-11-12T15:02:29+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "ba27c236c76e",
+        "title_zh": "San Diego, California Revises Paid Sick and Safe Standards to Better Align with State Law, Strengthen Enforcement",
+        "summary_zh": "",
+        "relevance": 0.81
+      },
+      {
+        "title": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
+        "url": "https://www.littler.com/press/press-release/littler-attorneys-brazil-mexico-portugal-and-spain-recognized-2027-best",
+        "published_at": "2026-11-10T19:56:54+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "政策与劳动合规",
+        "id": "8725e30c7d7d",
+        "title_zh": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
+        "summary_zh": "",
+        "relevance": 0.77
+      },
+      {
         "title": "Unfair-dismissal cases jump 43% at WRC",
         "url": "https://www.littler.com/press/news/unfair-dismissal-cases-jump-43-wrc",
         "published_at": "2026-11-09T17:44:28+00:00",
@@ -23,14 +53,14 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "c8a1a4e1632e",
-        "title_zh": "不公平解雇案件在WRC激增43%",
-        "summary_zh": "案件数量激增 · 升幅达43% · WRC数据统计",
+        "title_zh": "Unfair-dismissal cases jump 43% at WRC",
+        "summary_zh": "",
         "relevance": 0.77
       },
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-07T00:00:00+00:00",
+        "published_at": "2026-11-08T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -43,51 +73,6 @@
         "id": "c79ea307e6b8"
       },
       {
-        "title": "Vacation Law 2026: German Employers’ Obligations to Inform, Forfeiture and Illness",
-        "url": "https://www.littler.com/news-analysis/asap/vacation-law-2026-german-employers-obligations-inform-forfeiture-and-illness",
-        "published_at": "2026-11-06T14:22:34+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "05adfebc1275",
-        "title_zh": "德国2026年休假法：雇主告知义务、权利丧失及疾病",
-        "summary_zh": "告知义务 · 权利丧失 · 疾病处理",
-        "relevance": 0.4
-      },
-      {
-        "title": "UK Government Promises Reform of Non-Compete Clauses",
-        "url": "https://www.littler.com/news-analysis/asap/uk-government-promises-reform-non-compete-clauses",
-        "published_at": "2026-11-05T18:41:22+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "afc7ea5ca0d0",
-        "title_zh": "英国政府承诺改革竞业限制条款",
-        "summary_zh": "禁止条款范围缩小 · 提高赔偿标准 · 加强劳动者保护",
-        "relevance": 0.4
-      },
-      {
-        "title": "Ireland: Reporting on Gender Pay Gap Portal Mandatory this November",
-        "url": "https://www.littler.com/news-analysis/asap/ireland-reporting-gender-pay-gap-portal-mandatory-november",
-        "published_at": "2026-11-05T16:17:58+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "c5c8437eb4cb",
-        "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
-        "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
-        "relevance": 0.4
-      },
-      {
         "title": "A wave of religious discrimination claims is coming, attorneys say",
         "url": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
         "published_at": "2026-11-11T20:55:00+00:00",
@@ -98,8 +83,8 @@
         "is_ai_hr": true,
         "category": "政策与劳动合规",
         "id": "b92f328dc42b",
-        "title_zh": "宗教歧视诉讼浪潮来袭，律师称",
-        "summary_zh": "歧视指控增多 · 法律风险上升 · 企业需警惕",
+        "title_zh": "A wave of religious discrimination claims is coming, attorneys say",
+        "summary_zh": "",
         "relevance": 0.29
       }
     ],
@@ -108,7 +93,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-07T00:00:00+00:00",
+        "published_at": "2026-11-08T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -119,39 +104,9 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "Three things your employee surveys aren’t telling you",
-        "url": "https://hrzone.com/three-things-your-employee-surveys-arent-telling-you/",
-        "published_at": "2026-11-05T07:55:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "857d6ea9f424",
-        "title_zh": "员工调查未能告知的三件事",
-        "summary_zh": "要点1 · 要点2 · 要点3",
-        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
-      {
-        "title": "AI leadership training tools are most effective when paired with managerial support",
-        "url": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
-        "published_at": "2026-11-10T20:55:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "51264b75fc3f",
-        "title_zh": "人工智能领导力培训工具在管理层支持下效果最佳",
-        "summary_zh": "提升领导力 · 需要支持 · 效果更佳",
-        "relevance": 0.8
-      },
       {
         "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
         "url": "https://www.littler.com/news-analysis/2-point-video/what-do-employers-need-know-about-californias-new-anti-hate-speech",
@@ -163,8 +118,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "62860a8c7ad8",
-        "title_zh": "加州反仇恨言论培训新要求，雇主须知",
-        "summary_zh": "培训新规 · 影响雇主 · 遵守义务",
+        "title_zh": "What do employers need to know about California’s new anti-hate-speech training requirement?",
+        "summary_zh": "",
         "relevance": 0.77
       },
       {
@@ -178,28 +133,13 @@
         "is_ai_hr": false,
         "category": "学习发展与技能转型",
         "id": "7edc76890ed1",
-        "title_zh": "人力资源开发领导者期望预算增加，当其战略与业务优先",
-        "summary_zh": "战略挂钩业务 · 预算期望增加 · 提升企业优先级",
+        "title_zh": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
+        "summary_zh": "",
         "relevance": 0.5
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
-      {
-        "title": "World of HR: Spain approves measure to provide paid menopause leave",
-        "url": "https://www.littler.com/press/news/world-hr-spain-approves-measure-provide-paid-menopause-leave",
-        "published_at": "2026-11-09T17:57:41+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "4f10091e9290",
-        "title_zh": "世界人力资源：西班牙批准提供带薪更年期休假",
-        "summary_zh": "带薪更年期休假 · 政府批准 · 西班牙实施",
-        "relevance": 0.77
-      },
       {
         "title": "Littler Virtual Retail Roundtable",
         "url": "https://www.littler.com/events/littler-virtual-retail-roundtable",
@@ -211,8 +151,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "4eddf56c1cbb",
-        "title_zh": "虚拟零售圆桌论坛",
-        "summary_zh": "线上线下融合 · 用户体验优化 · 数据驱动决策",
+        "title_zh": "Littler Virtual Retail Roundtable",
+        "summary_zh": "",
         "relevance": 0.6
       },
       {
@@ -226,8 +166,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "bef368262c5b",
-        "title_zh": "使用AI起草和审查员工手册及政策时的注意事项",
-        "summary_zh": "起草需审慎 · 审查要细致 · 保护隐私",
+        "title_zh": "Considerations When Using AI to Draft and Review Employee Handbooks and Policies",
+        "summary_zh": "",
+        "relevance": 0.6
+      },
+      {
+        "title": "World of HR: Spain approves measure to provide paid menopause leave",
+        "url": "https://www.littler.com/press/news/world-hr-spain-approves-measure-provide-paid-menopause-leave",
+        "published_at": "2026-11-09T17:57:41+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "4f10091e9290",
+        "title_zh": "World of HR: Spain approves measure to provide paid menopause leave",
+        "summary_zh": "",
         "relevance": 0.6
       },
       {
@@ -241,8 +196,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "ad769f6e7cb0",
-        "title_zh": "资深内部律师及不正当竞争与商业秘密诉讼律师乔·米格",
-        "summary_zh": "内部律师 · 不正当竞争 · 商业秘密",
+        "title_zh": "Seasoned In-House Counsel and Unfair Competition and Trade Secrets Litigator Joe Miguez Rejoins Littler in Austin",
+        "summary_zh": "",
         "relevance": 0.6
       },
       {
@@ -256,9 +211,24 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "04d7218da68a",
-        "title_zh": "英国政府确认新丧亲假权利细节",
-        "summary_zh": "新增丧亲假 · 政府确认 · 适用于员工",
+        "title_zh": "UK Government Confirms Details of New Bereavement Leave Right",
+        "summary_zh": "",
         "relevance": 0.6
+      },
+      {
+        "title": "7 stories on benefits amid open enrollment",
+        "url": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
+        "published_at": "2026-11-12T15:10:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "476de836016c",
+        "title_zh": "7 stories on benefits amid open enrollment",
+        "summary_zh": "",
+        "relevance": 0.5
       },
       {
         "title": "15+ AI Hackathon Ideas for HR Teams",
@@ -271,8 +241,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "5114fe6d3052",
-        "title_zh": "15+ 人力资源团队的AI黑客松创意",
-        "summary_zh": "AI提升效率 · 创新解决方案 · 促进团队协作",
+        "title_zh": "15+ AI Hackathon Ideas for HR Teams",
+        "summary_zh": "",
         "relevance": 0.5
       },
       {
@@ -286,8 +256,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "05ec61b97875",
-        "title_zh": "人工智能疲劳是工作设计问题及HR应对措施",
-        "summary_zh": "优化工作流程 · 关注员工福祉 · 提升效率",
+        "title_zh": "Why AI Fatigue Is a Work Design Problem & What HR Should Do",
+        "summary_zh": "",
         "relevance": 0.5
       },
       {
@@ -301,8 +271,23 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "cc9091485412",
-        "title_zh": "五步：弥合职场心理健康等待差距",
-        "summary_zh": "关注心理健康 · 缩短等待时间 · 提升支持服务",
+        "title_zh": "Five steps: Close the waiting gap in workplace mental health",
+        "summary_zh": "",
+        "relevance": 0.5
+      },
+      {
+        "title": "AI is exposing the impact problem: 3 questions to ask before any learning investment",
+        "url": "https://www.chieflearningofficer.com/2026/11/12/ai-is-exposing-the-impact-problem-3-questions-to-ask-before-any-learning-investment/",
+        "published_at": "2026-11-12T07:00:00+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "763956465259",
+        "title_zh": "AI is exposing the impact problem: 3 questions to ask before any learning investment",
+        "summary_zh": "",
         "relevance": 0.5
       },
       {
@@ -316,27 +301,57 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "4b491ca5c32a",
-        "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-        "summary_zh": "规范使用 · 避免歧视 · 保护隐私",
+        "title_zh": "Lessons from the UK Employment Appeal Tribunal on the Responsible Use of Generative AI",
+        "summary_zh": "",
         "relevance": 0.24
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+        "url": "https://aihot.news/daily/2026-11-13",
+        "published_at": "2026-11-13T00:00:48+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "377f71ef308d",
+        "title_zh": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+        "summary_zh": "",
+        "relevance": 0.2
       }
     ]
   },
   "all_items": [
     {
-      "title": "AI leadership training tools are most effective when paired with managerial support",
-      "url": "https://www.hrdive.com/news/ai-leadership-training-tools-effective-when-paired-with-managerial-support/874284/",
-      "published_at": "2026-11-10T20:55:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "San Diego, California Revises Paid Sick and Safe Standards to Better Align with State Law, Strengthen Enforcement",
+      "url": "https://www.littler.com/news-analysis/asap/san-diego-california-revises-paid-sick-and-safe-standards-better-align-state-law",
+      "published_at": "2026-11-12T15:02:29+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "51264b75fc3f",
-      "title_zh": "人工智能领导力培训工具在管理层支持下效果最佳",
-      "summary_zh": "提升领导力 · 需要支持 · 效果更佳",
-      "relevance": 0.8
+      "category": "政策与劳动合规",
+      "id": "ba27c236c76e",
+      "title_zh": "San Diego, California Revises Paid Sick and Safe Standards to Better Align with State Law, Strengthen Enforcement",
+      "summary_zh": "",
+      "relevance": 0.81
+    },
+    {
+      "title": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
+      "url": "https://www.littler.com/press/press-release/littler-attorneys-brazil-mexico-portugal-and-spain-recognized-2027-best",
+      "published_at": "2026-11-10T19:56:54+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "政策与劳动合规",
+      "id": "8725e30c7d7d",
+      "title_zh": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
+      "summary_zh": "",
+      "relevance": 0.77
     },
     {
       "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
@@ -349,23 +364,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "62860a8c7ad8",
-      "title_zh": "加州反仇恨言论培训新要求，雇主须知",
-      "summary_zh": "培训新规 · 影响雇主 · 遵守义务",
-      "relevance": 0.77
-    },
-    {
-      "title": "World of HR: Spain approves measure to provide paid menopause leave",
-      "url": "https://www.littler.com/press/news/world-hr-spain-approves-measure-provide-paid-menopause-leave",
-      "published_at": "2026-11-09T17:57:41+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "4f10091e9290",
-      "title_zh": "世界人力资源：西班牙批准提供带薪更年期休假",
-      "summary_zh": "带薪更年期休假 · 政府批准 · 西班牙实施",
+      "title_zh": "What do employers need to know about California’s new anti-hate-speech training requirement?",
+      "summary_zh": "",
       "relevance": 0.77
     },
     {
@@ -379,14 +379,14 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "c8a1a4e1632e",
-      "title_zh": "不公平解雇案件在WRC激增43%",
-      "summary_zh": "案件数量激增 · 升幅达43% · WRC数据统计",
+      "title_zh": "Unfair-dismissal cases jump 43% at WRC",
+      "summary_zh": "",
       "relevance": 0.77
     },
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-07T00:00:00+00:00",
+      "published_at": "2026-11-08T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -401,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-07T00:00:00+00:00",
+      "published_at": "2026-11-08T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -424,8 +424,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "4eddf56c1cbb",
-      "title_zh": "虚拟零售圆桌论坛",
-      "summary_zh": "线上线下融合 · 用户体验优化 · 数据驱动决策",
+      "title_zh": "Littler Virtual Retail Roundtable",
+      "summary_zh": "",
       "relevance": 0.6
     },
     {
@@ -439,8 +439,23 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "bef368262c5b",
-      "title_zh": "使用AI起草和审查员工手册及政策时的注意事项",
-      "summary_zh": "起草需审慎 · 审查要细致 · 保护隐私",
+      "title_zh": "Considerations When Using AI to Draft and Review Employee Handbooks and Policies",
+      "summary_zh": "",
+      "relevance": 0.6
+    },
+    {
+      "title": "World of HR: Spain approves measure to provide paid menopause leave",
+      "url": "https://www.littler.com/press/news/world-hr-spain-approves-measure-provide-paid-menopause-leave",
+      "published_at": "2026-11-09T17:57:41+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "4f10091e9290",
+      "title_zh": "World of HR: Spain approves measure to provide paid menopause leave",
+      "summary_zh": "",
       "relevance": 0.6
     },
     {
@@ -454,8 +469,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "ad769f6e7cb0",
-      "title_zh": "资深内部律师及不正当竞争与商业秘密诉讼律师乔·米格",
-      "summary_zh": "内部律师 · 不正当竞争 · 商业秘密",
+      "title_zh": "Seasoned In-House Counsel and Unfair Competition and Trade Secrets Litigator Joe Miguez Rejoins Littler in Austin",
+      "summary_zh": "",
       "relevance": 0.6
     },
     {
@@ -469,9 +484,24 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "04d7218da68a",
-      "title_zh": "英国政府确认新丧亲假权利细节",
-      "summary_zh": "新增丧亲假 · 政府确认 · 适用于员工",
+      "title_zh": "UK Government Confirms Details of New Bereavement Leave Right",
+      "summary_zh": "",
       "relevance": 0.6
+    },
+    {
+      "title": "7 stories on benefits amid open enrollment",
+      "url": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
+      "published_at": "2026-11-12T15:10:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "476de836016c",
+      "title_zh": "7 stories on benefits amid open enrollment",
+      "summary_zh": "",
+      "relevance": 0.5
     },
     {
       "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
@@ -484,8 +514,8 @@
       "is_ai_hr": false,
       "category": "学习发展与技能转型",
       "id": "7edc76890ed1",
-      "title_zh": "人力资源开发领导者期望预算增加，当其战略与业务优先",
-      "summary_zh": "战略挂钩业务 · 预算期望增加 · 提升企业优先级",
+      "title_zh": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
+      "summary_zh": "",
       "relevance": 0.5
     },
     {
@@ -499,8 +529,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "5114fe6d3052",
-      "title_zh": "15+ 人力资源团队的AI黑客松创意",
-      "summary_zh": "AI提升效率 · 创新解决方案 · 促进团队协作",
+      "title_zh": "15+ AI Hackathon Ideas for HR Teams",
+      "summary_zh": "",
       "relevance": 0.5
     },
     {
@@ -514,8 +544,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "05ec61b97875",
-      "title_zh": "人工智能疲劳是工作设计问题及HR应对措施",
-      "summary_zh": "优化工作流程 · 关注员工福祉 · 提升效率",
+      "title_zh": "Why AI Fatigue Is a Work Design Problem & What HR Should Do",
+      "summary_zh": "",
       "relevance": 0.5
     },
     {
@@ -529,69 +559,24 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "cc9091485412",
-      "title_zh": "五步：弥合职场心理健康等待差距",
-      "summary_zh": "关注心理健康 · 缩短等待时间 · 提升支持服务",
+      "title_zh": "Five steps: Close the waiting gap in workplace mental health",
+      "summary_zh": "",
       "relevance": 0.5
     },
     {
-      "title": "Vacation Law 2026: German Employers’ Obligations to Inform, Forfeiture and Illness",
-      "url": "https://www.littler.com/news-analysis/asap/vacation-law-2026-german-employers-obligations-inform-forfeiture-and-illness",
-      "published_at": "2026-11-06T14:22:34+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "AI is exposing the impact problem: 3 questions to ask before any learning investment",
+      "url": "https://www.chieflearningofficer.com/2026/11/12/ai-is-exposing-the-impact-problem-3-questions-to-ask-before-any-learning-investment/",
+      "published_at": "2026-11-12T07:00:00+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "05adfebc1275",
-      "title_zh": "德国2026年休假法：雇主告知义务、权利丧失及疾病",
-      "summary_zh": "告知义务 · 权利丧失 · 疾病处理",
-      "relevance": 0.4
-    },
-    {
-      "title": "UK Government Promises Reform of Non-Compete Clauses",
-      "url": "https://www.littler.com/news-analysis/asap/uk-government-promises-reform-non-compete-clauses",
-      "published_at": "2026-11-05T18:41:22+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "afc7ea5ca0d0",
-      "title_zh": "英国政府承诺改革竞业限制条款",
-      "summary_zh": "禁止条款范围缩小 · 提高赔偿标准 · 加强劳动者保护",
-      "relevance": 0.4
-    },
-    {
-      "title": "Ireland: Reporting on Gender Pay Gap Portal Mandatory this November",
-      "url": "https://www.littler.com/news-analysis/asap/ireland-reporting-gender-pay-gap-portal-mandatory-november",
-      "published_at": "2026-11-05T16:17:58+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "c5c8437eb4cb",
-      "title_zh": "爱尔兰：今年11月起强制通过性别薪酬差距门户报告",
-      "summary_zh": "强制报告 · 性别薪酬差距 · 11月起实施",
-      "relevance": 0.4
-    },
-    {
-      "title": "Three things your employee surveys aren’t telling you",
-      "url": "https://hrzone.com/three-things-your-employee-surveys-arent-telling-you/",
-      "published_at": "2026-11-05T07:55:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "857d6ea9f424",
-      "title_zh": "员工调查未能告知的三件事",
-      "summary_zh": "要点1 · 要点2 · 要点3",
-      "relevance": 0.33
+      "category": "案例、报告与趋势",
+      "id": "763956465259",
+      "title_zh": "AI is exposing the impact problem: 3 questions to ask before any learning investment",
+      "summary_zh": "",
+      "relevance": 0.5
     },
     {
       "title": "A wave of religious discrimination claims is coming, attorneys say",
@@ -604,8 +589,8 @@
       "is_ai_hr": true,
       "category": "政策与劳动合规",
       "id": "b92f328dc42b",
-      "title_zh": "宗教歧视诉讼浪潮来袭，律师称",
-      "summary_zh": "歧视指控增多 · 法律风险上升 · 企业需警惕",
+      "title_zh": "A wave of religious discrimination claims is coming, attorneys say",
+      "summary_zh": "",
       "relevance": 0.29
     },
     {
@@ -619,9 +604,24 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "4b491ca5c32a",
-      "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-      "summary_zh": "规范使用 · 避免歧视 · 保护隐私",
+      "title_zh": "Lessons from the UK Employment Appeal Tribunal on the Responsible Use of Generative AI",
+      "summary_zh": "",
       "relevance": 0.24
+    },
+    {
+      "title": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+      "url": "https://aihot.news/daily/2026-11-13",
+      "published_at": "2026-11-13T00:00:48+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "377f71ef308d",
+      "title_zh": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+      "summary_zh": "",
+      "relevance": 0.2
     }
   ]
 }
