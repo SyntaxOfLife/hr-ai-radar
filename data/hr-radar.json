@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:36:09.225233+08:00",
+  "generated_at": "2026-11-14T14:21:54.911876+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -60,7 +60,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-08T00:00:00+00:00",
+        "published_at": "2026-11-09T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -93,7 +93,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-08T00:00:00+00:00",
+        "published_at": "2026-11-09T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -121,21 +121,6 @@
         "title_zh": "What do employers need to know about California’s new anti-hate-speech training requirement?",
         "summary_zh": "",
         "relevance": 0.77
-      },
-      {
-        "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
-        "url": "https://www.hrdive.com/news/learning-leaders-expect-bigger-budgets-business-priority/874405/",
-        "published_at": "2026-11-11T20:52:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "学习发展与技能转型",
-        "id": "7edc76890ed1",
-        "title_zh": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
-        "summary_zh": "",
-        "relevance": 0.5
       }
     ],
     "HR 产品与数字化": [],
@@ -201,19 +186,34 @@
         "relevance": 0.6
       },
       {
-        "title": "UK Government Confirms Details of New Bereavement Leave Right",
-        "url": "https://www.littler.com/news-analysis/asap/uk-government-confirms-details-new-bereavement-leave-right",
-        "published_at": "2026-11-06T14:49:17+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "Job applicants say they are using AI to discover, investigate companies",
+        "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+        "published_at": "2026-11-13T20:35:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "04d7218da68a",
-        "title_zh": "UK Government Confirms Details of New Bereavement Leave Right",
+        "id": "e58b30f82ecc",
+        "title_zh": "Job applicants say they are using AI to discover, investigate companies",
         "summary_zh": "",
-        "relevance": 0.6
+        "relevance": 0.5
+      },
+      {
+        "title": "Week in review: Can AI root out manager bias?",
+        "url": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+        "published_at": "2026-11-13T20:34:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "65ff95bab98e",
+        "title_zh": "Week in review: Can AI root out manager bias?",
+        "summary_zh": "",
+        "relevance": 0.5
       },
       {
         "title": "7 stories on benefits amid open enrollment",
@@ -306,17 +306,17 @@
         "relevance": 0.24
       },
       {
-        "title": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
-        "url": "https://aihot.news/daily/2026-11-13",
-        "published_at": "2026-11-13T00:00:48+00:00",
+        "title": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "url": "https://aihot.news/daily/2026-11-14",
+        "published_at": "2026-11-14T00:00:30+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "377f71ef308d",
-        "title_zh": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+        "id": "b32142b51778",
+        "title_zh": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
         "summary_zh": "",
         "relevance": 0.2
       }
@@ -386,7 +386,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-08T00:00:00+00:00",
+      "published_at": "2026-11-09T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -401,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-08T00:00:00+00:00",
+      "published_at": "2026-11-09T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -474,19 +474,34 @@
       "relevance": 0.6
     },
     {
-      "title": "UK Government Confirms Details of New Bereavement Leave Right",
-      "url": "https://www.littler.com/news-analysis/asap/uk-government-confirms-details-new-bereavement-leave-right",
-      "published_at": "2026-11-06T14:49:17+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "Job applicants say they are using AI to discover, investigate companies",
+      "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+      "published_at": "2026-11-13T20:35:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "04d7218da68a",
-      "title_zh": "UK Government Confirms Details of New Bereavement Leave Right",
+      "id": "e58b30f82ecc",
+      "title_zh": "Job applicants say they are using AI to discover, investigate companies",
       "summary_zh": "",
-      "relevance": 0.6
+      "relevance": 0.5
+    },
+    {
+      "title": "Week in review: Can AI root out manager bias?",
+      "url": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+      "published_at": "2026-11-13T20:34:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "65ff95bab98e",
+      "title_zh": "Week in review: Can AI root out manager bias?",
+      "summary_zh": "",
+      "relevance": 0.5
     },
     {
       "title": "7 stories on benefits amid open enrollment",
@@ -500,21 +515,6 @@
       "category": "案例、报告与趋势",
       "id": "476de836016c",
       "title_zh": "7 stories on benefits amid open enrollment",
-      "summary_zh": "",
-      "relevance": 0.5
-    },
-    {
-      "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
-      "url": "https://www.hrdive.com/news/learning-leaders-expect-bigger-budgets-business-priority/874405/",
-      "published_at": "2026-11-11T20:52:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "学习发展与技能转型",
-      "id": "7edc76890ed1",
-      "title_zh": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
       "summary_zh": "",
       "relevance": 0.5
     },
@@ -609,17 +609,17 @@
       "relevance": 0.24
     },
     {
-      "title": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
-      "url": "https://aihot.news/daily/2026-11-13",
-      "published_at": "2026-11-13T00:00:48+00:00",
+      "title": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+      "url": "https://aihot.news/daily/2026-11-14",
+      "published_at": "2026-11-14T00:00:30+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "377f71ef308d",
-      "title_zh": "AIHOT 日报 · 2026-11-13 — NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO",
+      "id": "b32142b51778",
+      "title_zh": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
       "summary_zh": "",
       "relevance": 0.2
     }
