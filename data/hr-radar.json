@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:21:54.911876+08:00",
+  "generated_at": "2026-11-15T14:23:03.469338+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -60,7 +60,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-09T00:00:00+00:00",
+        "published_at": "2026-11-10T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -93,7 +93,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-09T00:00:00+00:00",
+        "published_at": "2026-11-10T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -306,17 +306,17 @@
         "relevance": 0.24
       },
       {
-        "title": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
-        "url": "https://aihot.news/daily/2026-11-14",
-        "published_at": "2026-11-14T00:00:30+00:00",
+        "title": "AIHOT 日报 · 2026-11-15 — Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+        "url": "https://aihot.news/daily/2026-11-15",
+        "published_at": "2026-11-15T00:00:29+00:00",
         "source_id": "aihot",
         "source_name": "AIHOT",
         "source_region": "全球",
         "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "b32142b51778",
-        "title_zh": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "id": "23d07d3b0250",
+        "title_zh": "AIHOT 日报 · 2026-11-15 — Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
         "summary_zh": "",
         "relevance": 0.2
       }
@@ -386,7 +386,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-09T00:00:00+00:00",
+      "published_at": "2026-11-10T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -401,7 +401,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-09T00:00:00+00:00",
+      "published_at": "2026-11-10T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -609,17 +609,17 @@
       "relevance": 0.24
     },
     {
-      "title": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
-      "url": "https://aihot.news/daily/2026-11-14",
-      "published_at": "2026-11-14T00:00:30+00:00",
+      "title": "AIHOT 日报 · 2026-11-15 — Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+      "url": "https://aihot.news/daily/2026-11-15",
+      "published_at": "2026-11-15T00:00:29+00:00",
       "source_id": "aihot",
       "source_name": "AIHOT",
       "source_region": "全球",
       "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "b32142b51778",
-      "title_zh": "AIHOT 日报 · 2026-11-14 — Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+      "id": "23d07d3b0250",
+      "title_zh": "AIHOT 日报 · 2026-11-15 — Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
       "summary_zh": "",
       "relevance": 0.2
     }
