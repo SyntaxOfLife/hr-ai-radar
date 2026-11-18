@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:32:42.997153+08:00",
+  "generated_at": "2026-11-18T14:55:05.650124+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -43,24 +43,9 @@
         "relevance": 0.77
       },
       {
-        "title": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
-        "url": "https://www.littler.com/press/press-release/littler-attorneys-brazil-mexico-portugal-and-spain-recognized-2027-best",
-        "published_at": "2026-11-10T19:56:54+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "8725e30c7d7d",
-        "title_zh": "利特尔律师事务所巴西、墨西哥、葡萄牙和西班牙分所在",
-        "summary_zh": "南美业务增长 · 欧洲市场拓展 · 专业领域领先",
-        "relevance": 0.77
-      },
-      {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-12T00:00:00+00:00",
+        "published_at": "2026-11-13T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -84,7 +69,7 @@
         "category": "政策与劳动合规",
         "id": "bf573c1325f3",
         "title_zh": "SpaceX无法将报复索赔强制仲裁，第九巡回法庭裁",
-        "summary_zh": "无法强制仲裁 · 报复索赔 · 法庭裁定",
+        "summary_zh": "无法强制仲裁 · 反报复索赔 · 法庭裁定",
         "relevance": 0.73
       },
       {
@@ -129,7 +114,7 @@
         "category": "政策与劳动合规",
         "id": "5b1f046683e6",
         "title_zh": "利特尔与波兰领先劳动法所合作",
-        "summary_zh": "加强合作 · 服务扩展 · 专业提升",
+        "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
         "relevance": 0.4
       }
     ],
@@ -138,7 +123,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-12T00:00:00+00:00",
+        "published_at": "2026-11-13T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -149,24 +134,24 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
+      },
+      {
+        "title": "Should I be here?: How workplace cheerleaders can mitigate imposter syndrome",
+        "url": "https://hrzone.com/should-i-be-here-how-workplace-cheerleaders-can-mitigate-imposter-syndrome/",
+        "published_at": "2026-11-17T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "e69b9e02e1fd",
+        "title_zh": "我是否应该在这里？如何通过职场啦啦队缓解冒名顶替综",
+        "summary_zh": "缓解焦虑 · 提升自信 · 营造支持",
+        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
-      {
-        "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
-        "url": "https://www.littler.com/news-analysis/2-point-video/what-do-employers-need-know-about-californias-new-anti-hate-speech",
-        "published_at": "2026-11-10T15:25:45+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "62860a8c7ad8",
-        "title_zh": "加州新反仇恨言论培训要求雇主须知",
-        "summary_zh": "培训新规 · 影响雇主 · 遵守义务",
-        "relevance": 0.77
-      },
       {
         "title": "20 Top Employee Training Tools To Take Your Workforce to the Next Level",
         "url": "https://www.aihr.com/blog/employee-training-tools/",
@@ -216,6 +201,36 @@
         "relevance": 0.6
       },
       {
+        "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
+        "url": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/",
+        "published_at": "2026-11-17T20:54:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "98b3cee8066b",
+        "title_zh": "美国国税局公布2028年起401(k)自动参与指南",
+        "summary_zh": "自动参与 · 2028年生效 · 简化流程",
+        "relevance": 0.5
+      },
+      {
+        "title": "Why AI skill-building is only one part of the puzzle",
+        "url": "https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/",
+        "published_at": "2026-11-17T16:54:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "54dc69fd6793",
+        "title_zh": "为何提升AI技能只是解决方案的一部分",
+        "summary_zh": "AI技能重要 · 企业需综合规划 · 人才发展是关键",
+        "relevance": 0.5
+      },
+      {
         "title": "SEC aims to pare back executive comp disclosure rules",
         "url": "https://www.hrdive.com/news/sec-aims-to-pare-back-executive-comp-disclosure-rules/874767/",
         "published_at": "2026-11-16T21:03:00+00:00",
@@ -226,8 +241,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "f8bb8f8148e1",
-        "title_zh": "美国证券交易委员会旨在缩减高管薪酬披露规则",
-        "summary_zh": "缩减披露规则 · 重点关注高管薪酬 · 提高透明度",
+        "title_zh": "美国证券交易委员会拟简化高管薪酬披露规则",
+        "summary_zh": "简化披露规则 · 降低合规成本 · 提高透明度",
         "relevance": 0.5
       },
       {
@@ -242,22 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "f8e7599b8594",
         "title_zh": "想要对抗AI脑腐？普华永道正试点解决方案。",
-        "summary_zh": "提升认知 · 培训员工 · 探索方法",
-        "relevance": 0.5
-      },
-      {
-        "title": "Job applicants say they are using AI to discover, investigate companies",
-        "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
-        "published_at": "2026-11-13T20:35:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "e58b30f82ecc",
-        "title_zh": "求职者称使用AI发现调查公司",
-        "summary_zh": "使用AI发现公司 · 使用AI调查公司 · 提高求职效率",
+        "summary_zh": "提升技能 · 关注伦理 · 探索新方法",
         "relevance": 0.5
       },
       {
@@ -302,22 +302,22 @@
         "category": "案例、报告与趋势",
         "id": "4b491ca5c32a",
         "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-        "summary_zh": "生成式AI需负责任使用 · 避免歧视偏见 · 遵守数据法规",
+        "summary_zh": "生成式AI需负责任使用 · 避免歧视 · 保护隐私",
         "relevance": 0.24
       },
       {
-        "title": "Ex-Chanel worker alleging age bias claims she was told to ‘dress young’",
-        "url": "https://www.hrdive.com/news/ex-chanel-worker-alleging-age-bias-claims-told-to-dress-young/874730/",
-        "published_at": "2026-11-16T15:14:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "AIHOT 日报 · 2026-11-18 — OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+        "url": "https://aihot.news/daily/2026-11-18",
+        "published_at": "2026-11-18T00:00:26+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
         "source_region": "全球",
-        "source_level": "行业媒体",
+        "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "d979ca2e2942",
-        "title_zh": "前香奈儿员工称遭遇年龄歧视被要求“穿得年轻”",
-        "summary_zh": "年龄歧视 · 职场要求 · 服装限制",
+        "id": "30c912a448ca",
+        "title_zh": "AIHOT 日报 · 2026-11-18 — O",
+        "summary_zh": "GPT-6.2 Astra 发布 · GPT-6.2 Sol 发布 · OpenAI 推出新模型",
         "relevance": 0.2
       }
     ]
@@ -354,39 +354,9 @@
       "relevance": 0.77
     },
     {
-      "title": "Littler Attorneys in Brazil, Mexico, Portugal and Spain Recognized in 2027 Best Lawyers™ Lists",
-      "url": "https://www.littler.com/press/press-release/littler-attorneys-brazil-mexico-portugal-and-spain-recognized-2027-best",
-      "published_at": "2026-11-10T19:56:54+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "8725e30c7d7d",
-      "title_zh": "利特尔律师事务所巴西、墨西哥、葡萄牙和西班牙分所在",
-      "summary_zh": "南美业务增长 · 欧洲市场拓展 · 专业领域领先",
-      "relevance": 0.77
-    },
-    {
-      "title": "What do employers need to know about California’s new anti-hate-speech training requirement?",
-      "url": "https://www.littler.com/news-analysis/2-point-video/what-do-employers-need-know-about-californias-new-anti-hate-speech",
-      "published_at": "2026-11-10T15:25:45+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "62860a8c7ad8",
-      "title_zh": "加州新反仇恨言论培训要求雇主须知",
-      "summary_zh": "培训新规 · 影响雇主 · 遵守义务",
-      "relevance": 0.77
-    },
-    {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-12T00:00:00+00:00",
+      "published_at": "2026-11-13T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -401,7 +371,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-12T00:00:00+00:00",
+      "published_at": "2026-11-13T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -425,7 +395,7 @@
       "category": "政策与劳动合规",
       "id": "bf573c1325f3",
       "title_zh": "SpaceX无法将报复索赔强制仲裁，第九巡回法庭裁",
-      "summary_zh": "无法强制仲裁 · 报复索赔 · 法庭裁定",
+      "summary_zh": "无法强制仲裁 · 反报复索赔 · 法庭裁定",
       "relevance": 0.73
     },
     {
@@ -474,6 +444,36 @@
       "relevance": 0.6
     },
     {
+      "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
+      "url": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/",
+      "published_at": "2026-11-17T20:54:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "98b3cee8066b",
+      "title_zh": "美国国税局公布2028年起401(k)自动参与指南",
+      "summary_zh": "自动参与 · 2028年生效 · 简化流程",
+      "relevance": 0.5
+    },
+    {
+      "title": "Why AI skill-building is only one part of the puzzle",
+      "url": "https://www.hrdive.com/news/ai-adoption-skillbuilding-tailored-training/874885/",
+      "published_at": "2026-11-17T16:54:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "54dc69fd6793",
+      "title_zh": "为何提升AI技能只是解决方案的一部分",
+      "summary_zh": "AI技能重要 · 企业需综合规划 · 人才发展是关键",
+      "relevance": 0.5
+    },
+    {
       "title": "SEC aims to pare back executive comp disclosure rules",
       "url": "https://www.hrdive.com/news/sec-aims-to-pare-back-executive-comp-disclosure-rules/874767/",
       "published_at": "2026-11-16T21:03:00+00:00",
@@ -484,8 +484,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "f8bb8f8148e1",
-      "title_zh": "美国证券交易委员会旨在缩减高管薪酬披露规则",
-      "summary_zh": "缩减披露规则 · 重点关注高管薪酬 · 提高透明度",
+      "title_zh": "美国证券交易委员会拟简化高管薪酬披露规则",
+      "summary_zh": "简化披露规则 · 降低合规成本 · 提高透明度",
       "relevance": 0.5
     },
     {
@@ -500,22 +500,7 @@
       "category": "案例、报告与趋势",
       "id": "f8e7599b8594",
       "title_zh": "想要对抗AI脑腐？普华永道正试点解决方案。",
-      "summary_zh": "提升认知 · 培训员工 · 探索方法",
-      "relevance": 0.5
-    },
-    {
-      "title": "Job applicants say they are using AI to discover, investigate companies",
-      "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
-      "published_at": "2026-11-13T20:35:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "e58b30f82ecc",
-      "title_zh": "求职者称使用AI发现调查公司",
-      "summary_zh": "使用AI发现公司 · 使用AI调查公司 · 提高求职效率",
+      "summary_zh": "提升技能 · 关注伦理 · 探索新方法",
       "relevance": 0.5
     },
     {
@@ -590,8 +575,23 @@
       "category": "政策与劳动合规",
       "id": "5b1f046683e6",
       "title_zh": "利特尔与波兰领先劳动法所合作",
-      "summary_zh": "加强合作 · 服务扩展 · 专业提升",
+      "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
       "relevance": 0.4
+    },
+    {
+      "title": "Should I be here?: How workplace cheerleaders can mitigate imposter syndrome",
+      "url": "https://hrzone.com/should-i-be-here-how-workplace-cheerleaders-can-mitigate-imposter-syndrome/",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "e69b9e02e1fd",
+      "title_zh": "我是否应该在这里？如何通过职场啦啦队缓解冒名顶替综",
+      "summary_zh": "缓解焦虑 · 提升自信 · 营造支持",
+      "relevance": 0.33
     },
     {
       "title": "Lessons from the UK Employment Appeal Tribunal on the Responsible Use of Generative AI",
@@ -605,22 +605,22 @@
       "category": "案例、报告与趋势",
       "id": "4b491ca5c32a",
       "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-      "summary_zh": "生成式AI需负责任使用 · 避免歧视偏见 · 遵守数据法规",
+      "summary_zh": "生成式AI需负责任使用 · 避免歧视 · 保护隐私",
       "relevance": 0.24
     },
     {
-      "title": "Ex-Chanel worker alleging age bias claims she was told to ‘dress young’",
-      "url": "https://www.hrdive.com/news/ex-chanel-worker-alleging-age-bias-claims-told-to-dress-young/874730/",
-      "published_at": "2026-11-16T15:14:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "AIHOT 日报 · 2026-11-18 — OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+      "url": "https://aihot.news/daily/2026-11-18",
+      "published_at": "2026-11-18T00:00:26+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
       "source_region": "全球",
-      "source_level": "行业媒体",
+      "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "d979ca2e2942",
-      "title_zh": "前香奈儿员工称遭遇年龄歧视被要求“穿得年轻”",
-      "summary_zh": "年龄歧视 · 职场要求 · 服装限制",
+      "id": "30c912a448ca",
+      "title_zh": "AIHOT 日报 · 2026-11-18 — O",
+      "summary_zh": "GPT-6.2 Astra 发布 · GPT-6.2 Sol 发布 · OpenAI 推出新模型",
       "relevance": 0.2
     }
   ]
