@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:55:05.650124+08:00",
+  "generated_at": "2026-11-19T14:56:14.896451+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -45,7 +45,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-13T00:00:00+00:00",
+        "published_at": "2026-11-14T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -56,21 +56,6 @@
         "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "summary_zh": "",
         "id": "c79ea307e6b8"
-      },
-      {
-        "title": "SpaceX can’t force retaliation claim into arbitration, 9th Circuit holds",
-        "url": "https://www.hrdive.com/news/spacex-cant-force-retaliation-claim-into-arbitration-9th-circuit-holds/874759/",
-        "published_at": "2026-11-16T21:03:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "政策与劳动合规",
-        "id": "bf573c1325f3",
-        "title_zh": "SpaceX无法将报复索赔强制仲裁，第九巡回法庭裁",
-        "summary_zh": "无法强制仲裁 · 反报复索赔 · 法庭裁定",
-        "relevance": 0.73
       },
       {
         "title": "The hidden unfair dismissal deadline you can’t afford to ignore",
@@ -114,7 +99,7 @@
         "category": "政策与劳动合规",
         "id": "5b1f046683e6",
         "title_zh": "利特尔与波兰领先劳动法所合作",
-        "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
+        "summary_zh": "加强法律合作 · 提升服务能力 · 拓展欧洲市场",
         "relevance": 0.4
       }
     ],
@@ -123,7 +108,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-13T00:00:00+00:00",
+        "published_at": "2026-11-14T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -153,19 +138,19 @@
     ],
     "学习发展与技能转型": [
       {
-        "title": "20 Top Employee Training Tools To Take Your Workforce to the Next Level",
-        "url": "https://www.aihr.com/blog/employee-training-tools/",
-        "published_at": "2026-11-16T08:51:11+00:00",
+        "title": "What Is HRBP Training? A Guide for HR Professionals",
+        "url": "https://www.aihr.com/blog/what-is-hrbp-training/",
+        "published_at": "2026-11-18T14:01:58+00:00",
         "source_id": "aihr",
         "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
-        "id": "82baa9c74f25",
-        "title_zh": "20 Top Employee Training Tools To Take Your Workforce to the Next Level",
-        "summary_zh": "",
-        "relevance": 0.73
+        "id": "f20f21ed5946",
+        "title_zh": "人力资源业务伙伴培训是什么？人力资源专业人士指南",
+        "summary_zh": "提升HRBP能力 · 专注业务需求 · 掌握核心技能",
+        "relevance": 0.77
       },
       {
         "title": "The missing test of leadership development",
@@ -179,26 +164,26 @@
         "category": "学习发展与技能转型",
         "id": "96ddf1c80c58",
         "title_zh": "领导力发展缺失的测试",
-        "summary_zh": "缺失评估 · 影响分析 · 改进方向",
+        "summary_zh": "缺失评估 · 影响分析 · 改进建议",
         "relevance": 0.5
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
       {
-        "title": "Littler Virtual Retail Roundtable",
-        "url": "https://www.littler.com/events/littler-virtual-retail-roundtable",
-        "published_at": "2026-11-11T18:02:19+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
+        "url": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
+        "published_at": "2026-11-18T16:00:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "4eddf56c1cbb",
-        "title_zh": "虚拟零售圆桌论坛",
-        "summary_zh": "线上线下融合 · 用户体验优化 · 数据驱动决策",
-        "relevance": 0.6
+        "id": "6a50840d60e7",
+        "title_zh": "人工智能、成本上升位列2027人才关注榜首，据Ga",
+        "summary_zh": "人工智能成焦点 · 成本上升受关注 · Gartner发布调查",
+        "relevance": 0.5
       },
       {
         "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
@@ -212,7 +197,7 @@
         "category": "案例、报告与趋势",
         "id": "98b3cee8066b",
         "title_zh": "美国国税局公布2028年起401(k)自动参与指南",
-        "summary_zh": "自动参与 · 2028年生效 · 简化流程",
+        "summary_zh": "自动参与 · 2028年生效 · 涵盖新规定",
         "relevance": 0.5
       },
       {
@@ -227,52 +212,37 @@
         "category": "案例、报告与趋势",
         "id": "54dc69fd6793",
         "title_zh": "为何提升AI技能只是解决方案的一部分",
-        "summary_zh": "AI技能重要 · 企业需综合规划 · 人才发展是关键",
+        "summary_zh": "提升AI技能 · 关注其他技能 · 全面发展",
         "relevance": 0.5
       },
       {
-        "title": "SEC aims to pare back executive comp disclosure rules",
-        "url": "https://www.hrdive.com/news/sec-aims-to-pare-back-executive-comp-disclosure-rules/874767/",
-        "published_at": "2026-11-16T21:03:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "Free vs Paid HR Certification Courses and Programs: Which Option Is Right for You?",
+        "url": "https://www.aihr.com/blog/free-vs-paid-hr-certification-courses/",
+        "published_at": "2026-11-18T14:01:09+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "f8bb8f8148e1",
-        "title_zh": "美国证券交易委员会拟简化高管薪酬披露规则",
-        "summary_zh": "简化披露规则 · 降低合规成本 · 提高透明度",
+        "id": "1d5e83fb3594",
+        "title_zh": "免费与付费HR认证课程及项目：哪种选择适合你？",
+        "summary_zh": "提升技能 · 节省成本 · 考虑需求",
         "relevance": 0.5
       },
       {
-        "title": "Want to combat AI brainrot? PwC is piloting a way to do so.",
-        "url": "https://www.hrdive.com/news/pwc-critical-thinking-assessment/874778/",
-        "published_at": "2026-11-16T21:03:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
+        "title": "HRCI vs SHRM (vs AIHR): How To Advance Your HR Career in 2026",
+        "url": "https://www.aihr.com/blog/hrci-vs-shrm/",
+        "published_at": "2026-11-18T13:57:19+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "f8e7599b8594",
-        "title_zh": "想要对抗AI脑腐？普华永道正试点解决方案。",
-        "summary_zh": "提升技能 · 关注伦理 · 探索新方法",
-        "relevance": 0.5
-      },
-      {
-        "title": "Five steps: Close the waiting gap in workplace mental health",
-        "url": "https://hrzone.com/five-steps-close-the-waiting-gap-in-workplace-mental-health/",
-        "published_at": "2026-11-11T08:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "cc9091485412",
-        "title_zh": "五步：弥合职场心理健康等待差距",
-        "summary_zh": "关注心理健康 · 缩短等待时间 · 提升支持服务",
+        "id": "838754cc3c41",
+        "title_zh": "HRCI与SHRM（及AIHR）：如何于2026年",
+        "summary_zh": "HRCI与SHRM认证对比 · AIHR新兴趋势 · 职业发展策略",
         "relevance": 0.5
       },
       {
@@ -291,19 +261,19 @@
         "relevance": 0.5
       },
       {
-        "title": "Lessons from the UK Employment Appeal Tribunal on the Responsible Use of Generative AI",
-        "url": "https://www.littler.com/news-analysis/asap/lessons-uk-employment-appeal-tribunal-responsible-use-generative-ai",
-        "published_at": "2026-11-11T14:32:01+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
+        "title": "AIHOT 日报 · 2026-11-19 — Google DeepMind 发布 Gemini 4 Neon",
+        "url": "https://aihot.news/daily/2026-11-19",
+        "published_at": "2026-11-19T00:00:20+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
         "source_region": "全球",
-        "source_level": "行业媒体",
+        "source_level": "AI垂直源",
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
-        "id": "4b491ca5c32a",
-        "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-        "summary_zh": "生成式AI需负责任使用 · 避免歧视 · 保护隐私",
-        "relevance": 0.24
+        "id": "4cf598feef25",
+        "title_zh": "AIHOT 日报 · 2026-11-19 — G",
+        "summary_zh": "发布新模型 · 性能提升 · 应用扩展",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-11-18 — OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
@@ -318,6 +288,36 @@
         "id": "30c912a448ca",
         "title_zh": "AIHOT 日报 · 2026-11-18 — O",
         "summary_zh": "GPT-6.2 Astra 发布 · GPT-6.2 Sol 发布 · OpenAI 推出新模型",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-17 — Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+        "url": "https://aihot.news/daily/2026-11-17",
+        "published_at": "2026-11-17T00:00:33+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "ad4f2ed185f0",
+        "title_zh": "AIHOT 日报 · 2026-11-17 — Q",
+        "summary_zh": "2.4T参数骨干 · 百万token上下文 · 长程智能体能力",
+        "relevance": 0.2
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-16 — 今日安静，无大事发生",
+        "url": "https://aihot.news/daily/2026-11-16",
+        "published_at": "2026-11-16T00:00:43+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "d3596dfdc8b1",
+        "title_zh": "AIHOT 日报 · 2026-11-16 — 今",
+        "summary_zh": "无重大事件 · 平静日 · 无更新",
         "relevance": 0.2
       }
     ]
@@ -339,6 +339,21 @@
       "relevance": 0.81
     },
     {
+      "title": "What Is HRBP Training? A Guide for HR Professionals",
+      "url": "https://www.aihr.com/blog/what-is-hrbp-training/",
+      "published_at": "2026-11-18T14:01:58+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "f20f21ed5946",
+      "title_zh": "人力资源业务伙伴培训是什么？人力资源专业人士指南",
+      "summary_zh": "提升HRBP能力 · 专注业务需求 · 掌握核心技能",
+      "relevance": 0.77
+    },
+    {
       "title": "Germany: Invented Judgments, Real Consequences – AI Is No Substitute for Legal Review",
       "url": "https://www.littler.com/news-analysis/asap/germany-invented-judgments-real-consequences-ai-no-substitute-legal-review",
       "published_at": "2026-11-16T15:29:35+00:00",
@@ -356,7 +371,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-13T00:00:00+00:00",
+      "published_at": "2026-11-14T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +386,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-13T00:00:00+00:00",
+      "published_at": "2026-11-14T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -382,36 +397,6 @@
       "title_zh": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "summary_zh": "",
       "id": "c79ea307e6b8"
-    },
-    {
-      "title": "SpaceX can’t force retaliation claim into arbitration, 9th Circuit holds",
-      "url": "https://www.hrdive.com/news/spacex-cant-force-retaliation-claim-into-arbitration-9th-circuit-holds/874759/",
-      "published_at": "2026-11-16T21:03:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "政策与劳动合规",
-      "id": "bf573c1325f3",
-      "title_zh": "SpaceX无法将报复索赔强制仲裁，第九巡回法庭裁",
-      "summary_zh": "无法强制仲裁 · 反报复索赔 · 法庭裁定",
-      "relevance": 0.73
-    },
-    {
-      "title": "20 Top Employee Training Tools To Take Your Workforce to the Next Level",
-      "url": "https://www.aihr.com/blog/employee-training-tools/",
-      "published_at": "2026-11-16T08:51:11+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "82baa9c74f25",
-      "title_zh": "20 Top Employee Training Tools To Take Your Workforce to the Next Level",
-      "summary_zh": "",
-      "relevance": 0.73
     },
     {
       "title": "The hidden unfair dismissal deadline you can’t afford to ignore",
@@ -429,19 +414,19 @@
       "relevance": 0.73
     },
     {
-      "title": "Littler Virtual Retail Roundtable",
-      "url": "https://www.littler.com/events/littler-virtual-retail-roundtable",
-      "published_at": "2026-11-11T18:02:19+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
+      "url": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
+      "published_at": "2026-11-18T16:00:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "4eddf56c1cbb",
-      "title_zh": "虚拟零售圆桌论坛",
-      "summary_zh": "线上线下融合 · 用户体验优化 · 数据驱动决策",
-      "relevance": 0.6
+      "id": "6a50840d60e7",
+      "title_zh": "人工智能、成本上升位列2027人才关注榜首，据Ga",
+      "summary_zh": "人工智能成焦点 · 成本上升受关注 · Gartner发布调查",
+      "relevance": 0.5
     },
     {
       "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
@@ -455,7 +440,7 @@
       "category": "案例、报告与趋势",
       "id": "98b3cee8066b",
       "title_zh": "美国国税局公布2028年起401(k)自动参与指南",
-      "summary_zh": "自动参与 · 2028年生效 · 简化流程",
+      "summary_zh": "自动参与 · 2028年生效 · 涵盖新规定",
       "relevance": 0.5
     },
     {
@@ -470,52 +455,37 @@
       "category": "案例、报告与趋势",
       "id": "54dc69fd6793",
       "title_zh": "为何提升AI技能只是解决方案的一部分",
-      "summary_zh": "AI技能重要 · 企业需综合规划 · 人才发展是关键",
+      "summary_zh": "提升AI技能 · 关注其他技能 · 全面发展",
       "relevance": 0.5
     },
     {
-      "title": "SEC aims to pare back executive comp disclosure rules",
-      "url": "https://www.hrdive.com/news/sec-aims-to-pare-back-executive-comp-disclosure-rules/874767/",
-      "published_at": "2026-11-16T21:03:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "Free vs Paid HR Certification Courses and Programs: Which Option Is Right for You?",
+      "url": "https://www.aihr.com/blog/free-vs-paid-hr-certification-courses/",
+      "published_at": "2026-11-18T14:01:09+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "f8bb8f8148e1",
-      "title_zh": "美国证券交易委员会拟简化高管薪酬披露规则",
-      "summary_zh": "简化披露规则 · 降低合规成本 · 提高透明度",
+      "id": "1d5e83fb3594",
+      "title_zh": "免费与付费HR认证课程及项目：哪种选择适合你？",
+      "summary_zh": "提升技能 · 节省成本 · 考虑需求",
       "relevance": 0.5
     },
     {
-      "title": "Want to combat AI brainrot? PwC is piloting a way to do so.",
-      "url": "https://www.hrdive.com/news/pwc-critical-thinking-assessment/874778/",
-      "published_at": "2026-11-16T21:03:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
+      "title": "HRCI vs SHRM (vs AIHR): How To Advance Your HR Career in 2026",
+      "url": "https://www.aihr.com/blog/hrci-vs-shrm/",
+      "published_at": "2026-11-18T13:57:19+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
       "source_region": "全球",
       "source_level": "行业媒体",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "f8e7599b8594",
-      "title_zh": "想要对抗AI脑腐？普华永道正试点解决方案。",
-      "summary_zh": "提升技能 · 关注伦理 · 探索新方法",
-      "relevance": 0.5
-    },
-    {
-      "title": "Five steps: Close the waiting gap in workplace mental health",
-      "url": "https://hrzone.com/five-steps-close-the-waiting-gap-in-workplace-mental-health/",
-      "published_at": "2026-11-11T08:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "cc9091485412",
-      "title_zh": "五步：弥合职场心理健康等待差距",
-      "summary_zh": "关注心理健康 · 缩短等待时间 · 提升支持服务",
+      "id": "838754cc3c41",
+      "title_zh": "HRCI与SHRM（及AIHR）：如何于2026年",
+      "summary_zh": "HRCI与SHRM认证对比 · AIHR新兴趋势 · 职业发展策略",
       "relevance": 0.5
     },
     {
@@ -530,7 +500,7 @@
       "category": "学习发展与技能转型",
       "id": "96ddf1c80c58",
       "title_zh": "领导力发展缺失的测试",
-      "summary_zh": "缺失评估 · 影响分析 · 改进方向",
+      "summary_zh": "缺失评估 · 影响分析 · 改进建议",
       "relevance": 0.5
     },
     {
@@ -575,7 +545,7 @@
       "category": "政策与劳动合规",
       "id": "5b1f046683e6",
       "title_zh": "利特尔与波兰领先劳动法所合作",
-      "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
+      "summary_zh": "加强法律合作 · 提升服务能力 · 拓展欧洲市场",
       "relevance": 0.4
     },
     {
@@ -594,19 +564,19 @@
       "relevance": 0.33
     },
     {
-      "title": "Lessons from the UK Employment Appeal Tribunal on the Responsible Use of Generative AI",
-      "url": "https://www.littler.com/news-analysis/asap/lessons-uk-employment-appeal-tribunal-responsible-use-generative-ai",
-      "published_at": "2026-11-11T14:32:01+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
+      "title": "AIHOT 日报 · 2026-11-19 — Google DeepMind 发布 Gemini 4 Neon",
+      "url": "https://aihot.news/daily/2026-11-19",
+      "published_at": "2026-11-19T00:00:20+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
       "source_region": "全球",
-      "source_level": "行业媒体",
+      "source_level": "AI垂直源",
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
-      "id": "4b491ca5c32a",
-      "title_zh": "英国就业上诉法庭关于生成式AI责任使用的启示",
-      "summary_zh": "生成式AI需负责任使用 · 避免歧视 · 保护隐私",
-      "relevance": 0.24
+      "id": "4cf598feef25",
+      "title_zh": "AIHOT 日报 · 2026-11-19 — G",
+      "summary_zh": "发布新模型 · 性能提升 · 应用扩展",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-11-18 — OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
@@ -621,6 +591,36 @@
       "id": "30c912a448ca",
       "title_zh": "AIHOT 日报 · 2026-11-18 — O",
       "summary_zh": "GPT-6.2 Astra 发布 · GPT-6.2 Sol 发布 · OpenAI 推出新模型",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-11-17 — Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+      "url": "https://aihot.news/daily/2026-11-17",
+      "published_at": "2026-11-17T00:00:33+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "ad4f2ed185f0",
+      "title_zh": "AIHOT 日报 · 2026-11-17 — Q",
+      "summary_zh": "2.4T参数骨干 · 百万token上下文 · 长程智能体能力",
+      "relevance": 0.2
+    },
+    {
+      "title": "AIHOT 日报 · 2026-11-16 — 今日安静，无大事发生",
+      "url": "https://aihot.news/daily/2026-11-16",
+      "published_at": "2026-11-16T00:00:43+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "d3596dfdc8b1",
+      "title_zh": "AIHOT 日报 · 2026-11-16 — 今",
+      "summary_zh": "无重大事件 · 平静日 · 无更新",
       "relevance": 0.2
     }
   ]
