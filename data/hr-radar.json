@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:47:04.662306+08:00",
+  "generated_at": "2026-11-21T14:39:13.361528+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -45,7 +45,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-15T00:00:00+00:00",
+        "published_at": "2026-11-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -113,8 +113,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "a010a0b671b7",
-        "title_zh": "加州OSHA展望：近期发展与雇主须知",
-        "summary_zh": "近期法规更新 · 加强合规要求 · 影响用工管理",
+        "title_zh": "加州OSHA展望：近期发展及雇主须知",
+        "summary_zh": "近期发展 · 雇主须知 · 法律更新",
         "relevance": 0.4
       },
       {
@@ -146,21 +146,6 @@
         "title_zh": "利特尔与波兰领先劳动法所合作",
         "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
         "relevance": 0.4
-      },
-      {
-        "title": "DOL flips independent contractor switch back with new final rule",
-        "url": "https://www.hrdive.com/news/dol-flips-independent-contractor-switch-back-with-new-final-rule/875183/",
-        "published_at": "2026-11-19T15:57:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "f7546d5279a0",
-        "title_zh": "美国劳工部通过新最终规则重新启用独立承包商标准",
-        "summary_zh": "重新定义独立承包商标准 · 加州等州适用 · 影响企业用工成本",
-        "relevance": 0.33
       }
     ],
     "AI 招聘与招聘工具": [],
@@ -168,7 +153,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-15T00:00:00+00:00",
+        "published_at": "2026-11-16T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -179,24 +164,39 @@
         "title_zh": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "summary_zh": "",
         "id": "3c2c2dfc96b7"
-      },
-      {
-        "title": "Leaders need to confront organisational reality. Here’s how",
-        "url": "https://hrzone.com/leaders-need-to-confront-organisational-reality-heres-how/",
-        "published_at": "2026-11-19T08:00:00+00:00",
-        "source_id": "hrzone",
-        "source_name": "HRZone",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "组织与人才管理",
-        "id": "eaae0b8384e6",
-        "title_zh": "领导者需直面组织现实。这是方法",
-        "summary_zh": "直面现实 · 提供方法 · 改善状况",
-        "relevance": 0.33
       }
     ],
     "学习发展与技能转型": [
+      {
+        "title": "Executives get more AI training than other workers, hurting adoption, report finds",
+        "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+        "published_at": "2026-11-20T21:07:00+00:00",
+        "source_id": "hr_dive",
+        "source_name": "HR Dive",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "84f1344bdcb0",
+        "title_zh": "高管AI培训多致采纳难，报告揭示",
+        "summary_zh": "高管培训多 · 采纳受挫 · 报告揭示",
+        "relevance": 0.8
+      },
+      {
+        "title": "Best Organizational Development Training & Certifications: 18 Programs",
+        "url": "https://www.aihr.com/blog/organizational-development-training/",
+        "published_at": "2026-11-20T14:46:03+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "13f840dbed9b",
+        "title_zh": "最佳组织发展培训与认证：18个项目",
+        "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
+        "relevance": 0.8
+      },
       {
         "title": "What Is HRBP Training? A Guide for HR Professionals",
         "url": "https://www.aihr.com/blog/what-is-hrbp-training/",
@@ -209,8 +209,23 @@
         "category": "学习发展与技能转型",
         "id": "f20f21ed5946",
         "title_zh": "人力资源业务伙伴培训是什么？人力资源专业人士指南",
-        "summary_zh": "提升HRBP能力 · 适应业务需求 · 掌握核心技能",
+        "summary_zh": "提升HRBP能力 · 专注业务需求 · 掌握核心技能",
         "relevance": 0.77
+      },
+      {
+        "title": "Using the 6-layer ROI playbook to prove training’s impact",
+        "url": "https://www.chieflearningofficer.com/2026/11/20/using-the-6-layer-roi-playbook-to-prove-trainings-impact/",
+        "published_at": "2026-11-20T20:55:33+00:00",
+        "source_id": "clo",
+        "source_name": "Chief Learning Officer",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": true,
+        "category": "学习发展与技能转型",
+        "id": "303b665099ce",
+        "title_zh": "运用六层ROI手册证明培训的影响力",
+        "summary_zh": "提升投资回报 · 量化培训效果 · 优化资源分配",
+        "relevance": 0.73
       },
       {
         "title": "The missing test of leadership development",
@@ -224,7 +239,7 @@
         "category": "学习发展与技能转型",
         "id": "96ddf1c80c58",
         "title_zh": "领导力发展缺失的测试",
-        "summary_zh": "缺失关键测试 · 影响发展 · 需要改进",
+        "summary_zh": "缺失评估 · 影响发展 · 需改进",
         "relevance": 0.5
       }
     ],
@@ -242,8 +257,23 @@
         "category": "案例、报告与趋势",
         "id": "531a509acf8d",
         "title_zh": "求职者使用AI隐藏其真实能力，报告显示",
-        "summary_zh": "使用AI隐藏能力 · 降低求职者竞争力 · 影响雇主评估",
+        "summary_zh": "使用AI隐藏能力 · 降低招聘准确性 · 影响雇主决策",
         "relevance": 0.73
+      },
+      {
+        "title": "EU Pay Transparency Directive: Spain is Days away from Crossing the Implementation Finish Line",
+        "url": "https://www.littler.com/news-analysis/asap/eu-pay-transparency-directive-spain-days-away-crossing-implementation-finish",
+        "published_at": "2026-11-20T20:36:52+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "fa4c5f6d2d76",
+        "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
+        "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
+        "relevance": 0.6
       },
       {
         "title": "Quelles normes du travail s’appliquent au télétravail transfrontalier?",
@@ -271,24 +301,9 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "b8b9f0a8e7f5",
-        "title_zh": "欧洲企业在AI应用中应对监管不确定性",
+        "title_zh": "欧洲企业在AI应用中面临监管不确定性",
         "summary_zh": "监管不明 · AI普及 · 企业应对",
         "relevance": 0.6
-      },
-      {
-        "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
-        "url": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
-        "published_at": "2026-11-18T16:00:00+00:00",
-        "source_id": "hr_dive",
-        "source_name": "HR Dive",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "6a50840d60e7",
-        "title_zh": "人工智能、成本上升位列2027人才关注榜首，根据G",
-        "summary_zh": "人工智能成焦点 · 成本上升受关注 · Gartner发布调查",
-        "relevance": 0.5
       },
       {
         "title": "Free vs Paid HR Certification Courses and Programs: Which Option Is Right for You?",
@@ -304,25 +319,40 @@
         "title_zh": "免费与付费HR认证课程及项目：哪种选择适合你？",
         "summary_zh": "提升技能 · 节省成本 · 考虑需求",
         "relevance": 0.5
-      },
-      {
-        "title": "HRCI vs SHRM (vs AIHR): How To Advance Your HR Career in 2026",
-        "url": "https://www.aihr.com/blog/hrci-vs-shrm/",
-        "published_at": "2026-11-18T13:57:19+00:00",
-        "source_id": "aihr",
-        "source_name": "AIHR",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "838754cc3c41",
-        "title_zh": "HRCI与SHRM（及AIHR）：如何在2026年",
-        "summary_zh": "HRCI与SHRM认证对比 · AIHR提供AI培训 · 2026年职业发展关键",
-        "relevance": 0.5
       }
     ]
   },
   "all_items": [
+    {
+      "title": "Executives get more AI training than other workers, hurting adoption, report finds",
+      "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
+      "published_at": "2026-11-20T21:07:00+00:00",
+      "source_id": "hr_dive",
+      "source_name": "HR Dive",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "84f1344bdcb0",
+      "title_zh": "高管AI培训多致采纳难，报告揭示",
+      "summary_zh": "高管培训多 · 采纳受挫 · 报告揭示",
+      "relevance": 0.8
+    },
+    {
+      "title": "Best Organizational Development Training & Certifications: 18 Programs",
+      "url": "https://www.aihr.com/blog/organizational-development-training/",
+      "published_at": "2026-11-20T14:46:03+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "13f840dbed9b",
+      "title_zh": "最佳组织发展培训与认证：18个项目",
+      "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
+      "relevance": 0.8
+    },
     {
       "title": "What Is HRBP Training? A Guide for HR Professionals",
       "url": "https://www.aihr.com/blog/what-is-hrbp-training/",
@@ -335,7 +365,7 @@
       "category": "学习发展与技能转型",
       "id": "f20f21ed5946",
       "title_zh": "人力资源业务伙伴培训是什么？人力资源专业人士指南",
-      "summary_zh": "提升HRBP能力 · 适应业务需求 · 掌握核心技能",
+      "summary_zh": "提升HRBP能力 · 专注业务需求 · 掌握核心技能",
       "relevance": 0.77
     },
     {
@@ -371,7 +401,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-15T00:00:00+00:00",
+      "published_at": "2026-11-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -386,7 +416,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-15T00:00:00+00:00",
+      "published_at": "2026-11-16T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -410,7 +440,7 @@
       "category": "案例、报告与趋势",
       "id": "531a509acf8d",
       "title_zh": "求职者使用AI隐藏其真实能力，报告显示",
-      "summary_zh": "使用AI隐藏能力 · 降低求职者竞争力 · 影响雇主评估",
+      "summary_zh": "使用AI隐藏能力 · 降低招聘准确性 · 影响雇主决策",
       "relevance": 0.73
     },
     {
@@ -444,6 +474,36 @@
       "relevance": 0.73
     },
     {
+      "title": "Using the 6-layer ROI playbook to prove training’s impact",
+      "url": "https://www.chieflearningofficer.com/2026/11/20/using-the-6-layer-roi-playbook-to-prove-trainings-impact/",
+      "published_at": "2026-11-20T20:55:33+00:00",
+      "source_id": "clo",
+      "source_name": "Chief Learning Officer",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": true,
+      "category": "学习发展与技能转型",
+      "id": "303b665099ce",
+      "title_zh": "运用六层ROI手册证明培训的影响力",
+      "summary_zh": "提升投资回报 · 量化培训效果 · 优化资源分配",
+      "relevance": 0.73
+    },
+    {
+      "title": "EU Pay Transparency Directive: Spain is Days away from Crossing the Implementation Finish Line",
+      "url": "https://www.littler.com/news-analysis/asap/eu-pay-transparency-directive-spain-days-away-crossing-implementation-finish",
+      "published_at": "2026-11-20T20:36:52+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "fa4c5f6d2d76",
+      "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
+      "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
+      "relevance": 0.6
+    },
+    {
       "title": "Quelles normes du travail s’appliquent au télétravail transfrontalier?",
       "url": "https://www.littler.com/news-analysis/asap/quelles-normes-du-travail-sappliquent-au-teletravail-transfrontalier",
       "published_at": "2026-11-19T18:30:07+00:00",
@@ -469,7 +529,7 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "b8b9f0a8e7f5",
-      "title_zh": "欧洲企业在AI应用中应对监管不确定性",
+      "title_zh": "欧洲企业在AI应用中面临监管不确定性",
       "summary_zh": "监管不明 · AI普及 · 企业应对",
       "relevance": 0.6
     },
@@ -489,21 +549,6 @@
       "relevance": 0.6
     },
     {
-      "title": "AI, rising costs top list of 2027 talent concerns, per Gartner",
-      "url": "https://www.hrdive.com/news/ai-transformation-workplace-talent-strategy-2027/874988/",
-      "published_at": "2026-11-18T16:00:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "6a50840d60e7",
-      "title_zh": "人工智能、成本上升位列2027人才关注榜首，根据G",
-      "summary_zh": "人工智能成焦点 · 成本上升受关注 · Gartner发布调查",
-      "relevance": 0.5
-    },
-    {
       "title": "Free vs Paid HR Certification Courses and Programs: Which Option Is Right for You?",
       "url": "https://www.aihr.com/blog/free-vs-paid-hr-certification-courses/",
       "published_at": "2026-11-18T14:01:09+00:00",
@@ -519,21 +564,6 @@
       "relevance": 0.5
     },
     {
-      "title": "HRCI vs SHRM (vs AIHR): How To Advance Your HR Career in 2026",
-      "url": "https://www.aihr.com/blog/hrci-vs-shrm/",
-      "published_at": "2026-11-18T13:57:19+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "838754cc3c41",
-      "title_zh": "HRCI与SHRM（及AIHR）：如何在2026年",
-      "summary_zh": "HRCI与SHRM认证对比 · AIHR提供AI培训 · 2026年职业发展关键",
-      "relevance": 0.5
-    },
-    {
       "title": "The missing test of leadership development",
       "url": "https://www.chieflearningofficer.com/2026/11/16/the-missing-test-of-leadership-development/",
       "published_at": "2026-11-16T07:00:00+00:00",
@@ -545,7 +575,7 @@
       "category": "学习发展与技能转型",
       "id": "96ddf1c80c58",
       "title_zh": "领导力发展缺失的测试",
-      "summary_zh": "缺失关键测试 · 影响发展 · 需要改进",
+      "summary_zh": "缺失评估 · 影响发展 · 需改进",
       "relevance": 0.5
     },
     {
@@ -559,8 +589,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "a010a0b671b7",
-      "title_zh": "加州OSHA展望：近期发展与雇主须知",
-      "summary_zh": "近期法规更新 · 加强合规要求 · 影响用工管理",
+      "title_zh": "加州OSHA展望：近期发展及雇主须知",
+      "summary_zh": "近期发展 · 雇主须知 · 法律更新",
       "relevance": 0.4
     },
     {
@@ -592,36 +622,6 @@
       "title_zh": "利特尔与波兰领先劳动法所合作",
       "summary_zh": "加强合作 · 聚焦波兰 · 提供法律支持",
       "relevance": 0.4
-    },
-    {
-      "title": "DOL flips independent contractor switch back with new final rule",
-      "url": "https://www.hrdive.com/news/dol-flips-independent-contractor-switch-back-with-new-final-rule/875183/",
-      "published_at": "2026-11-19T15:57:00+00:00",
-      "source_id": "hr_dive",
-      "source_name": "HR Dive",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "f7546d5279a0",
-      "title_zh": "美国劳工部通过新最终规则重新启用独立承包商标准",
-      "summary_zh": "重新定义独立承包商标准 · 加州等州适用 · 影响企业用工成本",
-      "relevance": 0.33
-    },
-    {
-      "title": "Leaders need to confront organisational reality. Here’s how",
-      "url": "https://hrzone.com/leaders-need-to-confront-organisational-reality-heres-how/",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "source_id": "hrzone",
-      "source_name": "HRZone",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "组织与人才管理",
-      "id": "eaae0b8384e6",
-      "title_zh": "领导者需直面组织现实。这是方法",
-      "summary_zh": "直面现实 · 提供方法 · 改善状况",
-      "relevance": 0.33
     }
   ]
 }
