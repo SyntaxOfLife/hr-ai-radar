@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:39:13.361528+08:00",
+  "generated_at": "2026-11-22T14:07:20.570387+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -45,7 +45,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-16T00:00:00+00:00",
+        "published_at": "2026-11-17T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -88,21 +88,6 @@
         "relevance": 0.73
       },
       {
-        "title": "DOL Releases Final Rule Regarding Independent Contractor Status",
-        "url": "https://www.littler.com/news-analysis/asap/dol-releases-final-rule-regarding-independent-contractor-status",
-        "published_at": "2026-11-19T15:14:58+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "24a3284f2f10",
-        "title_zh": "人社部发布独立承包商身份最终规则",
-        "summary_zh": "独立承包商身份明确 · 规则正式生效 · 影响用工成本",
-        "relevance": 0.6
-      },
-      {
         "title": "California OSHA Outlook: Recent Developments and What Employers Need to Know",
         "url": "https://www.littler.com/events/california-osha-outlook-recent-developments-and-what-employers-need-know",
         "published_at": "2026-11-19T16:55:15+00:00",
@@ -113,8 +98,23 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "a010a0b671b7",
-        "title_zh": "加州OSHA展望：近期发展及雇主须知",
-        "summary_zh": "近期发展 · 雇主须知 · 法律更新",
+        "title_zh": "加州OSHA展望：近期发展与雇主须知",
+        "summary_zh": "近期法规更新 · 加强合规要求 · 影响企业运营",
+        "relevance": 0.4
+      },
+      {
+        "title": "DOL Releases Final Rule Regarding Independent Contractor Status",
+        "url": "https://www.littler.com/news-analysis/asap/dol-releases-final-rule-regarding-independent-contractor-status",
+        "published_at": "2026-11-19T15:14:58+00:00",
+        "source_id": "littler",
+        "source_name": "Littler",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "政策与劳动合规",
+        "id": "24a3284f2f10",
+        "title_zh": "美国劳工部发布关于独立承包商身份的最终规则",
+        "summary_zh": "独立承包商定义明确 · 影响企业用工成本 · 需重新评估合同关系",
         "relevance": 0.4
       },
       {
@@ -153,7 +153,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-16T00:00:00+00:00",
+        "published_at": "2026-11-17T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -178,8 +178,8 @@
         "is_ai_hr": true,
         "category": "学习发展与技能转型",
         "id": "84f1344bdcb0",
-        "title_zh": "高管AI培训多致采纳难，报告揭示",
-        "summary_zh": "高管培训多 · 采纳受挫 · 报告揭示",
+        "title_zh": "高管AI培训多致采纳率低 报告揭示",
+        "summary_zh": "高管培训多 · 采纳率低 · 职场差距",
         "relevance": 0.8
       },
       {
@@ -194,7 +194,7 @@
         "category": "学习发展与技能转型",
         "id": "13f840dbed9b",
         "title_zh": "最佳组织发展培训与认证：18个项目",
-        "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
+        "summary_zh": "提升组织能力 · 专业认证 · 多样项目",
         "relevance": 0.8
       },
       {
@@ -239,7 +239,7 @@
         "category": "学习发展与技能转型",
         "id": "96ddf1c80c58",
         "title_zh": "领导力发展缺失的测试",
-        "summary_zh": "缺失评估 · 影响发展 · 需改进",
+        "summary_zh": "缺失关键测试 · 影响发展 · 需改进评估",
         "relevance": 0.5
       }
     ],
@@ -257,7 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "531a509acf8d",
         "title_zh": "求职者使用AI隐藏其真实能力，报告显示",
-        "summary_zh": "使用AI隐藏能力 · 降低招聘准确性 · 影响雇主决策",
+        "summary_zh": "使用AI隐藏能力 · 降低求职者竞争力 · 影响雇主评估",
         "relevance": 0.73
       },
       {
@@ -272,7 +272,7 @@
         "category": "案例、报告与趋势",
         "id": "fa4c5f6d2d76",
         "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
-        "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
+        "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新规",
         "relevance": 0.6
       },
       {
@@ -301,8 +301,8 @@
         "is_ai_hr": false,
         "category": "案例、报告与趋势",
         "id": "b8b9f0a8e7f5",
-        "title_zh": "欧洲企业在AI应用中面临监管不确定性",
-        "summary_zh": "监管不明 · AI普及 · 企业应对",
+        "title_zh": "欧洲企业在AI应用中应对监管不确定性",
+        "summary_zh": "监管不确定 · AI应用 · 企业应对",
         "relevance": 0.6
       },
       {
@@ -317,7 +317,7 @@
         "category": "案例、报告与趋势",
         "id": "1d5e83fb3594",
         "title_zh": "免费与付费HR认证课程及项目：哪种选择适合你？",
-        "summary_zh": "提升技能 · 节省成本 · 考虑需求",
+        "summary_zh": "提升专业技能 · 节省成本 · 考虑时间投入",
         "relevance": 0.5
       }
     ]
@@ -334,8 +334,8 @@
       "is_ai_hr": true,
       "category": "学习发展与技能转型",
       "id": "84f1344bdcb0",
-      "title_zh": "高管AI培训多致采纳难，报告揭示",
-      "summary_zh": "高管培训多 · 采纳受挫 · 报告揭示",
+      "title_zh": "高管AI培训多致采纳率低 报告揭示",
+      "summary_zh": "高管培训多 · 采纳率低 · 职场差距",
       "relevance": 0.8
     },
     {
@@ -350,7 +350,7 @@
       "category": "学习发展与技能转型",
       "id": "13f840dbed9b",
       "title_zh": "最佳组织发展培训与认证：18个项目",
-      "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
+      "summary_zh": "提升组织能力 · 专业认证 · 多样项目",
       "relevance": 0.8
     },
     {
@@ -401,7 +401,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-16T00:00:00+00:00",
+      "published_at": "2026-11-17T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -416,7 +416,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-16T00:00:00+00:00",
+      "published_at": "2026-11-17T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -440,7 +440,7 @@
       "category": "案例、报告与趋势",
       "id": "531a509acf8d",
       "title_zh": "求职者使用AI隐藏其真实能力，报告显示",
-      "summary_zh": "使用AI隐藏能力 · 降低招聘准确性 · 影响雇主决策",
+      "summary_zh": "使用AI隐藏能力 · 降低求职者竞争力 · 影响雇主评估",
       "relevance": 0.73
     },
     {
@@ -500,7 +500,7 @@
       "category": "案例、报告与趋势",
       "id": "fa4c5f6d2d76",
       "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
-      "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
+      "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新规",
       "relevance": 0.6
     },
     {
@@ -529,23 +529,8 @@
       "is_ai_hr": false,
       "category": "案例、报告与趋势",
       "id": "b8b9f0a8e7f5",
-      "title_zh": "欧洲企业在AI应用中面临监管不确定性",
-      "summary_zh": "监管不明 · AI普及 · 企业应对",
-      "relevance": 0.6
-    },
-    {
-      "title": "DOL Releases Final Rule Regarding Independent Contractor Status",
-      "url": "https://www.littler.com/news-analysis/asap/dol-releases-final-rule-regarding-independent-contractor-status",
-      "published_at": "2026-11-19T15:14:58+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "24a3284f2f10",
-      "title_zh": "人社部发布独立承包商身份最终规则",
-      "summary_zh": "独立承包商身份明确 · 规则正式生效 · 影响用工成本",
+      "title_zh": "欧洲企业在AI应用中应对监管不确定性",
+      "summary_zh": "监管不确定 · AI应用 · 企业应对",
       "relevance": 0.6
     },
     {
@@ -560,7 +545,7 @@
       "category": "案例、报告与趋势",
       "id": "1d5e83fb3594",
       "title_zh": "免费与付费HR认证课程及项目：哪种选择适合你？",
-      "summary_zh": "提升技能 · 节省成本 · 考虑需求",
+      "summary_zh": "提升专业技能 · 节省成本 · 考虑时间投入",
       "relevance": 0.5
     },
     {
@@ -575,7 +560,7 @@
       "category": "学习发展与技能转型",
       "id": "96ddf1c80c58",
       "title_zh": "领导力发展缺失的测试",
-      "summary_zh": "缺失评估 · 影响发展 · 需改进",
+      "summary_zh": "缺失关键测试 · 影响发展 · 需改进评估",
       "relevance": 0.5
     },
     {
@@ -589,8 +574,23 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "a010a0b671b7",
-      "title_zh": "加州OSHA展望：近期发展及雇主须知",
-      "summary_zh": "近期发展 · 雇主须知 · 法律更新",
+      "title_zh": "加州OSHA展望：近期发展与雇主须知",
+      "summary_zh": "近期法规更新 · 加强合规要求 · 影响企业运营",
+      "relevance": 0.4
+    },
+    {
+      "title": "DOL Releases Final Rule Regarding Independent Contractor Status",
+      "url": "https://www.littler.com/news-analysis/asap/dol-releases-final-rule-regarding-independent-contractor-status",
+      "published_at": "2026-11-19T15:14:58+00:00",
+      "source_id": "littler",
+      "source_name": "Littler",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "政策与劳动合规",
+      "id": "24a3284f2f10",
+      "title_zh": "美国劳工部发布关于独立承包商身份的最终规则",
+      "summary_zh": "独立承包商定义明确 · 影响企业用工成本 · 需重新评估合同关系",
       "relevance": 0.4
     },
     {
