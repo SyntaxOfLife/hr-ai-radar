@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:53:30.373459+08:00",
+  "generated_at": "2026-11-28T15:17:31.726913+08:00",
   "name": "HR × AI 资讯台",
   "total_count": 20,
   "categories": [
@@ -30,7 +30,7 @@
       {
         "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
         "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-        "published_at": "2026-11-22T00:00:00+00:00",
+        "published_at": "2026-11-23T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "劳动法库",
         "source_region": "中国",
@@ -53,23 +53,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "48af65b2fda6",
-        "title_zh": "实现薪酬公平是成长型企业的重要课题",
-        "summary_zh": "关注员工公平 · 提升竞争力 · 促进发展",
-        "relevance": 0.2
-      },
-      {
-        "title": "Washington State Regulations Implement Healthy Starts Act Amendment",
-        "url": "https://www.littler.com/news-analysis/asap/washington-state-regulations-implement-healthy-starts-act-amendment",
-        "published_at": "2026-11-20T15:34:39+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "政策与劳动合规",
-        "id": "4fb19b0f03fb",
-        "title_zh": "华盛顿州法规实施健康起点法案修正案",
-        "summary_zh": "健康起点法案修正案 · 法规实施 · 影响员工健康",
+        "title_zh": "实现薪酬公平是成长型公司面临的挑战",
+        "summary_zh": "薪酬公平至关重要 · 关注员工需求 · 制定合理政策",
         "relevance": 0.2
       },
       {
@@ -83,8 +68,8 @@
         "is_ai_hr": false,
         "category": "政策与劳动合规",
         "id": "93d7c0bac421",
-        "title_zh": "CSX公司因不诚实和未获批准的缺勤解雇员工，法院裁",
-        "summary_zh": "不诚实 · 未获批准缺勤 · 非FMLA原因",
+        "title_zh": "不诚实和无薪缺勤导致CSX解雇员工，法院裁决",
+        "summary_zh": "不诚实被解雇 · 无薪缺勤被解雇 · 法院裁决",
         "relevance": 0.17
       }
     ],
@@ -93,7 +78,7 @@
       {
         "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
         "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-        "published_at": "2026-11-22T00:00:00+00:00",
+        "published_at": "2026-11-23T00:00:00+00:00",
         "source_id": "manual",
         "source_name": "公众号精选",
         "source_region": "中国",
@@ -119,24 +104,39 @@
         "title_zh": "HYROX教会我的领导力与发展",
         "summary_zh": "提升团队协作 · 培养坚韧精神 · 强化目标导向",
         "relevance": 0.33
-      }
-    ],
-    "学习发展与技能转型": [
+      },
       {
-        "title": "Best Organizational Development Training & Certifications: 18 Programs",
-        "url": "https://www.aihr.com/blog/organizational-development-training/",
-        "published_at": "2026-11-20T14:46:03+00:00",
+        "title": "Is an HRBP Certification Worth It? What To Consider Before You Decide",
+        "url": "https://www.aihr.com/blog/is-an-hrbp-certification-worth-it/",
+        "published_at": "2026-11-27T10:58:58+00:00",
         "source_id": "aihr",
         "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
-        "category": "学习发展与技能转型",
-        "id": "13f840dbed9b",
-        "title_zh": "最佳组织发展培训与认证：18个项目",
-        "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
-        "relevance": 0.8
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "2a8b0d1d4377",
+        "title_zh": "人力资源业务伙伴认证值得吗？做决定前需考虑的事",
+        "summary_zh": "提升专业能力 · 增强职场竞争力 · 考虑成本与投入",
+        "relevance": 0.17
       },
+      {
+        "title": "Wellbeing isn’t a programme problem. It’s an experience problem",
+        "url": "https://hrzone.com/wellbeing-isnt-a-programme-problem-its-an-experience-problem/",
+        "published_at": "2026-11-25T08:00:00+00:00",
+        "source_id": "hrzone",
+        "source_name": "HRZone",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "组织与人才管理",
+        "id": "4f77297b6c69",
+        "title_zh": "员工福祉不是项目问题，而是体验问题",
+        "summary_zh": "提升员工体验 · 关注身心健康 · 融入企业文化",
+        "relevance": 0.17
+      }
+    ],
+    "学习发展与技能转型": [
       {
         "title": "Court blocks DHS policy limiting international student training opportunities",
         "url": "https://www.hrdive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875568/",
@@ -168,38 +168,38 @@
         "relevance": 0.73
       },
       {
-        "title": "Using the 6-layer ROI playbook to prove training’s impact",
-        "url": "https://www.chieflearningofficer.com/2026/11/20/using-the-6-layer-roi-playbook-to-prove-trainings-impact/",
-        "published_at": "2026-11-20T20:55:33+00:00",
-        "source_id": "clo",
-        "source_name": "Chief Learning Officer",
+        "title": "11 Best Learning and Development Courses To Consider in 2026",
+        "url": "https://www.aihr.com/blog/best-learning-and-development-courses/",
+        "published_at": "2026-11-27T17:50:00+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
         "source_region": "全球",
         "source_level": "行业媒体",
-        "is_ai_hr": true,
+        "is_ai_hr": false,
         "category": "学习发展与技能转型",
-        "id": "303b665099ce",
-        "title_zh": "运用六层ROI手册证明培训的影响力",
-        "summary_zh": "提升投资回报 · 量化培训效果 · 优化资源分配",
-        "relevance": 0.73
+        "id": "897a18125f0c",
+        "title_zh": "2026年值得考虑的11个最佳学习与发展课程",
+        "summary_zh": "提升技能 · 职业发展 · 未来趋势",
+        "relevance": 0.17
+      },
+      {
+        "title": "How To Choose a Learning and Development Course in 2026",
+        "url": "https://www.aihr.com/blog/how-to-choose-learning-and-development-course/",
+        "published_at": "2026-11-26T08:06:48+00:00",
+        "source_id": "aihr",
+        "source_name": "AIHR",
+        "source_region": "全球",
+        "source_level": "行业媒体",
+        "is_ai_hr": false,
+        "category": "学习发展与技能转型",
+        "id": "d34aa6326652",
+        "title_zh": "如何选择2026年的学习与发展课程",
+        "summary_zh": "关注未来趋势 · 个性化定制 · 技能提升",
+        "relevance": 0.17
       }
     ],
     "HR 产品与数字化": [],
     "案例、报告与趋势": [
-      {
-        "title": "EU Pay Transparency Directive: Spain is Days away from Crossing the Implementation Finish Line",
-        "url": "https://www.littler.com/news-analysis/asap/eu-pay-transparency-directive-spain-days-away-crossing-implementation-finish",
-        "published_at": "2026-11-20T20:36:52+00:00",
-        "source_id": "littler",
-        "source_name": "Littler",
-        "source_region": "全球",
-        "source_level": "行业媒体",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "fa4c5f6d2d76",
-        "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
-        "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
-        "relevance": 0.6
-      },
       {
         "title": "Many companies use AI, but few pair it with culture changes, report says",
         "url": "https://www.hrdive.com/news/many-companies-use-ai-but-few-pair-it-with-culture-changes-report-says/875631/",
@@ -212,8 +212,23 @@
         "category": "案例、报告与趋势",
         "id": "ea211a18ba25",
         "title_zh": "许多公司使用AI，但很少与文化建设相结合，报告称",
-        "summary_zh": "使用AI · 文化变革 · AI结合不足",
+        "summary_zh": "使用AI · 文化变革 · 报告指出",
         "relevance": 0.5
+      },
+      {
+        "title": "AIHOT 日报 · 2026-11-28 — 实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "url": "https://aihot.news/daily/2026-11-28",
+        "published_at": "2026-11-28T00:00:08+00:00",
+        "source_id": "aihot",
+        "source_name": "AIHOT",
+        "source_region": "全球",
+        "source_level": "AI垂直源",
+        "is_ai_hr": false,
+        "category": "案例、报告与趋势",
+        "id": "9b11e737a944",
+        "title_zh": "AIHOT 日报 · 2026-11-28 — 实",
+        "summary_zh": "支付宝推出SkillPay平台 · 可挂载技能卖钱 · 提供详细教程",
+        "relevance": 0.2
       },
       {
         "title": "AIHOT 日报 · 2026-11-27 — FT 报道 Nvidia 暂停向东南亚四国发运服务器",
@@ -242,7 +257,7 @@
         "category": "案例、报告与趋势",
         "id": "917193893653",
         "title_zh": "AIHOT 日报 · 2026-11-26 — A",
-        "summary_zh": "验证方法复盘 · 迁移细节 · Rust优势",
+        "summary_zh": "验证方法回顾 · 迁移至 Rust · Python 对比分析",
         "relevance": 0.2
       },
       {
@@ -302,42 +317,12 @@
         "category": "案例、报告与趋势",
         "id": "a2cd237ecb96",
         "title_zh": "AIHOT 日报 · 2026-11-22 — A",
-        "summary_zh": "Anthropic与Claude证明黎曼猜想 · 斯坦福发布人类竞争草稿 · 两者时间接近",
-        "relevance": 0.2
-      },
-      {
-        "title": "AIHOT 日报 · 2026-11-21 — Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
-        "url": "https://aihot.news/daily/2026-11-21",
-        "published_at": "2026-11-21T00:00:19+00:00",
-        "source_id": "aihot",
-        "source_name": "AIHOT",
-        "source_region": "全球",
-        "source_level": "AI垂直源",
-        "is_ai_hr": false,
-        "category": "案例、报告与趋势",
-        "id": "5629ed46b261",
-        "title_zh": "AIHOT 日报 · 2026-11-21 — T",
-        "summary_zh": "开源权重模型 · 笔记本可运行 · Inkling 2 Mini发布",
+        "summary_zh": "Anthropic与Claude证明黎曼猜想 · 斯坦福发布人类竞争草稿 · 两者竞争激烈",
         "relevance": 0.2
       }
     ]
   },
   "all_items": [
-    {
-      "title": "Best Organizational Development Training & Certifications: 18 Programs",
-      "url": "https://www.aihr.com/blog/organizational-development-training/",
-      "published_at": "2026-11-20T14:46:03+00:00",
-      "source_id": "aihr",
-      "source_name": "AIHR",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "13f840dbed9b",
-      "title_zh": "最佳组织发展培训与认证：18个项目",
-      "summary_zh": "提升组织能力 · 增强专业认证 · 提供优质课程",
-      "relevance": 0.8
-    },
     {
       "title": "Collective action rights under FLSA are not waivable without an arbitration agreement, judge rules",
       "url": "https://www.hrdive.com/news/collective-action-rights-under-flsa-are-not-waivable-without-an-arbitration/875623/",
@@ -356,7 +341,7 @@
     {
       "title": "智能体驱动型组织：AI如何重写人力资源的底层逻辑？",
       "url": "https://mp.weixin.qq.com/s/55HbjYiMCtOPEl5ChnsulQ",
-      "published_at": "2026-11-22T00:00:00+00:00",
+      "published_at": "2026-11-23T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "公众号精选",
       "source_region": "中国",
@@ -371,7 +356,7 @@
     {
       "title": "离职后主张2年前的未休年休假工资，超过仲裁时效吗？二审改判！",
       "url": "https://mp.weixin.qq.com/s/jLWxsX5JMuE7FX4NVrcIVg",
-      "published_at": "2026-11-22T00:00:00+00:00",
+      "published_at": "2026-11-23T00:00:00+00:00",
       "source_id": "manual",
       "source_name": "劳动法库",
       "source_region": "中国",
@@ -414,36 +399,6 @@
       "relevance": 0.73
     },
     {
-      "title": "Using the 6-layer ROI playbook to prove training’s impact",
-      "url": "https://www.chieflearningofficer.com/2026/11/20/using-the-6-layer-roi-playbook-to-prove-trainings-impact/",
-      "published_at": "2026-11-20T20:55:33+00:00",
-      "source_id": "clo",
-      "source_name": "Chief Learning Officer",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": true,
-      "category": "学习发展与技能转型",
-      "id": "303b665099ce",
-      "title_zh": "运用六层ROI手册证明培训的影响力",
-      "summary_zh": "提升投资回报 · 量化培训效果 · 优化资源分配",
-      "relevance": 0.73
-    },
-    {
-      "title": "EU Pay Transparency Directive: Spain is Days away from Crossing the Implementation Finish Line",
-      "url": "https://www.littler.com/news-analysis/asap/eu-pay-transparency-directive-spain-days-away-crossing-implementation-finish",
-      "published_at": "2026-11-20T20:36:52+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "fa4c5f6d2d76",
-      "title_zh": "欧盟薪酬透明指令：西班牙即将完成实施",
-      "summary_zh": "西班牙临近完成实施 · 涉及薪酬透明度 · 欧盟新法规",
-      "relevance": 0.6
-    },
-    {
       "title": "Many companies use AI, but few pair it with culture changes, report says",
       "url": "https://www.hrdive.com/news/many-companies-use-ai-but-few-pair-it-with-culture-changes-report-says/875631/",
       "published_at": "2026-11-24T20:04:00+00:00",
@@ -455,7 +410,7 @@
       "category": "案例、报告与趋势",
       "id": "ea211a18ba25",
       "title_zh": "许多公司使用AI，但很少与文化建设相结合，报告称",
-      "summary_zh": "使用AI · 文化变革 · AI结合不足",
+      "summary_zh": "使用AI · 文化变革 · 报告指出",
       "relevance": 0.5
     },
     {
@@ -472,6 +427,21 @@
       "title_zh": "HYROX教会我的领导力与发展",
       "summary_zh": "提升团队协作 · 培养坚韧精神 · 强化目标导向",
       "relevance": 0.33
+    },
+    {
+      "title": "AIHOT 日报 · 2026-11-28 — 实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "url": "https://aihot.news/daily/2026-11-28",
+      "published_at": "2026-11-28T00:00:08+00:00",
+      "source_id": "aihot",
+      "source_name": "AIHOT",
+      "source_region": "全球",
+      "source_level": "AI垂直源",
+      "is_ai_hr": false,
+      "category": "案例、报告与趋势",
+      "id": "9b11e737a944",
+      "title_zh": "AIHOT 日报 · 2026-11-28 — 实",
+      "summary_zh": "支付宝推出SkillPay平台 · 可挂载技能卖钱 · 提供详细教程",
+      "relevance": 0.2
     },
     {
       "title": "AIHOT 日报 · 2026-11-27 — FT 报道 Nvidia 暂停向东南亚四国发运服务器",
@@ -500,7 +470,7 @@
       "category": "案例、报告与趋势",
       "id": "917193893653",
       "title_zh": "AIHOT 日报 · 2026-11-26 — A",
-      "summary_zh": "验证方法复盘 · 迁移细节 · Rust优势",
+      "summary_zh": "验证方法回顾 · 迁移至 Rust · Python 对比分析",
       "relevance": 0.2
     },
     {
@@ -560,22 +530,7 @@
       "category": "案例、报告与趋势",
       "id": "a2cd237ecb96",
       "title_zh": "AIHOT 日报 · 2026-11-22 — A",
-      "summary_zh": "Anthropic与Claude证明黎曼猜想 · 斯坦福发布人类竞争草稿 · 两者时间接近",
-      "relevance": 0.2
-    },
-    {
-      "title": "AIHOT 日报 · 2026-11-21 — Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
-      "url": "https://aihot.news/daily/2026-11-21",
-      "published_at": "2026-11-21T00:00:19+00:00",
-      "source_id": "aihot",
-      "source_name": "AIHOT",
-      "source_region": "全球",
-      "source_level": "AI垂直源",
-      "is_ai_hr": false,
-      "category": "案例、报告与趋势",
-      "id": "5629ed46b261",
-      "title_zh": "AIHOT 日报 · 2026-11-21 — T",
-      "summary_zh": "开源权重模型 · 笔记本可运行 · Inkling 2 Mini发布",
+      "summary_zh": "Anthropic与Claude证明黎曼猜想 · 斯坦福发布人类竞争草稿 · 两者竞争激烈",
       "relevance": 0.2
     },
     {
@@ -589,23 +544,8 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "48af65b2fda6",
-      "title_zh": "实现薪酬公平是成长型企业的重要课题",
-      "summary_zh": "关注员工公平 · 提升竞争力 · 促进发展",
-      "relevance": 0.2
-    },
-    {
-      "title": "Washington State Regulations Implement Healthy Starts Act Amendment",
-      "url": "https://www.littler.com/news-analysis/asap/washington-state-regulations-implement-healthy-starts-act-amendment",
-      "published_at": "2026-11-20T15:34:39+00:00",
-      "source_id": "littler",
-      "source_name": "Littler",
-      "source_region": "全球",
-      "source_level": "行业媒体",
-      "is_ai_hr": false,
-      "category": "政策与劳动合规",
-      "id": "4fb19b0f03fb",
-      "title_zh": "华盛顿州法规实施健康起点法案修正案",
-      "summary_zh": "健康起点法案修正案 · 法规实施 · 影响员工健康",
+      "title_zh": "实现薪酬公平是成长型公司面临的挑战",
+      "summary_zh": "薪酬公平至关重要 · 关注员工需求 · 制定合理政策",
       "relevance": 0.2
     },
     {
@@ -619,8 +559,68 @@
       "is_ai_hr": false,
       "category": "政策与劳动合规",
       "id": "93d7c0bac421",
-      "title_zh": "CSX公司因不诚实和未获批准的缺勤解雇员工，法院裁",
-      "summary_zh": "不诚实 · 未获批准缺勤 · 非FMLA原因",
+      "title_zh": "不诚实和无薪缺勤导致CSX解雇员工，法院裁决",
+      "summary_zh": "不诚实被解雇 · 无薪缺勤被解雇 · 法院裁决",
+      "relevance": 0.17
+    },
+    {
+      "title": "11 Best Learning and Development Courses To Consider in 2026",
+      "url": "https://www.aihr.com/blog/best-learning-and-development-courses/",
+      "published_at": "2026-11-27T17:50:00+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "897a18125f0c",
+      "title_zh": "2026年值得考虑的11个最佳学习与发展课程",
+      "summary_zh": "提升技能 · 职业发展 · 未来趋势",
+      "relevance": 0.17
+    },
+    {
+      "title": "Is an HRBP Certification Worth It? What To Consider Before You Decide",
+      "url": "https://www.aihr.com/blog/is-an-hrbp-certification-worth-it/",
+      "published_at": "2026-11-27T10:58:58+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "2a8b0d1d4377",
+      "title_zh": "人力资源业务伙伴认证值得吗？做决定前需考虑的事",
+      "summary_zh": "提升专业能力 · 增强职场竞争力 · 考虑成本与投入",
+      "relevance": 0.17
+    },
+    {
+      "title": "How To Choose a Learning and Development Course in 2026",
+      "url": "https://www.aihr.com/blog/how-to-choose-learning-and-development-course/",
+      "published_at": "2026-11-26T08:06:48+00:00",
+      "source_id": "aihr",
+      "source_name": "AIHR",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "学习发展与技能转型",
+      "id": "d34aa6326652",
+      "title_zh": "如何选择2026年的学习与发展课程",
+      "summary_zh": "关注未来趋势 · 个性化定制 · 技能提升",
+      "relevance": 0.17
+    },
+    {
+      "title": "Wellbeing isn’t a programme problem. It’s an experience problem",
+      "url": "https://hrzone.com/wellbeing-isnt-a-programme-problem-its-an-experience-problem/",
+      "published_at": "2026-11-25T08:00:00+00:00",
+      "source_id": "hrzone",
+      "source_name": "HRZone",
+      "source_region": "全球",
+      "source_level": "行业媒体",
+      "is_ai_hr": false,
+      "category": "组织与人才管理",
+      "id": "4f77297b6c69",
+      "title_zh": "员工福祉不是项目问题，而是体验问题",
+      "summary_zh": "提升员工体验 · 关注身心健康 · 融入企业文化",
       "relevance": 0.17
     }
   ]
